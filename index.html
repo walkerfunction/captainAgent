@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>captainAgent</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-deep: #05060a;
+            --bg: #0a0c14;
+            --surface: #0f1219;
+            --surface-hover: #141824;
+            --border: #1a1f2e;
+            --border-active: #2a3148;
+            --text: #e8eaf0;
+            --text-secondary: #8b92a8;
+            --text-muted: #5a6178;
+            --accent: #7c6af6;
+            --accent-dim: rgba(124, 106, 246, 0.12);
+            --accent-glow: rgba(124, 106, 246, 0.25);
+            --green: #34d399;
+            --green-dim: rgba(52, 211, 153, 0.12);
+            --amber: #fbbf24;
+            --amber-dim: rgba(251, 191, 36, 0.12);
+            --red: #f87171;
+            --cyan: #22d3ee;
+            --cyan-dim: rgba(34, 211, 238, 0.08);
+            --radius: 12px;
+            --radius-lg: 16px;
+            --radius-sm: 8px;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+            background: var(--bg-deep);
+            color: var(--text);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            min-height: 100vh;
+        }
+
+        /* Ambient background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(ellipse at 30% 20%, rgba(124, 106, 246, 0.04) 0%, transparent 50%),
+                        radial-gradient(ellipse at 70% 80%, rgba(34, 211, 238, 0.03) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .app { position: relative; z-index: 1; }
+
+        /* ─── NAV ─── */
+        nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(5, 6, 10, 0.85);
+            backdrop-filter: blur(20px) saturate(1.2);
+            border-bottom: 1px solid var(--border);
+            padding: 0 2rem;
+        }
+        .nav-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 56px;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-decoration: none;
+            color: var(--text);
+        }
+        .logo-icon {
+            width: 28px;
+            height: 28px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, var(--accent), var(--cyan));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 700;
+            color: #fff;
+        }
+        .logo-text {
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+        }
+        .logo-text span { color: var(--text-muted); font-weight: 400; }
+        .nav-meta {
+            font-size: 12px;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        .status-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--green);
+            display: inline-block;
+            margin-right: 6px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        /* ─── HERO ─── */
+        .hero {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 3rem 2rem 2rem;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            letter-spacing: -0.04em;
+            line-height: 1.1;
+            margin-bottom: 0.75rem;
+        }
+        .hero h1 .gradient {
+            background: linear-gradient(135deg, var(--accent) 0%, var(--cyan) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero p {
+            color: var(--text-secondary);
+            font-size: 1.05rem;
+            max-width: 560px;
+        }
+
+        /* ─── MATCH GRID ─── */
+        .section {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1rem 2rem 3rem;
+        }
+        .section-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1.25rem;
+        }
+        .section-title {
+            font-size: 13px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-muted);
+        }
+        .match-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+            gap: 16px;
+        }
+
+        /* ─── MATCH CARD ─── */
+        .match-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            padding: 1.5rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .match-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, var(--accent), var(--cyan));
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+        .match-card:hover {
+            border-color: var(--border-active);
+            background: var(--surface-hover);
+            transform: translateY(-2px);
+        }
+        .match-card:hover::before { opacity: 1; }
+
+        .match-format {
+            display: inline-block;
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            padding: 3px 8px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        .format-t20 { background: var(--accent-dim); color: var(--accent); }
+        .format-odi { background: var(--green-dim); color: var(--green); }
+        .format-test { background: var(--amber-dim); color: var(--amber); }
+
+        .match-teams {
+            font-size: 1.25rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin-bottom: 8px;
+        }
+        .match-teams .vs {
+            color: var(--text-muted);
+            font-weight: 400;
+            font-size: 0.85rem;
+            margin: 0 6px;
+        }
+
+        .match-meta {
+            display: flex;
+            gap: 16px;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+        }
+        .match-meta-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .match-insights-count {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            font-size: 11px;
+            color: var(--text-muted);
+            background: var(--bg);
+            padding: 2px 8px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+        }
+
+        /* ─── EMPTY STATE ─── */
+        .empty-state {
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+        .empty-icon {
+            width: 64px;
+            height: 64px;
+            border-radius: 16px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            margin: 0 auto 1.25rem;
+        }
+        .empty-state h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        .empty-state p { color: var(--text-muted); font-size: 0.9rem; }
+
+        /* ─── DETAIL VIEW (loaded dynamically) ─── */
+        .detail-overlay {
+            position: fixed;
+            inset: 0;
+            z-index: 200;
+            background: rgba(5, 6, 10, 0.7);
+            backdrop-filter: blur(8px);
+            display: none;
+            align-items: flex-start;
+            justify-content: center;
+            padding: 2rem;
+            overflow-y: auto;
+        }
+        .detail-overlay.active { display: flex; }
+
+        .detail-panel {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            max-width: 800px;
+            width: 100%;
+            margin-top: 2rem;
+            animation: slideUp 0.25s ease;
+        }
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .detail-header {
+            padding: 1.5rem 2rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+        .detail-header h2 {
+            font-size: 1.3rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+        }
+        .detail-close {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text-muted);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            transition: all 0.15s;
+        }
+        .detail-close:hover {
+            background: var(--surface-hover);
+            color: var(--text);
+        }
+
+        .detail-body { padding: 2rem; }
+
+        .narrative {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: var(--text-secondary);
+            margin-bottom: 2.5rem;
+        }
+        .narrative p { margin-bottom: 1rem; }
+        .narrative strong { color: var(--text); font-weight: 600; }
+
+        .insights-section h3 {
+            font-size: 13px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+
+        .insight-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin-bottom: 12px;
+            overflow: hidden;
+        }
+        .insight-header {
+            padding: 12px 16px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .insight-header:hover { background: var(--surface-hover); }
+        .insight-title {
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+        .insight-toggle {
+            color: var(--text-muted);
+            font-size: 12px;
+            transition: transform 0.2s;
+        }
+        .insight-card.open .insight-toggle { transform: rotate(180deg); }
+
+        .insight-body {
+            display: none;
+            padding: 0 16px 16px;
+        }
+        .insight-card.open .insight-body { display: block; }
+
+        .cypher-block {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            background: var(--bg-deep);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            padding: 10px 12px;
+            color: var(--text-muted);
+            overflow-x: auto;
+            margin-bottom: 12px;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+
+        .result-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85rem;
+        }
+        .result-table th {
+            text-align: left;
+            padding: 8px 12px;
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: var(--text-muted);
+            border-bottom: 1px solid var(--border);
+            background: var(--bg-deep);
+        }
+        .result-table td {
+            padding: 8px 12px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-secondary);
+        }
+        .result-table tr:last-child td { border-bottom: none; }
+        .result-table tr:hover td { background: var(--bg-deep); }
+
+        .no-data {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            font-style: italic;
+            padding: 8px 0;
+        }
+
+        /* ─── FOOTER ─── */
+        footer {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            border-top: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        footer a:hover { text-decoration: underline; }
+
+        /* ─── RESPONSIVE ─── */
+        @media (max-width: 640px) {
+            .hero h1 { font-size: 1.8rem; }
+            .match-grid { grid-template-columns: 1fr; }
+            .detail-panel { margin-top: 0; border-radius: 0; min-height: 100vh; }
+            .detail-overlay { padding: 0; }
+            nav { padding: 0 1rem; }
+            .hero, .section { padding-left: 1rem; padding-right: 1rem; }
+            footer { flex-direction: column; gap: 8px; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app">
+        <nav>
+            <div class="nav-inner">
+                <a href="/" class="logo">
+                    <div class="logo-icon">cA</div>
+                    <div class="logo-text">captainAgent <span>cricket</span></div>
+                </a>
+                <div class="nav-meta">
+                    <span><span class="status-dot"></span>Live</span>
+                    <span id="nav-date"></span>
+                </div>
+            </div>
+        </nav>
+
+        <div class="hero">
+            <h1>Today's <span class="gradient">Match Intel</span></h1>
+            <p>AI-powered pre-match analysis. Graph-backed insights on player matchups, form, and trends.</p>
+        </div>
+
+        <div class="section">
+            <div class="section-header">
+                <span class="section-title">Matches</span>
+            </div>
+            <div id="match-list" class="match-grid"></div>
+        </div>
+
+        <footer>
+            <span>captainAgent &middot; powered by <a href="https://github.com/walkerfunction/instgraph">instgraph</a></span>
+            <span id="footer-updated"></span>
+        </footer>
+    </div>
+
+    <!-- Detail overlay -->
+    <div class="detail-overlay" id="detail-overlay">
+        <div class="detail-panel">
+            <div class="detail-header">
+                <div>
+                    <h2 id="detail-title"></h2>
+                    <div class="match-meta" id="detail-meta" style="margin-top: 6px;"></div>
+                </div>
+                <button class="detail-close" onclick="closeDetail()">&times;</button>
+            </div>
+            <div class="detail-body" id="detail-body"></div>
+        </div>
+    </div>
+
+    <script>
+        // Data injected by instcric pipeline
+        const DATA = /*__INSTCRIC_DATA__*/ {"date": "", "analyses": []} /*__END__*/;
+
+        function init() {
+            const d = DATA.date || new Date().toISOString().slice(0, 10);
+            document.getElementById('nav-date').textContent = formatDate(d);
+            document.getElementById('footer-updated').textContent = `Updated ${formatDate(d)}`;
+
+            const list = document.getElementById('match-list');
+
+            if (!DATA.analyses || DATA.analyses.length === 0) {
+                list.innerHTML = `
+                    <div class="empty-state" style="grid-column: 1 / -1;">
+                        <div class="empty-icon">🏏</div>
+                        <h2>No matches today</h2>
+                        <p>Check back when India plays or during IPL season.</p>
+                    </div>`;
+                return;
+            }
+
+            DATA.analyses.forEach((a, i) => {
+                const m = a.match;
+                const teams = m.teams || [];
+                const fmt = (m.match_type || 'T20').toLowerCase();
+                const fmtClass = fmt.includes('test') ? 'format-test' : fmt.includes('odi') ? 'format-odi' : 'format-t20';
+                const insightCount = (a.insights || []).length;
+
+                const card = document.createElement('div');
+                card.className = 'match-card';
+                card.onclick = () => openDetail(i);
+                card.innerHTML = `
+                    <span class="match-format ${fmtClass}">${(m.match_type || 'T20').toUpperCase()}</span>
+                    ${insightCount ? `<span class="match-insights-count">${insightCount} insights</span>` : ''}
+                    <div class="match-teams">
+                        ${teams[0] || '?'}<span class="vs">vs</span>${teams[1] || '?'}
+                    </div>
+                    <div class="match-meta">
+                        <span class="match-meta-item">
+                            <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><path d="M8 4v4l3 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+                            ${m.date || 'Today'}
+                        </span>
+                        <span class="match-meta-item">
+                            <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><path d="M8 1C5 1 2 4 2 7.5C2 12 8 15 8 15s6-3 6-7.5C14 4 11 1 8 1z" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="7" r="2" stroke="currentColor" stroke-width="1.5"/></svg>
+                            ${m.venue || 'TBD'}
+                        </span>
+                    </div>`;
+                list.appendChild(card);
+            });
+        }
+
+        function openDetail(idx) {
+            const a = DATA.analyses[idx];
+            const m = a.match;
+
+            document.getElementById('detail-title').textContent = m.name || `${(m.teams||[])[0]} vs ${(m.teams||[])[1]}`;
+            document.getElementById('detail-meta').innerHTML = `
+                <span class="match-meta-item">${(m.match_type || '').toUpperCase()}</span>
+                <span class="match-meta-item">${m.venue || ''}</span>
+                <span class="match-meta-item">${m.date || ''}</span>`;
+
+            let html = '';
+
+            // Narrative
+            if (a.narrative) {
+                const paras = a.narrative.split('\n\n').filter(p => p.trim());
+                html += '<div class="narrative">';
+                paras.forEach(p => { html += `<p>${escapeHtml(p.trim())}</p>`; });
+                html += '</div>';
+            }
+
+            // Insights
+            if (a.insights && a.insights.length > 0) {
+                html += '<div class="insights-section"><h3>Data Insights</h3>';
+                a.insights.forEach((ins, j) => {
+                    const hasData = ins.result && ins.result.rows && ins.result.rows.length > 0;
+                    html += `<div class="insight-card${j === 0 ? ' open' : ''}" onclick="toggleInsight(this, event)">
+                        <div class="insight-header">
+                            <span class="insight-title">${escapeHtml(ins.description)}</span>
+                            <span class="insight-toggle">▼</span>
+                        </div>
+                        <div class="insight-body">
+                            <div class="cypher-block">${escapeHtml(ins.cypher)}</div>`;
+
+                    if (hasData) {
+                        const cols = ins.result.columns || Object.keys(ins.result.rows[0] || {});
+                        html += '<table class="result-table"><tr>';
+                        cols.forEach(c => { html += `<th>${escapeHtml(c)}</th>`; });
+                        html += '</tr>';
+                        ins.result.rows.forEach(row => {
+                            html += '<tr>';
+                            cols.forEach(c => { html += `<td>${escapeHtml(String(row[c] || ''))}</td>`; });
+                            html += '</tr>';
+                        });
+                        html += '</table>';
+                    } else {
+                        html += '<div class="no-data">No data returned</div>';
+                    }
+
+                    html += '</div></div>';
+                });
+                html += '</div>';
+            }
+
+            document.getElementById('detail-body').innerHTML = html;
+            document.getElementById('detail-overlay').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeDetail() {
+            document.getElementById('detail-overlay').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function toggleInsight(card, e) {
+            if (e.target.closest('.cypher-block') || e.target.closest('.result-table')) return;
+            card.classList.toggle('open');
+        }
+
+        document.getElementById('detail-overlay').addEventListener('click', (e) => {
+            if (e.target === document.getElementById('detail-overlay')) closeDetail();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeDetail();
+        });
+
+        function escapeHtml(s) {
+            const d = document.createElement('div');
+            d.textContent = s;
+            return d.innerHTML;
+        }
+
+        function formatDate(d) {
+            try {
+                return new Date(d + 'T00:00:00').toLocaleDateString('en-US', {
+                    weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
+                });
+            } catch { return d; }
+        }
+
+        init();
+    </script>
+</body>
+</html>
