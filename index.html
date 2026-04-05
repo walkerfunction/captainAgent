@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>captainAgent</title>
+    <title>captainAgent — Cricket Intelligence</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -20,639 +20,281 @@
             --text-muted: #5a6178;
             --accent: #7c6af6;
             --accent-dim: rgba(124, 106, 246, 0.12);
-            --accent-glow: rgba(124, 106, 246, 0.25);
             --green: #34d399;
             --green-dim: rgba(52, 211, 153, 0.12);
             --amber: #fbbf24;
             --amber-dim: rgba(251, 191, 36, 0.12);
-            --red: #f87171;
             --cyan: #22d3ee;
-            --cyan-dim: rgba(34, 211, 238, 0.08);
             --radius: 12px;
             --radius-lg: 16px;
             --radius-sm: 8px;
         }
-
         * { margin: 0; padding: 0; box-sizing: border-box; }
-
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
             background: var(--bg-deep);
             color: var(--text);
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
-            min-height: 100vh;
         }
-
-        /* Ambient background */
         body::before {
             content: '';
-            position: fixed;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(ellipse at 30% 20%, rgba(124, 106, 246, 0.04) 0%, transparent 50%),
-                        radial-gradient(ellipse at 70% 80%, rgba(34, 211, 238, 0.03) 0%, transparent 50%);
-            pointer-events: none;
-            z-index: 0;
+            position: fixed; top: -50%; left: -50%; width: 200%; height: 200%;
+            background: radial-gradient(ellipse at 30% 20%, rgba(124,106,246,0.04) 0%, transparent 50%),
+                        radial-gradient(ellipse at 70% 80%, rgba(34,211,238,0.03) 0%, transparent 50%);
+            pointer-events: none; z-index: 0;
         }
-
         .app { position: relative; z-index: 1; }
 
-        /* ─── NAV ─── */
         nav {
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            background: rgba(5, 6, 10, 0.85);
+            position: sticky; top: 0; z-index: 100;
+            background: rgba(5,6,10,0.85);
             backdrop-filter: blur(20px) saturate(1.2);
             border-bottom: 1px solid var(--border);
-            padding: 0 2rem;
+            padding: 0 1.5rem;
         }
         .nav-inner {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            height: 56px;
+            max-width: 1100px; margin: 0 auto;
+            display: flex; align-items: center; justify-content: space-between;
+            height: 52px;
         }
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            text-decoration: none;
-            color: var(--text);
-        }
+        .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--text); }
         .logo-icon {
-            width: 28px;
-            height: 28px;
-            border-radius: 8px;
+            width: 26px; height: 26px; border-radius: 7px;
             background: linear-gradient(135deg, var(--accent), var(--cyan));
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 14px;
-            font-weight: 700;
-            color: #fff;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 12px; font-weight: 700; color: #fff;
         }
-        .logo-text {
-            font-size: 15px;
-            font-weight: 700;
-            letter-spacing: -0.02em;
-        }
+        .logo-text { font-size: 14px; font-weight: 700; letter-spacing: -0.02em; }
         .logo-text span { color: var(--text-muted); font-weight: 400; }
-        .nav-meta {
-            font-size: 12px;
-            color: var(--text-muted);
-            display: flex;
-            align-items: center;
-            gap: 16px;
-        }
-        .status-dot {
-            width: 6px;
-            height: 6px;
-            border-radius: 50%;
-            background: var(--green);
-            display: inline-block;
-            margin-right: 6px;
-            animation: pulse 2s ease-in-out infinite;
-        }
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.4; }
-        }
+        .nav-links { display: flex; align-items: center; gap: 16px; font-size: 12px; }
+        .nav-links a { color: var(--text-muted); text-decoration: none; transition: color 0.15s; }
+        .nav-links a:hover { color: var(--accent); }
+        .nav-time { color: var(--text-muted); font-size: 11px; font-family: 'JetBrains Mono', monospace; }
 
-        /* ─── HERO ─── */
-        .hero {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 3rem 2rem 2rem;
-        }
-        .hero h1 {
-            font-size: 2.5rem;
-            font-weight: 800;
-            letter-spacing: -0.04em;
-            line-height: 1.1;
-            margin-bottom: 0.75rem;
-        }
-        .hero h1 .gradient {
-            background: linear-gradient(135deg, var(--accent) 0%, var(--cyan) 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-        .hero p {
-            color: var(--text-secondary);
-            font-size: 1.05rem;
-            max-width: 560px;
-        }
+        .container { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem; }
 
-        /* ─── MATCH GRID ─── */
-        .section {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 1rem 2rem 3rem;
+        .hero { padding: 2.5rem 0 1.5rem; }
+        .hero h1 { font-size: 2rem; font-weight: 800; letter-spacing: -0.04em; line-height: 1.1; margin-bottom: 0.5rem; }
+        .hero h1 .gr {
+            background: linear-gradient(135deg, var(--accent), var(--cyan));
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
         }
-        .section-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 1.25rem;
+        .hero p { color: var(--text-secondary); font-size: 0.95rem; max-width: 520px; }
+
+        .stats-bar {
+            display: flex; gap: 1px; background: var(--border);
+            border-radius: var(--radius); overflow: hidden; margin-bottom: 2rem;
         }
+        .stat { flex: 1; background: var(--surface); padding: 1rem 1.25rem; text-align: center; }
+        .stat-value { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; }
+        .stat-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-top: 2px; }
+
+        .section { margin-bottom: 2rem; }
         .section-title {
-            font-size: 13px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.08em;
-            color: var(--text-muted);
+            font-size: 12px; font-weight: 600; text-transform: uppercase;
+            letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: 0.75rem;
+            display: flex; align-items: center; gap: 8px;
         }
-        .match-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-            gap: 16px;
-        }
+        .section-title::after { content: ''; flex: 1; height: 1px; background: var(--border); }
 
-        /* ─── MATCH CARD ─── */
-        .match-card {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: var(--radius-lg);
-            padding: 1.5rem;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            position: relative;
-            overflow: hidden;
+        .match-list { display: flex; flex-direction: column; gap: 6px; }
+        .match-row {
+            display: grid; grid-template-columns: 80px 1fr auto;
+            align-items: center; gap: 12px;
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: var(--radius-sm); padding: 10px 14px;
+            transition: border-color 0.15s;
         }
-        .match-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 2px;
-            background: linear-gradient(90deg, var(--accent), var(--cyan));
-            opacity: 0;
-            transition: opacity 0.2s;
-        }
-        .match-card:hover {
-            border-color: var(--border-active);
-            background: var(--surface-hover);
-            transform: translateY(-2px);
-        }
-        .match-card:hover::before { opacity: 1; }
+        .match-row:hover { border-color: var(--border-active); }
+        .match-date { font-family: 'JetBrains Mono', monospace; font-size: 0.78rem; color: var(--text-muted); }
+        .match-result { font-size: 0.83rem; font-weight: 500; }
+        .match-venue { font-size: 0.73rem; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 200px; }
 
-        .match-format {
-            display: inline-block;
-            font-size: 10px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            padding: 3px 8px;
-            border-radius: 4px;
-            margin-bottom: 12px;
+        .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+        .board { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+        .board-header { padding: 10px 14px; font-size: 0.82rem; font-weight: 600; border-bottom: 1px solid var(--border); background: var(--bg); }
+        .board-row {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 7px 14px; border-bottom: 1px solid var(--border); font-size: 0.83rem;
         }
-        .format-t20 { background: var(--accent-dim); color: var(--accent); }
-        .format-odi { background: var(--green-dim); color: var(--green); }
-        .format-test { background: var(--amber-dim); color: var(--amber); }
+        .board-row:last-child { border-bottom: none; }
+        .board-row:hover { background: var(--surface-hover); }
+        .board-rank { color: var(--text-muted); font-family: 'JetBrains Mono', monospace; font-size: 0.73rem; width: 22px; }
+        .board-name { flex: 1; margin-left: 6px; }
+        .board-val { font-weight: 600; font-family: 'JetBrains Mono', monospace; font-size: 0.83rem; }
 
-        .match-teams {
-            font-size: 1.25rem;
-            font-weight: 700;
-            letter-spacing: -0.02em;
-            margin-bottom: 8px;
-        }
-        .match-teams .vs {
-            color: var(--text-muted);
-            font-weight: 400;
-            font-size: 0.85rem;
-            margin: 0 6px;
-        }
+        .matchup-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+        .matchup-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
+        .matchup-title { font-size: 0.83rem; font-weight: 600; margin-bottom: 8px; }
+        .matchup-title span { color: var(--accent); }
+        .matchup-item { display: flex; justify-content: space-between; font-size: 0.78rem; padding: 3px 0; color: var(--text-secondary); }
+        .matchup-item span:last-child { font-family: 'JetBrains Mono', monospace; color: var(--text-muted); }
 
-        .match-meta {
-            display: flex;
-            gap: 16px;
-            color: var(--text-muted);
-            font-size: 0.8rem;
+        .info-box {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: var(--radius-lg); padding: 1.25rem; margin-bottom: 2rem;
+            font-size: 0.83rem; color: var(--text-secondary); line-height: 1.7;
         }
-        .match-meta-item {
-            display: flex;
-            align-items: center;
-            gap: 5px;
-        }
+        .info-box strong { color: var(--text); }
+        .info-box a { color: var(--accent); text-decoration: none; }
+        .info-box a:hover { text-decoration: underline; }
 
-        .match-insights-count {
-            position: absolute;
-            top: 1.5rem;
-            right: 1.5rem;
-            font-size: 11px;
-            color: var(--text-muted);
-            background: var(--bg);
-            padding: 2px 8px;
-            border-radius: 10px;
-            border: 1px solid var(--border);
-        }
-
-        /* ─── EMPTY STATE ─── */
-        .empty-state {
-            text-align: center;
-            padding: 4rem 2rem;
-        }
-        .empty-icon {
-            width: 64px;
-            height: 64px;
-            border-radius: 16px;
-            background: var(--surface);
-            border: 1px solid var(--border);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 28px;
-            margin: 0 auto 1.25rem;
-        }
-        .empty-state h2 {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-        }
-        .empty-state p { color: var(--text-muted); font-size: 0.9rem; }
-
-        /* ─── DETAIL VIEW (loaded dynamically) ─── */
-        .detail-overlay {
-            position: fixed;
-            inset: 0;
-            z-index: 200;
-            background: rgba(5, 6, 10, 0.7);
-            backdrop-filter: blur(8px);
-            display: none;
-            align-items: flex-start;
-            justify-content: center;
-            padding: 2rem;
-            overflow-y: auto;
-        }
-        .detail-overlay.active { display: flex; }
-
-        .detail-panel {
-            background: var(--bg);
-            border: 1px solid var(--border);
-            border-radius: var(--radius-lg);
-            max-width: 800px;
-            width: 100%;
-            margin-top: 2rem;
-            animation: slideUp 0.25s ease;
-        }
-        @keyframes slideUp {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        .detail-header {
-            padding: 1.5rem 2rem;
-            border-bottom: 1px solid var(--border);
-            display: flex;
-            align-items: flex-start;
-            justify-content: space-between;
-        }
-        .detail-header h2 {
-            font-size: 1.3rem;
-            font-weight: 700;
-            letter-spacing: -0.02em;
-        }
-        .detail-close {
-            width: 32px;
-            height: 32px;
-            border-radius: 8px;
-            border: 1px solid var(--border);
-            background: var(--surface);
-            color: var(--text-muted);
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 16px;
-            transition: all 0.15s;
-        }
-        .detail-close:hover {
-            background: var(--surface-hover);
-            color: var(--text);
-        }
-
-        .detail-body { padding: 2rem; }
-
-        .narrative {
-            font-size: 1rem;
-            line-height: 1.8;
-            color: var(--text-secondary);
-            margin-bottom: 2.5rem;
-        }
-        .narrative p { margin-bottom: 1rem; }
-        .narrative strong { color: var(--text); font-weight: 600; }
-
-        .insights-section h3 {
-            font-size: 13px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.08em;
-            color: var(--text-muted);
-            margin-bottom: 1rem;
-        }
-
-        .insight-card {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            margin-bottom: 12px;
-            overflow: hidden;
-        }
-        .insight-header {
-            padding: 12px 16px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            cursor: pointer;
-            transition: background 0.15s;
-        }
-        .insight-header:hover { background: var(--surface-hover); }
-        .insight-title {
-            font-size: 0.9rem;
-            font-weight: 500;
-        }
-        .insight-toggle {
-            color: var(--text-muted);
-            font-size: 12px;
-            transition: transform 0.2s;
-        }
-        .insight-card.open .insight-toggle { transform: rotate(180deg); }
-
-        .insight-body {
-            display: none;
-            padding: 0 16px 16px;
-        }
-        .insight-card.open .insight-body { display: block; }
-
-        .cypher-block {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.75rem;
-            background: var(--bg-deep);
-            border: 1px solid var(--border);
-            border-radius: var(--radius-sm);
-            padding: 10px 12px;
-            color: var(--text-muted);
-            overflow-x: auto;
-            margin-bottom: 12px;
-            white-space: pre-wrap;
-            word-break: break-all;
-        }
-
-        .result-table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 0.85rem;
-        }
-        .result-table th {
-            text-align: left;
-            padding: 8px 12px;
-            font-weight: 600;
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-            color: var(--text-muted);
-            border-bottom: 1px solid var(--border);
-            background: var(--bg-deep);
-        }
-        .result-table td {
-            padding: 8px 12px;
-            border-bottom: 1px solid var(--border);
-            color: var(--text-secondary);
-        }
-        .result-table tr:last-child td { border-bottom: none; }
-        .result-table tr:hover td { background: var(--bg-deep); }
-
-        .no-data {
-            color: var(--text-muted);
-            font-size: 0.85rem;
-            font-style: italic;
-            padding: 8px 0;
-        }
-
-        /* ─── FOOTER ─── */
         footer {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
+            margin-top: 1.5rem; padding: 1.25rem 0;
             border-top: 1px solid var(--border);
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            font-size: 0.8rem;
-            color: var(--text-muted);
+            display: flex; align-items: center; justify-content: space-between;
+            font-size: 0.73rem; color: var(--text-muted); flex-wrap: wrap; gap: 8px;
         }
-        footer a {
-            color: var(--accent);
-            text-decoration: none;
-        }
+        footer a { color: var(--accent); text-decoration: none; }
         footer a:hover { text-decoration: underline; }
 
-        /* ─── RESPONSIVE ─── */
-        @media (max-width: 640px) {
-            .hero h1 { font-size: 1.8rem; }
-            .match-grid { grid-template-columns: 1fr; }
-            .detail-panel { margin-top: 0; border-radius: 0; min-height: 100vh; }
-            .detail-overlay { padding: 0; }
-            nav { padding: 0 1rem; }
-            .hero, .section { padding-left: 1rem; padding-right: 1rem; }
-            footer { flex-direction: column; gap: 8px; text-align: center; }
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 1.5rem; }
+            .stats-bar { flex-wrap: wrap; }
+            .stat { min-width: 48%; }
+            .grid-2, .matchup-grid { grid-template-columns: 1fr; }
+            .match-row { grid-template-columns: 70px 1fr; }
+            .match-venue { display: none; }
+            .nav-links { gap: 10px; }
+        }
+        @media (max-width: 480px) {
+            .container { padding: 0 0.75rem; }
+            nav { padding: 0 0.75rem; }
+            .hero h1 { font-size: 1.3rem; }
+            .hero p { font-size: 0.85rem; }
+            .stat { padding: 0.75rem 0.5rem; }
+            .stat-value { font-size: 1.1rem; }
+            .stat-label { font-size: 0.6rem; }
+            .board-row { padding: 6px 10px; font-size: 0.78rem; }
+            .match-row { padding: 8px 10px; }
+            footer { flex-direction: column; text-align: center; }
         }
     </style>
 </head>
 <body>
-    <div class="app">
-        <nav>
-            <div class="nav-inner">
-                <a href="/" class="logo">
-                    <div class="logo-icon">cA</div>
-                    <div class="logo-text">captainAgent <span>cricket</span></div>
-                </a>
-                <div class="nav-meta">
-                    <span><span class="status-dot"></span>Live</span>
-                    <span id="nav-date"></span>
-                </div>
+<div class="app">
+    <nav>
+        <div class="nav-inner">
+            <a href="/" class="logo">
+                <div class="logo-icon">cA</div>
+                <div class="logo-text">captainAgent <span>cricket</span></div>
+            </a>
+            <div class="nav-links">
+                <span class="nav-time" id="ist-time"></span>
+                <a href="https://github.com/walkerfunction/captainAgent/issues" target="_blank">Feedback</a>
+                <a href="https://github.com/walkerfunction/instgraph" target="_blank">instgraph</a>
             </div>
-        </nav>
+        </div>
+    </nav>
 
+    <div class="container">
         <div class="hero">
-            <h1>Today's <span class="gradient">Match Intel</span></h1>
-            <p>AI-powered pre-match analysis. Graph-backed insights on player matchups, form, and trends.</p>
+            <h1>IPL 2026 <span class="gr">Match Intel</span></h1>
+            <p>Graph-powered cricket insights. Real-time Cypher queries over 1,110 matches, 1,448 players, and 43,695 relationships.</p>
+        </div>
+
+        <div class="stats-bar">
+            <div class="stat"><div class="stat-value" style="color:var(--accent)">1,448</div><div class="stat-label">Players</div></div>
+            <div class="stat"><div class="stat-value" style="color:var(--green)">45</div><div class="stat-label">Teams</div></div>
+            <div class="stat"><div class="stat-value" style="color:var(--amber)">1,110</div><div class="stat-label">Matches</div></div>
+            <div class="stat"><div class="stat-value" style="color:var(--cyan)">43,695</div><div class="stat-label">Relationships</div></div>
         </div>
 
         <div class="section">
-            <div class="section-header">
-                <span class="section-title">Matches</span>
+            <div class="section-title">Recent IPL 2026</div>
+            <div class="match-list">
+                <div class="match-row"><div class="match-date">Apr 02</div><div class="match-result">Sunrisers Hyderabad won by 65 runs</div><div class="match-venue">Eden Gardens, Kolkata</div></div>
+                <div class="match-row"><div class="match-date">Apr 01</div><div class="match-result">Delhi Capitals won by 6 wickets</div><div class="match-venue">Ekana Stadium, Lucknow</div></div>
+                <div class="match-row"><div class="match-date">Mar 31</div><div class="match-result">Punjab Kings won by 3 wickets</div><div class="match-venue">New Chandigarh</div></div>
+                <div class="match-row"><div class="match-date">Mar 30</div><div class="match-result">Rajasthan Royals won by 8 wickets</div><div class="match-venue">Barsapara, Guwahati</div></div>
+                <div class="match-row"><div class="match-date">Mar 29</div><div class="match-result">Mumbai Indians won by 6 wickets</div><div class="match-venue">Wankhede, Mumbai</div></div>
+                <div class="match-row"><div class="match-date">Mar 28</div><div class="match-result">Royal Challengers Bengaluru won by 6 wkts</div><div class="match-venue">Chinnaswamy, Bengaluru</div></div>
             </div>
-            <div id="match-list" class="match-grid"></div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Leaderboards &mdash; Since 2020</div>
+            <div class="grid-2">
+                <div class="board">
+                    <div class="board-header">Top Wicket-Takers</div>
+                    <div class="board-row"><span class="board-rank">1</span><span class="board-name">JJ Bumrah</span><span class="board-val" style="color:var(--accent)">221</span></div>
+                    <div class="board-row"><span class="board-rank">2</span><span class="board-name">Mohammed Siraj</span><span class="board-val" style="color:var(--accent)">189</span></div>
+                    <div class="board-row"><span class="board-rank">3</span><span class="board-name">Kuldeep Yadav</span><span class="board-val" style="color:var(--accent)">178</span></div>
+                    <div class="board-row"><span class="board-rank">4</span><span class="board-name">Arshdeep Singh</span><span class="board-val" style="color:var(--accent)">169</span></div>
+                    <div class="board-row"><span class="board-rank">5</span><span class="board-name">RA Jadeja</span><span class="board-val" style="color:var(--accent)">167</span></div>
+                    <div class="board-row"><span class="board-rank">6</span><span class="board-name">Mohammed Shami</span><span class="board-val" style="color:var(--accent)">159</span></div>
+                    <div class="board-row"><span class="board-rank">7</span><span class="board-name">AR Patel</span><span class="board-val" style="color:var(--accent)">154</span></div>
+                    <div class="board-row"><span class="board-rank">8</span><span class="board-name">R Ashwin</span><span class="board-val" style="color:var(--accent)">149</span></div>
+                    <div class="board-row"><span class="board-rank">9</span><span class="board-name">DB Sharma</span><span class="board-val" style="color:var(--accent)">149</span></div>
+                    <div class="board-row"><span class="board-rank">10</span><span class="board-name">SN Thakur</span><span class="board-val" style="color:var(--accent)">138</span></div>
+                </div>
+                <div class="board">
+                    <div class="board-header">Most Dismissed Batters</div>
+                    <div class="board-row"><span class="board-rank">1</span><span class="board-name">RG Sharma</span><span class="board-val" style="color:var(--green)">138</span></div>
+                    <div class="board-row"><span class="board-rank">2</span><span class="board-name">V Kohli</span><span class="board-val" style="color:var(--green)">134</span></div>
+                    <div class="board-row"><span class="board-rank">3</span><span class="board-name">Shubman Gill</span><span class="board-val" style="color:var(--green)">134</span></div>
+                    <div class="board-row"><span class="board-rank">4</span><span class="board-name">SA Yadav</span><span class="board-val" style="color:var(--green)">121</span></div>
+                    <div class="board-row"><span class="board-rank">5</span><span class="board-name">KL Rahul</span><span class="board-val" style="color:var(--green)">117</span></div>
+                    <div class="board-row"><span class="board-rank">6</span><span class="board-name">SS Iyer</span><span class="board-val" style="color:var(--green)">106</span></div>
+                    <div class="board-row"><span class="board-rank">7</span><span class="board-name">RR Pant</span><span class="board-val" style="color:var(--green)">105</span></div>
+                    <div class="board-row"><span class="board-rank">8</span><span class="board-name">HH Pandya</span><span class="board-val" style="color:var(--green)">101</span></div>
+                    <div class="board-row"><span class="board-rank">9</span><span class="board-name">AR Patel</span><span class="board-val" style="color:var(--green)">101</span></div>
+                    <div class="board-row"><span class="board-rank">10</span><span class="board-name">Ishan Kishan</span><span class="board-val" style="color:var(--green)">97</span></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Key Matchups</div>
+            <div class="matchup-grid">
+                <div class="matchup-card">
+                    <div class="matchup-title"><span>Bumrah</span> &mdash; Top Victims</div>
+                    <div class="matchup-item"><span>DJ Hooda</span><span>1x</span></div>
+                    <div class="matchup-item"><span>KD Petersen</span><span>1x</span></div>
+                    <div class="matchup-item"><span>Saurav Chauhan</span><span>1x</span></div>
+                    <div class="matchup-item"><span>Washington Sundar</span><span>1x</span></div>
+                    <div class="matchup-item"><span>Q de Kock</span><span>1x</span></div>
+                    <div class="matchup-item"><span>V Kohli</span><span>1x</span></div>
+                </div>
+                <div class="matchup-card">
+                    <div class="matchup-title"><span>Kohli</span> &mdash; Dismissed By</div>
+                    <div class="matchup-item"><span>A Zampa</span><span>1x</span></div>
+                    <div class="matchup-item"><span>JR Hazlewood</span><span>1x</span></div>
+                    <div class="matchup-item"><span>TG Southee</span><span>1x</span></div>
+                    <div class="matchup-item"><span>TA Boult</span><span>1x</span></div>
+                    <div class="matchup-item"><span>IS Sodhi</span><span>1x</span></div>
+                    <div class="matchup-item"><span>KA Jamieson</span><span>1x</span></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-box">
+            <strong>How it works:</strong>
+            Cricket data from <a href="https://cricsheet.org" target="_blank">Cricsheet</a> is ingested via OTLP into
+            <a href="https://github.com/walkerfunction/instgraph" target="_blank">instgraph</a> &mdash; a Go in-memory property graph engine.
+            All stats are live Cypher queries over the graph. Data covers India internationals, IPL, ICC World Cup, Champions Trophy, Asia Cup, and Border-Gavaskar Trophy from Jan 2020 onwards.
+            <br><br>
+            Have a suggestion? <a href="https://github.com/walkerfunction/captainAgent/issues" target="_blank">Open an issue</a>.
         </div>
 
         <footer>
             <span>captainAgent &middot; powered by <a href="https://github.com/walkerfunction/instgraph">instgraph</a></span>
-            <span id="footer-updated"></span>
+            <span><a href="https://github.com/walkerfunction/captainAgent/issues">Report issue</a> &middot; <span id="update-date"></span></span>
         </footer>
     </div>
-
-    <!-- Detail overlay -->
-    <div class="detail-overlay" id="detail-overlay">
-        <div class="detail-panel">
-            <div class="detail-header">
-                <div>
-                    <h2 id="detail-title"></h2>
-                    <div class="match-meta" id="detail-meta" style="margin-top: 6px;"></div>
-                </div>
-                <button class="detail-close" onclick="closeDetail()">&times;</button>
-            </div>
-            <div class="detail-body" id="detail-body"></div>
-        </div>
-    </div>
-
-    <script>
-        // Data injected by instcric pipeline
-        const DATA = /*__INSTCRIC_DATA__*/ {"date": "", "analyses": []} /*__END__*/;
-
-        function init() {
-            const d = DATA.date || new Date().toISOString().slice(0, 10);
-            document.getElementById('nav-date').textContent = formatDate(d);
-            document.getElementById('footer-updated').textContent = `Updated ${formatDate(d)}`;
-
-            const list = document.getElementById('match-list');
-
-            if (!DATA.analyses || DATA.analyses.length === 0) {
-                list.innerHTML = `
-                    <div class="empty-state" style="grid-column: 1 / -1;">
-                        <div class="empty-icon">🏏</div>
-                        <h2>No matches today</h2>
-                        <p>Check back when India plays or during IPL season.</p>
-                    </div>`;
-                return;
-            }
-
-            DATA.analyses.forEach((a, i) => {
-                const m = a.match;
-                const teams = m.teams || [];
-                const fmt = (m.match_type || 'T20').toLowerCase();
-                const fmtClass = fmt.includes('test') ? 'format-test' : fmt.includes('odi') ? 'format-odi' : 'format-t20';
-                const insightCount = (a.insights || []).length;
-
-                const card = document.createElement('div');
-                card.className = 'match-card';
-                card.onclick = () => openDetail(i);
-                card.innerHTML = `
-                    <span class="match-format ${fmtClass}">${(m.match_type || 'T20').toUpperCase()}</span>
-                    ${insightCount ? `<span class="match-insights-count">${insightCount} insights</span>` : ''}
-                    <div class="match-teams">
-                        ${teams[0] || '?'}<span class="vs">vs</span>${teams[1] || '?'}
-                    </div>
-                    <div class="match-meta">
-                        <span class="match-meta-item">
-                            <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><path d="M8 4v4l3 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-                            ${m.date || 'Today'}
-                        </span>
-                        <span class="match-meta-item">
-                            <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><path d="M8 1C5 1 2 4 2 7.5C2 12 8 15 8 15s6-3 6-7.5C14 4 11 1 8 1z" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="7" r="2" stroke="currentColor" stroke-width="1.5"/></svg>
-                            ${m.venue || 'TBD'}
-                        </span>
-                    </div>`;
-                list.appendChild(card);
-            });
-        }
-
-        function openDetail(idx) {
-            const a = DATA.analyses[idx];
-            const m = a.match;
-
-            document.getElementById('detail-title').textContent = m.name || `${(m.teams||[])[0]} vs ${(m.teams||[])[1]}`;
-            document.getElementById('detail-meta').innerHTML = `
-                <span class="match-meta-item">${(m.match_type || '').toUpperCase()}</span>
-                <span class="match-meta-item">${m.venue || ''}</span>
-                <span class="match-meta-item">${m.date || ''}</span>`;
-
-            let html = '';
-
-            // Narrative
-            if (a.narrative) {
-                const paras = a.narrative.split('\n\n').filter(p => p.trim());
-                html += '<div class="narrative">';
-                paras.forEach(p => { html += `<p>${escapeHtml(p.trim())}</p>`; });
-                html += '</div>';
-            }
-
-            // Insights
-            if (a.insights && a.insights.length > 0) {
-                html += '<div class="insights-section"><h3>Data Insights</h3>';
-                a.insights.forEach((ins, j) => {
-                    const hasData = ins.result && ins.result.rows && ins.result.rows.length > 0;
-                    html += `<div class="insight-card${j === 0 ? ' open' : ''}" onclick="toggleInsight(this, event)">
-                        <div class="insight-header">
-                            <span class="insight-title">${escapeHtml(ins.description)}</span>
-                            <span class="insight-toggle">▼</span>
-                        </div>
-                        <div class="insight-body">
-                            <div class="cypher-block">${escapeHtml(ins.cypher)}</div>`;
-
-                    if (hasData) {
-                        const cols = ins.result.columns || Object.keys(ins.result.rows[0] || {});
-                        html += '<table class="result-table"><tr>';
-                        cols.forEach(c => { html += `<th>${escapeHtml(c)}</th>`; });
-                        html += '</tr>';
-                        ins.result.rows.forEach(row => {
-                            html += '<tr>';
-                            cols.forEach(c => { html += `<td>${escapeHtml(String(row[c] || ''))}</td>`; });
-                            html += '</tr>';
-                        });
-                        html += '</table>';
-                    } else {
-                        html += '<div class="no-data">No data returned</div>';
-                    }
-
-                    html += '</div></div>';
-                });
-                html += '</div>';
-            }
-
-            document.getElementById('detail-body').innerHTML = html;
-            document.getElementById('detail-overlay').classList.add('active');
-            document.body.style.overflow = 'hidden';
-        }
-
-        function closeDetail() {
-            document.getElementById('detail-overlay').classList.remove('active');
-            document.body.style.overflow = '';
-        }
-
-        function toggleInsight(card, e) {
-            if (e.target.closest('.cypher-block') || e.target.closest('.result-table')) return;
-            card.classList.toggle('open');
-        }
-
-        document.getElementById('detail-overlay').addEventListener('click', (e) => {
-            if (e.target === document.getElementById('detail-overlay')) closeDetail();
-        });
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') closeDetail();
-        });
-
-        function escapeHtml(s) {
-            const d = document.createElement('div');
-            d.textContent = s;
-            return d.innerHTML;
-        }
-
-        function formatDate(d) {
-            try {
-                return new Date(d + 'T00:00:00').toLocaleDateString('en-US', {
-                    weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
-                });
-            } catch { return d; }
-        }
-
-        init();
-    </script>
+</div>
+<script>
+function updateIST() {
+    const ist = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' }));
+    const h = ist.getHours().toString().padStart(2, '0');
+    const m = ist.getMinutes().toString().padStart(2, '0');
+    document.getElementById('ist-time').textContent = h + ':' + m + ' IST';
+}
+updateIST();
+setInterval(updateIST, 60000);
+const ist = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' }));
+document.getElementById('update-date').textContent = ist.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+</script>
 </body>
 </html>
