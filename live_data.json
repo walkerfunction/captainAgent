@@ -1,0 +1,20 @@
+{
+  "match": {
+    "name": "13th Match",
+    "teams": [
+      "Rajasthan Royals",
+      "Mumbai Indians"
+    ],
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "status": "live"
+  },
+  "live_score": "RR 150/3 (11 ov) \u2014 MI chose to field.",
+  "live_batting": "Yashasvi Jaiswal 77*(32), Shimron Hetmyer 6*(7)",
+  "live_bowling": "Deepak Chahar 0/22 (1), Jasprit Bumrah 0/32 (3), Trent Boult 0/22 (1)",
+  "live_moment": "MI chose to field.",
+  "gemma_observations": [
+    "Jaiswal is consistently rotating strike against a disciplined Bumrah.",
+    "Hetmyer is attempting to accelerate, but lacks consistent boundaries."
+  ],
+  "updated_at": "2026-04-07T10:50:59+05:30"
+}
