@@ -8,10 +8,10 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RR 150/3 (11 ov) & MI 10/1 (0.6 ov) \u2014 MI need 140 runs in 60 balls.",
+  "live_score": "RR 150/3 (11 ov) & MI 10/1 (1 ov) \u2014 MI need 141 runs in 60 balls.",
   "live_batting": "Rohit Sharma 2*(2)",
-  "live_bowling": "Jofra Archer 1/10 (0.6)",
-  "live_moment": "MI need 140 runs in 60 balls.",
+  "live_bowling": "Jofra Archer 1/10 (1)",
+  "live_moment": "MI need 141 runs in 60 balls.",
   "gemma_observations": [
     "Jaiswal is consistently rotating strike against a disciplined Bumrah.",
     "Hetmyer is attempting to accelerate, but lacks consistent boundaries.",
@@ -29,7 +29,9 @@
     "Rickelton is attempting to rotate the strike against Archer's tight start.",
     "Rickelton is attempting to rotate the strike against Archer's tight start.",
     "Rohit Sharma is cautiously defending, prioritizing stability over aggressive scoring.",
-    "Rohit Sharma is prioritizing dot balls to reset the scoring rate."
+    "Rohit Sharma is prioritizing dot balls to reset the scoring rate.",
+    "Rohit Sharma is prioritizing dot balls to stem RR's scoring rate.",
+    "Archer\u2019s length is consistently good, restricting MI\u2019s scoring options."
   ],
-  "updated_at": "2026-04-07T10:59:13+05:30"
+  "updated_at": "2026-04-07T11:00:24+05:30"
 }
