@@ -8,10 +8,10 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RR 150/3 (11 ov) & MI 41/4 (4.3 ov) \u2014 MI need 110 runs in 39 balls.",
-  "live_batting": "Tilak Varma 10*(8)",
+  "live_score": "RR 150/3 (11 ov) & MI 46/4 (4.5 ov) \u2014 MI need 105 runs in 37 balls.",
+  "live_batting": "Tilak Varma 14*(9), Naman Dhir 1*(1)",
   "live_bowling": "Jofra Archer 1/10 (1), Nandre Burger 1/12 (1), Sandeep Sharma 1/3 (1)",
-  "live_moment": "MI need 110 runs in 39 balls.",
+  "live_moment": "MI need 105 runs in 37 balls.",
   "gemma_observations": [
     "Varma is prioritizing quick singles to accelerate the scoring rate.",
     "Archer\u2019s length is consistently allowing boundaries, a change is needed.",
@@ -24,7 +24,10 @@
     "MI\u2019s aggressive intent is clearly absent, focusing on defense.",
     "Varma is prioritizing dot balls to stall the RR acceleration.",
     "Archer\u2019s short-pitched bowling isn\u2019t generating wickets or movement.",
-    "MI\u2019s collapse suggests a lack of intent and aggressive shot selection."
+    "MI\u2019s collapse suggests a lack of intent and aggressive shot selection.",
+    "Varma is attempting to accelerate through short balls and boundaries.",
+    "Archer\u2019s length is consistently good, restricting MI\u2019s scoring options.",
+    "MI\u2019s top-order collapse suggests a need for more aggressive intent."
   ],
-  "updated_at": "2026-04-07T11:22:19+05:30"
+  "updated_at": "2026-04-07T11:23:34+05:30"
 }
