@@ -8,15 +8,18 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RR 150/3 (11 ov) & MI 20/2 (1.4 ov) \u2014 MI need 131 runs in 56 balls.",
-  "live_batting": "Rohit Sharma 5*(3)",
-  "live_bowling": "Jofra Archer 1/10 (1), Nandre Burger 1/10 (0.4)",
-  "live_moment": "MI need 131 runs in 56 balls.",
+  "live_score": "RR 150/3 (11 ov) & MI 22/2 (1.5 ov) \u2014 MI need 129 runs in 55 balls.",
+  "live_batting": "Rohit Sharma 5*(3), Tilak Varma 2*(1)",
+  "live_bowling": "Jofra Archer 1/10 (1), Nandre Burger 1/12 (0.5)",
+  "live_moment": "MI need 129 runs in 55 balls.",
   "gemma_observations": [
     "Rohit Sharma is prioritizing rotation of strike against the new ball.",
     "MI are struggling to find boundaries and are overly defensive.",
     "Rohit Sharma is prioritizing rotation of field, attempting to keep the scoring rate down.",
-    "Archer's length is consistently inducing false length, a key tactic against MI's aggressive batsmen."
+    "Archer's length is consistently inducing false length, a key tactic against MI's aggressive batsmen.",
+    "Rohit Sharma is prioritizing dot balls to conserve wickets.",
+    "Archer's length is consistently offering minimal scoring opportunities.",
+    "MI's early wickets suggest a conservative approach is required."
   ],
-  "updated_at": "2026-04-07T11:05:10+05:30"
+  "updated_at": "2026-04-07T11:06:24+05:30"
 }
