@@ -8,10 +8,10 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RR 150/3 (11 ov) \u2014 MI chose to field.",
-  "live_batting": "Yashasvi Jaiswal 77*(32), Shimron Hetmyer 6*(7)",
-  "live_bowling": "Deepak Chahar 0/22 (1), Jasprit Bumrah 0/32 (3), Trent Boult 0/22 (1)",
-  "live_moment": "MI chose to field.",
+  "live_score": "RR 150/3 (11 ov) & MI 1/0 (0.1 ov) \u2014 MI need 150 runs in 65 balls.",
+  "live_batting": "Ryan Rickelton 1*(1)",
+  "live_bowling": "Jofra Archer 0/1 (0.1)",
+  "live_moment": "MI need 150 runs in 65 balls.",
   "gemma_observations": [
     "Jaiswal is consistently rotating strike against a disciplined Bumrah.",
     "Hetmyer is attempting to accelerate, but lacks consistent boundaries.",
@@ -23,7 +23,9 @@
     "MI\u2019s fielders are positioned aggressively, inviting lofted shots.",
     "Jaiswal is consistently rotating strike against Boult and Chahar.",
     "Hetmyer is attempting to accelerate, but Bumrah is restricting scoring.",
-    "MI's fielders are positioned aggressively, potentially inviting risky shots."
+    "MI's fielders are positioned aggressively, potentially inviting risky shots.",
+    "Rickelton is prioritizing dot balls, attempting to stall the MI innings.",
+    "Archer's early over suggests a focus on containing boundaries, a risky strategy."
   ],
-  "updated_at": "2026-04-07T10:54:29+05:30"
+  "updated_at": "2026-04-07T10:55:41+05:30"
 }
