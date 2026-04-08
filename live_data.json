@@ -8,12 +8,13 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 4/0 (0.1 ov) \u2014 DC chose to field.",
-  "live_batting": "Sai Sudharsan 4*(1)",
-  "live_bowling": "Mukesh Kumar 0/4 (0.1)",
+  "live_score": "GT 9/0 (0.3 ov) \u2014 DC chose to field.",
+  "live_batting": "Sai Sudharsan 5*(2), Shubman Gill 4*(1)",
+  "live_bowling": "Mukesh Kumar 0/9 (0.3)",
   "live_moment": "DC chose to field.",
   "gemma_observations": [
-    "Sudharsan is prioritizing length and rotating the strike early on."
+    "Sudharsan is prioritizing length and rotating the strike early on.",
+    "Gill is prioritizing dot balls to establish a solid foundation."
   ],
-  "updated_at": "2026-04-08T07:01:50+05:30"
+  "updated_at": "2026-04-08T07:02:58+05:30"
 }
