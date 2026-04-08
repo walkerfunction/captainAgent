@@ -1,21 +1,19 @@
 {
   "match": {
-    "name": "13th Match",
+    "name": "14th Match",
     "teams": [
-      "Rajasthan Royals",
-      "Mumbai Indians"
+      "Gujarat Titans",
+      "Delhi Capitals"
     ],
-    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "RR 150/3 (11 ov) & MI 110/7 (9.3 ov) \u2014 MI need 41 runs in 9 balls.",
-  "live_batting": "Shardul Thakur 8*(6), Deepak Chahar 0*(1)",
-  "live_bowling": "Jofra Archer 1/10 (1), Nandre Burger 2/21 (2), Sandeep Sharma 1/20 (2.3)",
-  "live_moment": "MI need 41 runs in 9 balls.",
+  "live_score": "GT 4/0 (0.1 ov) \u2014 DC chose to field.",
+  "live_batting": "Sai Sudharsan 4*(1)",
+  "live_bowling": "Mukesh Kumar 0/4 (0.1)",
+  "live_moment": "DC chose to field.",
   "gemma_observations": [
-    "Thakur is aggressively targeting Archer's shorter deliveries for boundaries.",
-    "MI\u2019s bowlers are consistently short-peeing, inviting risky shots from RR.",
-    "RR are maintaining a tight field setting, restricting MI's scoring options."
+    "Sudharsan is prioritizing length and rotating the strike early on."
   ],
-  "updated_at": "2026-04-07T11:50:51+05:30"
+  "updated_at": "2026-04-08T07:01:50+05:30"
 }
