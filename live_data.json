@@ -8,10 +8,10 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 210/4 (20 ov) & DC 76/1 (8.1 ov) \u2014 DC need 135 runs in 71 balls.",
-  "live_batting": "KL Rahul 33*(25)",
+  "live_score": "GT 210/4 (20 ov) & DC 81/1 (8.3 ov) \u2014 DC need 130 runs in 69 balls.",
+  "live_batting": "KL Rahul 37*(26), Nitish Rana 1*(1)",
   "live_bowling": "Mohammed Siraj 0/21 (2), Kagiso Rabada 0/15 (2), Rashid Khan 0/9 (2)",
-  "live_moment": "DC need 135 runs in 71 balls.",
+  "live_moment": "DC need 130 runs in 69 balls.",
   "gemma_observations": [
     "Rahul is attempting to accelerate his scoring rate against Siraj.",
     "Pathum Nissanka is prioritizing consolidation and rotating the strike.",
@@ -24,5 +24,5 @@
     "Pathum Nissanka is rotating the strike effectively to avoid pressure.",
     "Rahul is consistently looking to drive through the off-side channel."
   ],
-  "updated_at": "2026-04-08T09:43:15+05:30"
+  "updated_at": "2026-04-08T09:44:27+05:30"
 }
