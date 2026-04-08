@@ -8,15 +8,16 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 210/4 (20 ov) & DC 110/3 (10.4 ov) \u2014 DC need 101 runs in 56 balls.",
-  "live_batting": "KL Rahul 61*(32), David Miller 1*(1)",
+  "live_score": "GT 210/4 (20 ov) & DC 112/3 (11 ov) \u2014 DC need 99 runs in 54 balls.",
+  "live_batting": "KL Rahul 61*(32), David Miller 3*(3)",
   "live_bowling": "Mohammed Siraj 0/21 (2), Kagiso Rabada 0/15 (2), Rashid Khan 2/13 (3)",
-  "live_moment": "DC need 101 runs in 56 balls.",
+  "live_moment": "DC need 99 runs in 54 balls.",
   "gemma_observations": [
     "Rahul is consistently looking to drive through the off-side channel.",
     "Rahul is consistently rotating the strike against Siraj.",
     "Rahul is consistently looking to attack boundaries against Siraj.",
-    "Rahul is consistently looking to attack the bowler's stumps."
+    "Rahul is consistently looking to attack the bowler's stumps.",
+    "Rahul is consistently looking to drive through the covers aggressively."
   ],
-  "updated_at": "2026-04-08T09:58:55+05:30"
+  "updated_at": "2026-04-08T10:00:09+05:30"
 }
