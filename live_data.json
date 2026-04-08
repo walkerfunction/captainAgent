@@ -8,12 +8,12 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 210/4 (20 ov) & DC 97/1 (9 ov) \u2014 DC need 114 runs in 66 balls.",
-  "live_batting": "KL Rahul 53*(29), Nitish Rana 1*(1)",
-  "live_bowling": "Mohammed Siraj 0/21 (2), Kagiso Rabada 0/15 (2), Rashid Khan 0/9 (2)",
-  "live_moment": "DC need 114 runs in 66 balls.",
+  "live_score": "GT 210/4 (20 ov) & DC 97/1 (9.1 ov) \u2014 DC need 114 runs in 65 balls.",
+  "live_batting": "KL Rahul 53*(29), Nitish Rana 1*(2)",
+  "live_bowling": "Mohammed Siraj 0/21 (2), Kagiso Rabada 0/15 (2), Rashid Khan 0/9 (2.1)",
+  "live_moment": "DC need 114 runs in 65 balls.",
   "gemma_observations": [
     "Rahul is consistently looking to drive through the off-side channel."
   ],
-  "updated_at": "2026-04-08T09:48:03+05:30"
+  "updated_at": "2026-04-08T09:49:15+05:30"
 }
