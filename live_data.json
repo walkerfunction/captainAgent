@@ -8,9 +8,9 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 63/1 (5 ov) \u2014 DC chose to field.",
-  "live_batting": "Shubman Gill 7*(7), Jos Buttler 42*(16)",
-  "live_bowling": "Mukesh Kumar 1/43 (3), Lungi Ngidi 0/7 (1), Axar Patel 0/13 (1)",
+  "live_score": "GT 63/1 (5.1 ov) \u2014 DC chose to field.",
+  "live_batting": "Shubman Gill 7*(7), Jos Buttler 42*(17)",
+  "live_bowling": "Mukesh Kumar 1/43 (3), Lungi Ngidi 0/7 (1.1), Axar Patel 0/13 (1)",
   "live_moment": "DC chose to field.",
   "gemma_observations": [
     "Sudharsan is prioritizing length and rotating the strike early on.",
@@ -54,7 +54,9 @@
     "Buttler is aggressively targeting length, seeking boundaries consistently.",
     "Mukesh Kumar's variations are proving ineffective against Buttler's power.",
     "Buttler is aggressively targeting length, seeking boundaries consistently.",
-    "Mukesh Kumar's variations are struggling to contain Buttler's power hitting."
+    "Mukesh Kumar's variations are struggling to contain Buttler's power hitting.",
+    "Buttler is aggressively targeting length, seeking boundaries consistently.",
+    "Mukesh Kumar\u2019s variations are proving effective against Buttler\u2019s intent."
   ],
-  "updated_at": "2026-04-08T07:28:48+05:30"
+  "updated_at": "2026-04-08T07:29:58+05:30"
 }
