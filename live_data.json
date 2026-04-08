@@ -8,10 +8,10 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 210/4 (20 ov) & DC 198/6 (19 ov) \u2014 DC need 13 runs in 6 balls.",
-  "live_batting": "David Miller 35*(17), Vipraj Nigam 8*(5)",
+  "live_score": "GT 210/4 (20 ov) & DC 202/6 (19.1 ov) \u2014 DC need 9 runs in 5 balls.",
+  "live_batting": "David Miller 35*(17), Vipraj Nigam 12*(6)",
   "live_bowling": "Mohammed Siraj 1/52 (4), Kagiso Rabada 0/32 (4), Rashid Khan 3/17 (4)",
-  "live_moment": "DC need 13 runs in 6 balls.",
+  "live_moment": "DC need 9 runs in 5 balls.",
   "gemma_observations": [
     "Miller is consistently targeting Siraj for boundaries.",
     "Miller is aggressively targeting Siraj for boundaries.",
@@ -19,5 +19,5 @@
     "Miller is consistently looking to attack boundaries against Siraj.",
     "Miller is consistently looking to attack the bowler, attempting boundaries."
   ],
-  "updated_at": "2026-04-08T10:55:57+05:30"
+  "updated_at": "2026-04-08T10:57:11+05:30"
 }
