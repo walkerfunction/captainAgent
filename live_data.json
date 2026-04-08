@@ -8,14 +8,14 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 210/4 (20 ov) & DC 209/7 (19.5 ov) \u2014 DC need 2 runs in 1 ball.",
-  "live_batting": "David Miller 41*(19), Kuldeep Yadav 1*(1)",
+  "live_score": "GT 210/4 (20 ov) & DC 209/8 (20 ov) \u2014 Match Over",
+  "live_batting": "David Miller 41*(20)",
   "live_bowling": "Mohammed Siraj 1/52 (4), Kagiso Rabada 0/32 (4), Rashid Khan 3/17 (4)",
-  "live_moment": "DC need 2 runs in 1 ball.",
+  "live_moment": "Match Over",
   "gemma_observations": [
     "Miller is aggressively targeting Siraj for boundaries with the finish line in sight.",
     "Miller is attempting to hit boundaries with increasing urgency.",
     "Miller is attempting to hit boundaries with increasing frequency."
   ],
-  "updated_at": "2026-04-08T11:06:35+05:30"
+  "updated_at": "2026-04-08T11:07:46+05:30"
 }
