@@ -8,8 +8,8 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 182/2 (16.5 ov) \u2014 DC chose to field.",
-  "live_batting": "Shubman Gill 70*(42), Washington Sundar 43*(26)",
+  "live_score": "GT 182/2 (17 ov) \u2014 DC chose to field.",
+  "live_batting": "Shubman Gill 70*(43), Washington Sundar 43*(26)",
   "live_bowling": "Mukesh Kumar 1/43 (3), Lungi Ngidi 0/21 (3), Axar Patel 0/32 (3)",
   "live_moment": "DC chose to field.",
   "gemma_observations": [
@@ -166,7 +166,9 @@
     "Gill is prioritizing acceleration, attempting boundaries off shorter spells.",
     "Sundar is rotating the strike effectively and building a solid platform.",
     "Gill is prioritizing acceleration, attempting boundaries off shorter spells.",
-    "Sundar is rotating the strike effectively, frustrating DC's bowlers."
+    "Sundar is rotating the strike effectively, frustrating DC's bowlers.",
+    "Gill is prioritizing acceleration, attempting boundaries off shorter spells.",
+    "Sundar is rotating the strike effectively, frustrating DC's fielders."
   ],
-  "updated_at": "2026-04-08T08:30:28+05:30"
+  "updated_at": "2026-04-08T08:31:38+05:30"
 }
