@@ -8,14 +8,16 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 210/4 (20 ov) & DC 141/4 (14.3 ov) \u2014 DC need 70 runs in 33 balls.",
-  "live_batting": "KL Rahul 76*(42), David Miller 12*(10), Tristan Stubbs 1*(1)",
-  "live_bowling": "Mohammed Siraj 0/21 (2), Kagiso Rabada 0/22 (2.3), Rashid Khan 3/17 (4)",
-  "live_moment": "DC need 70 runs in 33 balls.",
+  "live_score": "GT 210/4 (20 ov) & DC 142/4 (14.5 ov) \u2014 DC need 69 runs in 31 balls.",
+  "live_batting": "KL Rahul 77*(43), David Miller 12*(10), Tristan Stubbs 1*(2)",
+  "live_bowling": "Mohammed Siraj 0/21 (2), Kagiso Rabada 0/23 (2.5), Rashid Khan 3/17 (4)",
+  "live_moment": "DC need 69 runs in 31 balls.",
   "gemma_observations": [
     "Rahul is aggressively targeting Siraj for boundaries to accelerate the scoring.",
     "Rahul is consistently looking to drive through the covers aggressively.",
-    "Rahul is consistently rotating his bat to keep the scoring pressure off DC."
+    "Rahul is consistently rotating his bat to keep the scoring pressure off DC.",
+    "Rahul is consistently rotating his strike against Siraj.",
+    "Stubbs is attempting to accelerate his scoring rate."
   ],
-  "updated_at": "2026-04-08T10:22:03+05:30"
+  "updated_at": "2026-04-08T10:23:16+05:30"
 }
