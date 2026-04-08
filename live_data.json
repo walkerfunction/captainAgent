@@ -9,8 +9,8 @@
     "status": "live"
   },
   "live_score": "GT 210/4 (20 ov) & DC 160/5 (16.4 ov) \u2014 DC need 51 runs in 20 balls.",
-  "live_batting": "KL Rahul 88*(50), David Miller 12*(10)",
-  "live_bowling": "Mohammed Siraj 0/23 (2.3), Kagiso Rabada 0/23 (3), Rashid Khan 3/17 (4)",
+  "live_batting": "KL Rahul 88*(50)",
+  "live_bowling": "Mohammed Siraj 0/23 (2.4), Kagiso Rabada 0/23 (3), Rashid Khan 3/17 (4)",
   "live_moment": "DC need 51 runs in 20 balls.",
   "gemma_observations": [
     "Rahul is consistently rotating his bat to keep the scoring pressure off GT.",
@@ -19,5 +19,5 @@
     "Rahul is consistently rotating his bat to maintain pressure on the DC bowlers.",
     "Miller is attempting to hit boundaries off shorter deliveries from Rabada."
   ],
-  "updated_at": "2026-04-08T10:37:45+05:30"
+  "updated_at": "2026-04-08T10:38:56+05:30"
 }
