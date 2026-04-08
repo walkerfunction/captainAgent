@@ -8,9 +8,9 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 17/0 (1.5 ov) \u2014 DC chose to field.",
-  "live_batting": "Sai Sudharsan 11*(5), Shubman Gill 6*(6)",
-  "live_bowling": "Mukesh Kumar 0/11 (1), Lungi Ngidi 0/6 (0.5)",
+  "live_score": "GT 19/0 (2 ov) \u2014 DC chose to field.",
+  "live_batting": "Sai Sudharsan 12*(6), Shubman Gill 6*(6)",
+  "live_bowling": "Mukesh Kumar 0/12 (1), Lungi Ngidi 0/7 (1)",
   "live_moment": "DC chose to field.",
   "gemma_observations": [
     "Sudharsan is prioritizing length and rotating the strike early on.",
@@ -25,7 +25,8 @@
     "Sudharsan is prioritizing length and attempting to rotate the strike early.",
     "Ngidi's early overs are overly short and lacking variation, inviting easy scoring.",
     "Sudharsan is prioritizing length and attempting drives early on.",
-    "Ngidi's early overs are offering little threat, lacking variation."
+    "Ngidi's early overs are offering little threat, lacking variation.",
+    "Sudharsan is aggressively targeting length, attempting boundaries frequently."
   ],
-  "updated_at": "2026-04-08T07:10:02+05:30"
+  "updated_at": "2026-04-08T07:11:10+05:30"
 }
