@@ -8,10 +8,10 @@
     "venue": "Arun Jaitley Stadium, Delhi",
     "status": "live"
   },
-  "live_score": "GT 210/4 (20 ov) & DC 14/0 (1.1 ov) \u2014 DC need 197 runs in 113 balls.",
-  "live_batting": "Pathum Nissanka 13*(5), KL Rahul 1*(2)",
-  "live_bowling": "Mohammed Siraj 0/14 (1), Kagiso Rabada 0/0 (0.1)",
-  "live_moment": "DC need 197 runs in 113 balls.",
+  "live_score": "GT 210/4 (20 ov) & DC 19/0 (1.4 ov) \u2014 DC need 192 runs in 110 balls.",
+  "live_batting": "Pathum Nissanka 13*(5), KL Rahul 6*(5)",
+  "live_bowling": "Mohammed Siraj 0/14 (1), Kagiso Rabada 0/5 (0.4)",
+  "live_moment": "DC need 192 runs in 110 balls.",
   "gemma_observations": [
     "Nissanka is prioritizing defense against Siraj's probing length.",
     "DC are deliberately bowling a tight opening spell, restricting GT's scoring.",
@@ -24,7 +24,10 @@
     "Siraj is bowling a disciplined line, conceding few scoring opportunities early on.",
     "Rahul is prioritizing dot balls to avoid early wickets against Siraj.",
     "DC\u2019s opening pair are defensively consolidating, aiming for a settled start.",
-    "GT\u2019s bowlers are maintaining a tight line, limiting scoring opportunities."
+    "GT\u2019s bowlers are maintaining a tight line, limiting scoring opportunities.",
+    "Rahul is prioritizing dot balls to neutralize Nissanka's scoring threat.",
+    "Siraj's bowling is consistently targeting the off-stump, a key area.",
+    "DC's early phase indicates a cautious approach to build a solid foundation."
   ],
-  "updated_at": "2026-04-08T09:08:03+05:30"
+  "updated_at": "2026-04-08T09:09:18+05:30"
 }
