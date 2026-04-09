@@ -8,17 +8,18 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 132/7 (16.3 ov) \u2014 LSG need 50 runs in 21 balls.",
-  "live_batting": "Mukul Choudhary 6*(9)",
-  "live_bowling": "Vaibhav Arora 2/18 (2.3), Anukul Roy 2/32 (4), Navdeep Saini 0/37 (3)",
-  "live_moment": "LSG need 50 runs in 21 balls.",
+  "live_score": "KKR 181/4 (20 ov) & LSG 138/7 (16.4 ov) \u2014 LSG need 44 runs in 20 balls.",
+  "live_batting": "Mukul Choudhary 12*(10)",
+  "live_bowling": "Vaibhav Arora 2/24 (2.4), Anukul Roy 2/32 (4), Navdeep Saini 0/37 (3)",
+  "live_moment": "LSG need 44 runs in 20 balls.",
   "gemma_observations": [
     "Badoni is aggressively targeting short balls from Arora.",
     "Choudhary is rotating strike, attempting to maintain pressure.",
     "Choudhary is attempting to find gaps with aggressive shots.",
     "Shami is rotating the strike and minimizing risk.",
     "Mukul Choudhary is attempting to accelerate the scoring rate.",
-    "Choudhary is attempting to find the boundary off short balls."
+    "Choudhary is attempting to find the boundary off short balls.",
+    "Mukul Choudhary is attempting to accelerate scoring through aggressive shots."
   ],
-  "updated_at": "2026-04-09T10:29:35+05:30"
+  "updated_at": "2026-04-09T10:30:50+05:30"
 }
