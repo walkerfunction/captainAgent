@@ -8,9 +8,9 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 110/3 (12.4 ov) \u2014 LSG chose to field.",
-  "live_batting": "Cameron Green 6*(8), Rinku Singh 3*(3)",
-  "live_bowling": "Mohammed Shami 0/15 (2.4), Prince Yadav 1/19 (2), Manimaran Siddharth 1/22 (3)",
+  "live_score": "KKR 111/3 (13.1 ov) \u2014 LSG chose to field.",
+  "live_batting": "Cameron Green 6*(8), Rinku Singh 4*(6)",
+  "live_bowling": "Mohammed Shami 0/16 (3), Prince Yadav 1/19 (2), Manimaran Siddharth 1/22 (3)",
   "live_moment": "LSG chose to field.",
   "gemma_observations": [
     "Rahane is prioritizing dot balls early in his innings.",
@@ -57,7 +57,9 @@
     "Rinku Singh is attempting to rotate the strike against Prince Yadav.",
     "Cameron Green is looking to accelerate his scoring rate.",
     "Cameron Green is prioritizing consolidation after a quick start.",
-    "Rinku Singh is attempting to rotate strike against Prince Yadav."
+    "Rinku Singh is attempting to rotate strike against Prince Yadav.",
+    "Rinku Singh is aggressively targeting short balls from Prince Yadav.",
+    "Cameron Green is attempting to rotate the strike against Mohammed Shami."
   ],
-  "updated_at": "2026-04-09T08:02:45+05:30"
+  "updated_at": "2026-04-09T08:04:59+05:30"
 }
