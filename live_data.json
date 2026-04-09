@@ -8,10 +8,10 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 32/0 (3.1 ov) \u2014 LSG need 150 runs in 101 balls.",
-  "live_batting": "Mitchell Marsh 8*(8), Aiden Markram 20*(11)",
-  "live_bowling": "Vaibhav Arora 0/6 (1), Anukul Roy 0/7 (1.1), Navdeep Saini 0/17 (1)",
-  "live_moment": "LSG need 150 runs in 101 balls.",
+  "live_score": "KKR 181/4 (20 ov) & LSG 36/0 (3.5 ov) \u2014 LSG need 146 runs in 97 balls.",
+  "live_batting": "Mitchell Marsh 10*(10), Aiden Markram 22*(13)",
+  "live_bowling": "Vaibhav Arora 0/6 (1), Anukul Roy 0/11 (1.5), Navdeep Saini 0/17 (1)",
+  "live_moment": "LSG need 146 runs in 97 balls.",
   "gemma_observations": [
     "Marsh is prioritizing rotation over aggressive scoring against Arora.",
     "Marsh is prioritizing rotation of strike against Arora.",
@@ -22,7 +22,8 @@
     "Marsh is attempting to rotate the strike against Arora.",
     "Marsh is attempting to rotate the strike against Saini.",
     "Markram is prioritizing dot balls to avoid early wickets.",
-    "Markram is prioritizing scoring off length deliveries from Saini."
+    "Markram is prioritizing scoring off length deliveries from Saini.",
+    "Markram is selectively driving the balls in the V region of the wicket."
   ],
-  "updated_at": "2026-04-09T09:15:14+05:30"
+  "updated_at": "2026-04-09T09:16:30+05:30"
 }
