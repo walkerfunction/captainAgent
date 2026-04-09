@@ -8,9 +8,9 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 103/2 (11.1 ov) \u2014 LSG chose to field.",
-  "live_batting": "Angkrish Raghuvanshi 44*(31), Cameron Green 3*(4)",
-  "live_bowling": "Mohammed Shami 0/11 (2), Prince Yadav 1/19 (2), Manimaran Siddharth 0/19 (2.1)",
+  "live_score": "KKR 105/3 (11.4 ov) \u2014 LSG chose to field.",
+  "live_batting": "Cameron Green 4*(5)",
+  "live_bowling": "Mohammed Shami 0/11 (2), Prince Yadav 1/19 (2), Manimaran Siddharth 1/21 (2.4)",
   "live_moment": "LSG chose to field.",
   "gemma_observations": [
     "Rahane is prioritizing dot balls early in his innings.",
@@ -50,7 +50,8 @@
     "Rahane is aggressively rotating strike against Prince Yadav.",
     "Raghuvanshi is consistently finding gaps and scoring boundaries.",
     "Angkrish Raghuvanshi is aggressively targeting short balls from Prince Yadav.",
-    "Angkrish Raghuvanshi is aggressively targeting length with strong shots."
+    "Angkrish Raghuvanshi is aggressively targeting length with strong shots.",
+    "Green is prioritizing dot balls against Shami, attempting to consolidate."
   ],
-  "updated_at": "2026-04-09T07:55:49+05:30"
+  "updated_at": "2026-04-09T07:56:58+05:30"
 }
