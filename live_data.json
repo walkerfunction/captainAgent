@@ -8,16 +8,18 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 85/3 (10 ov) \u2014 LSG need 97 runs in 60 balls.",
-  "live_batting": "Ayush Badoni 23*(18), Nicholas Pooran 9*(8)",
-  "live_bowling": "Vaibhav Arora 2/14 (2), Anukul Roy 0/16 (2), Navdeep Saini 0/17 (1)",
-  "live_moment": "LSG need 97 runs in 60 balls.",
+  "live_score": "KKR 181/4 (20 ov) & LSG 85/3 (10.1 ov) \u2014 LSG need 97 runs in 59 balls.",
+  "live_batting": "Ayush Badoni 23*(18), Nicholas Pooran 9*(9)",
+  "live_bowling": "Vaibhav Arora 2/14 (2), Anukul Roy 0/16 (2), Navdeep Saini 0/17 (1.1)",
+  "live_moment": "LSG need 97 runs in 59 balls.",
   "gemma_observations": [
     "Badoni is aggressively targeting short balls from Arora.",
     "Pooran is playing cautiously, prioritizing rotation of the strike.",
     "Pooran is content rotating the strike, attempting to reset.",
     "Badoni is attempting to accelerate with boundaries against Arora.",
-    "Pooran is prioritizing dot balls, likely under pressure from Saini."
+    "Pooran is prioritizing dot balls, likely under pressure from Saini.",
+    "Badoni is increasingly attempting to hit through the covers against Arora.",
+    "Pooran is rotating strike, prioritizing dot balls to shorten the chase."
   ],
-  "updated_at": "2026-04-09T09:53:59+05:30"
+  "updated_at": "2026-04-09T09:55:14+05:30"
 }
