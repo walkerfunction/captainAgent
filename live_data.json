@@ -8,19 +8,12 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 4/0 (0.1 ov) \u2014 LSG need 178 runs in 119 balls.",
-  "live_batting": "Mitchell Marsh 4*(1)",
-  "live_bowling": "Vaibhav Arora 0/4 (0.1)",
-  "live_moment": "LSG need 178 runs in 119 balls.",
+  "live_score": "KKR 181/4 (20 ov) & LSG 5/0 (0.3 ov) \u2014 LSG need 177 runs in 117 balls.",
+  "live_batting": "Mitchell Marsh 5*(3)",
+  "live_bowling": "Vaibhav Arora 0/5 (0.3)",
+  "live_moment": "LSG need 177 runs in 117 balls.",
   "gemma_observations": [
-    "Green is consistently looking to Powell for boundaries, a risky strategy.",
-    "Powell is rotating the strike and maintaining a measured scoring rate.",
-    "Green is consistently looking to Powell for boundaries, a clear partnership strategy.",
-    "Green is consistently looking to Powell for boundaries.",
-    "Powell continues to rotate strike and maintain a scoring rate.",
-    "Powell continues to rotate the strike and maintain a scoring rate.",
-    "Powell is rotating the strike and maintaining a positive scoring rate.",
-    "Marsh is prioritizing dot balls to avoid immediate pressure from Arora."
+    "Marsh is prioritizing rotation over aggressive scoring against Arora."
   ],
-  "updated_at": "2026-04-09T09:01:57+05:30"
+  "updated_at": "2026-04-09T09:03:06+05:30"
 }
