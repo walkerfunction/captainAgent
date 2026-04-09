@@ -8,10 +8,10 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 56/2 (6 ov) \u2014 LSG need 126 runs in 84 balls.",
-  "live_batting": "Rishabh Pant 2*(2), Ayush Badoni 13*(8)",
+  "live_score": "KKR 181/4 (20 ov) & LSG 60/2 (6.1 ov) \u2014 LSG need 122 runs in 83 balls.",
+  "live_batting": "Rishabh Pant 2*(2), Ayush Badoni 17*(9)",
   "live_bowling": "Vaibhav Arora 2/14 (2), Anukul Roy 0/16 (2), Navdeep Saini 0/17 (1)",
-  "live_moment": "LSG need 126 runs in 84 balls.",
+  "live_moment": "LSG need 122 runs in 83 balls.",
   "gemma_observations": [
     "Markram is prioritizing consolidation and building a platform with boundaries.",
     "Marsh is attempting to accelerate with boundaries against Arora.",
@@ -24,5 +24,5 @@
     "Pant is attempting to accelerate scoring through aggressive shots.",
     "Pant is attempting to accelerate his scoring rate against Arora."
   ],
-  "updated_at": "2026-04-09T09:29:37+05:30"
+  "updated_at": "2026-04-09T09:30:52+05:30"
 }
