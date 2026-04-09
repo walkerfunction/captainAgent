@@ -8,13 +8,15 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 6/0 (1 ov) \u2014 LSG chose to field.",
-  "live_batting": "Ajinkya Rahane 5*(2), Finn Allen 1*(4)",
-  "live_bowling": "Mohammed Shami 0/6 (1)",
+  "live_score": "KKR 11/0 (1.1 ov) \u2014 LSG chose to field.",
+  "live_batting": "Ajinkya Rahane 5*(2), Finn Allen 5*(5)",
+  "live_bowling": "Mohammed Shami 0/6 (1), Prince Yadav 0/5 (0.1)",
   "live_moment": "LSG chose to field.",
   "gemma_observations": [
     "Rahane is prioritizing dot balls early in his innings.",
-    "Rahane is prioritizing pace and length early in his innings."
+    "Rahane is prioritizing pace and length early in his innings.",
+    "Rahane is prioritizing rotation of strike against Shami.",
+    "Allen is attempting to aggressively accelerate scoring."
   ],
-  "updated_at": "2026-04-09T07:05:16+05:30"
+  "updated_at": "2026-04-09T07:06:26+05:30"
 }
