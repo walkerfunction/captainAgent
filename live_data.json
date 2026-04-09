@@ -8,15 +8,15 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 181/7 (19.5 ov) \u2014 LSG need 1 run in 1 ball.",
-  "live_batting": "Mukul Choudhary 54*(26), Avesh Khan 1*(3)",
-  "live_bowling": "Vaibhav Arora 2/38 (3.5), Anukul Roy 2/32 (4), Navdeep Saini 0/37 (3)",
-  "live_moment": "LSG need 1 run in 1 ball.",
+  "live_score": "KKR 181/4 (20 ov) & LSG 182/7 (19.6 ov) \u2014 Match Over",
+  "live_batting": "Mukul Choudhary 54*(27), Avesh Khan 1*(3)",
+  "live_bowling": "Vaibhav Arora 2/38 (3.6), Anukul Roy 2/32 (4), Navdeep Saini 0/37 (3)",
+  "live_moment": "Match Over",
   "gemma_observations": [
     "Choudhary is attempting boundaries with aggressive shots against Saini.",
     "Avesh Khan is likely bowling defensively, prioritizing dot balls.",
     "Choudhary is attempting boundaries against Saini, a risky tactic.",
     "Avesh Khan is bowling defensively, conceding the single."
   ],
-  "updated_at": "2026-04-09T10:49:24+05:30"
+  "updated_at": "2026-04-09T10:50:33+05:30"
 }
