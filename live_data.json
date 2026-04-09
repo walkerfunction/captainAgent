@@ -8,8 +8,8 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 30/1 (4 ov) \u2014 LSG chose to field.",
-  "live_batting": "Ajinkya Rahane 12*(6), Angkrish Raghuvanshi 6*(10)",
+  "live_score": "KKR 30/1 (4.3 ov) \u2014 LSG chose to field.",
+  "live_batting": "Ajinkya Rahane 12*(9), Angkrish Raghuvanshi 6*(10)",
   "live_bowling": "Mohammed Shami 0/11 (2), Prince Yadav 1/10 (1), Manimaran Siddharth 0/9 (1)",
   "live_moment": "LSG chose to field.",
   "gemma_observations": [
@@ -24,7 +24,8 @@
     "Rahane is prioritizing quick singles to rotate the strike against Yadav.",
     "Rahane is attempting to rotate the strike against Shami.",
     "Raghuvanshi is content with a defensive approach, prioritizing stability.",
-    "Rahane is attempting to accelerate with a focus on length balls."
+    "Rahane is attempting to accelerate with a focus on length balls.",
+    "Raghuvanshi is looking to score quickly off shorter deliveries."
   ],
-  "updated_at": "2026-04-09T07:20:22+05:30"
+  "updated_at": "2026-04-09T07:21:33+05:30"
 }
