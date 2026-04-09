@@ -8,10 +8,10 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 73/3 (8.2 ov) \u2014 LSG need 109 runs in 70 balls.",
+  "live_score": "KKR 181/4 (20 ov) & LSG 74/3 (8.2 ov) \u2014 LSG need 108 runs in 70 balls.",
   "live_batting": "Ayush Badoni 22*(15)",
   "live_bowling": "Vaibhav Arora 2/14 (2), Anukul Roy 0/16 (2), Navdeep Saini 0/17 (1)",
-  "live_moment": "LSG need 109 runs in 70 balls.",
+  "live_moment": "LSG need 108 runs in 70 balls.",
   "gemma_observations": [
     "Pant is attempting to accelerate scoring through aggressive shots.",
     "Badoni is prioritizing rotation of the strike over attempting big hits.",
@@ -23,7 +23,8 @@
     "Badoni is prioritizing rotation of the strike over aggressive hitting.",
     "Badoni is prioritizing rotation of the strike over attempting big boundaries.",
     "Badoni is aggressively targeting short balls from Arora.",
-    "Badoni is attempting to accelerate scoring through aggressive shots."
+    "Badoni is attempting to accelerate scoring through aggressive shots.",
+    "Badoni is attempting to accelerate scoring through aggressive drives."
   ],
-  "updated_at": "2026-04-09T09:44:11+05:30"
+  "updated_at": "2026-04-09T09:45:23+05:30"
 }
