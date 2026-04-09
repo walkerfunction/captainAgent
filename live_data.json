@@ -8,9 +8,9 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 134/4 (16.4 ov) \u2014 LSG chose to field.",
-  "live_batting": "Cameron Green 14*(16), Rovman Powell 15*(12)",
-  "live_bowling": "Mohammed Shami 0/16 (3), Prince Yadav 1/26 (2.4), Manimaran Siddharth 1/34 (4)",
+  "live_score": "KKR 138/4 (16.5 ov) \u2014 LSG chose to field.",
+  "live_batting": "Cameron Green 14*(16), Rovman Powell 19*(13)",
+  "live_bowling": "Mohammed Shami 0/16 (3), Prince Yadav 1/30 (2.5), Manimaran Siddharth 1/34 (4)",
   "live_moment": "LSG chose to field.",
   "gemma_observations": [
     "Rahane is prioritizing dot balls early in his innings.",
@@ -70,7 +70,8 @@
     "Powell is rotating the strike, prioritizing dot balls against Siddharth.",
     "Green is prioritizing dot balls to build a platform for Powell.",
     "Powell is prioritizing dot balls to maintain a stable scoring rate.",
-    "Powell is rotating the strike and looking for boundaries against Siddharth."
+    "Powell is rotating the strike and looking for boundaries against Siddharth.",
+    "Green is prioritizing length and attempting to rotate the strike."
   ],
-  "updated_at": "2026-04-09T08:22:38+05:30"
+  "updated_at": "2026-04-09T08:23:50+05:30"
 }
