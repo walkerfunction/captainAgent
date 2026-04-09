@@ -8,8 +8,8 @@
     "venue": "Eden Gardens, Kolkata",
     "status": "live"
   },
-  "live_score": "KKR 111/4 (13.5 ov) \u2014 LSG chose to field.",
-  "live_batting": "Cameron Green 6*(8), Rovman Powell 0*(3)",
+  "live_score": "KKR 112/4 (14 ov) \u2014 LSG chose to field.",
+  "live_batting": "Cameron Green 6*(8), Rovman Powell 1*(4)",
   "live_bowling": "Mohammed Shami 0/16 (3), Prince Yadav 1/19 (2), Manimaran Siddharth 1/22 (3)",
   "live_moment": "LSG chose to field.",
   "gemma_observations": [
@@ -61,7 +61,8 @@
     "Rinku Singh is aggressively targeting short balls from Prince Yadav.",
     "Cameron Green is attempting to rotate the strike against Mohammed Shami.",
     "Green is attempting to rotate the strike against Shami.",
-    "Powell is struggling to find boundaries and appears cautious."
+    "Powell is struggling to find boundaries and appears cautious.",
+    "Powell is prioritizing dot balls, limiting scoring opportunities."
   ],
-  "updated_at": "2026-04-09T08:08:31+05:30"
+  "updated_at": "2026-04-09T08:09:42+05:30"
 }
