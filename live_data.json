@@ -8,10 +8,10 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 201/8 (20 ov) & RR 15/0 (1.1 ov) \u2014 RR need 187 runs in 113 balls.",
-  "live_batting": "Yashasvi Jaiswal 7*(3), Vaibhav Sooryavanshi 8*(4)",
-  "live_bowling": "Bhuvneshwar Kumar 0/9 (1), Josh Hazlewood 0/6 (0.1)",
-  "live_moment": "RR need 187 runs in 113 balls.",
+  "live_score": "RCB 201/8 (20 ov) & RR 15/0 (1.2 ov) \u2014 RR need 187 runs in 112 balls.",
+  "live_batting": "Yashasvi Jaiswal 7*(4), Vaibhav Sooryavanshi 8*(4)",
+  "live_bowling": "Bhuvneshwar Kumar 0/9 (1), Josh Hazlewood 0/6 (0.2)",
+  "live_moment": "RR need 187 runs in 112 balls.",
   "gemma_observations": [
     "Archer is bowling a tight opening over, focusing on accuracy.",
     "Padikkal is prioritizing dot balls to avoid early wickets.",
@@ -95,5 +95,5 @@
     "Bhuvneshwar Kumar is maintaining a tight line to start the innings.",
     "Jaiswal is prioritizing dot balls to build a solid start for RR."
   ],
-  "updated_at": "2026-04-10T10:06:26+05:30"
+  "updated_at": "2026-04-10T10:07:37+05:30"
 }
