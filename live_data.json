@@ -1,22 +1,19 @@
 {
   "match": {
-    "name": "15th Match",
+    "name": "16th Match",
     "teams": [
-      "Kolkata Knight Riders",
-      "Lucknow Super Giants"
+      "Royal Challengers Bengaluru",
+      "Rajasthan Royals"
     ],
-    "venue": "Eden Gardens, Kolkata",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "KKR 181/4 (20 ov) & LSG 182/7 (19.6 ov) \u2014 Match Over",
-  "live_batting": "Mukul Choudhary 54*(27), Avesh Khan 1*(3)",
-  "live_bowling": "Vaibhav Arora 2/38 (3.6), Anukul Roy 2/32 (4), Navdeep Saini 0/37 (3)",
-  "live_moment": "Match Over",
+  "live_score": "RCB 0/1 (0.1 ov) \u2014 RR chose to field.",
+  "live_batting": "",
+  "live_bowling": "Jofra Archer 1/0 (0.1)",
+  "live_moment": "RR chose to field.",
   "gemma_observations": [
-    "Choudhary is attempting boundaries with aggressive shots against Saini.",
-    "Avesh Khan is likely bowling defensively, prioritizing dot balls.",
-    "Choudhary is attempting boundaries against Saini, a risky tactic.",
-    "Avesh Khan is bowling defensively, conceding the single."
+    "Archer is bowling a tight opening over, focusing on accuracy."
   ],
-  "updated_at": "2026-04-09T10:50:33+05:30"
+  "updated_at": "2026-04-10T08:11:20+05:30"
 }
