@@ -8,9 +8,9 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 60/3 (5.5 ov) \u2014 RR chose to field.",
-  "live_batting": "Rajat Patidar 3*(6), Krunal Pandya 1*(5)",
-  "live_bowling": "Jofra Archer 2/26 (2), Nandre Burger 0/17 (1.5), Sandeep Sharma 0/10 (1)",
+  "live_score": "RCB 62/3 (6.1 ov) \u2014 RR chose to field.",
+  "live_batting": "Rajat Patidar 5*(8), Krunal Pandya 1*(5)",
+  "live_bowling": "Jofra Archer 2/26 (2), Nandre Burger 0/18 (2), Sandeep Sharma 0/10 (1)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
     "Archer is bowling a tight opening over, focusing on accuracy.",
@@ -38,7 +38,8 @@
     "Rajat Patidar is content rotating the strike against Jofra Archer.",
     "Rajat Patidar is playing cautiously, primarily focusing on rotating the strike.",
     "Rajat Patidar is attempting to rotate the strike against Nandre Burger.",
-    "Rajat Patidar is attempting to rotate the strike against Archer."
+    "Rajat Patidar is attempting to rotate the strike against Archer.",
+    "Krunal Pandya is prioritizing defense and minimizing risk."
   ],
-  "updated_at": "2026-04-10T08:41:46+05:30"
+  "updated_at": "2026-04-10T08:42:57+05:30"
 }
