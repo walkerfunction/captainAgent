@@ -8,8 +8,8 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 109/6 (12.2 ov) \u2014 RR chose to field.",
-  "live_batting": "Rajat Patidar 24*(23), Romario Shepherd 9*(4)",
+  "live_score": "RCB 114/6 (12.4 ov) \u2014 RR chose to field.",
+  "live_batting": "Rajat Patidar 25*(24), Romario Shepherd 13*(5)",
   "live_bowling": "Jofra Archer 2/33 (3), Nandre Burger 0/18 (2), Sandeep Sharma 0/10 (1)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
@@ -61,5 +61,5 @@
     "Rajat Patidar is aggressively targeting length deliveries from Jofra Archer.",
     "Romario Shepherd is attempting to rotate the strike against Sandeep Sharma."
   ],
-  "updated_at": "2026-04-10T09:12:32+05:30"
+  "updated_at": "2026-04-10T09:13:43+05:30"
 }
