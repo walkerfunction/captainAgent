@@ -8,8 +8,8 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 65/4 (7 ov) \u2014 RR chose to field.",
-  "live_batting": "Rajat Patidar 6*(9), Jitesh Sharma 2*(3)",
+  "live_score": "RCB 70/4 (7.2 ov) \u2014 RR chose to field.",
+  "live_batting": "Rajat Patidar 10*(10), Jitesh Sharma 3*(4)",
   "live_bowling": "Jofra Archer 2/26 (2), Nandre Burger 0/18 (2), Sandeep Sharma 0/10 (1)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
@@ -44,5 +44,5 @@
     "Jitesh Sharma is prioritizing defense against the short ball.",
     "Rajat Patidar is attempting to accelerate the scoring rate."
   ],
-  "updated_at": "2026-04-10T08:47:41+05:30"
+  "updated_at": "2026-04-10T08:48:52+05:30"
 }
