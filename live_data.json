@@ -8,10 +8,10 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 201/8 (20 ov) & RR 190/4 (16.5 ov) \u2014 RR need 12 runs in 19 balls.",
-  "live_batting": "Dhruv Jurel 71*(38), Ravindra Jadeja 22*(23)",
-  "live_bowling": "Bhuvneshwar Kumar 0/36 (3.5), Josh Hazlewood 2/44 (4), Abhinandan Singh 0/54 (3)",
-  "live_moment": "RR need 12 runs in 19 balls.",
+  "live_score": "RCB 201/8 (20 ov) & RR 191/4 (17 ov) \u2014 RR need 11 runs in 18 balls.",
+  "live_batting": "Dhruv Jurel 72*(39), Ravindra Jadeja 22*(23)",
+  "live_bowling": "Bhuvneshwar Kumar 0/37 (4), Josh Hazlewood 2/44 (4), Abhinandan Singh 0/54 (3)",
+  "live_moment": "RR need 11 runs in 18 balls.",
   "gemma_observations": [
     "Archer is bowling a tight opening over, focusing on accuracy.",
     "Padikkal is prioritizing dot balls to avoid early wickets.",
@@ -129,5 +129,5 @@
     "Ravindra Jadeja is rotating the strike and attempting to maintain pressure.",
     "Ravindra Jadeja is rotating the strike and looking for singles."
   ],
-  "updated_at": "2026-04-10T11:28:35+05:30"
+  "updated_at": "2026-04-10T11:29:50+05:30"
 }
