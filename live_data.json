@@ -8,9 +8,9 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 32/1 (1.6 ov) \u2014 RR chose to field.",
-  "live_batting": "Virat Kohli 9*(5), Devdutt Padikkal 14*(6)",
-  "live_bowling": "Jofra Archer 1/13 (1), Nandre Burger 0/15 (0.6)",
+  "live_score": "RCB 36/1 (2.1 ov) \u2014 RR chose to field.",
+  "live_batting": "Virat Kohli 13*(6), Devdutt Padikkal 14*(6)",
+  "live_bowling": "Jofra Archer 1/17 (1.1), Nandre Burger 0/15 (1)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
     "Archer is bowling a tight opening over, focusing on accuracy.",
@@ -24,7 +24,8 @@
     "Devdutt Padikkal is prioritizing length and attempting to find gaps.",
     "Virat Kohli is aggressively targeting length, scoring quickly.",
     "Virat Kohli is prioritizing acceleration with aggressive shots early on.",
-    "Devdutt Padikkal is attempting to rotate the strike against Nandre Burger."
+    "Devdutt Padikkal is attempting to rotate the strike against Nandre Burger.",
+    "Virat Kohli is aggressively targeting length, attempting boundaries."
   ],
-  "updated_at": "2026-04-10T08:21:45+05:30"
+  "updated_at": "2026-04-10T08:22:56+05:30"
 }
