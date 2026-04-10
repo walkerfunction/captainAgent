@@ -8,9 +8,9 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 166/8 (17.1 ov) \u2014 RR chose to field.",
+  "live_score": "RCB 167/8 (17.1 ov) \u2014 RR chose to field.",
   "live_batting": "Venkatesh Iyer 5*(5)",
-  "live_bowling": "Jofra Archer 2/33 (3), Nandre Burger 0/32 (3), Sandeep Sharma 1/21 (2.1)",
+  "live_bowling": "Jofra Archer 2/33 (3), Nandre Burger 0/32 (3), Sandeep Sharma 1/22 (2.1)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
     "Archer is bowling a tight opening over, focusing on accuracy.",
@@ -70,7 +70,8 @@
     "Venkatesh Iyer is content rotating strike with defensive blocks.",
     "Venkatesh Iyer is primarily rotating the strike against Jofra Archer.",
     "Rajat Patidar is aggressively targeting length deliveries towards the boundary.",
-    "Rajat Patidar is aggressively targeting length with a clear scoring intent."
+    "Rajat Patidar is aggressively targeting length with a clear scoring intent.",
+    "Venkatesh Iyer is prioritizing dot balls to avoid early wickets."
   ],
-  "updated_at": "2026-04-10T09:36:11+05:30"
+  "updated_at": "2026-04-10T09:37:20+05:30"
 }
