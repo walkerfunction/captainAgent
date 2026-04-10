@@ -8,12 +8,14 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 201/8 (20 ov) & RR 195/4 (17.4 ov) \u2014 RR need 7 runs in 14 balls.",
-  "live_batting": "Dhruv Jurel 74*(41), Ravindra Jadeja 24*(25)",
+  "live_score": "RCB 201/8 (20 ov) & RR 202/4 (18 ov) \u2014 Match Over",
+  "live_batting": "Dhruv Jurel 81*(43), Ravindra Jadeja 24*(25)",
   "live_bowling": "Bhuvneshwar Kumar 0/37 (4), Josh Hazlewood 2/44 (4), Abhinandan Singh 0/54 (3)",
-  "live_moment": "RR need 7 runs in 14 balls.",
+  "live_moment": "Match Over",
   "gemma_observations": [
-    "Jurel is aggressively targeting short balls from Hazlewood."
+    "Jurel is aggressively targeting short balls from Hazlewood.",
+    "Dhruv Jurel aggressively targeted short balls against Bhuvneshwar Kumar.",
+    "Ravindra Jadeja rotated strike effectively, maintaining scoring pressure."
   ],
-  "updated_at": "2026-04-10T11:32:17+05:30"
+  "updated_at": "2026-04-10T11:33:31+05:30"
 }
