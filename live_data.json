@@ -8,8 +8,8 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 93/5 (10.4 ov) \u2014 RR chose to field.",
-  "live_batting": "Rajat Patidar 18*(18), Tim David 13*(8)",
+  "live_score": "RCB 94/5 (10.5 ov) \u2014 RR chose to field.",
+  "live_batting": "Rajat Patidar 18*(19), Tim David 13*(8)",
   "live_bowling": "Jofra Archer 2/33 (3), Nandre Burger 0/18 (2), Sandeep Sharma 0/10 (1)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
@@ -55,7 +55,9 @@
     "Rajat Patidar is aggressively targeting length with a clear intent to score.",
     "Rajat Patidar is aggressively attempting to accelerate the scoring rate.",
     "Rajat Patidar is aggressively targeting length, attempting boundaries.",
-    "Tim David is rotating the strike and looking for attacking opportunities."
+    "Tim David is rotating the strike and looking for attacking opportunities.",
+    "Rajat Patidar is aggressively targeting length, attempting to score boundaries.",
+    "Tim David is rotating the strike and looking for opportunities to hit over the top."
   ],
-  "updated_at": "2026-04-10T09:05:21+05:30"
+  "updated_at": "2026-04-10T09:06:34+05:30"
 }
