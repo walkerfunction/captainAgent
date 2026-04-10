@@ -8,13 +8,14 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 4/1 (0.3 ov) \u2014 RR chose to field.",
-  "live_batting": "Devdutt Padikkal 4*(2)",
-  "live_bowling": "Jofra Archer 1/4 (0.3)",
+  "live_score": "RCB 8/1 (0.4 ov) \u2014 RR chose to field.",
+  "live_batting": "Devdutt Padikkal 8*(3)",
+  "live_bowling": "Jofra Archer 1/8 (0.4)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
     "Archer is bowling a tight opening over, focusing on accuracy.",
-    "Padikkal is prioritizing dot balls to avoid early wickets."
+    "Padikkal is prioritizing dot balls to avoid early wickets.",
+    "Padikkal is prioritizing dot balls early in his innings."
   ],
-  "updated_at": "2026-04-10T08:13:33+05:30"
+  "updated_at": "2026-04-10T08:14:43+05:30"
 }
