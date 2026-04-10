@@ -8,9 +8,9 @@
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "status": "live"
   },
-  "live_score": "RCB 184/8 (19.1 ov) \u2014 RR chose to field.",
-  "live_batting": "Venkatesh Iyer 13*(10), Bhuvneshwar Kumar 9*(7)",
-  "live_bowling": "Jofra Archer 2/33 (3), Nandre Burger 0/32 (3), Sandeep Sharma 1/30 (3.1)",
+  "live_score": "RCB 190/8 (19.2 ov) \u2014 RR chose to field.",
+  "live_batting": "Venkatesh Iyer 19*(11), Bhuvneshwar Kumar 9*(7)",
+  "live_bowling": "Jofra Archer 2/33 (3), Nandre Burger 0/32 (3), Sandeep Sharma 1/36 (3.2)",
   "live_moment": "RR chose to field.",
   "gemma_observations": [
     "Archer is bowling a tight opening over, focusing on accuracy.",
@@ -80,7 +80,8 @@
     "Venkatesh Iyer is aggressively targeting short balls from Archer.",
     " Bhuvneshwar Kumar is rotating strike and accumulating runs quickly.",
     "Venkatesh Iyer is aggressively targeting length, attempting boundaries.",
-    " Bhuvneshwar Kumar is rotating strike and defending cautiously."
+    " Bhuvneshwar Kumar is rotating strike and defending cautiously.",
+    " Bhuvneshwar Kumar is rotating the strike and attempting to see out the over."
   ],
-  "updated_at": "2026-04-10T09:45:40+05:30"
+  "updated_at": "2026-04-10T09:46:52+05:30"
 }
