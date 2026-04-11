@@ -12,19 +12,6 @@
   "live_batting": "Tristan Stubbs 60*(36), Kuldeep Yadav 3*(4)",
   "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 1/31 (3)",
   "live_moment": "DC need 30 runs in 11 balls.",
-  "gemma_observations": [
-    "Tristan Stubbs is aggressively targeting short balls from Khaleel Ahmed.",
-    "Kuldeep Yadav is rotating strike, attempting to time a boundary shot.",
-    "Kuldeep Yadav is attempting to restrict the scoring rate significantly.",
-    "Kuldeep Yadav is rotating strike and attempting to block the better bowling.",
-    "Tristan Stubbs is aggressively targeting Khaleel Ahmed for boundaries.",
-    "Kuldeep Yadav is rotating strike and attempting to block the yorkers.",
-    "Tristan Stubbs is aggressively targeting Anshul Kamboj for boundaries.",
-    "Stubbs is aggressively targeting Khaleel Ahmed for boundaries.",
-    "Kuldeep Yadav is defending cautiously, limiting scoring opportunities.",
-    "Stubbs is aggressively targeting Anshul Kamboj for boundaries.",
-    "Kuldeep Yadav is attempting to induce a false shot from Tristan Stubbs.",
-    "Kuldeep Yadav is attempting to restrict the scoring rate with tight lines."
-  ],
-  "updated_at": "2026-04-11T10:47:08+05:30"
+  "gemma_observations": [],
+  "updated_at": "2026-04-11T10:48:16+05:30"
 }
