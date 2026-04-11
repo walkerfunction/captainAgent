@@ -1,21 +1,19 @@
 {
   "match": {
-    "name": "16th Match",
+    "name": "17th Match",
     "teams": [
-      "Royal Challengers Bengaluru",
-      "Rajasthan Royals"
+      "Sunrisers Hyderabad",
+      "Punjab Kings"
     ],
-    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "RCB 201/8 (20 ov) & RR 202/4 (18 ov) \u2014 Match Over",
-  "live_batting": "Dhruv Jurel 81*(43), Ravindra Jadeja 24*(25)",
-  "live_bowling": "Bhuvneshwar Kumar 0/37 (4), Josh Hazlewood 2/44 (4), Abhinandan Singh 0/54 (3)",
-  "live_moment": "Match Over",
+  "live_score": "SRH 6/0 (0.2 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Abhishek Sharma 5*(2)",
+  "live_bowling": "Arshdeep Singh 0/6 (0.2)",
+  "live_moment": "PBKS chose to field.",
   "gemma_observations": [
-    "Jurel is aggressively targeting short balls from Hazlewood.",
-    "Dhruv Jurel aggressively targeted short balls against Bhuvneshwar Kumar.",
-    "Ravindra Jadeja rotated strike effectively, maintaining scoring pressure."
+    "Abhishek Sharma is prioritizing quick singles to build an early score."
   ],
-  "updated_at": "2026-04-10T11:33:31+05:30"
+  "updated_at": "2026-04-11T03:02:27+05:30"
 }
