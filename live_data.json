@@ -8,25 +8,13 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 40/0 (3.2 ov) \u2014 DC need 173 runs in 100 balls.",
-  "live_batting": "Pathum Nissanka 21*(14), KL Rahul 17*(8)",
-  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 0/16 (1), Anshul Kamboj 0/4 (0.2)",
-  "live_moment": "DC need 173 runs in 100 balls.",
+  "live_score": "CSK 212/2 (20 ov) & DC 47/0 (3.4 ov) \u2014 DC need 166 runs in 98 balls.",
+  "live_batting": "Pathum Nissanka 27*(15), KL Rahul 18*(9)",
+  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 0/16 (1), Anshul Kamboj 0/11 (0.4)",
+  "live_moment": "DC need 166 runs in 98 balls.",
   "gemma_observations": [
-    "Rahul is prioritizing dot balls to avoid immediate pressure on DC.",
-    "Rahul is prioritizing dot balls, attempting to reset the over.",
-    "Hosein is bowling a tight opening over, restricting scoring opportunities.",
-    "Rahul is prioritizing dot balls to avoid immediate pressure from Hosein.",
-    "Pathum Nissanka is cautiously rotating the strike against Khaleel Ahmed.",
     "Rahul is attempting to rotate the strike against Hosein.",
-    "Pathum Nissanka is prioritizing dot balls to avoid early wickets.",
-    "Rahul is prioritizing dot balls, attempting to frustrate Pathum Nissanka.",
-    "Rahul is attempting to rotate strike against Khaleel Ahmed.",
-    "Nissanka is prioritizing dot balls to build an innings.",
-    "Rahul is attempting to rotate the strike against Khaleel Ahmed.",
-    "Nissanka is prioritizing dot balls to conserve early momentum.",
-    "Rahul is attempting to rotate strike against Akeal Hosein.",
-    "Pathum Nissanka is prioritizing dot balls to build an innings."
+    "Pathum Nissanka is prioritizing dot balls to conserve wickets."
   ],
-  "updated_at": "2026-04-11T09:16:13+05:30"
+  "updated_at": "2026-04-11T09:17:27+05:30"
 }
