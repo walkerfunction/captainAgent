@@ -8,13 +8,15 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 175/3 (14.5 ov) \u2014 PBKS chose to field.",
-  "live_batting": "Heinrich Klaasen 22*(20), Aniket Verma 2*(2)",
-  "live_bowling": "Arshdeep Singh 1/42 (3), Xavier Bartlett 0/31 (2), Marco Jansen 0/30 (2.5)",
+  "live_score": "SRH 176/3 (15 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Heinrich Klaasen 23*(21), Aniket Verma 2*(2)",
+  "live_bowling": "Arshdeep Singh 1/42 (3), Xavier Bartlett 0/31 (2), Marco Jansen 0/31 (3)",
   "live_moment": "PBKS chose to field.",
   "gemma_observations": [
     "Klaasen is aggressively targeting length, seeking boundaries with frequency.",
-    "Arshdeep Singh is bowling a disciplined line, conceding few scoring opportunities."
+    "Arshdeep Singh is bowling a disciplined line, conceding few scoring opportunities.",
+    "Klaasen is aggressively targeting length, attempting boundaries consistently.",
+    "Arshdeep Singh is maintaining a disciplined line, preventing easy scoring."
   ],
-  "updated_at": "2026-04-11T04:18:00+05:30"
+  "updated_at": "2026-04-11T04:19:11+05:30"
 }
