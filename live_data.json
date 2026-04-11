@@ -8,14 +8,12 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 123/1 (12.2 ov) \u2014 DC chose to field.",
-  "live_batting": "Sanju Samson 77*(38), Ayush Mhatre 29*(18)",
+  "live_score": "CSK 129/1 (12.4 ov) \u2014 DC chose to field.",
+  "live_batting": "Sanju Samson 77*(38), Ayush Mhatre 35*(20)",
   "live_bowling": "Auqib Nabi 0/17 (2), Mukesh Kumar 0/14 (2), Axar Patel 1/28 (3)",
   "live_moment": "DC chose to field.",
   "gemma_observations": [
-    "Samson is consistently looking to drive through the off-side channel.",
-    "Samson is aggressively looking to score boundaries against Nabi.",
     "Samson is aggressively rotating the strike against Nabi."
   ],
-  "updated_at": "2026-04-11T08:01:35+05:30"
+  "updated_at": "2026-04-11T08:02:45+05:30"
 }
