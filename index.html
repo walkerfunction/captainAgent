@@ -657,6 +657,13 @@ function initials(name) {
     return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
 }
 
+// Mirrors src/live/poller.py:_match_id. Must stay in sync so SSR + poll
+// lookups into live_data.json.matches hit the same key the poller wrote.
+function matchIdFor(m) {
+    const teams = (m.teams || []).slice().sort();
+    return `${teams.join("_vs_")}_${m.date || ""}`;
+}
+
 function shortTeam(name) {
     const map = {
         "Sunrisers Hyderabad": "SRH", "Lucknow Super Giants": "LSG",
@@ -674,6 +681,7 @@ function renderMatch(analysis) {
     const teams = m.teams || [];
     const t1 = shortTeam(teams[0] || "TBD");
     const t2 = shortTeam(teams[1] || "TBD");
+    const mid = matchIdFor(m);
 
     let html = "";
 
@@ -695,28 +703,31 @@ function renderMatch(analysis) {
         <div class="match-meta">${m.venue || ""}${m.start_time_ist && !isLive ? " &middot; " + m.start_time_ist : ""}</div>
     </div>`;
 
-    // Live score (for in-progress or completed matches)
+    // Live score (for in-progress or completed matches). IDs are suffixed
+    // with the match id so multiple live cards on the same page don't collide
+    // and pollLiveData can update each one independently.
     if ((isLive || isDone) && m.live_score) {
         html += `
-        <div class="live-wrap">
-            <div class="live-card" id="live-card">
+        <div class="live-wrap" data-mid="${mid}">
+            <div class="live-card" id="live-card-${mid}">
                 <div class="live-badge">${isDone ? '' : '<span class="pulse"></span>'}${isDone ? 'FINAL' : 'LIVE'}</div>
-                <div class="live-score" id="live-score">${m.live_score}</div>
-                <div class="live-details" id="live-details">
+                <div class="live-score" id="live-score-${mid}">${m.live_score}</div>
+                <div class="live-details" id="live-details-${mid}">
                     ${m.live_batting ? `<span>&#127951; <strong>${m.live_batting}</strong></span>` : ""}
                     ${m.live_bowling ? `<span>&#9917; <strong>${m.live_bowling}</strong></span>` : ""}
                 </div>
-                ${m.live_moment ? `<div class="live-moment" id="live-moment">${m.live_moment}</div>` : ""}
+                ${m.live_moment ? `<div class="live-moment" id="live-moment-${mid}">${m.live_moment}</div>` : ""}
             </div>
         </div>`;
     }
 
-    // Gemma tactical observations
-    const gemmaObs = (window._liveData || {}).gemma_observations || [];
+    // Gemma tactical observations — scoped to THIS match via live_data.json.matches[mid]
+    const liveEntry = ((window._liveData || {}).matches || {})[mid] || {};
+    const gemmaObs = liveEntry.gemma_observations || [];
     if (isLive && gemmaObs.length > 0) {
         html += `
-        <div class="gemma-wrap">
-            <div class="gemma-card" id="gemma-card">
+        <div class="gemma-wrap" data-mid="${mid}">
+            <div class="gemma-card" id="gemma-card-${mid}">
                 <div class="gemma-label">Tactical Eye</div>
                 <div class="gemma-observations">
                     ${gemmaObs.map(o => `<div class="gemma-obs">${o}</div>`).join("")}
@@ -961,43 +972,48 @@ function updateNav() {
         now.toLocaleTimeString("en-IN", { hour: "2-digit", minute: "2-digit", hour12: false, timeZone: "Asia/Kolkata" }) + " IST";
 }
 
-// Poll live_data.json every 30s for real-time score updates
+// Poll live_data.json every 30s for real-time score updates.
+// live_data.json shape: {"matches": {mid: {match, live_score, ..., gemma_observations}}, ...}
 function pollLiveData() {
     fetch("live_data.json?t=" + Date.now())
         .then(r => r.ok ? r.json() : null)
         .then(data => {
-            if (!data || !data.live_score) return;
+            if (!data || !data.matches) return;
             window._liveData = data;
 
-            // Update score card in-place (no full re-render)
-            const scoreEl = document.getElementById("live-score");
-            const detailsEl = document.getElementById("live-details");
-            const momentEl = document.getElementById("live-moment");
-            const gemmaEl = document.getElementById("gemma-card");
+            for (const [mid, entry] of Object.entries(data.matches)) {
+                if (!entry || !entry.live_score) continue;
 
-            if (scoreEl) scoreEl.textContent = data.live_score;
-            if (detailsEl) {
-                let h = "";
-                if (data.live_batting) h += `<span>&#127951; <strong>${data.live_batting}</strong></span>`;
-                if (data.live_bowling) h += `<span>&#9917; <strong>${data.live_bowling}</strong></span>`;
-                detailsEl.innerHTML = h;
-            }
-            if (momentEl) momentEl.textContent = data.live_moment || "";
+                const scoreEl = document.getElementById("live-score-" + mid);
+                const detailsEl = document.getElementById("live-details-" + mid);
+                const momentEl = document.getElementById("live-moment-" + mid);
 
-            // Update Gemma observations
-            const obs = data.gemma_observations || [];
-            if (obs.length > 0) {
+                if (scoreEl) scoreEl.textContent = entry.live_score;
+                if (detailsEl) {
+                    let h = "";
+                    if (entry.live_batting) h += `<span>&#127951; <strong>${entry.live_batting}</strong></span>`;
+                    if (entry.live_bowling) h += `<span>&#9917; <strong>${entry.live_bowling}</strong></span>`;
+                    detailsEl.innerHTML = h;
+                }
+                if (momentEl) momentEl.textContent = entry.live_moment || "";
+
+                // Update Gemma observations — scoped to this match only
+                const obs = entry.gemma_observations || [];
+                if (obs.length === 0) continue;
+
+                let gemmaEl = document.getElementById("gemma-card-" + mid);
                 if (gemmaEl) {
                     gemmaEl.querySelector(".gemma-observations").innerHTML =
                         obs.map(o => `<div class="gemma-obs">${o}</div>`).join("");
                 } else {
-                    // Insert Gemma card if it didn't exist before
-                    const liveWrap = document.querySelector(".live-wrap");
+                    // Insert gemma-wrap next to this match's live-wrap
+                    const liveWrap = document.querySelector(`.live-wrap[data-mid="${mid}"]`);
                     if (liveWrap) {
                         const div = document.createElement("div");
                         div.className = "gemma-wrap";
+                        div.setAttribute("data-mid", mid);
                         div.innerHTML = `
-                            <div class="gemma-card" id="gemma-card">
+                            <div class="gemma-card" id="gemma-card-${mid}">
                                 <div class="gemma-label">Tactical Eye</div>
                                 <div class="gemma-observations">
                                     ${obs.map(o => `<div class="gemma-obs">${o}</div>`).join("")}
