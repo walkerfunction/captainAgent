@@ -8,10 +8,10 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 189/9 (19.5 ov) \u2014 DC need 24 runs in 1 ball.",
-  "live_batting": "Lungi Ngidi 3*(4), T Natarajan 1*(2)",
-  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 2/35 (3.5)",
-  "live_moment": "DC need 24 runs in 1 ball.",
+  "live_score": "CSK 212/2 (20 ov) & DC 189/10 (20 ov) \u2014 Match Over",
+  "live_batting": "T Natarajan 1*(2)",
+  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 3/35 (4)",
+  "live_moment": "Match Over",
   "gemma_observations": [
     "Kuldeep Yadav is bowling defensively, conceding only singles and twos.",
     "David Warner is attempting to hit boundaries against Khaleel Ahmed.",
@@ -20,7 +20,8 @@
     "Kuldeep Yadav is rotating strike and defending cautiously.",
     "Ngidi is defending cautiously, attempting to avoid a boundary.",
     "Natarajan is attempting to find the boundary with aggressive shots.",
-    "Ngidi is attempting to hit boundaries with increasing frequency."
+    "Ngidi is attempting to hit boundaries with increasing frequency.",
+    "Natarajan is rotating strike effectively to maintain scoring pressure."
   ],
-  "updated_at": "2026-04-11T10:59:22+05:30"
+  "updated_at": "2026-04-11T11:00:34+05:30"
 }
