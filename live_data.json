@@ -8,10 +8,10 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 5/0 (0.3 ov) \u2014 DC need 208 runs in 117 balls.",
-  "live_batting": "Pathum Nissanka 4*(4)",
-  "live_bowling": "Akeal Hosein 0/5 (0.3)",
-  "live_moment": "DC need 208 runs in 117 balls.",
+  "live_score": "CSK 212/2 (20 ov) & DC 7/0 (0.3 ov) \u2014 DC need 206 runs in 117 balls.",
+  "live_batting": "Pathum Nissanka 5*(5)",
+  "live_bowling": "Akeal Hosein 0/7 (0.3)",
+  "live_moment": "DC need 206 runs in 117 balls.",
   "gemma_observations": [
     "Dube is attempting to accelerate the scoring rate in the final overs.",
     "Dube is attempting to accelerate the scoring rate through boundaries.",
@@ -24,7 +24,8 @@
     "Dube is looking to accelerate the scoring rate through aggressive shots.",
     "Pathum Nissanka is prioritizing dot balls against Akeal Hosein.",
     "Nissanka is prioritizing defense, attempting to weather the initial storm.",
-    "Nissanka is prioritizing dot balls to avoid immediate pressure."
+    "Nissanka is prioritizing dot balls to avoid immediate pressure.",
+    "Nissanka is prioritizing dot balls to avoid immediate pressure on DC."
   ],
-  "updated_at": "2026-04-11T09:00:41+05:30"
+  "updated_at": "2026-04-11T09:01:50+05:30"
 }
