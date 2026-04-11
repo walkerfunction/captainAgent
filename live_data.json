@@ -8,10 +8,10 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 56/0 (4.3 ov) \u2014 DC need 157 runs in 93 balls.",
-  "live_batting": "Pathum Nissanka 36*(20), KL Rahul 18*(9)",
-  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 0/20 (1.3), Anshul Kamboj 0/16 (1)",
-  "live_moment": "DC need 157 runs in 93 balls.",
+  "live_score": "CSK 212/2 (20 ov) & DC 61/0 (4.5 ov) \u2014 DC need 152 runs in 91 balls.",
+  "live_batting": "Pathum Nissanka 41*(22), KL Rahul 18*(9)",
+  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 0/25 (1.5), Anshul Kamboj 0/16 (1)",
+  "live_moment": "DC need 152 runs in 91 balls.",
   "gemma_observations": [
     "Rahul is attempting to rotate the strike against Hosein.",
     "Pathum Nissanka is prioritizing dot balls to conserve wickets.",
@@ -19,7 +19,8 @@
     "Nissanka is prioritizing scoring runs and maintaining a good scoring rate.",
     "Nissanka is prioritizing dot balls to build a solid foundation.",
     "Rahul is prioritizing dot balls to avoid immediate acceleration.",
-    "Pathum Nissanka is rotating the strike effectively against the slower bowlers."
+    "Pathum Nissanka is rotating the strike effectively against the slower bowlers.",
+    "Nissanka is prioritizing consolidation and building an innings slowly."
   ],
-  "updated_at": "2026-04-11T09:22:16+05:30"
+  "updated_at": "2026-04-11T09:23:28+05:30"
 }
