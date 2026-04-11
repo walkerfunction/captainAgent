@@ -8,17 +8,18 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 73/3 (7.1 ov) \u2014 DC need 140 runs in 77 balls.",
-  "live_batting": "Sameer Rizvi 5*(5), David Miller 1*(4)",
+  "live_score": "CSK 212/2 (20 ov) & DC 74/3 (7.3 ov) \u2014 DC need 139 runs in 75 balls.",
+  "live_batting": "Sameer Rizvi 6*(7), David Miller 1*(4)",
   "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/25 (2), Anshul Kamboj 1/21 (2)",
-  "live_moment": "DC need 140 runs in 77 balls.",
+  "live_moment": "DC need 139 runs in 75 balls.",
   "gemma_observations": [
     "Rizvi is attempting to rotate the strike against Khaleel Ahmed.",
     "David Miller is attempting to accelerate scoring against Khaleel Ahmed.",
     "Sameer Rizvi is prioritizing rotation of the strike over aggressive hitting.",
     "David Miller is attempting to rotate the strike against Akeal Hosein.",
     "Sameer Rizvi is prioritizing dot balls to conserve wickets for DC.",
-    "David Miller is attempting to accelerate scoring against Akeal Hosein."
+    "David Miller is attempting to accelerate scoring against Akeal Hosein.",
+    "Sameer Rizvi is consistently looking to drive through the off-side channel."
   ],
-  "updated_at": "2026-04-11T09:39:25+05:30"
+  "updated_at": "2026-04-11T09:40:38+05:30"
 }
