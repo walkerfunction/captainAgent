@@ -8,10 +8,10 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 219/6 (20 ov) & PBKS 180/3 (15.2 ov) \u2014 PBKS need 40 runs in 28 balls.",
-  "live_batting": "Shreyas Iyer 43*(22), Nehal Wadhera 14*(13)",
-  "live_bowling": "Harsh Dubey 0/33 (3), Jaydev Unadkat 0/26 (2), Eshan Malinga 0/29 (2.2)",
-  "live_moment": "PBKS need 40 runs in 28 balls.",
+  "live_score": "SRH 219/6 (20 ov) & PBKS 185/3 (15.3 ov) \u2014 PBKS need 35 runs in 27 balls.",
+  "live_batting": "Shreyas Iyer 47*(23), Nehal Wadhera 14*(13)",
+  "live_bowling": "Harsh Dubey 0/33 (3), Jaydev Unadkat 0/26 (2), Eshan Malinga 0/34 (2.3)",
+  "live_moment": "PBKS need 35 runs in 27 balls.",
   "gemma_observations": [
     "Iyer is attempting to accelerate scoring through aggressive drives.",
     "Iyer is attempting to accelerate scoring through aggressive shots.",
@@ -20,5 +20,5 @@
     "Iyer is consistently looking to find gaps through drives and cuts.",
     "Wadhera is aggressively looking to score boundaries, a risky approach now."
   ],
-  "updated_at": "2026-04-11T06:27:19+05:30"
+  "updated_at": "2026-04-11T06:28:34+05:30"
 }
