@@ -8,10 +8,10 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 219/6 (20 ov) & PBKS 119/2 (9.2 ov) \u2014 PBKS need 101 runs in 64 balls.",
-  "live_batting": "Cooper Connolly 5*(8), Shreyas Iyer 2*(3)",
+  "live_score": "SRH 219/6 (20 ov) & PBKS 121/2 (9.4 ov) \u2014 PBKS need 99 runs in 62 balls.",
+  "live_batting": "Cooper Connolly 6*(9), Shreyas Iyer 3*(4)",
   "live_bowling": "Harsh Dubey 0/26 (2), Jaydev Unadkat 0/26 (2), Eshan Malinga 0/28 (2)",
-  "live_moment": "PBKS need 101 runs in 64 balls.",
+  "live_moment": "PBKS need 99 runs in 62 balls.",
   "gemma_observations": [
     "Prabhsimran Singh is aggressively targeting short balls from Harsh Dubey.",
     "Cooper Connolly is primarily focused on rotating the strike against Jaydev Unadkat.",
@@ -22,5 +22,5 @@
     "Cooper Connolly is attempting to accelerate the scoring rate.",
     "Shreyas Iyer is rotating the strike cautiously against Dubey."
   ],
-  "updated_at": "2026-04-11T05:56:30+05:30"
+  "updated_at": "2026-04-11T05:57:45+05:30"
 }
