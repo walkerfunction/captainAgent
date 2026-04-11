@@ -8,9 +8,9 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 9/0 (0.6 ov) \u2014 PBKS chose to field.",
-  "live_batting": "Abhishek Sharma 5*(2), Travis Head 2*(4)",
-  "live_bowling": "Arshdeep Singh 0/9 (0.6)",
+  "live_score": "SRH 13/0 (1.1 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Abhishek Sharma 9*(3), Travis Head 2*(4)",
+  "live_bowling": "Arshdeep Singh 0/9 (1), Xavier Bartlett 0/4 (0.1)",
   "live_moment": "PBKS chose to field.",
   "gemma_observations": [
     "Abhishek Sharma is prioritizing quick singles to build an early score.",
@@ -18,7 +18,8 @@
     "Arshdeep Singh is bowling a tight opening over, conceding no runs.",
     "Abhishek Sharma is aggressively targeting length early in his innings.",
     "Abhishek Sharma is prioritizing quick singles to start the innings.",
-    "Arshdeep Singh is bowling a tight opening over with minimal width."
+    "Arshdeep Singh is bowling a tight opening over with minimal width.",
+    "Travis Head is content rotating the strike and minimizing risk."
   ],
-  "updated_at": "2026-04-11T03:05:56+05:30"
+  "updated_at": "2026-04-11T03:07:07+05:30"
 }
