@@ -8,17 +8,18 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 171/7 (17.2 ov) \u2014 DC need 42 runs in 16 balls.",
-  "live_batting": "Tristan Stubbs 51*(33), Kuldeep Yadav 2*(2)",
-  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 1/21 (2.2)",
-  "live_moment": "DC need 42 runs in 16 balls.",
+  "live_score": "CSK 212/2 (20 ov) & DC 176/7 (17.4 ov) \u2014 DC need 37 runs in 14 balls.",
+  "live_batting": "Tristan Stubbs 56*(35), Kuldeep Yadav 2*(2)",
+  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 1/26 (2.4)",
+  "live_moment": "DC need 37 runs in 14 balls.",
   "gemma_observations": [
     "Tristan Stubbs is aggressively targeting short balls from Khaleel Ahmed.",
     "Kuldeep Yadav is rotating strike, attempting to time a boundary shot.",
     "Kuldeep Yadav is attempting to restrict the scoring rate significantly.",
     "Kuldeep Yadav is rotating strike and attempting to block the better bowling.",
     "Tristan Stubbs is aggressively targeting Khaleel Ahmed for boundaries.",
-    "Kuldeep Yadav is rotating strike and attempting to block the yorkers."
+    "Kuldeep Yadav is rotating strike and attempting to block the yorkers.",
+    "Tristan Stubbs is aggressively targeting Anshul Kamboj for boundaries."
   ],
-  "updated_at": "2026-04-11T10:42:17+05:30"
+  "updated_at": "2026-04-11T10:43:33+05:30"
 }
