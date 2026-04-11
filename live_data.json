@@ -8,14 +8,16 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 184/8 (18.5 ov) \u2014 DC need 29 runs in 7 balls.",
-  "live_batting": "Kuldeep Yadav 3*(5), Lungi Ngidi 1*(1)",
+  "live_score": "CSK 212/2 (20 ov) & DC 185/8 (19 ov) \u2014 DC need 28 runs in 6 balls.",
+  "live_batting": "Kuldeep Yadav 4*(6), Lungi Ngidi 1*(1)",
   "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 1/31 (3)",
-  "live_moment": "DC need 29 runs in 7 balls.",
+  "live_moment": "DC need 28 runs in 6 balls.",
   "gemma_observations": [
     "Kuldeep Yadav is bowling defensively, conceding only singles and twos.",
     "David Warner is attempting to hit boundaries against Khaleel Ahmed.",
-    "Kuldeep Yadav is rotating his bat, looking for a single to maintain pressure."
+    "Kuldeep Yadav is rotating his bat, looking for a single to maintain pressure.",
+    "Ngidi is attempting to find the boundary with increasing frequency.",
+    "Kuldeep Yadav is rotating strike and defending cautiously."
   ],
-  "updated_at": "2026-04-11T10:51:59+05:30"
+  "updated_at": "2026-04-11T10:53:13+05:30"
 }
