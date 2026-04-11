@@ -8,12 +8,14 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 144/2 (11.1 ov) \u2014 PBKS chose to field.",
-  "live_batting": "Ishan Kishan 10*(9), Heinrich Klaasen 10*(8)",
-  "live_bowling": "Arshdeep Singh 0/33 (2), Xavier Bartlett 0/31 (2), Marco Jansen 0/17 (1.1)",
+  "live_score": "SRH 150/2 (11.4 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Ishan Kishan 15*(11), Heinrich Klaasen 11*(9)",
+  "live_bowling": "Arshdeep Singh 0/33 (2), Xavier Bartlett 0/31 (2), Marco Jansen 0/23 (1.4)",
   "live_moment": "PBKS chose to field.",
   "gemma_observations": [
-    "Kishan is prioritizing length and attempting to rotate the strike."
+    "Kishan is prioritizing length and attempting to rotate the strike.",
+    "Kishan is aggressively targeting short balls from Bartlett.",
+    "Klaasen is rotating the strike effectively against Jansen."
   ],
-  "updated_at": "2026-04-11T04:02:29+05:30"
+  "updated_at": "2026-04-11T04:03:42+05:30"
 }
