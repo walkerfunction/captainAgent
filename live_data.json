@@ -8,9 +8,9 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 197/2 (19 ov) \u2014 DC chose to field.",
-  "live_batting": "Sanju Samson 112*(54), Shivam Dube 8*(6)",
-  "live_bowling": "Auqib Nabi 0/17 (2), Mukesh Kumar 0/22 (3), Axar Patel 1/39 (4)",
+  "live_score": "CSK 204/2 (19.2 ov) \u2014 DC chose to field.",
+  "live_batting": "Sanju Samson 112*(54), Shivam Dube 15*(8)",
+  "live_bowling": "Auqib Nabi 0/17 (2), Mukesh Kumar 0/29 (3.2), Axar Patel 1/39 (4)",
   "live_moment": "DC chose to field.",
   "gemma_observations": [
     "Samson is aggressively rotating the strike against Nabi.",
@@ -18,7 +18,8 @@
     "Dube is content to play supporting roles, prioritizing scoring opportunities.",
     "Samson is aggressively rotating the strike against Mukesh Kumar.",
     "Auqib Nabi is bowling a disciplined line and length, conceding few runs.",
-    "Dube is rotating strike and hitting boundaries against Nabi."
+    "Dube is rotating strike and hitting boundaries against Nabi.",
+    "Dube is attempting to accelerate the scoring rate."
   ],
-  "updated_at": "2026-04-11T08:39:00+05:30"
+  "updated_at": "2026-04-11T08:40:11+05:30"
 }
