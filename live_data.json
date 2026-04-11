@@ -8,10 +8,12 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 218/6 (19.5 ov) \u2014 PBKS chose to field.",
-  "live_batting": "Nitish Kumar Reddy 0*(1), Harsh Dubey 0*(1)",
-  "live_bowling": "Arshdeep Singh 2/50 (4), Xavier Bartlett 1/41 (3.5), Marco Jansen 0/40 (4)",
+  "live_score": "SRH 219/6 (20 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Nitish Kumar Reddy 0*(1), Harsh Dubey 1*(2)",
+  "live_bowling": "Arshdeep Singh 2/50 (4), Xavier Bartlett 1/42 (4), Marco Jansen 0/40 (4)",
   "live_moment": "PBKS chose to field.",
-  "gemma_observations": [],
-  "updated_at": "2026-04-11T04:47:27+05:30"
+  "gemma_observations": [
+    "Harsh Dubey is attempting to accelerate towards the end of the innings."
+  ],
+  "updated_at": "2026-04-11T04:48:39+05:30"
 }
