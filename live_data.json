@@ -8,8 +8,8 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 120/0 (8 ov) \u2014 PBKS chose to field.",
-  "live_batting": "Abhishek Sharma 74*(27), Travis Head 38*(22)",
+  "live_score": "SRH 120/1 (8.1 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Abhishek Sharma 74*(27)",
   "live_bowling": "Arshdeep Singh 0/33 (2), Xavier Bartlett 0/31 (2), Marco Jansen 0/16 (1)",
   "live_moment": "PBKS chose to field.",
   "gemma_observations": [
@@ -26,7 +26,8 @@
     "Travis Head is rotating the strike effectively against Bartlett.",
     "Travis Head is rotating the strike and maintaining a good scoring rate.",
     "Abhishek Sharma is aggressively targeting length and finding boundaries consistently.",
-    "Travis Head is rotating the strike effectively, prioritizing scoring opportunities."
+    "Travis Head is rotating the strike effectively, prioritizing scoring opportunities.",
+    "Arshdeep Singh is struggling to find a consistent line and length."
   ],
-  "updated_at": "2026-04-11T03:45:58+05:30"
+  "updated_at": "2026-04-11T03:47:09+05:30"
 }
