@@ -8,9 +8,9 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 214/4 (18.4 ov) \u2014 PBKS chose to field.",
-  "live_batting": "Heinrich Klaasen 35*(29), Salil Arora 9*(7)",
-  "live_bowling": "Arshdeep Singh 1/50 (3.4), Xavier Bartlett 0/37 (3), Marco Jansen 0/40 (4)",
+  "live_score": "SRH 214/5 (18.5 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Heinrich Klaasen 35*(29)",
+  "live_bowling": "Arshdeep Singh 2/50 (3.5), Xavier Bartlett 0/37 (3), Marco Jansen 0/40 (4)",
   "live_moment": "PBKS chose to field.",
   "gemma_observations": [
     "Arora is primarily defending, offering little attacking intent.",
@@ -19,5 +19,5 @@
     "Arshdeep Singh is maintaining a disciplined line, preventing easy scoring.",
     "Klaasen is aggressively targeting length, attempting to clear the boundary."
   ],
-  "updated_at": "2026-04-11T04:38:08+05:30"
+  "updated_at": "2026-04-11T04:39:20+05:30"
 }
