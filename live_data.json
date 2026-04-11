@@ -8,24 +8,12 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 66/2 (5.6 ov) \u2014 DC need 147 runs in 84 balls.",
-  "live_batting": "Sameer Rizvi 4*(3), Axar Patel 1*(1)",
-  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/25 (2), Anshul Kamboj 1/21 (1.6)",
-  "live_moment": "DC need 147 runs in 84 balls.",
+  "live_score": "CSK 212/2 (20 ov) & DC 66/3 (6.1 ov) \u2014 DC need 147 runs in 83 balls.",
+  "live_batting": "Sameer Rizvi 4*(3)",
+  "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/25 (2), Anshul Kamboj 1/21 (2)",
+  "live_moment": "DC need 147 runs in 83 balls.",
   "gemma_observations": [
-    "Rahul is attempting to rotate the strike against Hosein.",
-    "Pathum Nissanka is prioritizing dot balls to conserve wickets.",
-    "Pathum Nissanka is prioritizing scoring quickly through aggressive drives.",
-    "Nissanka is prioritizing scoring runs and maintaining a good scoring rate.",
-    "Nissanka is prioritizing dot balls to build a solid foundation.",
-    "Rahul is prioritizing dot balls to avoid immediate acceleration.",
-    "Pathum Nissanka is rotating the strike effectively against the slower bowlers.",
-    "Nissanka is prioritizing consolidation and building an innings slowly.",
-    "Nissanka is consistently looking to drive through the off-side channel.",
-    "David Warner is attempting to accelerate his scoring rate against Khaleel Ahmed.",
-    "Axar Patel is attempting to rotate the strike against Khaleel Ahmed.",
-    "Rizvi is attempting to rotate the strike against Khaleel Ahmed.",
-    "Axar Patel is playing cautiously, prioritizing defense and minimizing risk."
+    "Rizvi is attempting to rotate the strike against Khaleel Ahmed."
   ],
-  "updated_at": "2026-04-11T09:31:58+05:30"
+  "updated_at": "2026-04-11T09:33:13+05:30"
 }
