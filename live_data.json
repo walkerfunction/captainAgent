@@ -8,27 +8,12 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 199/4 (17.1 ov) \u2014 PBKS chose to field.",
-  "live_batting": "Heinrich Klaasen 28*(26), Salil Arora 1*(1)",
-  "live_bowling": "Arshdeep Singh 1/42 (3), Xavier Bartlett 0/37 (3), Marco Jansen 0/33 (3.1)",
+  "live_score": "SRH 199/4 (17.3 ov) \u2014 PBKS chose to field.",
+  "live_batting": "Heinrich Klaasen 28*(26), Salil Arora 1*(3)",
+  "live_bowling": "Arshdeep Singh 1/42 (3), Xavier Bartlett 0/37 (3), Marco Jansen 0/33 (3.3)",
   "live_moment": "PBKS chose to field.",
   "gemma_observations": [
-    "Klaasen is aggressively targeting length, seeking boundaries with frequency.",
-    "Arshdeep Singh is bowling a disciplined line, conceding few scoring opportunities.",
-    "Klaasen is aggressively targeting length, attempting boundaries consistently.",
-    "Arshdeep Singh is maintaining a disciplined line, preventing easy scoring.",
-    "Klaasen is aggressively targeting short boundaries with a clear intent to score quickly.",
-    "Arshdeep Singh is bowling a slightly fuller length, allowing Klaasen space to hit.",
-    "Arshdeep Singh is bowling a slightly fuller length, allowing Klaasen space.",
-    "Klaasen is aggressively targeting length, attempting boundaries frequently.",
-    "Arshdeep Singh is bowling a disciplined line and length, restricting scoring opportunities.",
-    "Verma is content to rotate strike with quick singles.",
-    "Verma is attempting to accelerate the scoring rate.",
-    "Arshdeep Singh is bowling a disciplined line, conceding only a few runs.",
-    "Klaasen is aggressively targeting length, attempting to clear the boundary.",
-    "Klaasen is aggressively targeting short boundaries with a clear scoring intent.",
-    "Arshdeep Singh is bowling a slightly fuller length, conceding easy runs.",
-    "Arora is content to play defensively, offering little resistance."
+    "Arora is primarily defending, offering little attacking intent."
   ],
-  "updated_at": "2026-04-11T04:32:11+05:30"
+  "updated_at": "2026-04-11T04:33:22+05:30"
 }
