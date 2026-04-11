@@ -8,13 +8,14 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 219/6 (20 ov) & PBKS 40/0 (2.6 ov) \u2014 PBKS need 180 runs in 102 balls.",
-  "live_batting": "Priyansh Arya 18*(8), Prabhsimran Singh 22*(10)",
-  "live_bowling": "Harsh Dubey 0/18 (1), Jaydev Unadkat 0/11 (1), Eshan Malinga 0/11 (0.6)",
-  "live_moment": "PBKS need 180 runs in 102 balls.",
+  "live_score": "SRH 219/6 (20 ov) & PBKS 46/0 (3.1 ov) \u2014 PBKS need 174 runs in 101 balls.",
+  "live_batting": "Priyansh Arya 18*(8), Prabhsimran Singh 28*(11)",
+  "live_bowling": "Harsh Dubey 0/18 (1), Jaydev Unadkat 0/17 (1.1), Eshan Malinga 0/11 (1)",
+  "live_moment": "PBKS need 174 runs in 101 balls.",
   "gemma_observations": [
     "Priyansh Arya is prioritizing dot balls to conserve his wicket.",
-    "Priyansh Arya is attempting to rotate the strike against Jaydev Unadkat."
+    "Priyansh Arya is attempting to rotate the strike against Jaydev Unadkat.",
+    "Priyansh Arya is prioritizing rotation of strike over attempting big shots."
   ],
-  "updated_at": "2026-04-11T05:18:55+05:30"
+  "updated_at": "2026-04-11T05:20:12+05:30"
 }
