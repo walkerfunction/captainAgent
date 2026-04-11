@@ -8,16 +8,17 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 11/0 (1.3 ov) \u2014 DC chose to field.",
-  "live_batting": "Sanju Samson 9*(5), Ruturaj Gaikwad 1*(4)",
-  "live_bowling": "Auqib Nabi 0/10 (1), Mukesh Kumar 0/1 (0.3)",
+  "live_score": "CSK 12/0 (1.4 ov) \u2014 DC chose to field.",
+  "live_batting": "Sanju Samson 9*(5), Ruturaj Gaikwad 2*(5)",
+  "live_bowling": "Auqib Nabi 0/10 (1), Mukesh Kumar 0/2 (0.4)",
   "live_moment": "DC chose to field.",
   "gemma_observations": [
     "Samson is attempting to rotate the strike early against Nabi.",
     "Gaikwad is prioritizing dot balls to start the innings cautiously.",
     "Samson is attempting to build pressure with tight lengths early on.",
     "Samson is attempting to build pressure with tight lines early on.",
-    "Gaikwad is prioritizing dot balls to build a solid foundation."
+    "Gaikwad is prioritizing dot balls to build a solid foundation.",
+    "Samson is rotating strike, attempting to build an early partnership."
   ],
-  "updated_at": "2026-04-11T07:08:34+05:30"
+  "updated_at": "2026-04-11T07:09:42+05:30"
 }
