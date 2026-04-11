@@ -8,16 +8,17 @@
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
     "status": "live"
   },
-  "live_score": "SRH 219/6 (20 ov) & PBKS 210/4 (17.5 ov) \u2014 PBKS need 10 runs in 13 balls.",
-  "live_batting": "Shreyas Iyer 67*(31), Shashank Singh 5*(5)",
-  "live_bowling": "Harsh Dubey 1/38 (4), Jaydev Unadkat 0/34 (2.5), Eshan Malinga 0/46 (3)",
-  "live_moment": "PBKS need 10 runs in 13 balls.",
+  "live_score": "SRH 219/6 (20 ov) & PBKS 216/4 (18 ov) \u2014 PBKS need 4 runs in 12 balls.",
+  "live_batting": "Shreyas Iyer 67*(31), Shashank Singh 11*(6)",
+  "live_bowling": "Harsh Dubey 1/38 (4), Jaydev Unadkat 0/40 (3), Eshan Malinga 0/46 (3)",
+  "live_moment": "PBKS need 4 runs in 12 balls.",
   "gemma_observations": [
     "Shreyas Iyer is consistently rotating the strike against Jaydev Unadkat.",
     "Iyer is consistently looking to find gaps on the off-side for boundaries.",
     "Iyer is consistently looking for gaps in the attack, prioritizing singles and twos.",
     "Shreyas Iyer is consistently targeting length, attempting to rotate the strike.",
-    "Shashank Singh is playing cautiously, prioritizing singles over risky shots."
+    "Shashank Singh is playing cautiously, prioritizing singles over risky shots.",
+    "Shreyas Iyer is consistently looking for boundaries against Dubey."
   ],
-  "updated_at": "2026-04-11T06:39:46+05:30"
+  "updated_at": "2026-04-11T06:40:59+05:30"
 }
