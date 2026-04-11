@@ -8,10 +8,12 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 183/7 (18.1 ov) \u2014 DC need 30 runs in 11 balls.",
-  "live_batting": "Tristan Stubbs 60*(36), Kuldeep Yadav 3*(4)",
+  "live_score": "CSK 212/2 (20 ov) & DC 183/8 (18.3 ov) \u2014 DC need 30 runs in 9 balls.",
+  "live_batting": "Kuldeep Yadav 3*(4)",
   "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 1/31 (3)",
-  "live_moment": "DC need 30 runs in 11 balls.",
-  "gemma_observations": [],
-  "updated_at": "2026-04-11T10:48:16+05:30"
+  "live_moment": "DC need 30 runs in 9 balls.",
+  "gemma_observations": [
+    "Kuldeep Yadav is bowling defensively, conceding only singles and twos."
+  ],
+  "updated_at": "2026-04-11T10:49:31+05:30"
 }
