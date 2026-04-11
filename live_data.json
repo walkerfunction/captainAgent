@@ -8,10 +8,10 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 83/4 (9.2 ov) \u2014 DC need 130 runs in 64 balls.",
-  "live_batting": "David Miller 5*(8), Tristan Stubbs 4*(5)",
+  "live_score": "CSK 212/2 (20 ov) & DC 84/4 (9.3 ov) \u2014 DC need 129 runs in 63 balls.",
+  "live_batting": "David Miller 6*(9), Tristan Stubbs 4*(5)",
   "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/25 (2), Anshul Kamboj 1/21 (2)",
-  "live_moment": "DC need 130 runs in 64 balls.",
+  "live_moment": "DC need 129 runs in 63 balls.",
   "gemma_observations": [
     "David Miller is attempting to accelerate scoring against Khaleel Ahmed.",
     "Tristan Stubbs is prioritizing defense, limiting scoring opportunities.",
@@ -20,7 +20,8 @@
     "Tristan Stubbs is prioritizing dot balls to avoid wickets against Akeal Hosein.",
     "Tristan Stubbs is prioritizing dot balls to avoid wickets with Akeal Hosein.",
     "Tristan Stubbs is prioritizing dot balls to avoid wickets.",
-    "David Miller is attempting to accelerate the scoring rate significantly."
+    "David Miller is attempting to accelerate the scoring rate significantly.",
+    "David Miller is attempting to accelerate the scoring rate for DC."
   ],
-  "updated_at": "2026-04-11T09:53:59+05:30"
+  "updated_at": "2026-04-11T09:55:11+05:30"
 }
