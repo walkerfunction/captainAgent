@@ -8,15 +8,17 @@
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "status": "live"
   },
-  "live_score": "CSK 212/2 (20 ov) & DC 153/6 (15 ov) \u2014 DC need 60 runs in 30 balls.",
-  "live_batting": "Tristan Stubbs 35*(22), Auqib Nabi 4*(1)",
+  "live_score": "CSK 212/2 (20 ov) & DC 153/6 (15.1 ov) \u2014 DC need 60 runs in 29 balls.",
+  "live_batting": "Tristan Stubbs 35*(23), Auqib Nabi 4*(1)",
   "live_bowling": "Akeal Hosein 0/20 (2), Khaleel Ahmed 1/40 (3), Anshul Kamboj 1/21 (2)",
-  "live_moment": "DC need 60 runs in 30 balls.",
+  "live_moment": "DC need 60 runs in 29 balls.",
   "gemma_observations": [
     "Ashutosh Sharma is attempting to rotate the strike against Akeal Hosein.",
     "Ashutosh Sharma is attempting to accelerate the scoring rate.",
     "Tristan Stubbs is aggressively targeting short balls from Khaleel Ahmed.",
-    "Nabi is content rotating the strike and minimizing risk."
+    "Nabi is content rotating the strike and minimizing risk.",
+    "Stubbs is aggressively targeting short balls from Akeal Hosein.",
+    "Nabi is primarily rotating the strike, prioritizing dot balls."
   ],
-  "updated_at": "2026-04-11T10:28:41+05:30"
+  "updated_at": "2026-04-11T10:29:55+05:30"
 }
