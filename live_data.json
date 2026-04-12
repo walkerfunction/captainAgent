@@ -10,16 +10,16 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 240/4 (20 ov) & MI 6/0 (0.3 ov) \u2014 MI need 235 runs in 117 balls.",
-      "live_batting": "Ryan Rickelton 6*(3)",
-      "live_bowling": "Jacob Duffy 0/6 (0.3)",
-      "live_moment": "MI need 235 runs in 117 balls.",
+      "live_score": "RCB 240/4 (20 ov) & MI 10/0 (0.6 ov) \u2014 MI need 231 runs in 114 balls.",
+      "live_batting": "Ryan Rickelton 10*(6)",
+      "live_bowling": "Jacob Duffy 0/10 (0.6)",
+      "live_moment": "MI need 231 runs in 114 balls.",
       "gemma_observations": [
         "Tim David is aggressively targeting length, attempting boundaries.",
         "Rickelton is attempting to rotate the strike against Duffy."
       ],
-      "updated_at": "2026-04-12T09:20:41+05:30"
+      "updated_at": "2026-04-12T09:21:50+05:30"
     }
   },
-  "updated_at": "2026-04-12T09:20:41+05:30"
+  "updated_at": "2026-04-12T09:21:50+05:30"
 }
