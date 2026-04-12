@@ -10,16 +10,17 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 164/8 (20 ov) & GT 4/0 (0.5 ov) \u2014 GT need 161 runs in 115 balls.",
-      "live_batting": "Sai Sudharsan 4*(5)",
-      "live_bowling": "Mohammed Shami 0/4 (0.5)",
-      "live_moment": "GT need 161 runs in 115 balls.",
+      "live_score": "LSG 164/8 (20 ov) & GT 8/0 (1 ov) \u2014 GT need 157 runs in 114 balls.",
+      "live_batting": "Sai Sudharsan 8*(6)",
+      "live_bowling": "Mohammed Shami 0/8 (1)",
+      "live_moment": "GT need 157 runs in 114 balls.",
       "gemma_observations": [
         "Sudharsan is prioritizing dot balls to start the innings cautiously.",
-        "Sudharsan is prioritizing dot balls to start the innings."
+        "Sudharsan is prioritizing dot balls to start the innings.",
+        "Sudharsan is prioritizing pace and length to start the innings."
       ],
-      "updated_at": "2026-04-12T05:03:41+05:30"
+      "updated_at": "2026-04-12T05:04:54+05:30"
     }
   },
-  "updated_at": "2026-04-12T05:03:41+05:30"
+  "updated_at": "2026-04-12T05:04:54+05:30"
 }
