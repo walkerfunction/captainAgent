@@ -10,20 +10,15 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 116/5 (15.5 ov) \u2014 GT chose to field.",
-      "live_batting": "Abdul Samad 18*(21), Mukul Choudhary 6*(6)",
-      "live_bowling": "Mohammed Siraj 1/18 (3.5), Kagiso Rabada 1/43 (3), Ashok Sharma 0/13 (2)",
+      "live_score": "LSG 117/5 (16 ov) \u2014 GT chose to field.",
+      "live_batting": "Abdul Samad 18*(21), Mukul Choudhary 7*(7)",
+      "live_bowling": "Mohammed Siraj 1/19 (4), Kagiso Rabada 1/43 (3), Ashok Sharma 0/13 (2)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
-        "Mukul Choudhary is playing cautiously, prioritizing rotation of the strike.",
-        "Abdul Samad is attempting to accelerate scoring through aggressive drives.",
-        "Mukul Choudhary is prioritizing defense with short balls from Rabada.",
-        "Mukul Choudhary is prioritizing defense and rotating the strike.",
-        "Samad is attempting to accelerate his scoring rate against Siraj.",
-        "Choudhary is rotating the strike aggressively, likely targeting Sharma."
+        "Abdul Samad is attempting to accelerate his scoring rate against Siraj."
       ],
-      "updated_at": "2026-04-12T04:16:51+05:30"
+      "updated_at": "2026-04-12T04:18:03+05:30"
     }
   },
-  "updated_at": "2026-04-12T04:16:51+05:30"
+  "updated_at": "2026-04-12T04:18:03+05:30"
 }
