@@ -10,9 +10,9 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 68/0 (5.4 ov) \u2014 MI chose to field.",
-      "live_batting": "Phil Salt 46*(21), Virat Kohli 21*(13)",
-      "live_bowling": "Trent Boult 0/24 (2), Hardik Pandya 0/9 (1), Jasprit Bumrah 0/13 (1.4)",
+      "live_score": "RCB 70/0 (5.5 ov) \u2014 MI chose to field.",
+      "live_batting": "Phil Salt 47*(22), Virat Kohli 21*(13)",
+      "live_bowling": "Trent Boult 0/24 (2), Hardik Pandya 0/9 (1), Jasprit Bumrah 0/15 (1.5)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [
         "Virat Kohli is rotating strike and accumulating runs through solid defense.",
@@ -22,8 +22,8 @@
         "Virat Kohli is rotating strike and looking for gaps against Pandya.",
         "Virat Kohli is rotating strike and building a solid foundation."
       ],
-      "updated_at": "2026-04-12T07:30:23+05:30"
+      "updated_at": "2026-04-12T07:31:34+05:30"
     }
   },
-  "updated_at": "2026-04-12T07:30:23+05:30"
+  "updated_at": "2026-04-12T07:31:34+05:30"
 }
