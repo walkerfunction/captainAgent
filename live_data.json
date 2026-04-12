@@ -10,20 +10,20 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 201/3 (17 ov) \u2014 MI chose to field.",
-      "live_batting": "Tim David 4*(4), Jitesh Sharma 5*(4)",
-      "live_bowling": "Trent Boult 0/40 (3), Hardik Pandya 1/23 (3), Jasprit Bumrah 0/23 (3)",
+      "live_score": "RCB 205/3 (17.1 ov) \u2014 MI chose to field.",
+      "live_batting": "Tim David 8*(5), Jitesh Sharma 5*(4)",
+      "live_bowling": "Trent Boult 0/40 (3), Hardik Pandya 1/27 (3.1), Jasprit Bumrah 0/23 (3)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [
-        "Tim David is attempting to rotate strike against Hardik Pandya.",
-        "Tim David is attempting to accelerate the scoring rate against Boult.",
         "Jitesh Sharma is prioritizing dot balls to maintain a defensive stance.",
         "Tim David is aggressively targeting length, attempting boundaries.",
         "Jitesh Sharma is rotating strike and looking for singles.",
-        "Jitesh Sharma is prioritizing dot balls to maintain his strike rate."
+        "Jitesh Sharma is prioritizing dot balls to maintain his strike rate.",
+        "Tim David is attempting to accelerate the scoring rate aggressively.",
+        "Jitesh Sharma is prioritizing dot balls to maintain a stable platform."
       ],
-      "updated_at": "2026-04-12T08:41:04+05:30"
+      "updated_at": "2026-04-12T08:42:15+05:30"
     }
   },
-  "updated_at": "2026-04-12T08:41:04+05:30"
+  "updated_at": "2026-04-12T08:42:15+05:30"
 }
