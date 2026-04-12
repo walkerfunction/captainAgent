@@ -10,16 +10,17 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 164/8 (20 ov) & GT 78/1 (9.1 ov) \u2014 GT need 87 runs in 65 balls.",
-      "live_batting": "Shubman Gill 45*(28), Jos Buttler 18*(13)",
+      "live_score": "LSG 164/8 (20 ov) & GT 81/1 (9.2 ov) \u2014 GT need 84 runs in 64 balls.",
+      "live_batting": "Shubman Gill 47*(29), Jos Buttler 18*(13)",
       "live_bowling": "Mohammed Shami 0/30 (3), Prince Yadav 0/15 (2), Digvesh Rathi 1/12 (2)",
-      "live_moment": "GT need 87 runs in 65 balls.",
+      "live_moment": "GT need 84 runs in 64 balls.",
       "gemma_observations": [
         "Buttler is increasingly looking to attack, attempting boundaries regularly.",
-        "Shubman Gill is rotating the strike effectively, prioritizing a long innings."
+        "Shubman Gill is rotating the strike effectively, prioritizing a long innings.",
+        "Shubman Gill is rotating the strike effectively, frustrating the GT bowlers."
       ],
-      "updated_at": "2026-04-12T05:47:45+05:30"
+      "updated_at": "2026-04-12T05:49:00+05:30"
     }
   },
-  "updated_at": "2026-04-12T05:47:45+05:30"
+  "updated_at": "2026-04-12T05:49:00+05:30"
 }
