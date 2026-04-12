@@ -10,10 +10,10 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 164/8 (20 ov) & GT 148/3 (17.2 ov) \u2014 GT need 17 runs in 16 balls.",
-      "live_batting": "Washington Sundar 10*(8), Rahul Tewatia 4*(5)",
-      "live_bowling": "Mohammed Shami 1/36 (4), Prince Yadav 1/20 (3.2), Digvesh Rathi 1/31 (4)",
-      "live_moment": "GT need 17 runs in 16 balls.",
+      "live_score": "LSG 164/8 (20 ov) & GT 153/3 (17.4 ov) \u2014 GT need 12 runs in 14 balls.",
+      "live_batting": "Washington Sundar 14*(9), Rahul Tewatia 5*(6)",
+      "live_bowling": "Mohammed Shami 1/36 (4), Prince Yadav 1/25 (3.4), Digvesh Rathi 1/31 (4)",
+      "live_moment": "GT need 12 runs in 14 balls.",
       "gemma_observations": [
         "Washington Sundar is attempting to rotate the strike against Shami.",
         "The GT innings is now firmly in a scoring phase.",
@@ -22,8 +22,8 @@
         "Sundar is attempting to accelerate with boundaries to shorten the GT chase.",
         "Washington Sundar is attempting to rotate strike against Prince Yadav."
       ],
-      "updated_at": "2026-04-12T06:30:00+05:30"
+      "updated_at": "2026-04-12T06:31:13+05:30"
     }
   },
-  "updated_at": "2026-04-12T06:30:00+05:30"
+  "updated_at": "2026-04-12T06:31:13+05:30"
 }
