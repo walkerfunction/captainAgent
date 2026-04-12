@@ -10,19 +10,20 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 240/4 (20 ov) & MI 20/0 (1.5 ov) \u2014 MI need 221 runs in 109 balls.",
-      "live_batting": "Ryan Rickelton 17*(8), Rohit Sharma 2*(3)",
-      "live_bowling": "Jacob Duffy 0/10 (1), Bhuvneshwar Kumar 0/10 (0.5)",
-      "live_moment": "MI need 221 runs in 109 balls.",
+      "live_score": "RCB 240/4 (20 ov) & MI 25/0 (2.1 ov) \u2014 MI need 216 runs in 107 balls.",
+      "live_batting": "Ryan Rickelton 22*(10), Rohit Sharma 2*(3)",
+      "live_bowling": "Jacob Duffy 0/14 (1.1), Bhuvneshwar Kumar 0/11 (1)",
+      "live_moment": "MI need 216 runs in 107 balls.",
       "gemma_observations": [
         "Tim David is aggressively targeting length, attempting boundaries.",
         "Rickelton is attempting to rotate the strike against Duffy.",
         "Rickelton is prioritizing length and attempting to rotate the strike.",
         "Kumar is bowling defensively, conceding no boundaries in his opening overs.",
-        "Ryan Rickelton is attempting to rotate the strike against Jacob Duffy."
+        "Ryan Rickelton is attempting to rotate the strike against Jacob Duffy.",
+        "Ryan Rickelton is attempting to accelerate the scoring rate aggressively."
       ],
-      "updated_at": "2026-04-12T09:27:46+05:30"
+      "updated_at": "2026-04-12T09:28:57+05:30"
     }
   },
-  "updated_at": "2026-04-12T09:27:46+05:30"
+  "updated_at": "2026-04-12T09:28:57+05:30"
 }
