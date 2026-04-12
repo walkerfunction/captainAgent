@@ -10,17 +10,19 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 96/4 (13.1 ov) \u2014 GT chose to field.",
-      "live_batting": "Nicholas Pooran 6*(14), Abdul Samad 17*(18)",
+      "live_score": "LSG 108/4 (13.4 ov) \u2014 GT chose to field.",
+      "live_batting": "Nicholas Pooran 18*(17), Abdul Samad 17*(18)",
       "live_bowling": "Mohammed Siraj 1/12 (3), Kagiso Rabada 1/43 (3), Ashok Sharma 0/13 (2)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "Abdul Samad is rotating the strike and looking for scoring opportunities.",
         "Pooran is attempting to rotate the strike against Rabada.",
-        "Samad is looking to accelerate his scoring rate."
+        "Samad is looking to accelerate his scoring rate.",
+        "Pooran is attempting to accelerate his scoring rate against Siraj.",
+        "Abdul Samad is prioritizing defense and rotating the strike."
       ],
-      "updated_at": "2026-04-12T04:04:59+05:30"
+      "updated_at": "2026-04-12T04:06:10+05:30"
     }
   },
-  "updated_at": "2026-04-12T04:04:59+05:30"
+  "updated_at": "2026-04-12T04:06:10+05:30"
 }
