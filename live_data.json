@@ -10,19 +10,20 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 157/8 (19.4 ov) \u2014 GT chose to field.",
-      "live_batting": "Mohammed Shami 12*(4)",
-      "live_bowling": "Mohammed Siraj 1/19 (4), Kagiso Rabada 1/54 (4), Ashok Sharma 2/26 (3.4)",
+      "live_score": "LSG 161/8 (19.5 ov) \u2014 GT chose to field.",
+      "live_batting": "Mohammed Shami 12*(4), Avesh Khan 4*(1)",
+      "live_bowling": "Mohammed Siraj 1/19 (4), Kagiso Rabada 1/54 (4), Ashok Sharma 2/30 (3.5)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
-        "Linde is attempting to rotate the strike against Siraj.",
         "Linde is attempting to accelerate the scoring rate against Siraj.",
         "Linde is attempting to accelerate scoring against Siraj.",
         "Shami is prioritizing dot balls to conserve his wicket.",
-        "Shami is attempting to rotate the strike against Siraj."
+        "Shami is attempting to rotate the strike against Siraj.",
+        "Shami is attempting to rotate the strike against Rabada.",
+        "Ashok Sharma is leaking runs through a loose off-side channel."
       ],
-      "updated_at": "2026-04-12T04:41:45+05:30"
+      "updated_at": "2026-04-12T04:42:59+05:30"
     }
   },
-  "updated_at": "2026-04-12T04:41:45+05:30"
+  "updated_at": "2026-04-12T04:42:59+05:30"
 }
