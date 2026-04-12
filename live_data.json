@@ -10,9 +10,9 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 59/2 (5.5 ov) \u2014 GT chose to field.",
-      "live_batting": "Aiden Markram 22*(16), Ayush Badoni 4*(4)",
-      "live_bowling": "Mohammed Siraj 1/12 (3), Kagiso Rabada 1/34 (2), Ashok Sharma 0/10 (0.5)",
+      "live_score": "LSG 60/2 (6 ov) \u2014 GT chose to field.",
+      "live_batting": "Aiden Markram 22*(16), Ayush Badoni 5*(5)",
+      "live_bowling": "Mohammed Siraj 1/12 (3), Kagiso Rabada 1/34 (2), Ashok Sharma 0/11 (1)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "Pant is attempting to rotate strike with quick singles and twos.",
@@ -22,8 +22,8 @@
         "Markram is attempting to accelerate scoring against Siraj.",
         "Markram is attempting to accelerate scoring through aggressive drives."
       ],
-      "updated_at": "2026-04-12T03:30:46+05:30"
+      "updated_at": "2026-04-12T03:31:57+05:30"
     }
   },
-  "updated_at": "2026-04-12T03:30:46+05:30"
+  "updated_at": "2026-04-12T03:31:57+05:30"
 }
