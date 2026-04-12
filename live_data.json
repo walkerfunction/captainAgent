@@ -10,18 +10,19 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 240/4 (20 ov) & MI 138/3 (14 ov) \u2014 MI need 103 runs in 36 balls.",
-      "live_batting": "Rohit Sharma 19*(13), Hardik Pandya 34*(18), Sherfane Rutherford 10*(6)",
-      "live_bowling": "Jacob Duffy 0/28 (2), Bhuvneshwar Kumar 0/20 (2), Rasikh Salam 0/15 (2)",
-      "live_moment": "MI need 103 runs in 36 balls.",
+      "live_score": "RCB 240/4 (20 ov) & MI 140/3 (14.2 ov) \u2014 MI need 101 runs in 34 balls.",
+      "live_batting": "Rohit Sharma 19*(13), Hardik Pandya 36*(20), Sherfane Rutherford 10*(6)",
+      "live_bowling": "Jacob Duffy 0/30 (2.2), Bhuvneshwar Kumar 0/20 (2), Rasikh Salam 0/15 (2)",
+      "live_moment": "MI need 101 runs in 34 balls.",
       "gemma_observations": [
         "Rutherford is attempting boundaries against Duffy, a risky approach.",
         "Hardik Pandya is rotating strike and accelerating his scoring rate.",
         "Rohit Sharma is maintaining a measured approach, prioritizing rotation of the strike.",
-        "Rohit Sharma is rotating the strike, attempting to maintain a scoring rate."
+        "Rohit Sharma is rotating the strike, attempting to maintain a scoring rate.",
+        "Rohit Sharma is rotating the strike, attempting to maintain momentum."
       ],
-      "updated_at": "2026-04-12T10:35:11+05:30"
+      "updated_at": "2026-04-12T10:36:25+05:30"
     }
   },
-  "updated_at": "2026-04-12T10:35:11+05:30"
+  "updated_at": "2026-04-12T10:36:25+05:30"
 }
