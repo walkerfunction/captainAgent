@@ -10,15 +10,17 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 240/4 (20 ov) & MI 209/5 (19.3 ov) \u2014 MI need 32 runs in 3 balls.",
-      "live_batting": "Rohit Sharma 19*(13), Sherfane Rutherford 59*(28), Mitchell Santner 8*(6)",
+      "live_score": "RCB 240/4 (20 ov) & MI 216/5 (19.5 ov) \u2014 MI need 25 runs in 1 ball.",
+      "live_batting": "Rohit Sharma 19*(13), Sherfane Rutherford 65*(30), Mitchell Santner 8*(6)",
       "live_bowling": "Jacob Duffy 1/58 (4), Bhuvneshwar Kumar 0/38 (4), Rasikh Salam 1/23 (2.5)",
-      "live_moment": "MI need 32 runs in 3 balls.",
+      "live_moment": "MI need 25 runs in 1 ball.",
       "gemma_observations": [
-        "Rohit Sharma is prioritizing dot balls to conserve valuable time."
+        "Rohit Sharma is prioritizing dot balls to conserve valuable time.",
+        "Santner is likely being used defensively to avoid a six.",
+        "Rohit Sharma is attempting to rotate the strike and maintain momentum."
       ],
-      "updated_at": "2026-04-12T11:19:14+05:30"
+      "updated_at": "2026-04-12T11:20:29+05:30"
     }
   },
-  "updated_at": "2026-04-12T11:19:14+05:30"
+  "updated_at": "2026-04-12T11:20:29+05:30"
 }
