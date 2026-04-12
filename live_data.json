@@ -10,20 +10,20 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 240/4 (20 ov) & MI 165/5 (16.4 ov) \u2014 MI need 76 runs in 20 balls.",
-      "live_batting": "Rohit Sharma 19*(13), Sherfane Rutherford 22*(14), Mitchell Santner 6*(3)",
-      "live_bowling": "Jacob Duffy 1/37 (3), Bhuvneshwar Kumar 0/28 (2.4), Rasikh Salam 1/23 (2.5)",
-      "live_moment": "MI need 76 runs in 20 balls.",
+      "live_score": "RCB 240/4 (20 ov) & MI 166/5 (16.5 ov) \u2014 MI need 75 runs in 19 balls.",
+      "live_batting": "Rohit Sharma 19*(13), Sherfane Rutherford 23*(15), Mitchell Santner 6*(3)",
+      "live_bowling": "Jacob Duffy 1/37 (3), Bhuvneshwar Kumar 0/29 (2.5), Rasikh Salam 1/23 (2.5)",
+      "live_moment": "MI need 75 runs in 19 balls.",
       "gemma_observations": [
-        "Rohit Sharma is prioritizing dot balls to conserve valuable strike rotation.",
-        "Rohit Sharma continues to prioritize rotation over scoring quickly.",
         "Rohit Sharma is prioritizing rotation of strike over big hitting.",
         "Rohit Sharma is prioritizing rotation of strike over scoring quickly.",
         "Santner is content rotating the strike and defending cautiously.",
-        "Rohit Sharma is prioritizing dot balls to reset the over."
+        "Rohit Sharma is prioritizing dot balls to reset the over.",
+        "Rohit Sharma is aggressively targeting Bhuvneshwar Kumar for boundaries.",
+        "Sherfane Rutherford is attempting to accelerate the scoring rate significantly."
       ],
-      "updated_at": "2026-04-12T10:59:31+05:30"
+      "updated_at": "2026-04-12T11:00:46+05:30"
     }
   },
-  "updated_at": "2026-04-12T10:59:31+05:30"
+  "updated_at": "2026-04-12T11:00:46+05:30"
 }
