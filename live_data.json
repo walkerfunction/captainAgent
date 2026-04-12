@@ -10,20 +10,20 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "RCB 188/2 (15.1 ov) \u2014 MI chose to field.",
-      "live_batting": "Rajat Patidar 49*(16), Tim David 1*(1)",
+      "live_score": "RCB 193/2 (15.3 ov) \u2014 MI chose to field.",
+      "live_batting": "Rajat Patidar 53*(17), Tim David 2*(2)",
       "live_bowling": "Trent Boult 0/40 (3), Hardik Pandya 1/23 (3), Jasprit Bumrah 0/16 (2)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [
-        "Kohli and Patidar are consistently rotating strike against Boult.",
         "Kohli and Patidar are aggressively targeting length, seeking boundaries.",
         "Kohli and Patidar are consistently rotating the strike against Boult.",
         "Rajat Patidar is aggressively targeting length and finding gaps.",
         "Rajat Patidar is aggressively targeting length, seeking boundaries.",
-        "Rajat Patidar is aggressively targeting length with a clear intent to score."
+        "Rajat Patidar is aggressively targeting length with a clear intent to score.",
+        "Rajat Patidar is aggressively targeting length, attempting boundaries frequently."
       ],
-      "updated_at": "2026-04-12T08:31:36+05:30"
+      "updated_at": "2026-04-12T08:32:47+05:30"
     }
   },
-  "updated_at": "2026-04-12T08:31:36+05:30"
+  "updated_at": "2026-04-12T08:32:47+05:30"
 }
