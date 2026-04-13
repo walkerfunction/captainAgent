@@ -14,9 +14,11 @@
       "live_batting": "",
       "live_bowling": "Jofra Archer 1/0 (0.1)",
       "live_moment": "RR chose to field.",
-      "gemma_observations": [],
-      "updated_at": "2026-04-13T07:00:51+05:30"
+      "gemma_observations": [
+        "Archer is bowling a tight opening over, aiming for a maiden."
+      ],
+      "updated_at": "2026-04-13T07:01:56+05:30"
     }
   },
-  "updated_at": "2026-04-13T07:00:51+05:30"
+  "updated_at": "2026-04-13T07:01:56+05:30"
 }
