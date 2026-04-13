@@ -10,9 +10,9 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 216/6 (20 ov) & RR 40/5 (5.6 ov) \u2014 RR need 177 runs in 84 balls.",
+      "live_score": "SRH 216/6 (20 ov) & RR 40/5 (6 ov) \u2014 RR need 177 runs in 84 balls.",
       "live_batting": "Ravindra Jadeja 17*(9), Donovan Ferreira 14*(11)",
-      "live_bowling": "Praful Hinge 4/18 (3), Sakib Hussain 1/14 (2), Eshan Malinga 0/8 (0.6)",
+      "live_bowling": "Praful Hinge 4/18 (3), Sakib Hussain 1/14 (2), Eshan Malinga 0/8 (1)",
       "live_moment": "RR need 177 runs in 84 balls.",
       "gemma_observations": [
         "Ferreira is prioritizing singles and quick scoring attempts.",
@@ -22,8 +22,8 @@
         " Jadeja is attempting to accelerate, but struggling for boundaries.",
         "Ferreira is prioritizing dot balls to conserve his wicket."
       ],
-      "updated_at": "2026-04-13T09:38:15+05:30"
+      "updated_at": "2026-04-13T09:39:30+05:30"
     }
   },
-  "updated_at": "2026-04-13T09:38:15+05:30"
+  "updated_at": "2026-04-13T09:39:30+05:30"
 }
