@@ -1,28 +1,22 @@
 {
   "matches": {
-    "Mumbai Indians_vs_Royal Challengers Bengaluru_2026-04-12": {
+    "Rajasthan Royals_vs_Sunrisers Hyderabad_2026-04-13": {
       "match": {
-        "name": "20th Match",
+        "name": "21st Match",
         "teams": [
-          "Royal Challengers Bengaluru",
-          "Mumbai Indians"
+          "Sunrisers Hyderabad",
+          "Rajasthan Royals"
         ],
-        "venue": "Wankhede Stadium, Mumbai",
+        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "RCB 240/4 (20 ov) & MI 222/5 (20 ov) \u2014 Match Over",
-      "live_batting": "Rohit Sharma 19*(13), Sherfane Rutherford 71*(31), Mitchell Santner 8*(6)",
-      "live_bowling": "Jacob Duffy 1/58 (4), Bhuvneshwar Kumar 0/38 (4), Rasikh Salam 1/23 (2.5)",
-      "live_moment": "Match Over",
-      "gemma_observations": [
-        "Rohit Sharma is prioritizing dot balls to conserve valuable time.",
-        "Santner is likely being used defensively to avoid a six.",
-        "Rohit Sharma is attempting to rotate the strike and maintain momentum.",
-        "Sherfane Rutherford aggressively targeted short balls against Jacob Duffy.",
-        "Rohit Sharma rotated strike effectively to maintain scoring momentum."
-      ],
-      "updated_at": "2026-04-12T11:21:42+05:30"
+      "live_score": "SRH 0/1 (0.1 ov) \u2014 RR chose to field.",
+      "live_batting": "",
+      "live_bowling": "Jofra Archer 1/0 (0.1)",
+      "live_moment": "RR chose to field.",
+      "gemma_observations": [],
+      "updated_at": "2026-04-13T07:00:51+05:30"
     }
   },
-  "updated_at": "2026-04-12T11:21:42+05:30"
+  "updated_at": "2026-04-13T07:00:51+05:30"
 }
