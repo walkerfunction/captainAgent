@@ -10,15 +10,16 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 209/6 (19.4 ov) \u2014 RR chose to field.",
-      "live_batting": "Salil Arora 18*(11)",
+      "live_score": "SRH 210/6 (19.5 ov) \u2014 RR chose to field.",
+      "live_batting": "Salil Arora 18*(12)",
       "live_bowling": "Jofra Archer 2/37 (4), Nandre Burger 0/31 (4), Sandeep Sharma 1/52 (4)",
       "live_moment": "RR chose to field.",
       "gemma_observations": [
-        "Salil Arora is attempting to accelerate scoring through aggressive drives."
+        "Salil Arora is attempting to accelerate scoring through aggressive drives.",
+        "Salil Arora is aggressively targeting short balls from Archer."
       ],
-      "updated_at": "2026-04-13T08:47:43+05:30"
+      "updated_at": "2026-04-13T08:48:54+05:30"
     }
   },
-  "updated_at": "2026-04-13T08:47:43+05:30"
+  "updated_at": "2026-04-13T08:48:54+05:30"
 }
