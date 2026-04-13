@@ -10,17 +10,19 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 2/1 (1 ov) \u2014 RR chose to field.",
-      "live_batting": "Ishan Kishan 2*(5)",
-      "live_bowling": "Jofra Archer 1/2 (1)",
+      "live_score": "SRH 2/1 (1.1 ov) \u2014 RR chose to field.",
+      "live_batting": "Travis Head 0*(1), Ishan Kishan 2*(5)",
+      "live_bowling": "Jofra Archer 1/2 (1), Nandre Burger 0/0 (0.1)",
       "live_moment": "RR chose to field.",
       "gemma_observations": [
         "Kishan is attempting to rotate the strike early in his innings.",
         "Kishan is attempting to rotate strike early in his innings.",
-        "Ishan Kishan is attempting to rotate the strike early in his innings."
+        "Ishan Kishan is attempting to rotate the strike early in his innings.",
+        "Head is attempting to rotate the strike early in his innings.",
+        "Kishan is prioritizing scoring quickly through aggressive shots."
       ],
-      "updated_at": "2026-04-13T07:06:27+05:30"
+      "updated_at": "2026-04-13T07:07:37+05:30"
     }
   },
-  "updated_at": "2026-04-13T07:06:27+05:30"
+  "updated_at": "2026-04-13T07:07:37+05:30"
 }
