@@ -10,20 +10,20 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 202/5 (19 ov) \u2014 RR chose to field.",
-      "live_batting": "Salil Arora 18*(11), Aniket Verma 1*(1)",
+      "live_score": "SRH 202/5 (19.1 ov) \u2014 RR chose to field.",
+      "live_batting": "Salil Arora 18*(11), Aniket Verma 1*(2)",
       "live_bowling": "Jofra Archer 2/37 (4), Nandre Burger 0/31 (4), Sandeep Sharma 1/52 (4)",
       "live_moment": "RR chose to field.",
       "gemma_observations": [
-        "Klaasen is aggressively targeting length, attempting boundaries frequently.",
         "Salil Arora is attempting to clear the back-end of the arc with frequency.",
         "Salil Arora is rotating the strike effectively against Jofra Archer.",
         "Salil Arora is attempting to accelerate the scoring rate against Archer.",
         "Salil Arora is attempting to rotate strike against Nandre Burger.",
-        "Salil Arora is aggressively targeting Sandeep Sharma for boundaries."
+        "Salil Arora is aggressively targeting Sandeep Sharma for boundaries.",
+        "Salil Arora is attempting to accelerate scoring through aggressive drives."
       ],
-      "updated_at": "2026-04-13T08:41:50+05:30"
+      "updated_at": "2026-04-13T08:43:02+05:30"
     }
   },
-  "updated_at": "2026-04-13T08:41:50+05:30"
+  "updated_at": "2026-04-13T08:43:02+05:30"
 }
