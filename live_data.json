@@ -10,20 +10,20 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 216/6 (20 ov) & RR 137/7 (16.1 ov) \u2014 RR need 80 runs in 23 balls.",
-      "live_batting": "Jofra Archer 1*(2), Tushar Deshpande 8*(3)",
-      "live_bowling": "Praful Hinge 4/18 (3), Sakib Hussain 2/21 (3.1), Eshan Malinga 1/28 (3)",
-      "live_moment": "RR need 80 runs in 23 balls.",
+      "live_score": "SRH 216/6 (20 ov) & RR 140/7 (16.4 ov) \u2014 RR need 77 runs in 20 balls.",
+      "live_batting": "Jofra Archer 2*(4), Tushar Deshpande 9*(4)",
+      "live_bowling": "Praful Hinge 4/18 (3), Sakib Hussain 2/24 (3.4), Eshan Malinga 1/28 (3)",
+      "live_moment": "RR need 77 runs in 20 balls.",
       "gemma_observations": [
-        "Ravindra Jadeja is attempting to rotate the strike against Sakib Hussain.",
         "Ferreira is rotating the strike and building his innings.",
         "Ravindra Jadeja is attempting to accelerate the scoring rate significantly.",
         "Ferreira is consistently rotating the strike and defending well.",
         "Ferreira is rotating the strike and hitting boundaries consistently.",
-        "Archer is attempting to find the boundary with aggressive short-pitched deliveries."
+        "Archer is attempting to find the boundary with aggressive short-pitched deliveries.",
+        "Archer is attempting to accelerate scoring through aggressive shots."
       ],
-      "updated_at": "2026-04-13T10:33:17+05:30"
+      "updated_at": "2026-04-13T10:36:08+05:30"
     }
   },
-  "updated_at": "2026-04-13T10:33:17+05:30"
+  "updated_at": "2026-04-13T10:36:08+05:30"
 }
