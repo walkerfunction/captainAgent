@@ -10,17 +10,18 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 140/2 (13 ov) \u2014 RR chose to field.",
+      "live_score": "SRH 141/2 (13 ov) \u2014 RR chose to field.",
       "live_batting": "Ishan Kishan 91*(43), Heinrich Klaasen 29*(16)",
-      "live_bowling": "Jofra Archer 1/29 (3), Nandre Burger 0/16 (2), Sandeep Sharma 0/23 (2)",
+      "live_bowling": "Jofra Archer 1/29 (3), Nandre Burger 0/16 (2), Sandeep Sharma 0/24 (2)",
       "live_moment": "RR chose to field.",
       "gemma_observations": [
         "Klaasen is rotating the strike and building his innings cautiously.",
         "Klaasen is rotating the strike and attempting to build his innings.",
-        "Klaasen is rotating the strike and attempting to accelerate the scoring rate."
+        "Klaasen is rotating the strike and attempting to accelerate the scoring rate.",
+        "Klaasen is rotating the strike and hitting boundaries when gaps appear."
       ],
-      "updated_at": "2026-04-13T08:05:05+05:30"
+      "updated_at": "2026-04-13T08:06:16+05:30"
     }
   },
-  "updated_at": "2026-04-13T08:05:05+05:30"
+  "updated_at": "2026-04-13T08:06:16+05:30"
 }
