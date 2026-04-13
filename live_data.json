@@ -10,10 +10,10 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 216/6 (20 ov) & RR 1/2 (0.4 ov) \u2014 RR need 216 runs in 116 balls.",
-      "live_batting": "Yashasvi Jaiswal 1*(1)",
-      "live_bowling": "Praful Hinge 2/1 (0.4)",
-      "live_moment": "RR need 216 runs in 116 balls.",
+      "live_score": "SRH 216/6 (20 ov) & RR 1/2 (0.5 ov) \u2014 RR need 216 runs in 115 balls.",
+      "live_batting": "Yashasvi Jaiswal 1*(1), Lhuan-dre Pretorius 0*(1)",
+      "live_bowling": "Praful Hinge 2/1 (0.5)",
+      "live_moment": "RR need 216 runs in 115 balls.",
       "gemma_observations": [
         "Salil Arora is aggressively targeting short balls from Archer.",
         "Salil Arora is aggressively targeting short balls from Jofra Archer.",
@@ -22,8 +22,8 @@
         "Jaiswal is attempting to rotate the strike against Hinge.",
         "Hinge is bowling a tight opening spell, conceding only one run."
       ],
-      "updated_at": "2026-04-13T09:08:16+05:30"
+      "updated_at": "2026-04-13T09:09:28+05:30"
     }
   },
-  "updated_at": "2026-04-13T09:08:16+05:30"
+  "updated_at": "2026-04-13T09:09:28+05:30"
 }
