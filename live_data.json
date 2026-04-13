@@ -10,20 +10,20 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 10/1 (2.3 ov) \u2014 RR chose to field.",
-      "live_batting": "Travis Head 4*(6), Ishan Kishan 6*(8)",
-      "live_bowling": "Jofra Archer 1/6 (1.3), Nandre Burger 0/4 (1)",
+      "live_score": "SRH 16/1 (2.5 ov) \u2014 RR chose to field.",
+      "live_batting": "Travis Head 4*(6), Ishan Kishan 12*(10)",
+      "live_bowling": "Jofra Archer 1/12 (1.5), Nandre Burger 0/4 (1)",
       "live_moment": "RR chose to field.",
       "gemma_observations": [
-        "Head is attempting to rotate his strike against Burger.",
-        "Travis Head is prioritizing pace and attempting to rotate the strike.",
         "Travis Head is aggressively looking to rotate the strike early on.",
         "Ishan Kishan is prioritizing boundaries against Jofra Archer.",
         "Travis Head is aggressively looking to rotate the strike against Burger.",
-        "Ishan Kishan is prioritizing boundaries, indicating a positive mindset."
+        "Ishan Kishan is prioritizing boundaries, indicating a positive mindset.",
+        "Travis Head is aggressively targeting length, attempting to score boundaries.",
+        "Ishan Kishan is rotating the strike and looking for gaps in the field."
       ],
-      "updated_at": "2026-04-13T07:13:26+05:30"
+      "updated_at": "2026-04-13T07:14:36+05:30"
     }
   },
-  "updated_at": "2026-04-13T07:13:26+05:30"
+  "updated_at": "2026-04-13T07:14:36+05:30"
 }
