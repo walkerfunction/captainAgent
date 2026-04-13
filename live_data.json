@@ -10,17 +10,18 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 216/6 (20 ov) \u2014 RR chose to field.",
-      "live_batting": "Salil Arora 24*(13)",
-      "live_bowling": "Jofra Archer 2/37 (4), Nandre Burger 0/31 (4), Sandeep Sharma 1/52 (4)",
-      "live_moment": "RR chose to field.",
+      "live_score": "SRH 216/6 (20 ov) & RR 1/1 (0.2 ov) \u2014 RR need 216 runs in 118 balls.",
+      "live_batting": "Yashasvi Jaiswal 1*(1)",
+      "live_bowling": "Praful Hinge 1/1 (0.2)",
+      "live_moment": "RR need 216 runs in 118 balls.",
       "gemma_observations": [
         "Salil Arora is aggressively targeting short balls from Archer.",
         "Salil Arora is aggressively targeting short balls from Jofra Archer.",
-        "Salil Arora is aggressively targeting length, attempting boundaries."
+        "Salil Arora is aggressively targeting length, attempting boundaries.",
+        "Jaiswal is prioritizing dot balls to avoid immediate pressure."
       ],
-      "updated_at": "2026-04-13T09:04:49+05:30"
+      "updated_at": "2026-04-13T09:05:58+05:30"
     }
   },
-  "updated_at": "2026-04-13T09:04:49+05:30"
+  "updated_at": "2026-04-13T09:05:58+05:30"
 }
