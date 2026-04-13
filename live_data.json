@@ -10,20 +10,20 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 216/6 (20 ov) & RR 147/9 (17.3 ov) \u2014 RR need 70 runs in 15 balls.",
-      "live_batting": "Tushar Deshpande 16*(6), Nandre Burger 0*(1)",
-      "live_bowling": "Praful Hinge 4/25 (3.3), Sakib Hussain 4/24 (4), Eshan Malinga 1/28 (3)",
-      "live_moment": "RR need 70 runs in 15 balls.",
+      "live_score": "SRH 216/6 (20 ov) & RR 156/9 (17.6 ov) \u2014 RR need 61 runs in 12 balls.",
+      "live_batting": "Tushar Deshpande 24*(8), Nandre Burger 1*(2)",
+      "live_bowling": "Praful Hinge 4/34 (3.6), Sakib Hussain 4/24 (4), Eshan Malinga 1/28 (3)",
+      "live_moment": "RR need 61 runs in 12 balls.",
       "gemma_observations": [
-        "Ferreira is consistently rotating the strike and defending well.",
         "Ferreira is rotating the strike and hitting boundaries consistently.",
         "Archer is attempting to find the boundary with aggressive short-pitched deliveries.",
         "Archer is attempting to accelerate scoring through aggressive shots.",
         "Tushar Deshpande is rotating the strike effectively to keep the pressure on.",
-        "Tushar Deshpande is aggressively targeting Sakib Hussain for boundaries."
+        "Tushar Deshpande is aggressively targeting Sakib Hussain for boundaries.",
+        "Tushar Deshpande is aggressively targeting Praful Hinge for boundaries."
       ],
-      "updated_at": "2026-04-13T10:41:40+05:30"
+      "updated_at": "2026-04-13T10:43:04+05:30"
     }
   },
-  "updated_at": "2026-04-13T10:41:40+05:30"
+  "updated_at": "2026-04-13T10:43:04+05:30"
 }
