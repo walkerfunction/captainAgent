@@ -10,15 +10,15 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 0/1 (0.1 ov) \u2014 RR chose to field.",
-      "live_batting": "",
-      "live_bowling": "Jofra Archer 1/0 (0.1)",
+      "live_score": "SRH 0/1 (0.2 ov) \u2014 RR chose to field.",
+      "live_batting": "Ishan Kishan 0*(1)",
+      "live_bowling": "Jofra Archer 1/0 (0.2)",
       "live_moment": "RR chose to field.",
       "gemma_observations": [
-        "Archer is bowling a tight opening over, aiming for a maiden."
+        "Kishan is attempting to rotate the strike early in his innings."
       ],
-      "updated_at": "2026-04-13T07:01:56+05:30"
+      "updated_at": "2026-04-13T07:03:03+05:30"
     }
   },
-  "updated_at": "2026-04-13T07:01:56+05:30"
+  "updated_at": "2026-04-13T07:03:03+05:30"
 }
