@@ -10,19 +10,15 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 170/4 (17.1 ov) \u2014 KKR chose to field.",
-      "live_batting": "Dewald Brevis 41*(27), Shivam Dube 2*(3)",
+      "live_score": "CSK 171/5 (17.3 ov) \u2014 KKR chose to field.",
+      "live_batting": "Shivam Dube 2*(3)",
       "live_bowling": "Vaibhav Arora 1/46 (3), Cameron Green 0/30 (2), Anukul Roy 1/21 (3)",
       "live_moment": "KKR chose to field.",
       "gemma_observations": [
-        "Brevis is aggressively targeting length, attempting boundaries frequently.",
-        "Sarfaraz Khan is rotating strike, prioritizing singles and twos.",
-        "Sarfaraz Khan is rotating the strike and accumulating runs steadily.",
-        "Dube is content rotating the strike and looking for gaps.",
-        "Dube is rotating strike and looking for opportunities against Anukul Roy."
+        "Shivam Dube is attempting to rotate strike against Vaibhav Arora."
       ],
-      "updated_at": "2026-04-14T08:31:28+05:30"
+      "updated_at": "2026-04-14T08:32:38+05:30"
     }
   },
-  "updated_at": "2026-04-14T08:31:28+05:30"
+  "updated_at": "2026-04-14T08:32:38+05:30"
 }
