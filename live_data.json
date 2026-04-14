@@ -10,10 +10,10 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 192/5 (20 ov) & KKR 107/6 (15 ov) \u2014 KKR need 86 runs in 30 balls.",
-      "live_batting": "Rovman Powell 13*(9), Ramandeep Singh 5*(7)",
+      "live_score": "CSK 192/5 (20 ov) & KKR 111/6 (15.2 ov) \u2014 KKR need 82 runs in 28 balls.",
+      "live_batting": "Rovman Powell 13*(9), Ramandeep Singh 9*(9)",
       "live_bowling": "Khaleel Ahmed 1/17 (3), Anshul Kamboj 1/13 (2), Akeal Hosein 1/26 (4)",
-      "live_moment": "KKR need 86 runs in 30 balls.",
+      "live_moment": "KKR need 82 runs in 28 balls.",
       "gemma_observations": [
         "Rovman Powell is attempting to accelerate the scoring rate.",
         "Ramandeep Singh is prioritizing dot balls to avoid pressure.",
@@ -22,8 +22,8 @@
         "Rovman Powell is attempting to accelerate his scoring rate.",
         "Ramandeep Singh is primarily focusing on rotating the strike."
       ],
-      "updated_at": "2026-04-14T10:26:38+05:30"
+      "updated_at": "2026-04-14T10:27:53+05:30"
     }
   },
-  "updated_at": "2026-04-14T10:26:38+05:30"
+  "updated_at": "2026-04-14T10:27:53+05:30"
 }
