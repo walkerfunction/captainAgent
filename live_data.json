@@ -10,15 +10,16 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 192/5 (20 ov) & KKR 85/4 (10.5 ov) \u2014 KKR need 108 runs in 55 balls.",
+      "live_score": "CSK 192/5 (20 ov) & KKR 85/5 (11 ov) \u2014 KKR need 108 runs in 54 balls.",
       "live_batting": "Rinku Singh 3*(4)",
       "live_bowling": "Khaleel Ahmed 1/17 (3), Anshul Kamboj 1/13 (2), Akeal Hosein 1/21 (3)",
-      "live_moment": "KKR need 108 runs in 55 balls.",
+      "live_moment": "KKR need 108 runs in 54 balls.",
       "gemma_observations": [
-        "Rinku Singh is attempting to find the boundary against Khaleel Ahmed."
+        "Rinku Singh is attempting to find the boundary against Khaleel Ahmed.",
+        "Rinku Singh is attempting to find boundaries against Khaleel Ahmed."
       ],
-      "updated_at": "2026-04-14T10:03:12+05:30"
+      "updated_at": "2026-04-14T10:04:27+05:30"
     }
   },
-  "updated_at": "2026-04-14T10:03:12+05:30"
+  "updated_at": "2026-04-14T10:04:27+05:30"
 }
