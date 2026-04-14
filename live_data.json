@@ -10,15 +10,16 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 120/3 (12.5 ov) \u2014 KKR chose to field.",
-      "live_batting": "Dewald Brevis 17*(15), Sarfaraz Khan 5*(7)",
+      "live_score": "CSK 121/3 (13 ov) \u2014 KKR chose to field.",
+      "live_batting": "Dewald Brevis 17*(15), Sarfaraz Khan 6*(8)",
       "live_bowling": "Vaibhav Arora 1/26 (2), Cameron Green 0/30 (2), Anukul Roy 1/15 (2)",
       "live_moment": "KKR chose to field.",
       "gemma_observations": [
-        "Brevis is attempting to accelerate scoring through aggressive drives."
+        "Brevis is attempting to accelerate scoring through aggressive drives.",
+        "Sarfaraz Khan is rotating the strike effectively against Arora."
       ],
-      "updated_at": "2026-04-14T08:03:04+05:30"
+      "updated_at": "2026-04-14T08:04:15+05:30"
     }
   },
-  "updated_at": "2026-04-14T08:03:04+05:30"
+  "updated_at": "2026-04-14T08:04:15+05:30"
 }
