@@ -10,18 +10,19 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 192/5 (20 ov) & KKR 13/0 (1.3 ov) \u2014 KKR need 180 runs in 111 balls.",
-      "live_batting": "Finn Allen 1*(2), Sunil Narine 11*(7)",
-      "live_bowling": "Khaleel Ahmed 0/6 (1), Anshul Kamboj 0/6 (0.3)",
-      "live_moment": "KKR need 180 runs in 111 balls.",
+      "live_score": "CSK 192/5 (20 ov) & KKR 13/1 (1.4 ov) \u2014 KKR need 180 runs in 110 balls.",
+      "live_batting": "Sunil Narine 11*(7)",
+      "live_bowling": "Khaleel Ahmed 0/6 (1), Anshul Kamboj 1/6 (0.4)",
+      "live_moment": "KKR need 180 runs in 110 balls.",
       "gemma_observations": [
         "Shivam Dube is aggressively targeting length, attempting boundaries.",
         "Finn Allen is attempting to unsettle Khaleel Ahmed with a cautious approach.",
         "Narine is attempting to rotate strike early against Khaleel Ahmed.",
-        "Allen is attempting to rotate the strike against Khaleel Ahmed."
+        "Allen is attempting to rotate the strike against Khaleel Ahmed.",
+        "Narine is attempting to rotate the strike against Khaleel Ahmed."
       ],
-      "updated_at": "2026-04-14T09:13:12+05:30"
+      "updated_at": "2026-04-14T09:14:25+05:30"
     }
   },
-  "updated_at": "2026-04-14T09:13:12+05:30"
+  "updated_at": "2026-04-14T09:14:25+05:30"
 }
