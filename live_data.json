@@ -10,17 +10,18 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 52/1 (4 ov) \u2014 KKR chose to field.",
-      "live_batting": "Sanju Samson 16*(11), Ayush Mhatre 25*(7)",
-      "live_bowling": "Vaibhav Arora 0/14 (1), Cameron Green 0/30 (2), Anukul Roy 1/7 (1)",
+      "live_score": "CSK 58/1 (4.1 ov) \u2014 KKR chose to field.",
+      "live_batting": "Sanju Samson 22*(12), Ayush Mhatre 25*(7)",
+      "live_bowling": "Vaibhav Arora 0/14 (1), Cameron Green 0/30 (2), Anukul Roy 1/13 (1.1)",
       "live_moment": "KKR chose to field.",
       "gemma_observations": [
         "Samson is attempting to rotate the strike against Arora.",
         "Ayush Mhatre is looking to score off shorter deliveries.",
-        "Mhatre is aggressively looking to hit boundaries with the short balls."
+        "Mhatre is aggressively looking to hit boundaries with the short balls.",
+        "Samson is aggressively rotating the strike against Green."
       ],
-      "updated_at": "2026-04-14T07:20:45+05:30"
+      "updated_at": "2026-04-14T07:21:56+05:30"
     }
   },
-  "updated_at": "2026-04-14T07:20:45+05:30"
+  "updated_at": "2026-04-14T07:21:56+05:30"
 }
