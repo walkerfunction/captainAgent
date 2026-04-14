@@ -10,9 +10,9 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 25/0 (2 ov) \u2014 KKR chose to field.",
-      "live_batting": "Sanju Samson 14*(8), Ruturaj Gaikwad 7*(4)",
-      "live_bowling": "Vaibhav Arora 0/14 (1), Cameron Green 0/9 (1), Anukul Roy 0/1 (0)",
+      "live_score": "CSK 25/1 (2.2 ov) \u2014 KKR chose to field.",
+      "live_batting": "Sanju Samson 14*(8)",
+      "live_bowling": "Vaibhav Arora 0/14 (1), Cameron Green 0/9 (1), Anukul Roy 1/1 (0.2)",
       "live_moment": "KKR chose to field.",
       "gemma_observations": [
         "Gaikwad is prioritizing dot balls to build his innings.",
@@ -22,8 +22,8 @@
         "Gaikwad is prioritizing dot balls to build an early partnership.",
         "Gaikwad is content to build an early foundation with dot balls."
       ],
-      "updated_at": "2026-04-14T07:11:22+05:30"
+      "updated_at": "2026-04-14T07:12:32+05:30"
     }
   },
-  "updated_at": "2026-04-14T07:11:22+05:30"
+  "updated_at": "2026-04-14T07:12:32+05:30"
 }
