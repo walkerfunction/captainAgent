@@ -10,20 +10,20 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 175/5 (18.2 ov) \u2014 KKR chose to field.",
-      "live_batting": "Shivam Dube 2*(5), Jamie Overton 4*(3)",
-      "live_bowling": "Vaibhav Arora 1/46 (3.2), Cameron Green 0/30 (2), Anukul Roy 1/21 (3)",
+      "live_score": "CSK 180/5 (18.3 ov) \u2014 KKR chose to field.",
+      "live_batting": "Shivam Dube 6*(6), Jamie Overton 4*(3)",
+      "live_bowling": "Vaibhav Arora 1/51 (3.3), Cameron Green 0/30 (2), Anukul Roy 1/21 (3)",
       "live_moment": "KKR chose to field.",
       "gemma_observations": [
-        "Shivam Dube is attempting to rotate strike against Vaibhav Arora.",
-        "Shivam Dube is attempting to rotate the strike against Vaibhav Arora.",
         "Shivam Dube is aggressively targeting length, attempting boundaries.",
         "Jamie Overton is looking to accelerate his scoring rate towards the end of the over.",
         "Shivam Dube is aggressively attempting to accelerate the scoring rate.",
-        "Shivam Dube is attempting to accelerate the scoring rate."
+        "Shivam Dube is attempting to accelerate the scoring rate.",
+        "Shivam Dube is aggressively targeting length, scoring quickly.",
+        "Vaibhav Arora is struggling to contain the scoring at the death."
       ],
-      "updated_at": "2026-04-14T08:39:32+05:30"
+      "updated_at": "2026-04-14T08:40:43+05:30"
     }
   },
-  "updated_at": "2026-04-14T08:39:32+05:30"
+  "updated_at": "2026-04-14T08:40:43+05:30"
 }
