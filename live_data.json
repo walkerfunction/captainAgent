@@ -10,20 +10,20 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 192/5 (20 ov) & KKR 29/2 (4.2 ov) \u2014 KKR need 164 runs in 94 balls.",
-      "live_batting": "Ajinkya Rahane 3*(6)",
-      "live_bowling": "Khaleel Ahmed 1/15 (2.2), Anshul Kamboj 1/13 (2)",
-      "live_moment": "KKR need 164 runs in 94 balls.",
+      "live_score": "CSK 192/5 (20 ov) & KKR 29/2 (4.4 ov) \u2014 KKR need 164 runs in 92 balls.",
+      "live_batting": "Ajinkya Rahane 3*(6), Angkrish Raghuvanshi 0*(2)",
+      "live_bowling": "Khaleel Ahmed 1/15 (2.4), Anshul Kamboj 1/13 (2)",
+      "live_moment": "KKR need 164 runs in 92 balls.",
       "gemma_observations": [
-        "Narine is attempting to rotate the strike against Khaleel Ahmed.",
         "Narine is attempting to accelerate with boundaries against Khaleel Ahmed.",
         "Rahane is prioritizing dot balls to avoid immediate wickets for Kamboj.",
         "Rahane is playing a defensive game, prioritizing rotation of the strike.",
         "Rahane is primarily focusing on rotating the strike against Kamboj.",
-        "Rahane is rotating the strike effectively against Khaleel Ahmed."
+        "Rahane is rotating the strike effectively against Khaleel Ahmed.",
+        "Rahane is attempting to rotate the strike against Khaleel Ahmed."
       ],
-      "updated_at": "2026-04-14T09:28:52+05:30"
+      "updated_at": "2026-04-14T09:30:05+05:30"
     }
   },
-  "updated_at": "2026-04-14T09:28:52+05:30"
+  "updated_at": "2026-04-14T09:30:05+05:30"
 }
