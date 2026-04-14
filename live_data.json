@@ -1,29 +1,24 @@
 {
   "matches": {
-    "Rajasthan Royals_vs_Sunrisers Hyderabad_2026-04-13": {
+    "Chennai Super Kings_vs_Kolkata Knight Riders_2026-04-14": {
       "match": {
-        "name": "21st Match",
+        "name": "22nd Match",
         "teams": [
-          "Sunrisers Hyderabad",
-          "Rajasthan Royals"
+          "Chennai Super Kings",
+          "Kolkata Knight Riders"
         ],
-        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "SRH 216/6 (20 ov) & RR 159/10 (19 ov) \u2014 Match Over",
-      "live_batting": "Nandre Burger 3*(5)",
-      "live_bowling": "Praful Hinge 4/34 (4), Sakib Hussain 4/24 (4), Eshan Malinga 2/31 (4)",
-      "live_moment": "Match Over",
+      "live_score": "CSK 8/0 (0.2 ov) \u2014 KKR chose to field.",
+      "live_batting": "Sanju Samson 8*(2)",
+      "live_bowling": "Vaibhav Arora 0/8 (0.2)",
+      "live_moment": "KKR chose to field.",
       "gemma_observations": [
-        "Tushar Deshpande is rotating the strike effectively to keep the pressure on.",
-        "Tushar Deshpande is aggressively targeting Sakib Hussain for boundaries.",
-        "Tushar Deshpande is aggressively targeting Praful Hinge for boundaries.",
-        "Burger is attempting to accelerate, but Hinge is restricting his scoring.",
-        "Tushar Deshpande is rotating the strike effectively against Hinge.",
-        "Tushar Deshpande aggressively targeted Sakib Hussain for boundaries."
+        "Samson is prioritizing rotation of strike against Arora."
       ],
-      "updated_at": "2026-04-13T10:49:36+05:30"
+      "updated_at": "2026-04-14T07:02:01+05:30"
     }
   },
-  "updated_at": "2026-04-13T10:49:36+05:30"
+  "updated_at": "2026-04-14T07:02:01+05:30"
 }
