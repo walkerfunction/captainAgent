@@ -10,17 +10,18 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 192/5 (20 ov) & KKR 21/1 (2.4 ov) \u2014 KKR need 172 runs in 104 balls.",
-      "live_batting": "Sunil Narine 17*(8), Ajinkya Rahane 2*(5)",
-      "live_bowling": "Khaleel Ahmed 0/13 (1.4), Anshul Kamboj 1/7 (1)",
-      "live_moment": "KKR need 172 runs in 104 balls.",
+      "live_score": "CSK 192/5 (20 ov) & KKR 21/1 (2.5 ov) \u2014 KKR need 172 runs in 103 balls.",
+      "live_batting": "Sunil Narine 17*(9), Ajinkya Rahane 2*(5)",
+      "live_bowling": "Khaleel Ahmed 0/13 (1.5), Anshul Kamboj 1/7 (1)",
+      "live_moment": "KKR need 172 runs in 103 balls.",
       "gemma_observations": [
         "Rahane is prioritizing dot balls to avoid immediate pressure from Khaleel Ahmed.",
         "Narine is attempting to accelerate his scoring rate against Khaleel Ahmed.",
-        "Rahane is prioritizing dot balls to avoid immediate wickets."
+        "Rahane is prioritizing dot balls to avoid immediate wickets.",
+        "Narine is attempting to rotate the strike against Khaleel Ahmed."
       ],
-      "updated_at": "2026-04-14T09:20:23+05:30"
+      "updated_at": "2026-04-14T09:21:35+05:30"
     }
   },
-  "updated_at": "2026-04-14T09:20:23+05:30"
+  "updated_at": "2026-04-14T09:21:35+05:30"
 }
