@@ -10,20 +10,20 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 192/5 (20 ov) & KKR 46/2 (7 ov) \u2014 KKR need 147 runs in 78 balls.",
-      "live_batting": "Ajinkya Rahane 9*(11), Angkrish Raghuvanshi 11*(11)",
-      "live_bowling": "Khaleel Ahmed 1/17 (3), Anshul Kamboj 1/13 (2), Akeal Hosein 0/5 (1)",
-      "live_moment": "KKR need 147 runs in 78 balls.",
+      "live_score": "CSK 192/5 (20 ov) & KKR 47/2 (7.1 ov) \u2014 KKR need 146 runs in 77 balls.",
+      "live_batting": "Ajinkya Rahane 9*(11), Angkrish Raghuvanshi 12*(12)",
+      "live_bowling": "Khaleel Ahmed 1/17 (3), Anshul Kamboj 1/13 (2), Akeal Hosein 0/6 (1.1)",
+      "live_moment": "KKR need 146 runs in 77 balls.",
       "gemma_observations": [
-        "Raghuvanshi is looking to score quickly when boundaries are available.",
         "Rahane and Raghuvanshi are rotating the strike against Khaleel Ahmed.",
         "Rahane and Raghuvanshi are primarily targeting length balls for singles.",
         "Rahane is prioritizing singles and doubles to maintain the scoring rate.",
         "Rahane is attempting to rotate strike against Kamboj.",
-        "Raghuvanshi is playing cautiously, prioritizing dot balls."
+        "Raghuvanshi is playing cautiously, prioritizing dot balls.",
+        "Raghuvanshi is aggressively looking to hit boundaries with Khaleel Ahmed."
       ],
-      "updated_at": "2026-04-14T09:41:08+05:30"
+      "updated_at": "2026-04-14T09:42:21+05:30"
     }
   },
-  "updated_at": "2026-04-14T09:41:08+05:30"
+  "updated_at": "2026-04-14T09:42:21+05:30"
 }
