@@ -10,15 +10,16 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 146/10 (20 ov) \u2014 RCB chose to field.",
-      "live_batting": "Digvesh Rathi 0*(3)",
-      "live_bowling": "Bhuvneshwar Kumar 3/27 (4), Josh Hazlewood 1/20 (4), Rasikh Salam 4/24 (4)",
-      "live_moment": "RCB chose to field.",
+      "live_score": "LSG 146/10 (20 ov) & RCB 0/0 (0.1 ov) \u2014 RCB need 147 runs in 119 balls.",
+      "live_batting": "Virat Kohli 0*(1)",
+      "live_bowling": "Mohammed Shami 0/0 (0.1)",
+      "live_moment": "RCB need 147 runs in 119 balls.",
       "gemma_observations": [
-        "Rathi is attempting to hit boundaries with aggressive short balls."
+        "Rathi is attempting to hit boundaries with aggressive short balls.",
+        "Virat Kohli is prioritizing defense against the opening over."
       ],
-      "updated_at": "2026-04-15T09:02:41+05:30"
+      "updated_at": "2026-04-15T09:03:53+05:30"
     }
   },
-  "updated_at": "2026-04-15T09:02:41+05:30"
+  "updated_at": "2026-04-15T09:03:53+05:30"
 }
