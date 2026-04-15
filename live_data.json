@@ -10,17 +10,18 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 132/6 (17.4 ov) \u2014 RCB chose to field.",
-      "live_batting": "Mukul Choudhary 31*(24), George Linde 4*(3)",
-      "live_bowling": "Bhuvneshwar Kumar 1/23 (3), Josh Hazlewood 1/18 (3.4), Rasikh Salam 2/18 (3)",
+      "live_score": "LSG 135/6 (18 ov) \u2014 RCB chose to field.",
+      "live_batting": "Mukul Choudhary 31*(24), George Linde 6*(5)",
+      "live_bowling": "Bhuvneshwar Kumar 1/23 (3), Josh Hazlewood 1/20 (4), Rasikh Salam 2/18 (3)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [
         "Bhuvneshwar Kumar is maintaining a tight line and length to restrict scoring.",
         "Choudhary is attempting to accelerate with boundaries against Hazlewood.",
-        "Bhuvneshwar Kumar is maintaining a tight line and length to stifle the scoring."
+        "Bhuvneshwar Kumar is maintaining a tight line and length to stifle the scoring.",
+        "Linde is primarily looking to rotate the strike with quick singles."
       ],
-      "updated_at": "2026-04-15T08:36:57+05:30"
+      "updated_at": "2026-04-15T08:38:08+05:30"
     }
   },
-  "updated_at": "2026-04-15T08:36:57+05:30"
+  "updated_at": "2026-04-15T08:38:08+05:30"
 }
