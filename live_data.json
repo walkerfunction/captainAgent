@@ -10,10 +10,10 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 146/10 (20 ov) & RCB 55/1 (4.6 ov) \u2014 RCB need 92 runs in 90 balls.",
-      "live_batting": "Virat Kohli 36*(17), Devdutt Padikkal 7*(5)",
-      "live_bowling": "Mohammed Shami 0/17 (2), Prince Yadav 1/24 (2), Digvesh Rathi 0/10 (0.6)",
-      "live_moment": "RCB need 92 runs in 90 balls.",
+      "live_score": "LSG 146/10 (20 ov) & RCB 57/1 (5.1 ov) \u2014 RCB need 90 runs in 89 balls.",
+      "live_batting": "Virat Kohli 38*(18), Devdutt Padikkal 7*(5)",
+      "live_bowling": "Mohammed Shami 0/17 (2), Prince Yadav 1/24 (2), Digvesh Rathi 0/10 (1)",
+      "live_moment": "RCB need 90 runs in 89 balls.",
       "gemma_observations": [
         "Virat Kohli is attempting to rotate the strike against Mohammed Shami.",
         "Virat Kohli is attempting to accelerate against Mohammed Shami.",
@@ -21,8 +21,8 @@
         "Devdutt Padikkal is prioritizing dot balls to avoid wickets.",
         "Devdutt Padikkal is primarily focusing on rotating the strike against Prince Yadav."
       ],
-      "updated_at": "2026-04-15T09:26:47+05:30"
+      "updated_at": "2026-04-15T09:28:00+05:30"
     }
   },
-  "updated_at": "2026-04-15T09:26:47+05:30"
+  "updated_at": "2026-04-15T09:28:00+05:30"
 }
