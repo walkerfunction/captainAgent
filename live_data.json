@@ -10,17 +10,18 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 35/1 (6 ov) \u2014 RCB chose to field.",
-      "live_batting": "Mitchell Marsh 22*(19), Rishabh Pant 0*(3), Nicholas Pooran 1*(6)",
-      "live_bowling": "Bhuvneshwar Kumar 0/17 (2), Josh Hazlewood 0/6 (2), Rasikh Salam 1/12 (2)",
+      "live_score": "LSG 35/2 (6.1 ov) \u2014 RCB chose to field.",
+      "live_batting": "Mitchell Marsh 22*(19), Rishabh Pant 0*(3)",
+      "live_bowling": "Bhuvneshwar Kumar 0/17 (2), Josh Hazlewood 1/6 (2.1), Rasikh Salam 1/12 (2)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [
         "Marsh is aggressively targeting Hazlewood with short-ball attempts.",
         "Pooran is content rotating strike, avoiding risks against Kumar.",
-        "Pooran is content rotating strike, avoiding risky shots early on."
+        "Pooran is content rotating strike, avoiding risky shots early on.",
+        "Marsh is attempting to accelerate through a short boundary."
       ],
-      "updated_at": "2026-04-15T07:34:31+05:30"
+      "updated_at": "2026-04-15T07:35:40+05:30"
     }
   },
-  "updated_at": "2026-04-15T07:34:31+05:30"
+  "updated_at": "2026-04-15T07:35:40+05:30"
 }
