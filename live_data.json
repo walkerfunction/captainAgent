@@ -10,13 +10,15 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 146/9 (19.5 ov) \u2014 RCB chose to field.",
-      "live_batting": "Avesh Khan 1*(1), Digvesh Rathi 0*(3)",
-      "live_bowling": "Bhuvneshwar Kumar 3/27 (4), Josh Hazlewood 1/20 (4), Rasikh Salam 3/24 (3.5)",
+      "live_score": "LSG 146/10 (20 ov) \u2014 RCB chose to field.",
+      "live_batting": "Digvesh Rathi 0*(3)",
+      "live_bowling": "Bhuvneshwar Kumar 3/27 (4), Josh Hazlewood 1/20 (4), Rasikh Salam 4/24 (4)",
       "live_moment": "RCB chose to field.",
-      "gemma_observations": [],
-      "updated_at": "2026-04-15T08:47:43+05:30"
+      "gemma_observations": [
+        "Rathi is attempting to defend, but facing intense pressure from Salam."
+      ],
+      "updated_at": "2026-04-15T08:48:55+05:30"
     }
   },
-  "updated_at": "2026-04-15T08:47:43+05:30"
+  "updated_at": "2026-04-15T08:48:55+05:30"
 }
