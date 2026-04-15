@@ -10,9 +10,9 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 22/0 (2.6 ov) \u2014 RCB chose to field.",
+      "live_score": "LSG 22/0 (3 ov) \u2014 RCB chose to field.",
       "live_batting": "Mitchell Marsh 18*(14), Aiden Markram 4*(4)",
-      "live_bowling": "Bhuvneshwar Kumar 0/17 (1.6), Josh Hazlewood 0/5 (1)",
+      "live_bowling": "Bhuvneshwar Kumar 0/17 (2), Josh Hazlewood 0/5 (1)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [
         "Marsh is prioritizing pace and attempting to rotate the strike early.",
@@ -22,8 +22,8 @@
         "Markram is prioritizing dot balls to build a solid platform.",
         "Marsh is attempting to rotate the strike early against Hazlewood."
       ],
-      "updated_at": "2026-04-15T07:13:35+05:30"
+      "updated_at": "2026-04-15T07:14:43+05:30"
     }
   },
-  "updated_at": "2026-04-15T07:13:35+05:30"
+  "updated_at": "2026-04-15T07:14:43+05:30"
 }
