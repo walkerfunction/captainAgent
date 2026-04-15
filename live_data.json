@@ -10,20 +10,20 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 90/4 (12 ov) \u2014 RCB chose to field.",
-      "live_batting": "Rishabh Pant 0*(3), Ayush Badoni 29*(18), Mukul Choudhary 5*(2)",
+      "live_score": "LSG 90/4 (12.2 ov) \u2014 RCB chose to field.",
+      "live_batting": "Rishabh Pant 0*(3), Ayush Badoni 29*(18), Mukul Choudhary 5*(4)",
       "live_bowling": "Bhuvneshwar Kumar 0/17 (2), Josh Hazlewood 1/10 (3), Rasikh Salam 1/12 (2)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [
-        "Badoni is aggressively looking to score boundaries with Kumar.",
-        "Badoni is aggressively looking to score boundaries with short balls.",
         "Pant is attempting to accelerate with a focus on scoring boundaries.",
         "Badoni is rotating the strike and prioritizing singles and doubles.",
         "Pant is attempting to accelerate with aggressive drives through the covers.",
-        "Badoni is rotating the strike and looking for gaps on the off-side."
+        "Badoni is rotating the strike and looking for gaps on the off-side.",
+        "Pant is attempting to accelerate with aggressive drives against Hazlewood.",
+        "Badoni is rotating the strike and looking for gaps in the field."
       ],
-      "updated_at": "2026-04-15T08:06:13+05:30"
+      "updated_at": "2026-04-15T08:07:24+05:30"
     }
   },
-  "updated_at": "2026-04-15T08:06:13+05:30"
+  "updated_at": "2026-04-15T08:07:24+05:30"
 }
