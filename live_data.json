@@ -10,17 +10,19 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 146/10 (20 ov) & RCB 121/4 (12.2 ov) \u2014 RCB need 26 runs in 46 balls.",
-      "live_batting": "Jitesh Sharma 23*(8)",
-      "live_bowling": "Mohammed Shami 0/30 (3), Prince Yadav 2/30 (2.2), Digvesh Rathi 0/38 (3)",
-      "live_moment": "RCB need 26 runs in 46 balls.",
+      "live_score": "LSG 146/10 (20 ov) & RCB 122/5 (12.4 ov) \u2014 RCB need 25 runs in 44 balls.",
+      "live_batting": "Tim David 1*(1)",
+      "live_bowling": "Mohammed Shami 0/30 (3), Prince Yadav 3/31 (2.4), Digvesh Rathi 0/38 (3)",
+      "live_moment": "RCB need 25 runs in 44 balls.",
       "gemma_observations": [
         "Patidar is aggressively targeting Shami for boundaries.",
         "Jitesh Sharma is attempting to rotate the strike against Yadav.",
-        "Jitesh Sharma is attempting to accelerate scoring through aggressive drives."
+        "Jitesh Sharma is attempting to accelerate scoring through aggressive drives.",
+        "Tim David is attempting to hit boundaries against Prince Yadav.",
+        "Prince Yadav is bowling with more aggression, attempting to take wickets."
       ],
-      "updated_at": "2026-04-15T10:04:53+05:30"
+      "updated_at": "2026-04-15T10:06:07+05:30"
     }
   },
-  "updated_at": "2026-04-15T10:04:53+05:30"
+  "updated_at": "2026-04-15T10:06:07+05:30"
 }
