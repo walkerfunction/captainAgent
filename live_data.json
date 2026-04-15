@@ -10,20 +10,20 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 146/10 (20 ov) & RCB 144/5 (14.5 ov) \u2014 RCB need 3 runs in 31 balls.",
-      "live_batting": "Tim David 14*(8), Romario Shepherd 9*(6)",
+      "live_score": "LSG 146/10 (20 ov) & RCB 145/5 (15 ov) \u2014 RCB need 2 runs in 30 balls.",
+      "live_batting": "Tim David 14*(8), Romario Shepherd 10*(7)",
       "live_bowling": "Mohammed Shami 0/30 (3), Prince Yadav 3/32 (3), Digvesh Rathi 0/51 (4)",
-      "live_moment": "RCB need 3 runs in 31 balls.",
+      "live_moment": "RCB need 2 runs in 30 balls.",
       "gemma_observations": [
-        "Prince Yadav is bowling with more aggression, attempting to take wickets.",
         "Tim David is attempting to accelerate scoring through aggressive shots.",
         "Tim David is attempting to accelerate with boundaries.",
         "Tim David is aggressively targeting short balls from Prince Yadav.",
         "Tim David is attempting to accelerate, prioritizing boundaries against Prince Yadav.",
-        "Tim David is aggressively targeting short balls from Shami."
+        "Tim David is aggressively targeting short balls from Shami.",
+        "Mohammed Shami is bowling defensively, conceding too many runs."
       ],
-      "updated_at": "2026-04-15T10:16:03+05:30"
+      "updated_at": "2026-04-15T10:17:16+05:30"
     }
   },
-  "updated_at": "2026-04-15T10:16:03+05:30"
+  "updated_at": "2026-04-15T10:17:16+05:30"
 }
