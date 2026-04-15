@@ -10,16 +10,16 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "LSG 146/10 (20 ov) & RCB 4/0 (0.3 ov) \u2014 RCB need 143 runs in 117 balls.",
-      "live_batting": "Phil Salt 4*(3)",
-      "live_bowling": "Mohammed Shami 0/4 (0.3)",
-      "live_moment": "RCB need 143 runs in 117 balls.",
+      "live_score": "LSG 146/10 (20 ov) & RCB 4/0 (0.4 ov) \u2014 RCB need 143 runs in 116 balls.",
+      "live_batting": "Phil Salt 4*(4)",
+      "live_bowling": "Mohammed Shami 0/4 (0.4)",
+      "live_moment": "RCB need 143 runs in 116 balls.",
       "gemma_observations": [
         "Rathi is attempting to hit boundaries with aggressive short balls.",
         "Virat Kohli is prioritizing defense against the opening over."
       ],
-      "updated_at": "2026-04-15T09:05:05+05:30"
+      "updated_at": "2026-04-15T09:06:15+05:30"
     }
   },
-  "updated_at": "2026-04-15T09:05:05+05:30"
+  "updated_at": "2026-04-15T09:06:15+05:30"
 }
