@@ -10,9 +10,9 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 12/0 (2 ov) \u2014 PBKS chose to field.",
-      "live_batting": "Ryan Rickelton 2*(7), Quinton de Kock 6*(5)",
-      "live_bowling": "Arshdeep Singh 0/1 (1), Marco Jansen 0/7 (1)",
+      "live_score": "MI 12/1 (2.1 ov) \u2014 PBKS chose to field.",
+      "live_batting": "Quinton de Kock 6*(5)",
+      "live_bowling": "Arshdeep Singh 1/1 (1.1), Marco Jansen 0/7 (1)",
       "live_moment": "PBKS chose to field.",
       "gemma_observations": [
         "Rickelton is prioritizing rotation of strike against Arshdeep Singh.",
@@ -22,8 +22,8 @@
         "De Kock is attempting to rotate the strike against Arshdeep Singh.",
         "Rickelton is prioritizing scoring quickly with aggressive shots."
       ],
-      "updated_at": "2026-04-16T07:09:33+05:30"
+      "updated_at": "2026-04-16T07:10:42+05:30"
     }
   },
-  "updated_at": "2026-04-16T07:09:33+05:30"
+  "updated_at": "2026-04-16T07:10:42+05:30"
 }
