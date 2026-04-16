@@ -1,29 +1,24 @@
 {
   "matches": {
-    "Lucknow Super Giants_vs_Royal Challengers Bengaluru_2026-04-15": {
+    "Mumbai Indians_vs_Punjab Kings_2026-04-16": {
       "match": {
-        "name": "23rd Match",
+        "name": "24th Match",
         "teams": [
-          "Lucknow Super Giants",
-          "Royal Challengers Bengaluru"
+          "Mumbai Indians",
+          "Punjab Kings"
         ],
-        "venue": "M Chinnaswamy Stadium, Bengaluru",
+        "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "LSG 146/10 (20 ov) & RCB 145/5 (15 ov) \u2014 RCB need 2 runs in 30 balls.",
-      "live_batting": "Tim David 14*(8), Romario Shepherd 10*(7)",
-      "live_bowling": "Mohammed Shami 0/30 (3), Prince Yadav 3/32 (3), Digvesh Rathi 0/51 (4)",
-      "live_moment": "RCB need 2 runs in 30 balls.",
+      "live_score": "MI 0/0 (0.3 ov) \u2014 PBKS chose to field.",
+      "live_batting": "Ryan Rickelton 0*(3)",
+      "live_bowling": "Arshdeep Singh 0/0 (0.3)",
+      "live_moment": "PBKS chose to field.",
       "gemma_observations": [
-        "Tim David is attempting to accelerate scoring through aggressive shots.",
-        "Tim David is attempting to accelerate with boundaries.",
-        "Tim David is aggressively targeting short balls from Prince Yadav.",
-        "Tim David is attempting to accelerate, prioritizing boundaries against Prince Yadav.",
-        "Tim David is aggressively targeting short balls from Shami.",
-        "Mohammed Shami is bowling defensively, conceding too many runs."
+        "Rickelton is prioritizing dot balls at the start of the innings."
       ],
-      "updated_at": "2026-04-15T10:17:16+05:30"
+      "updated_at": "2026-04-16T07:02:42+05:30"
     }
   },
-  "updated_at": "2026-04-15T10:17:16+05:30"
+  "updated_at": "2026-04-16T07:02:42+05:30"
 }
