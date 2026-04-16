@@ -10,15 +10,15 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 195/6 (20 ov) \u2014 PBKS chose to field.",
-      "live_batting": "Quinton de Kock 112*(60)",
-      "live_bowling": "Arshdeep Singh 3/22 (4), Marco Jansen 1/30 (4), Xavier Bartlett 0/39 (4)",
-      "live_moment": "PBKS chose to field.",
+      "live_score": "MI 195/6 (20 ov) & PBKS 1/0 (0.1 ov) \u2014 PBKS need 195 runs in 119 balls.",
+      "live_batting": "Priyansh Arya 1*(1)",
+      "live_bowling": "Deepak Chahar 0/1 (0.1)",
+      "live_moment": "PBKS need 195 runs in 119 balls.",
       "gemma_observations": [
         "De Kock is aggressively targeting length, seeking boundaries consistently."
       ],
-      "updated_at": "2026-04-16T09:02:29+05:30"
+      "updated_at": "2026-04-16T09:03:39+05:30"
     }
   },
-  "updated_at": "2026-04-16T09:02:29+05:30"
+  "updated_at": "2026-04-16T09:03:39+05:30"
 }
