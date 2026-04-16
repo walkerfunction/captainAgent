@@ -10,17 +10,18 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 1/0 (1 ov) \u2014 PBKS chose to field.",
-      "live_batting": "Ryan Rickelton 1*(6)",
-      "live_bowling": "Arshdeep Singh 0/1 (1)",
+      "live_score": "MI 2/0 (1.1 ov) \u2014 PBKS chose to field.",
+      "live_batting": "Ryan Rickelton 2*(7)",
+      "live_bowling": "Arshdeep Singh 0/1 (1), Marco Jansen 0/1 (0.1)",
       "live_moment": "PBKS chose to field.",
       "gemma_observations": [
         "Rickelton is prioritizing dot balls at the start of the innings.",
         "Rickelton is prioritizing rotation of strike against Arshdeep Singh.",
-        "Rickelton is prioritizing dot balls to start his innings."
+        "Rickelton is prioritizing dot balls to start his innings.",
+        "Rickelton is prioritizing dot balls to build an early foundation."
       ],
-      "updated_at": "2026-04-16T07:04:57+05:30"
+      "updated_at": "2026-04-16T07:06:05+05:30"
     }
   },
-  "updated_at": "2026-04-16T07:04:57+05:30"
+  "updated_at": "2026-04-16T07:06:05+05:30"
 }
