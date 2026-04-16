@@ -10,20 +10,20 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 195/6 (20 ov) & PBKS 156/2 (13.3 ov) \u2014 PBKS need 40 runs in 39 balls.",
-      "live_batting": "Prabhsimran Singh 76*(35), Shreyas Iyer 42*(26)",
+      "live_score": "MI 195/6 (20 ov) & PBKS 157/2 (13.4 ov) \u2014 PBKS need 39 runs in 38 balls.",
+      "live_batting": "Prabhsimran Singh 77*(36), Shreyas Iyer 42*(26)",
       "live_bowling": "Deepak Chahar 0/35 (2), Jasprit Bumrah 0/30 (3), AM Ghazanfar 2/31 (4)",
-      "live_moment": "PBKS need 40 runs in 39 balls.",
+      "live_moment": "PBKS need 39 runs in 38 balls.",
       "gemma_observations": [
-        "Prabhsimran Singh is consistently looking for gaps in the attack.",
         "Shreyas Iyer is attempting to accelerate the scoring rate.",
         "Shreyas Iyer is attempting to rotate the strike against AM Ghazanfar.",
         "Shreyas Iyer is rotating the strike effectively to maintain pressure.",
         "Prabhsimran Singh is consistently looking for gaps on the off-side.",
-        "Shreyas Iyer is rotating the strike effectively, prioritizing singles and twos."
+        "Shreyas Iyer is rotating the strike effectively, prioritizing singles and twos.",
+        "Shreyas Iyer is rotating the strike effectively, attempting to maintain pressure."
       ],
-      "updated_at": "2026-04-16T10:09:56+05:30"
+      "updated_at": "2026-04-16T10:11:13+05:30"
     }
   },
-  "updated_at": "2026-04-16T10:09:56+05:30"
+  "updated_at": "2026-04-16T10:11:13+05:30"
 }
