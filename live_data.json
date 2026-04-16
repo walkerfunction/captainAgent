@@ -10,8 +10,8 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 134/2 (13.3 ov) \u2014 PBKS chose to field.",
-      "live_batting": "Quinton de Kock 75*(42), Naman Dhir 50*(30)",
+      "live_score": "MI 134/3 (13.4 ov) \u2014 PBKS chose to field.",
+      "live_batting": "Quinton de Kock 75*(42)",
       "live_bowling": "Arshdeep Singh 2/4 (2), Marco Jansen 0/22 (3), Xavier Bartlett 0/30 (3)",
       "live_moment": "PBKS chose to field.",
       "gemma_observations": [
@@ -19,8 +19,8 @@
         "Naman Dhir is attempting to rotate the strike against Xavier Bartlett.",
         "Naman Dhir is attempting to rotate the strike against Marco Jansen."
       ],
-      "updated_at": "2026-04-16T08:10:57+05:30"
+      "updated_at": "2026-04-16T08:12:08+05:30"
     }
   },
-  "updated_at": "2026-04-16T08:10:57+05:30"
+  "updated_at": "2026-04-16T08:12:08+05:30"
 }
