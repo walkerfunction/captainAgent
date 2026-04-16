@@ -10,18 +10,19 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 182/5 (18.5 ov) \u2014 PBKS chose to field.",
-      "live_batting": "Quinton de Kock 107*(56)",
-      "live_bowling": "Arshdeep Singh 3/18 (3.5), Marco Jansen 1/30 (4), Xavier Bartlett 0/39 (4)",
+      "live_score": "MI 186/5 (19 ov) \u2014 PBKS chose to field.",
+      "live_batting": "Quinton de Kock 107*(56), Tilak Varma 4*(1)",
+      "live_bowling": "Arshdeep Singh 3/22 (4), Marco Jansen 1/30 (4), Xavier Bartlett 0/39 (4)",
       "live_moment": "PBKS chose to field.",
       "gemma_observations": [
         "Rutherford is primarily content to rotate the strike against Bartlett.",
         "Sherfane Rutherford is primarily rotating the strike against Bartlett.",
         "Rutherford is primarily looking to rotate the strike against Bartlett.",
-        "Rutherford is attempting to accelerate the scoring rate against Bartlett."
+        "Rutherford is attempting to accelerate the scoring rate against Bartlett.",
+        "Varma is primarily serving as a defensive anchor alongside de Kock."
       ],
-      "updated_at": "2026-04-16T08:41:40+05:30"
+      "updated_at": "2026-04-16T08:42:52+05:30"
     }
   },
-  "updated_at": "2026-04-16T08:41:40+05:30"
+  "updated_at": "2026-04-16T08:42:52+05:30"
 }
