@@ -10,20 +10,20 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 164/3 (16.4 ov) \u2014 PBKS chose to field.",
-      "live_batting": "Quinton de Kock 97*(52), Hardik Pandya 7*(8)",
-      "live_bowling": "Arshdeep Singh 2/13 (3), Marco Jansen 0/22 (3), Xavier Bartlett 0/34 (3.4)",
+      "live_score": "MI 169/3 (17 ov) \u2014 PBKS chose to field.",
+      "live_batting": "Quinton de Kock 101*(53), Hardik Pandya 8*(9)",
+      "live_bowling": "Arshdeep Singh 2/13 (3), Marco Jansen 0/22 (3), Xavier Bartlett 0/39 (4)",
       "live_moment": "PBKS chose to field.",
       "gemma_observations": [
-        "De Kock is aggressively targeting length, attempting boundaries frequently.",
         "Arshdeep Singh is maintaining a tight line and length, restricting scoring.",
         "De Kock is prioritizing aggressive running between the wickets.",
         "Hardik Pandya is likely rotating strike against Arshdeep Singh.",
         "Hardik Pandya is rotating strike, likely prioritizing a quick acceleration.",
-        "Hardik Pandya is rotating strike, likely awaiting a boundary opportunity."
+        "Hardik Pandya is rotating strike, likely awaiting a boundary opportunity.",
+        "De Kock is aggressively rotating strike against Bartlett and Jansen."
       ],
-      "updated_at": "2026-04-16T08:28:42+05:30"
+      "updated_at": "2026-04-16T08:29:54+05:30"
     }
   },
-  "updated_at": "2026-04-16T08:28:42+05:30"
+  "updated_at": "2026-04-16T08:29:54+05:30"
 }
