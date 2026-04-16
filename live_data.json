@@ -14,9 +14,11 @@
       "live_batting": "Quinton de Kock 112*(60)",
       "live_bowling": "Arshdeep Singh 3/22 (4), Marco Jansen 1/30 (4), Xavier Bartlett 0/39 (4)",
       "live_moment": "PBKS chose to field.",
-      "gemma_observations": [],
-      "updated_at": "2026-04-16T08:48:50+05:30"
+      "gemma_observations": [
+        "De Kock is aggressively targeting length, attempting boundaries frequently."
+      ],
+      "updated_at": "2026-04-16T08:49:58+05:30"
     }
   },
-  "updated_at": "2026-04-16T08:48:50+05:30"
+  "updated_at": "2026-04-16T08:49:58+05:30"
 }
