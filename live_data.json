@@ -10,20 +10,20 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 195/6 (20 ov) & PBKS 21/0 (0.6 ov) \u2014 PBKS need 175 runs in 114 balls.",
-      "live_batting": "Priyansh Arya 11*(3), Prabhsimran Singh 9*(3)",
-      "live_bowling": "Deepak Chahar 0/21 (0.6)",
-      "live_moment": "PBKS need 175 runs in 114 balls.",
+      "live_score": "MI 195/6 (20 ov) & PBKS 22/0 (1.1 ov) \u2014 PBKS need 174 runs in 113 balls.",
+      "live_batting": "Priyansh Arya 11*(3), Prabhsimran Singh 10*(4)",
+      "live_bowling": "Deepak Chahar 0/21 (1), Jasprit Bumrah 0/1 (0.1)",
+      "live_moment": "PBKS need 174 runs in 113 balls.",
       "gemma_observations": [
-        "De Kock is aggressively targeting length, seeking boundaries consistently.",
         "Prabhsimran Singh is prioritizing dot balls to avoid immediate pressure.",
         "Prabhsimran Singh is prioritizing dot balls to frustrate the MI bowlers.",
         "Deepak Chahar is maintaining a tight line and length to restrict scoring.",
         "Prabhsimran Singh is attempting to rotate the strike against Deepak Chahar.",
-        "Priyansh Arya is prioritizing dot balls to avoid immediate pressure."
+        "Priyansh Arya is prioritizing dot balls to avoid immediate pressure.",
+        "Deepak Chahar is maintaining a disciplined line outside off stump."
       ],
-      "updated_at": "2026-04-16T09:07:16+05:30"
+      "updated_at": "2026-04-16T09:08:30+05:30"
     }
   },
-  "updated_at": "2026-04-16T09:07:16+05:30"
+  "updated_at": "2026-04-16T09:08:30+05:30"
 }
