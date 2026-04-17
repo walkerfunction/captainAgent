@@ -10,20 +10,16 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 65/3 (8.4 ov) \u2014 KKR chose to bat.",
-      "live_batting": "Cameron Green 13*(16), Rovman Powell 22*(17)",
-      "live_bowling": "Mohammed Siraj 1/16 (3), Kagiso Rabada 2/20 (3), Prasidh Krishna 0/17 (1.4)",
+      "live_score": "KKR 67/3 (8.5 ov) \u2014 KKR chose to bat.",
+      "live_batting": "Cameron Green 15*(17), Rovman Powell 22*(17)",
+      "live_bowling": "Mohammed Siraj 1/16 (3), Kagiso Rabada 2/20 (3), Prasidh Krishna 0/19 (1.5)",
       "live_moment": "KKR chose to bat.",
       "gemma_observations": [
-        "Powell is attempting to rotate the strike against Siraj.",
-        "Powell is attempting to accelerate his scoring rate against Siraj.",
-        "Green is prioritizing consolidation after a quick start.",
         "Green is attempting to rotate the strike against Rabada.",
-        "Powell is looking to accelerate his scoring rate.",
-        "Cameron Green is prioritizing rotation of strike over scoring aggressively."
+        "Powell is aggressively looking to score boundaries off Siraj."
       ],
-      "updated_at": "2026-04-17T07:47:07+05:30"
+      "updated_at": "2026-04-17T07:48:20+05:30"
     }
   },
-  "updated_at": "2026-04-17T07:47:07+05:30"
+  "updated_at": "2026-04-17T07:48:20+05:30"
 }
