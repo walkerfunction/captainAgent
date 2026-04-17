@@ -10,17 +10,18 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 170/4 (18 ov) \u2014 GT need 11 runs in 12 balls.",
-      "live_batting": "Glenn Phillips 17*(12), Rahul Tewatia 2*(2)",
-      "live_bowling": "Vaibhav Arora 1/29 (3), Kartik Tyagi 0/40 (4), Anukul Roy 0/37 (3)",
-      "live_moment": "GT need 11 runs in 12 balls.",
+      "live_score": "KKR 180/10 (20 ov) & GT 174/4 (18.1 ov) \u2014 GT need 7 runs in 11 balls.",
+      "live_batting": "Glenn Phillips 17*(12), Rahul Tewatia 6*(3)",
+      "live_bowling": "Vaibhav Arora 1/33 (3.1), Kartik Tyagi 0/40 (4), Anukul Roy 0/37 (3)",
+      "live_moment": "GT need 7 runs in 11 balls.",
       "gemma_observations": [
         "Tewatia is rotating the strike, prioritizing dot balls to shorten the chase.",
         "Tewatia is attempting to rotate strike, but struggling for acceleration.",
         "Phillips is aggressively targeting Arora for boundaries.",
-        "Tewatia is attempting to rotate strike with quick singles."
+        "Tewatia is attempting to rotate strike with quick singles.",
+        "Tewatia is attempting to rotate strike and maintain pressure."
       ],
-      "updated_at": "2026-04-17T10:35:44+05:30"
+      "updated_at": "2026-04-17T10:37:10+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -32,17 +33,18 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 156/7 (19.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 47*(33)",
-      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 3/15 (3.5), Tumi Sekhukhune 2/27 (4)",
+      "live_score": "IND-W 157/7 (20 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 47*(33), Deepti Sharma 1*(1)",
+      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 3/16 (4), Tumi Sekhukhune 2/27 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
         "The innings is now focused on building a partnership with Kaur.",
-        "Shreyanka Patil is primarily rotating the strike with cautious defense."
+        "Shreyanka Patil is primarily rotating the strike with cautious defense.",
+        "Harmanpreet Kaur is prioritizing quick singles to accelerate the scoring."
       ],
-      "updated_at": "2026-04-17T10:35:55+05:30"
+      "updated_at": "2026-04-17T10:37:23+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:35:55+05:30"
+  "updated_at": "2026-04-17T10:37:23+05:30"
 }
