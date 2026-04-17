@@ -10,19 +10,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 157/7 (20 ov) & SA-W 1/0 (0.3 ov) \u2014 SA Women need 157 runs in 117 balls.",
-      "live_batting": "Laura Wolvaardt 1*(2), Sune Luus 0*(1)",
-      "live_bowling": "Renuka Singh 0/1 (0.3)",
-      "live_moment": "SA Women need 157 runs in 117 balls.",
+      "live_score": "IND-W 157/7 (20 ov) & SA-W 5/0 (0.5 ov) \u2014 SA Women need 153 runs in 115 balls.",
+      "live_batting": "Laura Wolvaardt 1*(2), Sune Luus 4*(3)",
+      "live_bowling": "Renuka Singh 0/5 (0.5)",
+      "live_moment": "SA Women need 153 runs in 115 balls.",
       "gemma_observations": [
-        "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
         "Harmanpreet Kaur is aggressively targeting spin bowlers, attempting to accelerate the scoring.",
         "Renuka Singh is maintaining a tight line to start, restricting early scoring.",
         "Wolvaardt is prioritizing rotation of strike against Renuka Singh.",
-        "Luus is attempting to work the ball off the back foot for a single."
+        "Luus is attempting to work the ball off the back foot for a single.",
+        "Wolvaardt is attempting to rotate the strike against Renuka Singh.",
+        "Luus is prioritizing consolidation after a cautious start."
       ],
-      "updated_at": "2026-04-17T10:52:51+05:30"
+      "updated_at": "2026-04-17T10:54:06+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:52:51+05:30"
+  "updated_at": "2026-04-17T10:54:06+05:30"
 }
