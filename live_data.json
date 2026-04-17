@@ -17,7 +17,7 @@
       "gemma_observations": [
         "Shubman Gill is consistently looking to drive through the off-side channel."
       ],
-      "updated_at": "2026-04-17T09:47:46+05:30"
+      "updated_at": "2026-04-17T09:49:13+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -29,16 +29,17 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 73/2 (9.3 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Jemimah Rodrigues 14*(12), Harmanpreet Kaur 11*(11)",
+      "live_score": "IND-W 75/2 (10 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 15*(14), Harmanpreet Kaur 12*(12)",
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 1/9 (2), Tumi Sekhukhune 1/18 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Rodrigues is attempting to accelerate her scoring rate against Khaka.",
-        "Kaur is prioritizing rotation of strike over aggressive hitting."
+        "Kaur is prioritizing rotation of strike over aggressive hitting.",
+        "Jemimah Rodrigues is attempting to accelerate her scoring rate against Khaka."
       ],
-      "updated_at": "2026-04-17T09:47:59+05:30"
+      "updated_at": "2026-04-17T09:49:25+05:30"
     }
   },
-  "updated_at": "2026-04-17T09:47:59+05:30"
+  "updated_at": "2026-04-17T09:49:25+05:30"
 }
