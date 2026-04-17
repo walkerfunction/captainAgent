@@ -10,17 +10,18 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 157/7 (20 ov) & SA-W 142/4 (17 ov) \u2014 SA Women need 16 runs in 18 balls.",
-      "live_batting": "Annerie Dercksen 41*(29), Chloe Tryon 5*(8)",
-      "live_bowling": "Renuka Singh 0/25 (3), Shreyanka Patil 2/23 (3), Deepti Sharma 0/18 (2)",
-      "live_moment": "SA Women need 16 runs in 18 balls.",
+      "live_score": "IND-W 157/7 (20 ov) & SA-W 143/4 (17.2 ov) \u2014 SA Women need 15 runs in 16 balls.",
+      "live_batting": "Annerie Dercksen 41*(30), Chloe Tryon 6*(9)",
+      "live_bowling": "Renuka Singh 0/25 (3), Shreyanka Patil 2/24 (3.2), Deepti Sharma 0/18 (2)",
+      "live_moment": "SA Women need 15 runs in 16 balls.",
       "gemma_observations": [
         "Dercksen is aggressively targeting Shreyanka Patil for boundaries.",
         "Tryon is primarily focusing on rotating the strike against Renuka Singh.",
-        "Tryon is primarily focusing on defense, attempting to rotate the strike."
+        "Tryon is primarily focusing on defense, attempting to rotate the strike.",
+        "Tryon is primarily focusing on dot balls to conserve her wicket."
       ],
-      "updated_at": "2026-04-17T12:08:51+05:30"
+      "updated_at": "2026-04-17T12:10:08+05:30"
     }
   },
-  "updated_at": "2026-04-17T12:08:51+05:30"
+  "updated_at": "2026-04-17T12:10:08+05:30"
 }
