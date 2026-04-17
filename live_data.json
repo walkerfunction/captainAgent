@@ -10,15 +10,16 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 166/8 (17.3 ov) \u2014 KKR chose to bat.",
-      "live_batting": "Cameron Green 76*(45)",
-      "live_bowling": "Mohammed Siraj 2/17 (3.3), Kagiso Rabada 3/29 (4), Prasidh Krishna 1/30 (3)",
+      "live_score": "KKR 166/8 (17.4 ov) \u2014 KKR chose to bat.",
+      "live_batting": "Cameron Green 76*(45), Kartik Tyagi 0*(1)",
+      "live_bowling": "Mohammed Siraj 2/17 (3.4), Kagiso Rabada 3/29 (4), Prasidh Krishna 1/30 (3)",
       "live_moment": "KKR chose to bat.",
       "gemma_observations": [
-        "Ramandeep Singh is attempting to rotate the strike against Siraj."
+        "Ramandeep Singh is attempting to rotate the strike against Siraj.",
+        "Tyagi is primarily defensive, offering little attacking intent."
       ],
-      "updated_at": "2026-04-17T08:38:52+05:30"
+      "updated_at": "2026-04-17T08:40:06+05:30"
     }
   },
-  "updated_at": "2026-04-17T08:38:52+05:30"
+  "updated_at": "2026-04-17T08:40:06+05:30"
 }
