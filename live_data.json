@@ -10,17 +10,18 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 41/0 (3.1 ov) \u2014 GT need 140 runs in 101 balls.",
-      "live_batting": "Sai Sudharsan 17*(9), Shubman Gill 23*(10)",
+      "live_score": "KKR 180/10 (20 ov) & GT 45/0 (3.4 ov) \u2014 GT need 136 runs in 98 balls.",
+      "live_batting": "Sai Sudharsan 21*(12), Shubman Gill 23*(10)",
       "live_bowling": "Vaibhav Arora 0/8 (1), Kartik Tyagi 0/11 (1), Anukul Roy 0/20 (1)",
-      "live_moment": "GT need 140 runs in 101 balls.",
+      "live_moment": "GT need 136 runs in 98 balls.",
       "gemma_observations": [
         "Sudharsan is prioritizing length and attempting to rotate the strike.",
         "Gill is confidently driving through the central region of the pitch.",
         "Shubman Gill is aggressively attempting to accelerate his scoring rate.",
-        "Sai Sudharsan is prioritizing consolidation and building a solid foundation."
+        "Sai Sudharsan is prioritizing consolidation and building a solid foundation.",
+        "Sai Sudharsan is rotating the strike and building his innings cautiously."
       ],
-      "updated_at": "2026-04-17T09:20:17+05:30"
+      "updated_at": "2026-04-17T09:21:45+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -32,16 +33,18 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 46/0 (4.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Smriti Mandhana 12*(10), Shafali Verma 34*(19)",
-      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 0/7 (1), Tumi Sekhukhune 0/18 (1.5)",
+      "live_score": "IND-W 46/1 (5 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Smriti Mandhana 12*(10)",
+      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 0/7 (1), Tumi Sekhukhune 1/18 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Smriti Mandhana is aggressively targeting length early in her innings.",
-        "Shafali Verma is rotating the strike effectively with quick singles."
+        "Shafali Verma is rotating the strike effectively with quick singles.",
+        "Mandhana is prioritizing length and attempting to rotate the strike.",
+        "Luus is maintaining a tight line and length to restrict scoring opportunities."
       ],
-      "updated_at": "2026-04-17T09:20:28+05:30"
+      "updated_at": "2026-04-17T09:21:55+05:30"
     }
   },
-  "updated_at": "2026-04-17T09:20:28+05:30"
+  "updated_at": "2026-04-17T09:21:55+05:30"
 }
