@@ -10,15 +10,17 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 146/3 (15.3 ov) \u2014 GT need 35 runs in 27 balls.",
-      "live_batting": "Shubman Gill 79*(44), Glenn Phillips 3*(5)",
-      "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/28 (3), Anukul Roy 0/34 (2.3)",
-      "live_moment": "GT need 35 runs in 27 balls.",
+      "live_score": "KKR 180/10 (20 ov) & GT 148/3 (15.5 ov) \u2014 GT need 33 runs in 25 balls.",
+      "live_batting": "Shubman Gill 80*(45), Glenn Phillips 4*(6)",
+      "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/28 (3), Anukul Roy 0/36 (2.5)",
+      "live_moment": "GT need 33 runs in 25 balls.",
       "gemma_observations": [
         "Shubman Gill is aggressively targeting Vaibhav Arora for boundaries.",
-        "Glenn Phillips is attempting to rotate strike against Kartik Tyagi."
+        "Glenn Phillips is attempting to rotate strike against Kartik Tyagi.",
+        "Shubman Gill is aggressively targeting short balls from Vaibhav Arora.",
+        "Glenn Phillips is attempting to rotate the strike against Kartik Tyagi."
       ],
-      "updated_at": "2026-04-17T10:18:17+05:30"
+      "updated_at": "2026-04-17T10:19:46+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -30,16 +32,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 128/4 (16.1 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 32*(24), Kashvee Gautam 3*(5)",
+      "live_score": "IND-W 130/4 (16.3 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 34*(26), Kashvee Gautam 3*(5)",
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 2/12 (3), Tumi Sekhukhune 2/23 (3)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
         "Kashvee Gautam is bowling defensively, conceding too many runs."
       ],
-      "updated_at": "2026-04-17T10:18:29+05:30"
+      "updated_at": "2026-04-17T10:19:56+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:18:29+05:30"
+  "updated_at": "2026-04-17T10:19:56+05:30"
 }
