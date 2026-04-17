@@ -10,10 +10,10 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 158/4 (17 ov) \u2014 GT need 23 runs in 18 balls.",
-      "live_batting": "Glenn Phillips 7*(8)",
-      "live_bowling": "Vaibhav Arora 1/29 (3), Kartik Tyagi 0/28 (3), Anukul Roy 0/37 (3)",
-      "live_moment": "GT need 23 runs in 18 balls.",
+      "live_score": "KKR 180/10 (20 ov) & GT 159/4 (17.1 ov) \u2014 GT need 22 runs in 17 balls.",
+      "live_batting": "Glenn Phillips 8*(9)",
+      "live_bowling": "Vaibhav Arora 1/29 (3), Kartik Tyagi 0/29 (3.1), Anukul Roy 0/37 (3)",
+      "live_moment": "GT need 22 runs in 17 balls.",
       "gemma_observations": [
         "Shubman Gill is aggressively targeting short balls from Vaibhav Arora.",
         "Glenn Phillips is attempting to rotate the strike against Kartik Tyagi.",
@@ -22,7 +22,7 @@
         "Glenn Phillips is attempting to accelerate his scoring rate.",
         "Phillips is primarily focused on rotating the strike against Tyagi."
       ],
-      "updated_at": "2026-04-17T10:29:55+05:30"
+      "updated_at": "2026-04-17T10:31:21+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -34,9 +34,9 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 150/5 (18.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 45*(31), Arundhati Reddy 2*(6)",
-      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 2/12 (3), Tumi Sekhukhune 2/26 (3.5)",
+      "live_score": "IND-W 152/6 (19.1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 45*(31)",
+      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 3/12 (3.1), Tumi Sekhukhune 2/27 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
@@ -44,8 +44,8 @@
         "Harmanpreet Kaur is prioritizing quick singles to maintain scoring momentum.",
         "Sune Luus is bowling defensively, conceding too many runs."
       ],
-      "updated_at": "2026-04-17T10:30:08+05:30"
+      "updated_at": "2026-04-17T10:31:32+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:30:08+05:30"
+  "updated_at": "2026-04-17T10:31:32+05:30"
 }
