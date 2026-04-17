@@ -10,15 +10,17 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 98/2 (9.5 ov) \u2014 GT need 83 runs in 61 balls.",
-      "live_batting": "Shubman Gill 48*(25), Washington Sundar 2*(3)",
+      "live_score": "KKR 180/10 (20 ov) & GT 100/2 (10.1 ov) \u2014 GT need 81 runs in 59 balls.",
+      "live_batting": "Shubman Gill 50*(27), Washington Sundar 2*(3)",
       "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/13 (2), Anukul Roy 0/32 (2)",
-      "live_moment": "GT need 83 runs in 61 balls.",
+      "live_moment": "GT need 81 runs in 59 balls.",
       "gemma_observations": [
         "Shubman Gill is consistently looking to drive through the off-side channel.",
-        "Shubman Gill is increasingly looking to accelerate his scoring rate."
+        "Shubman Gill is increasingly looking to accelerate his scoring rate.",
+        "Shubman Gill is aggressively targeting short balls from Vaibhav Arora.",
+        "Washington Sundar is rotating the strike to maintain pressure on the GT bowlers."
       ],
-      "updated_at": "2026-04-17T09:50:41+05:30"
+      "updated_at": "2026-04-17T09:52:05+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -30,18 +32,19 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 77/2 (10.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Jemimah Rodrigues 16*(15), Harmanpreet Kaur 13*(13)",
+      "live_score": "IND-W 80/2 (10.5 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 18*(17), Harmanpreet Kaur 14*(14)",
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 1/9 (2), Tumi Sekhukhune 1/18 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Rodrigues is attempting to accelerate her scoring rate against Khaka.",
         "Kaur is prioritizing rotation of strike over aggressive hitting.",
         "Jemimah Rodrigues is attempting to accelerate her scoring rate against Khaka.",
-        "Kaur is prioritizing rotation of the strike over aggressive hitting."
+        "Kaur is prioritizing rotation of the strike over aggressive hitting.",
+        "Kaur is rotating the strike and prioritizing dot balls against Luus."
       ],
-      "updated_at": "2026-04-17T09:50:52+05:30"
+      "updated_at": "2026-04-17T09:52:16+05:30"
     }
   },
-  "updated_at": "2026-04-17T09:50:52+05:30"
+  "updated_at": "2026-04-17T09:52:16+05:30"
 }
