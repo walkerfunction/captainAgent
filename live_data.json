@@ -10,15 +10,16 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 175/9 (19.3 ov) \u2014 KKR chose to bat.",
-      "live_batting": "Cameron Green 79*(53)",
+      "live_score": "KKR 180/9 (19.5 ov) \u2014 KKR chose to bat.",
+      "live_batting": "Cameron Green 79*(54), Vaibhav Arora 0*(1)",
       "live_bowling": "Mohammed Siraj 2/23 (4), Kagiso Rabada 3/29 (4), Prasidh Krishna 1/32 (4)",
       "live_moment": "KKR chose to bat.",
       "gemma_observations": [
-        "Green is relentlessly attacking boundaries, posing a significant threat."
+        "Green is relentlessly attacking boundaries, posing a significant threat.",
+        "Green is aggressively targeting Siraj for boundaries in the death overs."
       ],
-      "updated_at": "2026-04-17T08:48:41+05:30"
+      "updated_at": "2026-04-17T08:49:56+05:30"
     }
   },
-  "updated_at": "2026-04-17T08:48:41+05:30"
+  "updated_at": "2026-04-17T08:49:56+05:30"
 }
