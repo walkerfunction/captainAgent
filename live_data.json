@@ -10,10 +10,10 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 149/3 (16 ov) \u2014 GT need 32 runs in 24 balls.",
-      "live_batting": "Shubman Gill 81*(46), Glenn Phillips 4*(6)",
-      "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/28 (3), Anukul Roy 0/37 (3)",
-      "live_moment": "GT need 32 runs in 24 balls.",
+      "live_score": "KKR 180/10 (20 ov) & GT 153/3 (16.2 ov) \u2014 GT need 28 runs in 22 balls.",
+      "live_batting": "Shubman Gill 85*(48), Glenn Phillips 4*(6)",
+      "live_bowling": "Vaibhav Arora 0/24 (2.2), Kartik Tyagi 0/28 (3), Anukul Roy 0/37 (3)",
+      "live_moment": "GT need 28 runs in 22 balls.",
       "gemma_observations": [
         "Shubman Gill is aggressively targeting short balls from Vaibhav Arora.",
         "Glenn Phillips is attempting to rotate the strike against Kartik Tyagi.",
@@ -22,7 +22,7 @@
         "Glenn Phillips is attempting to accelerate his scoring rate.",
         "Phillips is primarily focused on rotating the strike against Tyagi."
       ],
-      "updated_at": "2026-04-17T10:24:04+05:30"
+      "updated_at": "2026-04-17T10:25:31+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -34,16 +34,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 142/5 (17.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 39*(28)",
+      "live_score": "IND-W 142/5 (17.3 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 39*(28), Arundhati Reddy 0*(1)",
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 2/12 (3), Tumi Sekhukhune 2/23 (3)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
         "Kashvee Gautam is bowling defensively, conceding too many runs."
       ],
-      "updated_at": "2026-04-17T10:24:15+05:30"
+      "updated_at": "2026-04-17T10:25:45+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:24:15+05:30"
+  "updated_at": "2026-04-17T10:25:45+05:30"
 }
