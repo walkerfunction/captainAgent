@@ -10,15 +10,16 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) \u2014 KKR chose to bat.",
-      "live_batting": "Vaibhav Arora 0*(1)",
-      "live_bowling": "Mohammed Siraj 2/23 (4), Kagiso Rabada 3/29 (4), Prasidh Krishna 1/32 (4)",
-      "live_moment": "KKR chose to bat.",
+      "live_score": "KKR 180/10 (20 ov) & GT 1/0 (0.1 ov) \u2014 GT need 180 runs in 119 balls.",
+      "live_batting": "Sai Sudharsan 0*(1)",
+      "live_bowling": "Vaibhav Arora 0/0 (0.1)",
+      "live_moment": "GT need 180 runs in 119 balls.",
       "gemma_observations": [
         "Siraj is conceding too many runs at the death.",
-        "Siraj is conceding too many runs with his variations."
+        "Siraj is conceding too many runs with his variations.",
+        "Sudharsan is playing cautiously, prioritizing defense early on."
       ],
-      "updated_at": "2026-04-17T09:03:42+05:30"
+      "updated_at": "2026-04-17T09:06:14+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -30,15 +31,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 2/0 (0.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Smriti Mandhana 1*(1), Shafali Verma 1*(1)",
-      "live_bowling": "Sune Luus 0/2 (0.2)",
+      "live_score": "IND-W 14/0 (1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Smriti Mandhana 1*(1), Shafali Verma 13*(5)",
+      "live_bowling": "Sune Luus 0/14 (1)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Smriti Mandhana is attempting to rotate the strike early on."
+        "Smriti Mandhana is attempting to rotate the strike early on.",
+        "Smriti Mandhana is prioritizing dot balls to build an initial partnership."
       ],
-      "updated_at": "2026-04-17T09:03:49+05:30"
+      "updated_at": "2026-04-17T09:06:22+05:30"
     }
   },
-  "updated_at": "2026-04-17T09:03:49+05:30"
+  "updated_at": "2026-04-17T09:06:22+05:30"
 }
