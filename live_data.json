@@ -10,15 +10,15 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 148/5 (15 ov) \u2014 KKR chose to bat.",
-      "live_batting": "Cameron Green 75*(44), Rinku Singh 1*(1)",
-      "live_bowling": "Mohammed Siraj 1/16 (3), Kagiso Rabada 2/20 (3), Prasidh Krishna 1/30 (3)",
+      "live_score": "KKR 148/6 (15.1 ov) \u2014 KKR chose to bat.",
+      "live_batting": "Cameron Green 75*(44)",
+      "live_bowling": "Mohammed Siraj 1/16 (3), Kagiso Rabada 3/20 (3.1), Prasidh Krishna 1/30 (3)",
       "live_moment": "KKR chose to bat.",
       "gemma_observations": [
         "Prasidh Krishna is maintaining a good line but lacks consistent movement."
       ],
-      "updated_at": "2026-04-17T08:25:26+05:30"
+      "updated_at": "2026-04-17T08:26:35+05:30"
     }
   },
-  "updated_at": "2026-04-17T08:25:26+05:30"
+  "updated_at": "2026-04-17T08:26:35+05:30"
 }
