@@ -10,14 +10,15 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 178/5 (19.2 ov) \u2014 GT need 3 runs in 4 balls.",
-      "live_batting": "Rahul Tewatia 6*(5), Prasidh Krishna 1*(1)",
+      "live_score": "KKR 180/10 (20 ov) & GT 181/5 (19.4 ov) \u2014 Match Over",
+      "live_batting": "Rahul Tewatia 7*(6), Prasidh Krishna 3*(2)",
       "live_bowling": "Vaibhav Arora 1/35 (4), Kartik Tyagi 0/40 (4), Anukul Roy 0/37 (3)",
-      "live_moment": "GT need 3 runs in 4 balls.",
+      "live_moment": "Match Over",
       "gemma_observations": [
-        "Tewatia is attempting to hit boundaries to accelerate the GT innings."
+        "Tewatia is attempting to hit boundaries to accelerate the GT innings.",
+        "Rahul Tewatia aggressively targeted the short balls in the final over."
       ],
-      "updated_at": "2026-04-17T10:48:50+05:30"
+      "updated_at": "2026-04-17T10:50:15+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -34,10 +35,11 @@
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 3/16 (4), Tumi Sekhukhune 2/27 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Harmanpreet Kaur is attempting to accelerate the scoring rate."
+        "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
+        "Harmanpreet Kaur is aggressively targeting spin bowlers, attempting to accelerate the scoring."
       ],
-      "updated_at": "2026-04-17T10:49:02+05:30"
+      "updated_at": "2026-04-17T10:50:29+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:49:02+05:30"
+  "updated_at": "2026-04-17T10:50:29+05:30"
 }
