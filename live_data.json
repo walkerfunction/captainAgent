@@ -15,9 +15,11 @@
       "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/11 (1), Anukul Roy 0/20 (1)",
       "live_moment": "GT need 110 runs in 84 balls.",
       "gemma_observations": [
-        "Shubman Gill is aggressively targeting short balls from Vaibhav Arora."
+        "Shubman Gill is aggressively targeting short balls from Vaibhav Arora.",
+        "Gill is prioritizing length and attempting to rotate the strike.",
+        "Buttler is looking to attack the loose balls and accelerate the scoring."
       ],
-      "updated_at": "2026-04-17T09:33:18+05:30"
+      "updated_at": "2026-04-17T09:34:46+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -29,16 +31,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 59/2 (7.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Jemimah Rodrigues 6*(6), Harmanpreet Kaur 6*(7)",
+      "live_score": "IND-W 60/2 (7.6 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 7*(7), Harmanpreet Kaur 6*(7)",
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 1/9 (2), Tumi Sekhukhune 1/18 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Rodrigues is attempting to rotate the strike against Khaka.",
         "Kaur is prioritizing dot balls to rebuild her innings."
       ],
-      "updated_at": "2026-04-17T09:33:30+05:30"
+      "updated_at": "2026-04-17T09:34:56+05:30"
     }
   },
-  "updated_at": "2026-04-17T09:33:30+05:30"
+  "updated_at": "2026-04-17T09:34:56+05:30"
 }
