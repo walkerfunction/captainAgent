@@ -10,10 +10,10 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 173/4 (18.3 ov) \u2014 GT need 8 runs in 9 balls.",
-      "live_batting": "Glenn Phillips 17*(13), Rahul Tewatia 5*(4)",
-      "live_bowling": "Vaibhav Arora 1/32 (3.3), Kartik Tyagi 0/40 (4), Anukul Roy 0/37 (3)",
-      "live_moment": "GT need 8 runs in 9 balls.",
+      "live_score": "KKR 180/10 (20 ov) & GT 175/4 (18.5 ov) \u2014 GT need 6 runs in 7 balls.",
+      "live_batting": "Glenn Phillips 18*(14), Rahul Tewatia 6*(5)",
+      "live_bowling": "Vaibhav Arora 1/34 (3.5), Kartik Tyagi 0/40 (4), Anukul Roy 0/37 (3)",
+      "live_moment": "GT need 6 runs in 7 balls.",
       "gemma_observations": [
         "Tewatia is attempting to rotate strike, but struggling for acceleration.",
         "Phillips is aggressively targeting Arora for boundaries.",
@@ -22,7 +22,7 @@
         "Phillips is aggressively targeting Arora for boundaries to accelerate.",
         "Tewatia is content rotating the strike, attempting to minimize risk."
       ],
-      "updated_at": "2026-04-17T10:41:33+05:30"
+      "updated_at": "2026-04-17T10:43:00+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -46,8 +46,8 @@
         "Harmanpreet Kaur is prioritizing singles and quick singles with the field set.",
         "Harmanpreet Kaur is aggressively targeting spin bowlers, attempting to accelerate the scoring."
       ],
-      "updated_at": "2026-04-17T10:41:44+05:30"
+      "updated_at": "2026-04-17T10:43:11+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:41:44+05:30"
+  "updated_at": "2026-04-17T10:43:11+05:30"
 }
