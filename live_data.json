@@ -10,19 +10,14 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 177/5 (19.1 ov) \u2014 GT need 4 runs in 5 balls.",
-      "live_batting": "Rahul Tewatia 6*(5)",
+      "live_score": "KKR 180/10 (20 ov) & GT 178/5 (19.2 ov) \u2014 GT need 3 runs in 4 balls.",
+      "live_batting": "Rahul Tewatia 6*(5), Prasidh Krishna 1*(1)",
       "live_bowling": "Vaibhav Arora 1/35 (4), Kartik Tyagi 0/40 (4), Anukul Roy 0/37 (3)",
-      "live_moment": "GT need 4 runs in 5 balls.",
+      "live_moment": "GT need 3 runs in 4 balls.",
       "gemma_observations": [
-        "Phillips is aggressively targeting Arora for boundaries to accelerate.",
-        "Tewatia is content rotating the strike, attempting to minimize risk.",
-        "Phillips is aggressively targeting short balls from Arora.",
-        "Phillips is aggressively targeting length, attempting boundaries.",
-        "Tewatia is content rotating the strike and playing defensively.",
-        "Tewatia is attempting boundaries with a defensive approach."
+        "Tewatia is attempting to hit boundaries to accelerate the GT innings."
       ],
-      "updated_at": "2026-04-17T10:47:19+05:30"
+      "updated_at": "2026-04-17T10:48:50+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -39,15 +34,10 @@
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 3/16 (4), Tumi Sekhukhune 2/27 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "The innings is now focused on building a partnership with Kaur.",
-        "Shreyanka Patil is primarily rotating the strike with cautious defense.",
-        "Harmanpreet Kaur is prioritizing quick singles to accelerate the scoring.",
-        "Harmanpreet Kaur is prioritizing singles and quick singles with the field set.",
-        "Harmanpreet Kaur is aggressively targeting spin bowlers, attempting to accelerate the scoring.",
-        "Harmanpreet Kaur is prioritizing quick singles with a defensive approach."
+        "Harmanpreet Kaur is attempting to accelerate the scoring rate."
       ],
-      "updated_at": "2026-04-17T10:47:33+05:30"
+      "updated_at": "2026-04-17T10:49:02+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:47:33+05:30"
+  "updated_at": "2026-04-17T10:49:02+05:30"
 }
