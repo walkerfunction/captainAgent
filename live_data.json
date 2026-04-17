@@ -10,18 +10,19 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 21/2 (2 ov) \u2014 KKR chose to bat.",
-      "live_batting": "Tim Seifert 12*(7)",
-      "live_bowling": "Mohammed Siraj 1/9 (1), Kagiso Rabada 1/12 (1)",
+      "live_score": "KKR 21/2 (2.2 ov) \u2014 KKR chose to bat.",
+      "live_batting": "Tim Seifert 12*(9)",
+      "live_bowling": "Mohammed Siraj 1/9 (1.2), Kagiso Rabada 1/12 (1)",
       "live_moment": "KKR chose to bat.",
       "gemma_observations": [
         "Seifert is prioritizing quick singles to build an early foundation.",
         "Seifert is prioritizing dot balls to build an early foundation.",
         "Seifert is attempting to rotate the strike against Siraj.",
-        "Seifert is attempting to accelerate scoring through aggressive drives."
+        "Seifert is attempting to accelerate scoring through aggressive drives.",
+        "Seifert is prioritizing length and attempting to rotate the strike against Siraj."
       ],
-      "updated_at": "2026-04-17T07:13:31+05:30"
+      "updated_at": "2026-04-17T07:14:42+05:30"
     }
   },
-  "updated_at": "2026-04-17T07:13:31+05:30"
+  "updated_at": "2026-04-17T07:14:42+05:30"
 }
