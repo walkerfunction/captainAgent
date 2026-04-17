@@ -10,20 +10,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 157/7 (20 ov) & SA-W 117/3 (13.3 ov) \u2014 SA Women need 41 runs in 39 balls.",
-      "live_batting": "Annerie Dercksen 31*(21), Anneke Bosch 0*(1)",
-      "live_bowling": "Renuka Singh 0/25 (3), Shreyanka Patil 2/21 (2.3), Deepti Sharma 0/18 (2)",
-      "live_moment": "SA Women need 41 runs in 39 balls.",
+      "live_score": "IND-W 157/7 (20 ov) & SA-W 119/3 (14 ov) \u2014 SA Women need 39 runs in 36 balls.",
+      "live_batting": "Annerie Dercksen 32*(23), Anneke Bosch 1*(2)",
+      "live_bowling": "Renuka Singh 0/25 (3), Shreyanka Patil 2/23 (3), Deepti Sharma 0/18 (2)",
+      "live_moment": "SA Women need 39 runs in 36 balls.",
       "gemma_observations": [
-        "Dercksen is attempting to rotate the strike aggressively.",
         "Dercksen is attempting to rotate the strike against Shreyanka Patil.",
         "The SA innings is now firmly in the acceleration phase.",
         "Dercksen is attempting to rotate the strike against Renuka Singh.",
         "Annerie Dercksen is attempting to accelerate scoring through aggressive drives.",
-        "Dercksen is attempting to accelerate scoring through aggressive drives."
+        "Dercksen is attempting to accelerate scoring through aggressive drives.",
+        "Bosch is playing defensively, attempting to rotate the strike cautiously."
       ],
-      "updated_at": "2026-04-17T11:52:25+05:30"
+      "updated_at": "2026-04-17T11:53:41+05:30"
     }
   },
-  "updated_at": "2026-04-17T11:52:25+05:30"
+  "updated_at": "2026-04-17T11:53:41+05:30"
 }
