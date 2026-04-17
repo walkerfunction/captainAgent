@@ -15,14 +15,14 @@
       "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/28 (3), Anukul Roy 0/37 (3)",
       "live_moment": "GT need 32 runs in 24 balls.",
       "gemma_observations": [
-        "Shubman Gill is aggressively targeting Vaibhav Arora for boundaries.",
         "Glenn Phillips is attempting to rotate strike against Kartik Tyagi.",
         "Shubman Gill is aggressively targeting short balls from Vaibhav Arora.",
         "Glenn Phillips is attempting to rotate the strike against Kartik Tyagi.",
         "Gill is aggressively targeting Arora, attempting boundaries consistently.",
-        "Phillips is content rotating the strike, prioritizing dot balls."
+        "Phillips is content rotating the strike, prioritizing dot balls.",
+        "Glenn Phillips is attempting to accelerate his scoring rate."
       ],
-      "updated_at": "2026-04-17T10:21:11+05:30"
+      "updated_at": "2026-04-17T10:22:38+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -34,16 +34,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 136/4 (16.6 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 39*(28), Kashvee Gautam 4*(6)",
+      "live_score": "IND-W 142/4 (17.1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 39*(28), Kashvee Gautam 10*(7)",
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 2/12 (3), Tumi Sekhukhune 2/23 (3)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
         "Kashvee Gautam is bowling defensively, conceding too many runs."
       ],
-      "updated_at": "2026-04-17T10:21:22+05:30"
+      "updated_at": "2026-04-17T10:22:49+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:21:22+05:30"
+  "updated_at": "2026-04-17T10:22:49+05:30"
 }
