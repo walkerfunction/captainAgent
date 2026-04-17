@@ -10,10 +10,10 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 120/2 (12.1 ov) \u2014 GT need 61 runs in 47 balls.",
-      "live_batting": "Shubman Gill 69*(37), Washington Sundar 3*(5)",
+      "live_score": "KKR 180/10 (20 ov) & GT 122/2 (12.3 ov) \u2014 GT need 59 runs in 45 balls.",
+      "live_batting": "Shubman Gill 70*(38), Washington Sundar 4*(6)",
       "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/13 (2), Anukul Roy 0/32 (2)",
-      "live_moment": "GT need 61 runs in 47 balls.",
+      "live_moment": "GT need 59 runs in 45 balls.",
       "gemma_observations": [
         "Shubman Gill is aggressively targeting short balls from Vaibhav Arora.",
         "Washington Sundar is rotating the strike to maintain pressure on the GT bowlers.",
@@ -22,7 +22,7 @@
         "Sundar is primarily rotating the strike, attempting to see out the over.",
         "Washington Sundar is rotating the strike to keep the pressure on."
       ],
-      "updated_at": "2026-04-17T10:00:45+05:30"
+      "updated_at": "2026-04-17T10:02:12+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -34,20 +34,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 108/2 (12.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Jemimah Rodrigues 30*(23), Harmanpreet Kaur 30*(20)",
+      "live_score": "IND-W 109/2 (13.2 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 31*(24), Harmanpreet Kaur 30*(22)",
       "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 1/9 (2), Tumi Sekhukhune 1/18 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Kaur is prioritizing rotation of the strike over aggressive hitting.",
         "Kaur is rotating the strike and prioritizing dot balls against Luus.",
         "Harmanpreet Kaur is prioritizing rotation of the strike over aggressive hitting.",
         "Rodrigues is increasingly looking to attack the long boundary.",
         "Kaur is rotating the strike effectively against Khaka.",
-        "Kaur is rotating the strike and building her innings steadily."
+        "Kaur is rotating the strike and building her innings steadily.",
+        "Rodrigues is increasingly looking to attack the slower bowlers."
       ],
-      "updated_at": "2026-04-17T10:00:55+05:30"
+      "updated_at": "2026-04-17T10:02:22+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:00:55+05:30"
+  "updated_at": "2026-04-17T10:02:22+05:30"
 }
