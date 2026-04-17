@@ -10,19 +10,19 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 142/3 (14.4 ov) \u2014 GT need 39 runs in 32 balls.",
-      "live_batting": "Shubman Gill 78*(43), Glenn Phillips 1*(1)",
+      "live_score": "KKR 180/10 (20 ov) & GT 144/3 (15 ov) \u2014 GT need 37 runs in 30 balls.",
+      "live_batting": "Shubman Gill 79*(44), Glenn Phillips 2*(2)",
       "live_bowling": "Vaibhav Arora 0/20 (2), Kartik Tyagi 0/28 (3), Anukul Roy 0/32 (2)",
-      "live_moment": "GT need 39 runs in 32 balls.",
+      "live_moment": "GT need 37 runs in 30 balls.",
       "gemma_observations": [
-        "Washington Sundar is attempting to rotate the strike against Kartik Tyagi.",
         "Gill is prioritizing length and attempting to rotate the strike.",
         "Sundar is cautiously looking to push the ball towards the boundary.",
         "Shubman Gill is relentlessly attacking the short balls, attempting boundaries.",
         "Shubman Gill is aggressively targeting Vaibhav Arora for boundaries.",
-        "Glenn Phillips is playing defensively, prioritizing rotation of the strike."
+        "Glenn Phillips is playing defensively, prioritizing rotation of the strike.",
+        "Glenn Phillips is attempting to rotate strike against Kartik Tyagi."
       ],
-      "updated_at": "2026-04-17T10:15:21+05:30"
+      "updated_at": "2026-04-17T10:16:48+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -46,8 +46,8 @@
         "Richa Ghosh is attempting to accelerate her scoring rate.",
         "Harmanpreet Kaur is attempting to accelerate her scoring rate against Khaka."
       ],
-      "updated_at": "2026-04-17T10:15:32+05:30"
+      "updated_at": "2026-04-17T10:17:02+05:30"
     }
   },
-  "updated_at": "2026-04-17T10:15:32+05:30"
+  "updated_at": "2026-04-17T10:17:02+05:30"
 }
