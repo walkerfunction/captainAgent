@@ -10,20 +10,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 157/7 (20 ov) & SA-W 45/1 (4.4 ov) \u2014 SA Women need 113 runs in 92 balls.",
-      "live_batting": "Laura Wolvaardt 26*(15), Tazmin Brits 3*(6)",
+      "live_score": "IND-W 157/7 (20 ov) & SA-W 46/1 (4.5 ov) \u2014 SA Women need 112 runs in 91 balls.",
+      "live_batting": "Laura Wolvaardt 27*(16), Tazmin Brits 3*(6)",
       "live_bowling": "Renuka Singh 0/12 (2), Shreyanka Patil 1/12 (1), Deepti Sharma 0/12 (1)",
-      "live_moment": "SA Women need 113 runs in 92 balls.",
+      "live_moment": "SA Women need 112 runs in 91 balls.",
       "gemma_observations": [
-        "Brits is prioritizing dot balls to avoid immediate pressure.",
-        "Wolvaardt is consistently looking to drive through the on-side field.",
         "Brits is prioritizing rotation of strike over aggressive scoring.",
         "Brits is prioritizing dot balls to conserve her wicket.",
         "Brits is prioritizing dot balls to maintain a defensive approach.",
-        "Brits is prioritizing quick singles to accelerate the scoring rate."
+        "Brits is prioritizing quick singles to accelerate the scoring rate.",
+        "Wolvaardt is consistently looking to drive through the off-side channel.",
+        "Brits is attempting to rotate the strike aggressively against Patil."
       ],
-      "updated_at": "2026-04-17T11:13:36+05:30"
+      "updated_at": "2026-04-17T11:14:51+05:30"
     }
   },
-  "updated_at": "2026-04-17T11:13:36+05:30"
+  "updated_at": "2026-04-17T11:14:51+05:30"
 }
