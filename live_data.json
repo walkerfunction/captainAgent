@@ -10,18 +10,19 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "KKR 180/10 (20 ov) & GT 3/0 (0.3 ov) \u2014 GT need 178 runs in 117 balls.",
-      "live_batting": "Sai Sudharsan 0*(1), Shubman Gill 2*(2)",
-      "live_bowling": "Vaibhav Arora 0/2 (0.3)",
-      "live_moment": "GT need 178 runs in 117 balls.",
+      "live_score": "KKR 180/10 (20 ov) & GT 8/0 (0.5 ov) \u2014 GT need 173 runs in 115 balls.",
+      "live_batting": "Sai Sudharsan 0*(1), Shubman Gill 7*(4)",
+      "live_bowling": "Vaibhav Arora 0/7 (0.5)",
+      "live_moment": "GT need 173 runs in 115 balls.",
       "gemma_observations": [
-        "Siraj is conceding too many runs at the death.",
         "Siraj is conceding too many runs with his variations.",
         "Sudharsan is playing cautiously, prioritizing defense early on.",
         "Shubman Gill is attempting to rotate the strike against Vaibhav Arora.",
-        "Sai Sudharsan is prioritizing dot balls to assess the GT bowling attack."
+        "Sai Sudharsan is prioritizing dot balls to assess the GT bowling attack.",
+        "Shubman Gill is already attempting to accelerate his scoring rate.",
+        "Vaibhav Arora is bowling a disciplined opening spell, conceding only 7 runs."
       ],
-      "updated_at": "2026-04-17T09:07:39+05:30"
+      "updated_at": "2026-04-17T09:09:02+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-17": {
       "match": {
@@ -33,18 +34,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 15/0 (1.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Smriti Mandhana 2*(2), Shafali Verma 13*(6)",
-      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 0/1 (0.2)",
+      "live_score": "IND-W 20/0 (1.4 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Smriti Mandhana 2*(2), Shafali Verma 18*(8)",
+      "live_bowling": "Sune Luus 0/14 (1), Ayabonga Khaka 0/6 (0.4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Smriti Mandhana is attempting to rotate the strike early on.",
         "Smriti Mandhana is prioritizing dot balls to build an initial partnership.",
         "Smriti Mandhana is aggressively looking to score boundaries early on.",
-        "Shafali Verma is rotating the strike and hitting boundaries effectively."
+        "Shafali Verma is rotating the strike and hitting boundaries effectively.",
+        "Smriti Mandhana is aggressively rotating the strike against Khaka.",
+        "Shafali Verma is prioritizing boundaries, attempting to accelerate the scoring rate."
       ],
-      "updated_at": "2026-04-17T09:07:49+05:30"
+      "updated_at": "2026-04-17T09:09:12+05:30"
     }
   },
-  "updated_at": "2026-04-17T09:07:49+05:30"
+  "updated_at": "2026-04-17T09:09:12+05:30"
 }
