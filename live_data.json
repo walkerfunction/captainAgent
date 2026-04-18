@@ -10,13 +10,15 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 194/9 (20 ov) & CSK 149/6 (15.5 ov) \u2014 CSK need 46 runs in 25 balls.",
-      "live_batting": "Shivam Dube 20*(13), Jamie Overton 1*(1)",
-      "live_bowling": "Praful Hinge 0/54 (3), Nitish Kumar Reddy 2/19 (3), Sakib Hussain 0/26 (3)",
-      "live_moment": "CSK need 46 runs in 25 balls.",
-      "gemma_observations": [],
-      "updated_at": "2026-04-18T10:37:01+05:30"
+      "live_score": "SRH 194/9 (20 ov) & CSK 150/6 (16.1 ov) \u2014 CSK need 45 runs in 23 balls.",
+      "live_batting": "Shivam Dube 20*(14), Jamie Overton 2*(2)",
+      "live_bowling": "Praful Hinge 0/54 (3), Nitish Kumar Reddy 2/19 (3), Sakib Hussain 0/27 (3.1)",
+      "live_moment": "CSK need 45 runs in 23 balls.",
+      "gemma_observations": [
+        "Dube is aggressively targeting Hinge for boundaries."
+      ],
+      "updated_at": "2026-04-18T10:38:16+05:30"
     }
   },
-  "updated_at": "2026-04-18T10:37:01+05:30"
+  "updated_at": "2026-04-18T10:38:16+05:30"
 }
