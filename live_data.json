@@ -10,20 +10,20 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 175/8 (20 ov) & DC 125/4 (13.6 ov) \u2014 DC need 51 runs in 36 balls.",
-      "live_batting": "Tristan Stubbs 33*(28), Axar Patel 22*(13)",
+      "live_score": "RCB 175/8 (20 ov) & DC 126/4 (14.1 ov) \u2014 DC need 50 runs in 35 balls.",
+      "live_batting": "Tristan Stubbs 34*(29), Axar Patel 22*(13)",
       "live_bowling": "Bhuvneshwar Kumar 3/9 (2), Josh Hazlewood 0/34 (3), Rasikh Salam 0/30 (3)",
-      "live_moment": "DC need 51 runs in 36 balls.",
+      "live_moment": "DC need 50 runs in 35 balls.",
       "gemma_observations": [
-        "Tristan Stubbs is aggressively targeting short balls from Bhuvneshwar Kumar.",
         "Axar Patel is rotating the strike and attempting to accelerate his scoring rate.",
         "Axar Patel is rotating the strike and accumulating runs at a brisk pace.",
         "Axar Patel is rotating the strike and building a platform for the DC innings.",
         "Axar Patel is rotating the strike and looking for boundaries against Josh Hazlewood.",
-        "Axar Patel is rotating the strike effectively against Josh Hazlewood."
+        "Axar Patel is rotating the strike effectively against Josh Hazlewood.",
+        "Axar Patel is rotating the strike and attempting to accelerate the scoring rate."
       ],
-      "updated_at": "2026-04-18T06:25:11+05:30"
+      "updated_at": "2026-04-18T06:26:24+05:30"
     }
   },
-  "updated_at": "2026-04-18T06:25:11+05:30"
+  "updated_at": "2026-04-18T06:26:24+05:30"
 }
