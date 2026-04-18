@@ -1,29 +1,24 @@
 {
   "matches": {
-    "Delhi Capitals_vs_Royal Challengers Bengaluru_2026-04-18": {
+    "Chennai Super Kings_vs_Sunrisers Hyderabad_2026-04-18": {
       "match": {
-        "name": "26th Match",
+        "name": "27th Match",
         "teams": [
-          "Royal Challengers Bengaluru",
-          "Delhi Capitals"
+          "Sunrisers Hyderabad",
+          "Chennai Super Kings"
         ],
-        "venue": "M Chinnaswamy Stadium, Bengaluru",
+        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "RCB 175/8 (20 ov) & DC 175/4 (19.4 ov) \u2014 DC need 1 run in 2 balls.",
-      "live_batting": "Tristan Stubbs 60*(47), Axar Patel 26*(19), David Miller 18*(9)",
-      "live_bowling": "Bhuvneshwar Kumar 3/26 (4), Josh Hazlewood 0/38 (4), Rasikh Salam 0/40 (4)",
-      "live_moment": "DC need 1 run in 2 balls.",
+      "live_score": "SRH 0/0 (0.1 ov) \u2014 CSK chose to field.",
+      "live_batting": "Travis Head 0*(1)",
+      "live_bowling": "Matthew Short 0/0 (0.1)",
+      "live_moment": "CSK chose to field.",
       "gemma_observations": [
-        "Axar Patel is attempting to rotate the strike against Kumar.",
-        "Axar Patel is rotating the strike effectively against Bhuvneshwar Kumar.",
-        "Axar Patel is attempting to rotate the strike against Bhuvneshwar Kumar.",
-        "Stubbs is aggressively targeting short balls from Bhuvneshwar Kumar.",
-        "Axar Patel is attempting to rotate strike against Josh Hazlewood.",
-        "David Miller is looking for boundaries, a risky approach now."
+        "Head is likely prioritizing rotation of strike against the new ball."
       ],
-      "updated_at": "2026-04-18T06:56:06+05:30"
+      "updated_at": "2026-04-18T07:01:22+05:30"
     }
   },
-  "updated_at": "2026-04-18T06:56:06+05:30"
+  "updated_at": "2026-04-18T07:01:22+05:30"
 }
