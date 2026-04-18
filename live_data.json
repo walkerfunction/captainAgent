@@ -10,17 +10,19 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 187/7 (19 ov) \u2014 CSK chose to field.",
-      "live_batting": "Liam Livingstone 0*(3), Shivang Kumar 7*(5)",
-      "live_bowling": "Matthew Short 0/38 (3), Mukesh Choudhary 2/21 (2), Anshul Kamboj 1/16 (2)",
+      "live_score": "SRH 189/7 (19.2 ov) \u2014 CSK chose to field.",
+      "live_batting": "Liam Livingstone 1*(4), Shivang Kumar 8*(6)",
+      "live_bowling": "Matthew Short 0/38 (3), Mukesh Choudhary 2/21 (2), Anshul Kamboj 1/18 (2.2)",
       "live_moment": "CSK chose to field.",
       "gemma_observations": [
         "Livingstone is attempting to accelerate the scoring rate against Short.",
         "Livingstone is attempting to accelerate the scoring rate aggressively.",
-        "Livingstone is attempting to accelerate with boundaries against Short."
+        "Livingstone is attempting to accelerate with boundaries against Short.",
+        "Livingstone is aggressively targeting short balls from Mukesh Choudhary.",
+        "Shivang Kumar is rotating the strike effectively against Short."
       ],
-      "updated_at": "2026-04-18T08:35:55+05:30"
+      "updated_at": "2026-04-18T08:37:05+05:30"
     }
   },
-  "updated_at": "2026-04-18T08:35:55+05:30"
+  "updated_at": "2026-04-18T08:37:05+05:30"
 }
