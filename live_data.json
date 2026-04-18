@@ -10,10 +10,10 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 194/9 (20 ov) & CSK 182/7 (19.3 ov) \u2014 CSK need 13 runs in 3 balls.",
-      "live_batting": "Jamie Overton 16*(14), Anshul Kamboj 12*(7)",
-      "live_bowling": "Praful Hinge 0/58 (3.3), Nitish Kumar Reddy 2/31 (4), Sakib Hussain 1/32 (4)",
-      "live_moment": "CSK need 13 runs in 3 balls.",
+      "live_score": "SRH 194/9 (20 ov) & CSK 182/8 (19.4 ov) \u2014 CSK need 13 runs in 2 balls.",
+      "live_batting": "Anshul Kamboj 12*(7)",
+      "live_bowling": "Praful Hinge 1/58 (3.4), Nitish Kumar Reddy 2/31 (4), Sakib Hussain 1/32 (4)",
+      "live_moment": "CSK need 13 runs in 2 balls.",
       "gemma_observations": [
         "Overton is consistently targeting Hinge for boundaries.",
         "Overton is attempting to hit boundaries to accelerate the scoring rate.",
@@ -21,8 +21,8 @@
         "Jamie Overton is attempting to hit boundaries to accelerate the scoring.",
         "Jamie Overton is aggressively targeting Sakib Hussain for boundaries."
       ],
-      "updated_at": "2026-04-18T10:59:21+05:30"
+      "updated_at": "2026-04-18T11:00:35+05:30"
     }
   },
-  "updated_at": "2026-04-18T10:59:21+05:30"
+  "updated_at": "2026-04-18T11:00:35+05:30"
 }
