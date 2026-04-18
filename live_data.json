@@ -10,18 +10,19 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 175/8 (20 ov) & DC 2/1 (0.5 ov) \u2014 DC need 174 runs in 115 balls.",
-      "live_batting": "KL Rahul 1*(2), Karun Nair 0*(1)",
-      "live_bowling": "Bhuvneshwar Kumar 1/2 (0.5)",
-      "live_moment": "DC need 174 runs in 115 balls.",
+      "live_score": "RCB 175/8 (20 ov) & DC 2/1 (1 ov) \u2014 DC need 174 runs in 114 balls.",
+      "live_batting": "KL Rahul 1*(2), Karun Nair 0*(2)",
+      "live_bowling": "Bhuvneshwar Kumar 1/2 (1)",
+      "live_moment": "DC need 174 runs in 114 balls.",
       "gemma_observations": [
         "Bhuvneshwar Kumar is attempting to rotate the strike against Nabi.",
         "Rahul is prioritizing dot balls to avoid immediate pressure from Kumar.",
         "Nissanka is prioritizing defense and rotating the strike early on.",
-        "Rahul is attempting to rotate strike against Bhuvneshwar Kumar."
+        "Rahul is attempting to rotate strike against Bhuvneshwar Kumar.",
+        "Rahul is attempting to rotate the strike against Bhuvneshwar Kumar."
       ],
-      "updated_at": "2026-04-18T05:11:07+05:30"
+      "updated_at": "2026-04-18T05:12:16+05:30"
     }
   },
-  "updated_at": "2026-04-18T05:11:07+05:30"
+  "updated_at": "2026-04-18T05:12:16+05:30"
 }
