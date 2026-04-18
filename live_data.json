@@ -10,17 +10,18 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 89/2 (7.2 ov) \u2014 CSK chose to field.",
-      "live_batting": "Abhishek Sharma 56*(19), Heinrich Klaasen 2*(4)",
+      "live_score": "SRH 92/2 (7.4 ov) \u2014 CSK chose to field.",
+      "live_batting": "Abhishek Sharma 59*(21), Heinrich Klaasen 2*(4)",
       "live_bowling": "Matthew Short 0/38 (3), Mukesh Choudhary 2/21 (2), Anshul Kamboj 0/15 (1)",
       "live_moment": "CSK chose to field.",
       "gemma_observations": [
         "Abhishek Sharma is aggressively targeting short balls from Mukesh Choudhary.",
         "Heinrich Klaasen is attempting to rotate the strike against Matthew Short.",
-        "Heinrich Klaasen is attempting to rotate the strike after a relatively slow start."
+        "Heinrich Klaasen is attempting to rotate the strike after a relatively slow start.",
+        "Heinrich Klaasen is attempting to rotate strike after scoring quickly."
       ],
-      "updated_at": "2026-04-18T07:35:33+05:30"
+      "updated_at": "2026-04-18T07:36:44+05:30"
     }
   },
-  "updated_at": "2026-04-18T07:35:33+05:30"
+  "updated_at": "2026-04-18T07:36:44+05:30"
 }
