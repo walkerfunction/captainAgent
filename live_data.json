@@ -10,19 +10,20 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 63/0 (5 ov) \u2014 CSK chose to field.",
-      "live_batting": "Abhishek Sharma 50*(15), Travis Head 11*(15)",
-      "live_bowling": "Matthew Short 0/38 (3), Mukesh Choudhary 0/9 (1), Anshul Kamboj 0/15 (1)",
+      "live_score": "SRH 67/0 (5.1 ov) \u2014 CSK chose to field.",
+      "live_batting": "Abhishek Sharma 50*(15), Travis Head 15*(16)",
+      "live_bowling": "Matthew Short 0/38 (3), Mukesh Choudhary 0/13 (1.1), Anshul Kamboj 0/15 (1)",
       "live_moment": "CSK chose to field.",
       "gemma_observations": [
         "Abhishek Sharma is aggressively targeting short balls from Mukesh Choudhary.",
         "Travis Head is rotating strike and prioritizing dot balls against Short.",
         "Abhishek Sharma is aggressively rotating the strike against Mukesh Choudhary.",
         "Travis Head is content to build his innings with a measured approach.",
-        "Travis Head is content rotating the strike against the slower Mukesh Choudhary."
+        "Travis Head is content rotating the strike against the slower Mukesh Choudhary.",
+        "Travis Head is prioritizing run-scoring off fuller deliveries from Short."
       ],
-      "updated_at": "2026-04-18T07:20:11+05:30"
+      "updated_at": "2026-04-18T07:21:22+05:30"
     }
   },
-  "updated_at": "2026-04-18T07:20:11+05:30"
+  "updated_at": "2026-04-18T07:21:22+05:30"
 }
