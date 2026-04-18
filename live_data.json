@@ -10,15 +10,16 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 194/9 (20 ov) & CSK 66/2 (4.4 ov) \u2014 CSK need 129 runs in 92 balls.",
-      "live_batting": "Ruturaj Gaikwad 19*(12)",
-      "live_bowling": "Praful Hinge 0/39 (2), Nitish Kumar Reddy 2/14 (1.4), Sakib Hussain 0/13 (1)",
-      "live_moment": "CSK need 129 runs in 92 balls.",
+      "live_score": "SRH 194/9 (20 ov) & CSK 66/2 (4.5 ov) \u2014 CSK need 129 runs in 91 balls.",
+      "live_batting": "Ruturaj Gaikwad 19*(12), Matthew Short 0*(1)",
+      "live_bowling": "Praful Hinge 0/39 (2), Nitish Kumar Reddy 2/14 (1.5), Sakib Hussain 0/13 (1)",
+      "live_moment": "CSK need 129 runs in 91 balls.",
       "gemma_observations": [
-        "Ruturaj Gaikwad is prioritizing length and attempting to rotate the strike."
+        "Ruturaj Gaikwad is prioritizing length and attempting to rotate the strike.",
+        "Ruturaj Gaikwad is prioritizing length and attempting to find gaps."
       ],
-      "updated_at": "2026-04-18T09:32:49+05:30"
+      "updated_at": "2026-04-18T09:34:03+05:30"
     }
   },
-  "updated_at": "2026-04-18T09:32:49+05:30"
+  "updated_at": "2026-04-18T09:34:03+05:30"
 }
