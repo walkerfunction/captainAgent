@@ -10,20 +10,16 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 175/8 (20 ov) & DC 68/3 (7.4 ov) \u2014 DC need 108 runs in 74 balls.",
-      "live_batting": "KL Rahul 43*(24), Tristan Stubbs 13*(12)",
+      "live_score": "RCB 175/8 (20 ov) & DC 70/3 (7.6 ov) \u2014 DC need 106 runs in 72 balls.",
+      "live_batting": "KL Rahul 44*(25), Tristan Stubbs 14*(13)",
       "live_bowling": "Bhuvneshwar Kumar 3/9 (2), Josh Hazlewood 0/27 (2), Rasikh Salam 0/14 (2)",
-      "live_moment": "DC need 108 runs in 74 balls.",
+      "live_moment": "DC need 106 runs in 72 balls.",
       "gemma_observations": [
-        "KL Rahul is rotating the strike and building a platform for DC.",
-        "Tristan Stubbs is attempting to accelerate scoring against Bhuvneshwar Kumar.",
-        "KL Rahul is prioritizing rotation of the strike over aggressive hitting.",
-        "KL Rahul is prioritizing rotation of strike over aggressive hitting.",
-        "Rahul is aggressively targeting short balls from Bhuvneshwar Kumar.",
-        "Tristan Stubbs is attempting to rotate the strike against Josh Hazlewood."
+        "Tristan Stubbs is attempting to accelerate the scoring rate.",
+        "DC require a significant shift in scoring momentum to chase."
       ],
-      "updated_at": "2026-04-18T05:46:47+05:30"
+      "updated_at": "2026-04-18T05:48:01+05:30"
     }
   },
-  "updated_at": "2026-04-18T05:46:47+05:30"
+  "updated_at": "2026-04-18T05:48:01+05:30"
 }
