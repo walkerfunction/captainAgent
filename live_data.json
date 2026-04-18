@@ -10,15 +10,16 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 62/1 (6.3 ov) \u2014 DC chose to field.",
-      "live_batting": "Phil Salt 37*(23), Devdutt Padikkal 3*(3)",
+      "live_score": "RCB 64/1 (6.5 ov) \u2014 DC chose to field.",
+      "live_batting": "Phil Salt 38*(24), Devdutt Padikkal 4*(4)",
       "live_bowling": "Auqib Nabi 0/36 (3), Mukesh Kumar 0/15 (2), Lungi Ngidi 1/7 (1)",
       "live_moment": "DC chose to field.",
       "gemma_observations": [
-        "Padikkal appears content to rotate the strike against Ngidi."
+        "Padikkal appears content to rotate the strike against Ngidi.",
+        "Devdutt Padikkal is content playing defensive strokes against Ngidi."
       ],
-      "updated_at": "2026-04-18T03:34:16+05:30"
+      "updated_at": "2026-04-18T03:35:27+05:30"
     }
   },
-  "updated_at": "2026-04-18T03:34:16+05:30"
+  "updated_at": "2026-04-18T03:35:27+05:30"
 }
