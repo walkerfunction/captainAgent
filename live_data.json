@@ -10,15 +10,17 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 144/4 (14.3 ov) \u2014 DC chose to field.",
-      "live_batting": "Tim David 25*(14), Jitesh Sharma 2*(6)",
-      "live_bowling": "Auqib Nabi 0/36 (3), Mukesh Kumar 1/30 (3.3), Lungi Ngidi 1/19 (2)",
+      "live_score": "RCB 145/4 (14.4 ov) \u2014 DC chose to field.",
+      "live_batting": "Tim David 25*(14), Jitesh Sharma 3*(7)",
+      "live_bowling": "Auqib Nabi 0/36 (3), Mukesh Kumar 1/31 (3.4), Lungi Ngidi 1/19 (2)",
       "live_moment": "DC chose to field.",
       "gemma_observations": [
-        "Jitesh Sharma is attempting to accelerate the scoring rate."
+        "Jitesh Sharma is attempting to accelerate the scoring rate.",
+        "Tim David is aggressively looking to score boundaries off shorter deliveries.",
+        "Jitesh Sharma is primarily rotating the strike and attempting quick singles."
       ],
-      "updated_at": "2026-04-18T04:17:49+05:30"
+      "updated_at": "2026-04-18T04:19:00+05:30"
     }
   },
-  "updated_at": "2026-04-18T04:17:49+05:30"
+  "updated_at": "2026-04-18T04:19:00+05:30"
 }
