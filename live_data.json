@@ -10,20 +10,20 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 21/0 (2 ov) \u2014 DC chose to field.",
-      "live_batting": "Phil Salt 7*(6), Virat Kohli 12*(6)",
-      "live_bowling": "Auqib Nabi 0/13 (1), Mukesh Kumar 0/8 (1)",
+      "live_score": "RCB 24/0 (2.2 ov) \u2014 DC chose to field.",
+      "live_batting": "Phil Salt 9*(7), Virat Kohli 13*(7)",
+      "live_bowling": "Auqib Nabi 0/16 (1.2), Mukesh Kumar 0/8 (1)",
       "live_moment": "DC chose to field.",
       "gemma_observations": [
-        "Salt is prioritizing dot balls, attempting to build a solid foundation.",
         "Virat Kohli is attempting to rotate strike against Nabi.",
         "Phil Salt is prioritizing dot balls to build his innings.",
         "Phil Salt is prioritizing pace off Mukesh Kumar.",
         "Virat Kohli is aggressively attempting to rotate the strike against Nabi.",
-        "Phil Salt is prioritizing pace scoring, particularly against Mukesh Kumar."
+        "Phil Salt is prioritizing pace scoring, particularly against Mukesh Kumar.",
+        "Salt is prioritizing pace and length to start aggressively."
       ],
-      "updated_at": "2026-04-18T03:10:54+05:30"
+      "updated_at": "2026-04-18T03:12:05+05:30"
     }
   },
-  "updated_at": "2026-04-18T03:10:54+05:30"
+  "updated_at": "2026-04-18T03:12:05+05:30"
 }
