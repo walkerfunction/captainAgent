@@ -10,17 +10,18 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 194/9 (20 ov) & CSK 15/1 (1.4 ov) \u2014 CSK need 180 runs in 110 balls.",
-      "live_batting": "Ruturaj Gaikwad 8*(4), Ayush Mhatre 0*(3)",
-      "live_bowling": "Praful Hinge 0/15 (1), Nitish Kumar Reddy 1/0 (0.4)",
-      "live_moment": "CSK need 180 runs in 110 balls.",
+      "live_score": "SRH 194/9 (20 ov) & CSK 19/1 (1.5 ov) \u2014 CSK need 176 runs in 109 balls.",
+      "live_batting": "Ruturaj Gaikwad 8*(4), Ayush Mhatre 3*(4)",
+      "live_bowling": "Praful Hinge 0/15 (1), Nitish Kumar Reddy 1/4 (0.5)",
+      "live_moment": "CSK need 176 runs in 109 balls.",
       "gemma_observations": [
         "Ruturaj Gaikwad is prioritizing dot balls to avoid immediate pressure.",
         "Praful Hinge is bowling a cautious line, conceding few boundaries.",
-        "Praful Hinge is bowling a disciplined opening spell, conceding only a single boundary."
+        "Praful Hinge is bowling a disciplined opening spell, conceding only a single boundary.",
+        "Praful Hinge is bowling a very defensive line, conceding few boundaries."
       ],
-      "updated_at": "2026-04-18T09:06:02+05:30"
+      "updated_at": "2026-04-18T09:07:14+05:30"
     }
   },
-  "updated_at": "2026-04-18T09:06:02+05:30"
+  "updated_at": "2026-04-18T09:07:14+05:30"
 }
