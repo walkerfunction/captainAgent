@@ -10,16 +10,17 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 194/9 (20 ov) & CSK 119/5 (12.5 ov) \u2014 CSK need 76 runs in 43 balls.",
-      "live_batting": "Matthew Short 24*(22), Shivam Dube 3*(3)",
-      "live_bowling": "Praful Hinge 0/39 (2), Nitish Kumar Reddy 2/18 (2.5), Sakib Hussain 0/20 (2)",
-      "live_moment": "CSK need 76 runs in 43 balls.",
+      "live_score": "SRH 194/9 (20 ov) & CSK 120/5 (13 ov) \u2014 CSK need 75 runs in 42 balls.",
+      "live_batting": "Matthew Short 25*(23), Shivam Dube 3*(3)",
+      "live_bowling": "Praful Hinge 0/39 (2), Nitish Kumar Reddy 2/19 (3), Sakib Hussain 0/20 (2)",
+      "live_moment": "CSK need 75 runs in 42 balls.",
       "gemma_observations": [
         "Brevis is attempting to rotate the strike against Hinge.",
-        "Short is prioritizing dot balls to reduce the required run rate."
+        "Short is prioritizing dot balls to reduce the required run rate.",
+        "Shivam Dube is attempting to accelerate the scoring rate."
       ],
-      "updated_at": "2026-04-18T10:15:55+05:30"
+      "updated_at": "2026-04-18T10:17:10+05:30"
     }
   },
-  "updated_at": "2026-04-18T10:15:55+05:30"
+  "updated_at": "2026-04-18T10:17:10+05:30"
 }
