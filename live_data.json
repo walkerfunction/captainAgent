@@ -10,19 +10,20 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 175/8 (20 ov) & DC 22/3 (3 ov) \u2014 DC need 154 runs in 102 balls.",
-      "live_batting": "KL Rahul 10*(7), Tristan Stubbs 4*(1)",
-      "live_bowling": "Bhuvneshwar Kumar 3/9 (2), Josh Hazlewood 0/13 (1)",
-      "live_moment": "DC need 154 runs in 102 balls.",
+      "live_score": "RCB 175/8 (20 ov) & DC 27/3 (3.1 ov) \u2014 DC need 149 runs in 101 balls.",
+      "live_batting": "KL Rahul 14*(8), Tristan Stubbs 4*(1)",
+      "live_bowling": "Bhuvneshwar Kumar 3/9 (2), Josh Hazlewood 0/13 (1), Rasikh Salam 0/5 (0.1)",
+      "live_moment": "DC need 149 runs in 101 balls.",
       "gemma_observations": [
-        "Rahul is prioritizing dot balls to avoid immediate wickets.",
-        "Rahul is prioritizing dot balls to avoid immediate acceleration.",
         "Rahul is prioritizing dot balls to avoid losing his wicket quickly.",
         "Bhuvneshwar Kumar is successfully mixing his variations to trouble Rahul.",
-        "Bhuvneshwar Kumar is successfully containing the scoring at the death."
+        "Bhuvneshwar Kumar is successfully containing the scoring at the death.",
+        "Tristan Stubbs is attempting to accelerate scoring through aggressive drives.",
+        "Bhuvneshwar Kumar is consistently targeting the stumps with accurate yorkers.",
+        "KL Rahul is prioritizing rotation of the strike over attempting big shots."
       ],
-      "updated_at": "2026-04-18T05:24:19+05:30"
+      "updated_at": "2026-04-18T05:25:34+05:30"
     }
   },
-  "updated_at": "2026-04-18T05:24:19+05:30"
+  "updated_at": "2026-04-18T05:25:34+05:30"
 }
