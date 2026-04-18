@@ -10,15 +10,16 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "RCB 175/8 (20 ov) & DC 16/2 (2.2 ov) \u2014 DC need 160 runs in 106 balls.",
-      "live_batting": "KL Rahul 10*(7)",
-      "live_bowling": "Bhuvneshwar Kumar 2/3 (1.2), Josh Hazlewood 0/13 (1)",
-      "live_moment": "DC need 160 runs in 106 balls.",
+      "live_score": "RCB 175/8 (20 ov) & DC 18/2 (2.4 ov) \u2014 DC need 158 runs in 104 balls.",
+      "live_batting": "KL Rahul 10*(7), Sameer Rizvi 2*(2)",
+      "live_bowling": "Bhuvneshwar Kumar 2/5 (1.4), Josh Hazlewood 0/13 (1)",
+      "live_moment": "DC need 158 runs in 104 balls.",
       "gemma_observations": [
-        "Rahul is prioritizing dot balls to avoid immediate wickets."
+        "Rahul is prioritizing dot balls to avoid immediate wickets.",
+        "Rahul is prioritizing dot balls to avoid immediate acceleration."
       ],
-      "updated_at": "2026-04-18T05:19:34+05:30"
+      "updated_at": "2026-04-18T05:20:46+05:30"
     }
   },
-  "updated_at": "2026-04-18T05:19:34+05:30"
+  "updated_at": "2026-04-18T05:20:46+05:30"
 }
