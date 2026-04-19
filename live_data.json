@@ -10,16 +10,17 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 78/5 (12.2 ov) \u2014 KKR need 78 runs in 46 balls.",
-      "live_batting": "Rinku Singh 10*(11), Ramandeep Singh 5*(8)",
-      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/17 (2.2)",
-      "live_moment": "KKR need 78 runs in 46 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 83/5 (12.5 ov) \u2014 KKR need 73 runs in 43 balls.",
+      "live_batting": "Rinku Singh 10*(11), Ramandeep Singh 10*(11)",
+      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/22 (2.5)",
+      "live_moment": "KKR need 73 runs in 43 balls.",
       "gemma_observations": [
         "Rinku Singh is attempting to accelerate scoring through aggressive drives.",
         "Rinku Singh is attempting to find the boundary against Archer.",
-        "Ramandeep Singh is prioritizing dot balls to conserve wickets."
+        "Ramandeep Singh is prioritizing dot balls to conserve wickets.",
+        "Rinku Singh is attempting to hit boundaries against Jofra Archer."
       ],
-      "updated_at": "2026-04-19T06:06:32+05:30"
+      "updated_at": "2026-04-19T06:08:01+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -31,17 +32,17 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 115/5 (15.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 8*(5), Richa Ghosh 2*(3)",
-      "live_bowling": "Tumi Sekhukhune 1/26 (3), Ayabonga Khaka 0/27 (2.2), Chloe Tryon 3/22 (4)",
+      "live_score": "IND-W 117/5 (15.4 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 9*(6), Richa Ghosh 3*(4)",
+      "live_bowling": "Tumi Sekhukhune 1/26 (3), Ayabonga Khaka 0/29 (2.4), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to rotate the strike against Khaka.",
         "Richa Ghosh is prioritizing defense while Khaka bowls to her.",
         "Harmanpreet Kaur is attempting to accelerate the scoring rate."
       ],
-      "updated_at": "2026-04-19T06:06:43+05:30"
+      "updated_at": "2026-04-19T06:08:14+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:06:43+05:30"
+  "updated_at": "2026-04-19T06:08:14+05:30"
 }
