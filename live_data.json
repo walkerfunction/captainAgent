@@ -10,17 +10,18 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 68/4 (9.4 ov) \u2014 KKR need 88 runs in 62 balls.",
-      "live_batting": "Rovman Powell 22*(18), Rinku Singh 6*(5)",
-      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/13 (1.4)",
-      "live_moment": "KKR need 88 runs in 62 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 70/4 (10 ov) \u2014 KKR need 86 runs in 60 balls.",
+      "live_batting": "Rovman Powell 23*(19), Rinku Singh 7*(6)",
+      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/15 (2)",
+      "live_moment": "KKR need 86 runs in 60 balls.",
       "gemma_observations": [
         "Rovman Powell is attempting to accelerate scoring through aggressive drives.",
         "Rovman Powell is attempting to accelerate scoring against Ravi Bishnoi.",
         "Rovman Powell is attempting to accelerate scoring through aggressive shots.",
-        "RR are clearly trying to defend their total with disciplined bowling."
+        "RR are clearly trying to defend their total with disciplined bowling.",
+        "Rovman Powell is increasingly targeting Ravi Bishnoi for boundaries."
       ],
-      "updated_at": "2026-04-19T05:56:25+05:30"
+      "updated_at": "2026-04-19T05:57:52+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -32,18 +33,19 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 109/3 (13.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 57*(36), Harmanpreet Kaur 6*(3)",
+      "live_score": "IND-W 109/3 (13.3 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 57*(37), Harmanpreet Kaur 6*(3)",
       "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/25 (2), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Anushka Sharma is attempting to rotate the strike against Sekhukhune.",
         "Anushka Sharma is rotating the strike and defending cautiously.",
         "Shafali Verma is aggressively targeting length, attempting boundaries.",
-        "Harmanpreet Kaur is attempting to rotate the strike against Sekhukhune."
+        "Harmanpreet Kaur is attempting to rotate the strike against Sekhukhune.",
+        "Harmanpreet Kaur is playing cautiously, prioritizing rotation of strike."
       ],
-      "updated_at": "2026-04-19T05:56:36+05:30"
+      "updated_at": "2026-04-19T05:58:03+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:56:36+05:30"
+  "updated_at": "2026-04-19T05:58:03+05:30"
 }
