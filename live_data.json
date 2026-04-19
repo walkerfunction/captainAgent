@@ -10,20 +10,20 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 20/0 (2.3 ov) \u2014 RR chose to bat.",
-      "live_batting": "Yashasvi Jaiswal 9*(7), Vaibhav Sooryavanshi 11*(8)",
-      "live_bowling": "Vaibhav Arora 0/6 (1), Kartik Tyagi 0/9 (1), Cameron Green 0/5 (0.3)",
+      "live_score": "RR 20/0 (2.5 ov) \u2014 RR chose to bat.",
+      "live_batting": "Yashasvi Jaiswal 9*(9), Vaibhav Sooryavanshi 11*(8)",
+      "live_bowling": "Vaibhav Arora 0/6 (1), Kartik Tyagi 0/9 (1), Cameron Green 0/5 (0.5)",
       "live_moment": "RR chose to bat.",
       "gemma_observations": [
-        "Arora is bowling a tight opening spell, conceding only a few runs.",
         "Jaiswal is prioritizing length and attempting to rotate the strike.",
         "Arora is bowling a slightly short and wide line, offering easy scoring opportunities.",
         "Sooryavanshi is rotating the strike effectively against both bowlers.",
         "Jaiswal is prioritizing quick singles with Sooryavanshi.",
-        "Arora is bowling a cautious line, conceding few runs."
+        "Arora is bowling a cautious line, conceding few runs.",
+        "Jaiswal is prioritizing length and rotating the strike effectively."
       ],
-      "updated_at": "2026-04-19T03:12:22+05:30"
+      "updated_at": "2026-04-19T03:13:35+05:30"
     }
   },
-  "updated_at": "2026-04-19T03:12:22+05:30"
+  "updated_at": "2026-04-19T03:13:35+05:30"
 }
