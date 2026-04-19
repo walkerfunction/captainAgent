@@ -10,10 +10,10 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 254/7 (20 ov) & LSG 157/4 (15.5 ov) \u2014 LSG need 98 runs in 25 balls.",
-      "live_batting": "Aiden Markram 19*(9), Mukul Choudhary 4*(5)",
-      "live_bowling": "Arshdeep Singh 1/29 (3), Xavier Bartlett 0/40 (2.5), Marco Jansen 1/29 (3)",
-      "live_moment": "LSG need 98 runs in 25 balls.",
+      "live_score": "PBKS 254/7 (20 ov) & LSG 158/4 (16 ov) \u2014 LSG need 97 runs in 24 balls.",
+      "live_batting": "Aiden Markram 20*(10), Mukul Choudhary 4*(5)",
+      "live_bowling": "Arshdeep Singh 1/29 (3), Xavier Bartlett 0/41 (3), Marco Jansen 1/29 (3)",
+      "live_moment": "LSG need 97 runs in 24 balls.",
       "gemma_observations": [
         "Markram is primarily focusing on rotating the strike against Bartlett.",
         "Pooran is attempting to accelerate scoring against Arshdeep Singh.",
@@ -22,8 +22,8 @@
         "Markram is attempting to accelerate scoring against Arshdeep Singh.",
         "Choudhary is selectively rotating the strike to avoid immediate pressure."
       ],
-      "updated_at": "2026-04-19T10:30:21+05:30"
+      "updated_at": "2026-04-19T10:31:34+05:30"
     }
   },
-  "updated_at": "2026-04-19T10:30:21+05:30"
+  "updated_at": "2026-04-19T10:31:34+05:30"
 }
