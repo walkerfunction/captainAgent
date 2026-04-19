@@ -10,14 +10,14 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 75/5 (11.3 ov) \u2014 KKR need 81 runs in 51 balls.",
-      "live_batting": "Rinku Singh 9*(10), Ramandeep Singh 3*(4)",
+      "live_score": "RR 155/9 (20 ov) & KKR 76/5 (11.6 ov) \u2014 KKR need 80 runs in 48 balls.",
+      "live_batting": "Rinku Singh 9*(10), Ramandeep Singh 4*(7)",
       "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/15 (2)",
-      "live_moment": "KKR need 81 runs in 51 balls.",
+      "live_moment": "KKR need 80 runs in 48 balls.",
       "gemma_observations": [
         "Rinku Singh is attempting to accelerate scoring through aggressive drives."
       ],
-      "updated_at": "2026-04-19T06:03:41+05:30"
+      "updated_at": "2026-04-19T06:05:05+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -29,16 +29,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 112/5 (14.4 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 6*(3), Richa Ghosh 1*(1)",
-      "live_bowling": "Tumi Sekhukhune 1/25 (2.4), Ayabonga Khaka 0/25 (2), Chloe Tryon 3/22 (4)",
+      "live_score": "IND-W 113/5 (15 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 7*(4), Richa Ghosh 1*(2)",
+      "live_bowling": "Tumi Sekhukhune 1/26 (3), Ayabonga Khaka 0/25 (2), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to rotate the strike against Khaka.",
         "Richa Ghosh is prioritizing defense while Khaka bowls to her."
       ],
-      "updated_at": "2026-04-19T06:03:52+05:30"
+      "updated_at": "2026-04-19T06:05:16+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:03:52+05:30"
+  "updated_at": "2026-04-19T06:05:16+05:30"
 }
