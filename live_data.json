@@ -10,10 +10,10 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 85/6 (13.3 ov) \u2014 KKR need 71 runs in 39 balls.",
-      "live_batting": "Rinku Singh 12*(13)",
+      "live_score": "RR 155/9 (20 ov) & KKR 87/6 (13.6 ov) \u2014 KKR need 69 runs in 36 balls.",
+      "live_batting": "Rinku Singh 13*(14), Anukul Roy 1*(2)",
       "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/23 (3)",
-      "live_moment": "KKR need 71 runs in 39 balls.",
+      "live_moment": "KKR need 69 runs in 36 balls.",
       "gemma_observations": [
         "Ramandeep Singh is prioritizing dot balls to conserve wickets.",
         "Rinku Singh is attempting to hit boundaries against Jofra Archer.",
@@ -22,7 +22,7 @@
         "Rinku Singh is attempting to accelerate with boundaries against Archer.",
         "Rinku Singh is attempting to accelerate scoring through aggressive shots."
       ],
-      "updated_at": "2026-04-19T06:12:29+05:30"
+      "updated_at": "2026-04-19T06:13:56+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,17 +34,18 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 122/6 (16.3 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 10*(7), Arundhati Reddy 2*(2)",
+      "live_score": "IND-W 125/6 (16.6 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 11*(8), Arundhati Reddy 4*(4)",
       "live_bowling": "Tumi Sekhukhune 1/26 (3), Ayabonga Khaka 0/30 (3), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to rotate the strike against Khaka.",
         "Richa Ghosh is prioritizing defense while Khaka bowls to her.",
-        "Harmanpreet Kaur is attempting to accelerate the scoring rate."
+        "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
+        "Harmanpreet Kaur is attempting to accelerate the scoring against Khaka."
       ],
-      "updated_at": "2026-04-19T06:12:42+05:30"
+      "updated_at": "2026-04-19T06:14:07+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:12:42+05:30"
+  "updated_at": "2026-04-19T06:14:07+05:30"
 }
