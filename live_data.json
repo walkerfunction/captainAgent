@@ -10,16 +10,18 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 1/1 (0.5 ov) \u2014 KKR need 155 runs in 115 balls.",
-      "live_batting": "Angkrish Raghuvanshi 0*(4)",
-      "live_bowling": "Jofra Archer 1/1 (0.5)",
-      "live_moment": "KKR need 155 runs in 115 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 5/1 (1.1 ov) \u2014 KKR need 151 runs in 113 balls.",
+      "live_batting": "Ajinkya Rahane 0*(1), Angkrish Raghuvanshi 4*(5)",
+      "live_bowling": "Jofra Archer 1/5 (1), Nandre Burger 0/0 (0.1)",
+      "live_moment": "KKR need 151 runs in 113 balls.",
       "gemma_observations": [
         "Brijesh Sharma is defending cautiously, prioritizing rotation of strike.",
         "Archer is maintaining a tight line to prevent immediate acceleration from RR.",
-        "Angkrish Raghuvanshi is attempting to rotate the strike against Jofra Archer."
+        "Angkrish Raghuvanshi is attempting to rotate the strike against Jofra Archer.",
+        "Rahane is attempting to rotate the strike against Archer.",
+        "Raghuvanshi is prioritizing singles to maintain momentum."
       ],
-      "updated_at": "2026-04-19T05:11:25+05:30"
+      "updated_at": "2026-04-19T05:12:47+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -31,18 +33,19 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 22/1 (2.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 9*(7)",
-      "live_bowling": "Tumi Sekhukhune 0/8 (1), Ayabonga Khaka 0/13 (1), Chloe Tryon 1/1 (0.2)",
+      "live_score": "IND-W 27/1 (2.5 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 13*(9), Jemimah Rodrigues 1*(1)",
+      "live_bowling": "Tumi Sekhukhune 0/8 (1), Ayabonga Khaka 0/13 (1), Chloe Tryon 1/6 (0.5)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Shafali Verma is prioritizing length and attempting to drive through the covers.",
         "Shafali Verma is aggressively targeting length early on.",
         "Shafali Verma is aggressively targeting length early in her innings.",
-        "Shafali Verma is attempting to rotate the strike early in her innings."
+        "Shafali Verma is attempting to rotate the strike early in her innings.",
+        "Shafali Verma is attempting to accelerate her scoring rate early on."
       ],
-      "updated_at": "2026-04-19T05:11:33+05:30"
+      "updated_at": "2026-04-19T05:12:58+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:11:33+05:30"
+  "updated_at": "2026-04-19T05:12:58+05:30"
 }
