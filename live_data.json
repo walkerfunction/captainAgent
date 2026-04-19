@@ -10,17 +10,19 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 105/6 (15.2 ov) \u2014 KKR need 51 runs in 28 balls.",
-      "live_batting": "Rinku Singh 26*(19), Anukul Roy 4*(5)",
-      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/31 (3.2)",
-      "live_moment": "KKR need 51 runs in 28 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 109/6 (15.4 ov) \u2014 KKR need 47 runs in 26 balls.",
+      "live_batting": "Rinku Singh 25*(19), Anukul Roy 7*(7)",
+      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/34 (3.4)",
+      "live_moment": "KKR need 47 runs in 26 balls.",
       "gemma_observations": [
         "Rinku Singh is attempting to accelerate scoring against Jofra Archer.",
         "Rinku Singh is attempting to accelerate scoring through aggressive shots.",
         "Rinku Singh is aggressively targeting Jofra Archer for boundaries.",
-        "Anukul Roy is primarily attempting to rotate the strike against Ravi Bishnoi."
+        "Anukul Roy is primarily attempting to rotate the strike against Ravi Bishnoi.",
+        "Rinku Singh is attempting to find boundaries against Jofra Archer.",
+        "Anukul Roy is primarily rotating the strike to avoid pressure."
       ],
-      "updated_at": "2026-04-19T06:22:36+05:30"
+      "updated_at": "2026-04-19T06:24:02+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -32,17 +34,18 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 132/8 (18.4 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Arundhati Reddy 6*(10), Kranti Gaud 4*(2)",
-      "live_bowling": "Tumi Sekhukhune 2/31 (3.4), Ayabonga Khaka 0/30 (3), Chloe Tryon 3/22 (4)",
+      "live_score": "IND-W 132/9 (18.5 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Arundhati Reddy 6*(10)",
+      "live_bowling": "Tumi Sekhukhune 3/31 (3.5), Ayabonga Khaka 0/30 (3), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
         "Arundhati Reddy is attempting to rotate the strike against Chloe Tryon.",
-        "Arundhati Reddy is attempting to accelerate scoring against Khaka."
+        "Arundhati Reddy is attempting to accelerate scoring against Khaka.",
+        "Reddy is attempting to accelerate with aggressive singles and quick double runs."
       ],
-      "updated_at": "2026-04-19T06:22:46+05:30"
+      "updated_at": "2026-04-19T06:24:13+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:22:46+05:30"
+  "updated_at": "2026-04-19T06:24:13+05:30"
 }
