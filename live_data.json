@@ -15,9 +15,10 @@
       "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/23 (3)",
       "live_moment": "KKR need 59 runs in 30 balls.",
       "gemma_observations": [
-        "Rinku Singh is attempting to accelerate scoring against Jofra Archer."
+        "Rinku Singh is attempting to accelerate scoring against Jofra Archer.",
+        "Rinku Singh is attempting to accelerate scoring through aggressive shots."
       ],
-      "updated_at": "2026-04-19T06:18:17+05:30"
+      "updated_at": "2026-04-19T06:19:41+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -29,15 +30,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 127/6 (17.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 12*(9), Arundhati Reddy 5*(8)",
+      "live_score": "IND-W 127/7 (17.6 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Arundhati Reddy 5*(9)",
       "live_bowling": "Tumi Sekhukhune 1/26 (3), Ayabonga Khaka 0/30 (3), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Harmanpreet Kaur is attempting to accelerate the scoring rate."
+        "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
+        "Arundhati Reddy is attempting to rotate the strike against Chloe Tryon."
       ],
-      "updated_at": "2026-04-19T06:18:27+05:30"
+      "updated_at": "2026-04-19T06:19:55+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:18:27+05:30"
+  "updated_at": "2026-04-19T06:19:55+05:30"
 }
