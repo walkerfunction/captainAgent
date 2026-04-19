@@ -10,19 +10,19 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 44/3 (5.3 ov) \u2014 KKR need 112 runs in 87 balls.",
-      "live_batting": "Angkrish Raghuvanshi 10*(15), Rovman Powell 5*(2)",
+      "live_score": "RR 155/9 (20 ov) & KKR 50/3 (5.5 ov) \u2014 KKR need 106 runs in 85 balls.",
+      "live_batting": "Angkrish Raghuvanshi 10*(15), Rovman Powell 11*(4)",
       "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/8 (1)",
-      "live_moment": "KKR need 112 runs in 87 balls.",
+      "live_moment": "KKR need 106 runs in 85 balls.",
       "gemma_observations": [
-        "Raghuvanshi is defending cautiously, prioritizing rotation of strike.",
-        "Angkrish Raghuvanshi is attempting to accelerate with boundaries.",
         "Raghuvanshi is attempting to rotate the strike against Archer.",
         "Powell is prioritizing defense while Raghuvanshi looks for boundaries.",
         "Rovman Powell is attempting to rotate the strike against Jofra Archer.",
-        "Angkrish Raghuvanshi is prioritizing singles over attempting aggressive shots."
+        "Angkrish Raghuvanshi is prioritizing singles over attempting aggressive shots.",
+        "Angkrish Raghuvanshi is attempting to rotate the strike against Jofra Archer.",
+        "Rovman Powell is prioritizing quick singles over attempting big shots."
       ],
-      "updated_at": "2026-04-19T05:37:17+05:30"
+      "updated_at": "2026-04-19T05:38:47+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,15 +34,15 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 77/2 (9.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 50*(29), Anushka Sharma 12*(16)",
+      "live_score": "IND-W 77/2 (9.3 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 50*(30), Anushka Sharma 12*(16)",
       "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/25 (2), Chloe Tryon 2/10 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Anushka Sharma is attempting to rotate the strike against Sekhukhune."
       ],
-      "updated_at": "2026-04-19T05:37:27+05:30"
+      "updated_at": "2026-04-19T05:38:57+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:37:27+05:30"
+  "updated_at": "2026-04-19T05:38:57+05:30"
 }
