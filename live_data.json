@@ -10,20 +10,20 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 107/3 (12.4 ov) \u2014 RR chose to bat.",
-      "live_batting": "Riyan Parag 6*(7), Shimron Hetmyer 4*(5)",
+      "live_score": "RR 109/3 (13 ov) \u2014 RR chose to bat.",
+      "live_batting": "Riyan Parag 7*(8), Shimron Hetmyer 5*(6)",
       "live_bowling": "Vaibhav Arora 0/21 (2), Kartik Tyagi 0/17 (2), Cameron Green 0/27 (2)",
       "live_moment": "RR chose to bat.",
       "gemma_observations": [
-        "Riyan Parag is attempting to rotate the strike against Kartik Tyagi.",
-        "Hetmyer is prioritizing consolidation after a cautious start.",
         "Vaibhav Arora is bowling a primarily seam-up line with good length.",
         "Vaibhav Arora is bowling a slightly short and full delivery to Hetmyer.",
         "Vaibhav Arora is bowling a slightly short-pitched delivery, aiming for edges.",
-        "Vaibhav Arora is bowling a slightly short and wide line to Hetmyer."
+        "Vaibhav Arora is bowling a slightly short and wide line to Hetmyer.",
+        "Riyan Parag is aggressively targeting short balls from Vaibhav Arora.",
+        "Shimron Hetmyer is content rotating strike with defensive blocks."
       ],
-      "updated_at": "2026-04-19T04:07:19+05:30"
+      "updated_at": "2026-04-19T04:08:30+05:30"
     }
   },
-  "updated_at": "2026-04-19T04:07:19+05:30"
+  "updated_at": "2026-04-19T04:08:30+05:30"
 }
