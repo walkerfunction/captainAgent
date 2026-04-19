@@ -1,5 +1,24 @@
 {
   "matches": {
+    "Lucknow Super Giants_vs_Punjab Kings_2026-04-19": {
+      "match": {
+        "name": "29th Match",
+        "teams": [
+          "Punjab Kings",
+          "Lucknow Super Giants"
+        ],
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+        "status": "live"
+      },
+      "live_score": "PBKS 2/0 (0.1 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 0*(1)",
+      "live_bowling": "Mohammed Shami 0/2 (0.1)",
+      "live_moment": "LSG chose to field.",
+      "gemma_observations": [
+        "Priyansh Arya is attempting to rotate the strike early in the innings."
+      ],
+      "updated_at": "2026-04-19T07:01:58+05:30"
+    },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
         "name": "2nd T20I",
@@ -10,20 +29,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 27/0 (3 ov) \u2014 SA Women need 121 runs in 102 balls.",
-      "live_batting": "Laura Wolvaardt 20*(10), Sune Luus 6*(8)",
-      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/7 (1)",
-      "live_moment": "SA Women need 121 runs in 102 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 33/0 (3.1 ov) \u2014 SA Women need 115 runs in 101 balls.",
+      "live_batting": "Laura Wolvaardt 20*(10), Sune Luus 12*(9)",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/13 (1.1)",
+      "live_moment": "SA Women need 115 runs in 101 balls.",
       "gemma_observations": [
-        "Gaud is maintaining a tight line and length to restrict scoring opportunities.",
         "Luus is rotating the strike and cautiously defending against the early attack.",
         "Wolvaardt is prioritizing length and attempting to rotate the strike.",
         "Luus is selectively targeting the off-side field, looking for gaps.",
         "Luus is cautiously defending, aiming to build a platform for the innings.",
-        "Luus is content to defend and build a platform with short balls."
+        "Luus is content to defend and build a platform with short balls.",
+        "Luus is cautiously looking for gaps and attempting to build her innings."
       ],
-      "updated_at": "2026-04-19T07:00:48+05:30"
+      "updated_at": "2026-04-19T07:02:13+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:00:48+05:30"
+  "updated_at": "2026-04-19T07:02:13+05:30"
 }
