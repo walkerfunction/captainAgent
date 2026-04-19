@@ -10,14 +10,15 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 37/3 (4.3 ov) \u2014 KKR need 119 runs in 93 balls.",
-      "live_batting": "Angkrish Raghuvanshi 8*(11)",
-      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/6 (0.3)",
-      "live_moment": "KKR need 119 runs in 93 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 39/3 (5 ov) \u2014 KKR need 117 runs in 90 balls.",
+      "live_batting": "Angkrish Raghuvanshi 9*(13), Rovman Powell 1*(1)",
+      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/8 (1)",
+      "live_moment": "KKR need 117 runs in 90 balls.",
       "gemma_observations": [
-        "Raghuvanshi is defending cautiously, prioritizing rotation of strike."
+        "Raghuvanshi is defending cautiously, prioritizing rotation of strike.",
+        "Angkrish Raghuvanshi is attempting to accelerate with boundaries."
       ],
-      "updated_at": "2026-04-19T05:32:55+05:30"
+      "updated_at": "2026-04-19T05:34:23+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -29,15 +30,15 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 73/2 (8.1 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 48*(27), Anushka Sharma 10*(11)",
+      "live_score": "IND-W 75/2 (8.3 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 49*(28), Anushka Sharma 11*(12)",
       "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/25 (2), Chloe Tryon 2/10 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Anushka Sharma is attempting to rotate the strike against Sekhukhune."
       ],
-      "updated_at": "2026-04-19T05:33:06+05:30"
+      "updated_at": "2026-04-19T05:34:34+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:33:06+05:30"
+  "updated_at": "2026-04-19T05:34:34+05:30"
 }
