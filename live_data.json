@@ -10,18 +10,19 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 254/7 (20 ov) & LSG 127/2 (12.2 ov) \u2014 LSG need 128 runs in 46 balls.",
-      "live_batting": "Rishabh Pant 43*(22), Nicholas Pooran 2*(3)",
-      "live_bowling": "Arshdeep Singh 0/23 (2.2), Xavier Bartlett 0/25 (2), Marco Jansen 0/25 (2)",
-      "live_moment": "LSG need 128 runs in 46 balls.",
+      "live_score": "PBKS 254/7 (20 ov) & LSG 128/2 (12.3 ov) \u2014 LSG need 127 runs in 45 balls.",
+      "live_batting": "Rishabh Pant 43*(22), Nicholas Pooran 3*(4)",
+      "live_bowling": "Arshdeep Singh 0/24 (2.3), Xavier Bartlett 0/25 (2), Marco Jansen 0/25 (2)",
+      "live_moment": "LSG need 127 runs in 45 balls.",
       "gemma_observations": [
         "Pant is attempting to accelerate his scoring rate against Bartlett.",
         "Rishabh Pant is aggressively attempting to accelerate the scoring rate.",
         "Arshdeep Singh is maintaining a tight line and length to contain Pooran.",
-        "Nicholas Pooran is primarily serving as a concussion substitute, offering limited attacking options."
+        "Nicholas Pooran is primarily serving as a concussion substitute, offering limited attacking options.",
+        "Nicholas Pooran is primarily serving as a concussion substitute, offering limited scoring options."
       ],
-      "updated_at": "2026-04-19T10:12:00+05:30"
+      "updated_at": "2026-04-19T10:13:13+05:30"
     }
   },
-  "updated_at": "2026-04-19T10:12:00+05:30"
+  "updated_at": "2026-04-19T10:13:13+05:30"
 }
