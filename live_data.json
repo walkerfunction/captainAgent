@@ -10,19 +10,20 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 254/7 (20 ov) & LSG 199/5 (19.5 ov) \u2014 LSG need 56 runs in 1 ball.",
-      "live_batting": "Mukul Choudhary 21*(17)",
-      "live_bowling": "Arshdeep Singh 1/41 (4), Xavier Bartlett 0/54 (4), Marco Jansen 2/36 (3.5)",
-      "live_moment": "LSG need 56 runs in 1 ball.",
+      "live_score": "PBKS 254/7 (20 ov) & LSG 200/5 (20 ov) \u2014 Match Over",
+      "live_batting": "Mukul Choudhary 21*(17), Himmat Singh 1*(1)",
+      "live_bowling": "Arshdeep Singh 1/41 (4), Xavier Bartlett 0/54 (4), Marco Jansen 2/37 (4)",
+      "live_moment": "Match Over",
       "gemma_observations": [
         "Markram is aggressively targeting Arshdeep Singh for boundaries.",
         "Choudhary is attempting to clear the long-on area with frequency.",
         "Choudhary is attempting to clear the long off for crucial singles.",
         "Choudhary is attempting to clear the boundary with aggressive shots.",
-        "Arshdeep Singh is bowling defensively, conceding crucial runs."
+        "Arshdeep Singh is bowling defensively, conceding crucial runs.",
+        "Mukul Choudhary attempted to accelerate the scoring towards the end of the innings."
       ],
-      "updated_at": "2026-04-19T10:51:13+05:30"
+      "updated_at": "2026-04-19T10:52:22+05:30"
     }
   },
-  "updated_at": "2026-04-19T10:51:13+05:30"
+  "updated_at": "2026-04-19T10:52:22+05:30"
 }
