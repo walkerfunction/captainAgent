@@ -10,17 +10,19 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 14/1 (1.5 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 8*(4), Cooper Connolly 4*(6)",
-      "live_bowling": "Mohammed Shami 1/7 (1), Mohsin Khan 0/7 (0.5)",
+      "live_score": "PBKS 19/1 (2.1 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 8*(4), Cooper Connolly 9*(8)",
+      "live_bowling": "Mohammed Shami 1/11 (1.1), Mohsin Khan 0/8 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Priyansh Arya is attempting to rotate the strike early in his innings.",
         "Priyansh Arya is attempting to rotate the strike early on.",
         "Mohammed Shami is bowling a disciplined opening spell with good control.",
-        "Connolly is aggressively looking to attack the bowler early on."
+        "Connolly is aggressively looking to attack the bowler early on.",
+        "Priyansh Arya is prioritizing length and attempting to rotate the strike.",
+        "Cooper Connolly is aggressively looking to score boundaries against Mohsin Khan."
       ],
-      "updated_at": "2026-04-19T07:10:31+05:30"
+      "updated_at": "2026-04-19T07:11:57+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -32,20 +34,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 60/0 (5.2 ov) \u2014 SA Women need 88 runs in 88 balls.",
-      "live_batting": "Laura Wolvaardt 29*(14), Sune Luus 29*(19)",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 66/0 (5.6 ov) \u2014 SA Women need 82 runs in 84 balls.",
+      "live_batting": "Laura Wolvaardt 30*(15), Sune Luus 34*(22)",
       "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/20 (2), Shree Charani 0/14 (1)",
-      "live_moment": "SA Women need 88 runs in 88 balls.",
+      "live_moment": "SA Women need 82 runs in 84 balls.",
       "gemma_observations": [
-        "Wolvaardt is consistently targeting short balls from Patil.",
-        "Luus is rotating the strike effectively to maintain pressure.",
         "Wolvaardt is consistently targeting Gaud for boundaries.",
         "Luus is rotating the strike effectively against Patil.",
         "Wolvaardt and Luus are primarily targeting mid-pitch deliveries for rotation.",
-        "The SA innings is settling into a phase of consolidation and measured scoring."
+        "The SA innings is settling into a phase of consolidation and measured scoring.",
+        "Luus is rotating the strike effectively, maintaining pressure on the bowlers.",
+        "The SA innings is settling into a measured, positive phase."
       ],
-      "updated_at": "2026-04-19T07:10:45+05:30"
+      "updated_at": "2026-04-19T07:12:11+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:10:45+05:30"
+  "updated_at": "2026-04-19T07:12:11+05:30"
 }
