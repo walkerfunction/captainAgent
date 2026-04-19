@@ -10,16 +10,17 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 6/0 (0.6 ov) \u2014 RR chose to bat.",
+      "live_score": "RR 6/0 (1 ov) \u2014 RR chose to bat.",
       "live_batting": "Yashasvi Jaiswal 5*(5), Vaibhav Sooryavanshi 1*(1)",
-      "live_bowling": "Vaibhav Arora 0/6 (0.6)",
+      "live_bowling": "Vaibhav Arora 0/6 (1)",
       "live_moment": "RR chose to bat.",
       "gemma_observations": [
         "Jaiswal is prioritizing quick singles to build an early foundation.",
-        "Jaiswal is prioritizing quick singles to build momentum early."
+        "Jaiswal is prioritizing quick singles to build momentum early.",
+        "Jaiswal is prioritizing length and rotating the strike early."
       ],
-      "updated_at": "2026-04-19T03:04:09+05:30"
+      "updated_at": "2026-04-19T03:05:17+05:30"
     }
   },
-  "updated_at": "2026-04-19T03:04:09+05:30"
+  "updated_at": "2026-04-19T03:05:17+05:30"
 }
