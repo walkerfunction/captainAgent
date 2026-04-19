@@ -10,19 +10,19 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 26/1 (3 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 13*(6), Cooper Connolly 10*(11)",
-      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/8 (1)",
+      "live_score": "PBKS 30/1 (3.2 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 13*(6), Cooper Connolly 14*(13)",
+      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/12 (1.2)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
-        "Mohammed Shami is bowling a disciplined opening spell with good control.",
         "Connolly is aggressively looking to attack the bowler early on.",
         "Priyansh Arya is prioritizing length and attempting to rotate the strike.",
         "Cooper Connolly is aggressively looking to score boundaries against Mohsin Khan.",
         "Connolly is aggressively attempting to score off every ball bowled to him.",
-        "Priyansh Arya is aggressively targeting length, attempting boundaries."
+        "Priyansh Arya is aggressively targeting length, attempting boundaries.",
+        "Connolly is aggressively targeting length, attempting to score boundaries."
       ],
-      "updated_at": "2026-04-19T07:16:11+05:30"
+      "updated_at": "2026-04-19T07:17:37+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,20 +34,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 69/0 (6.5 ov) \u2014 SA Women need 79 runs in 79 balls.",
-      "live_batting": "Laura Wolvaardt 32*(18), Sune Luus 35*(24)",
-      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/20 (2), Shree Charani 0/17 (1.5)",
-      "live_moment": "SA Women need 79 runs in 79 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 70/0 (7.1 ov) \u2014 SA Women need 78 runs in 77 balls.",
+      "live_batting": "Laura Wolvaardt 33*(19), Sune Luus 35*(25)",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/20 (2), Shree Charani 0/17 (2)",
+      "live_moment": "SA Women need 78 runs in 77 balls.",
       "gemma_observations": [
-        "Wolvaardt is consistently rotating the strike against Gaud.",
-        "Luus is aggressively targeting mid-wicket for boundaries.",
-        "Luus is aggressively targeting mid-pitch bowling variations.",
-        "The SA innings remains largely unchanged in its approach.",
-        "Luus is aggressively targeting mid-pitch with strong shot selection.",
-        "The SA innings is settling into a positive phase with consistent scoring."
+        "Luus is rotating the strike effectively, maintaining pressure on the bowlers.",
+        "The SA innings has begun with a cautious, defensive approach."
       ],
-      "updated_at": "2026-04-19T07:16:25+05:30"
+      "updated_at": "2026-04-19T07:17:51+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:16:25+05:30"
+  "updated_at": "2026-04-19T07:17:51+05:30"
 }
