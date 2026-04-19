@@ -10,20 +10,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 26/0 (2.5 ov) \u2014 SA Women need 122 runs in 103 balls.",
-      "live_batting": "Laura Wolvaardt 20*(10), Sune Luus 5*(7)",
-      "live_bowling": "Kranti Gaud 0/19 (1.5), Shreyanka Patil 0/7 (1)",
-      "live_moment": "SA Women need 122 runs in 103 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 27/0 (3 ov) \u2014 SA Women need 121 runs in 102 balls.",
+      "live_batting": "Laura Wolvaardt 20*(10), Sune Luus 6*(8)",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/7 (1)",
+      "live_moment": "SA Women need 121 runs in 102 balls.",
       "gemma_observations": [
-        "Luus is cautiously rotating the strike, avoiding any aggressive shots.",
         "Gaud is maintaining a tight line and length to restrict scoring opportunities.",
         "Luus is rotating the strike and cautiously defending against the early attack.",
         "Wolvaardt is prioritizing length and attempting to rotate the strike.",
         "Luus is selectively targeting the off-side field, looking for gaps.",
-        "Luus is cautiously defending, aiming to build a platform for the innings."
+        "Luus is cautiously defending, aiming to build a platform for the innings.",
+        "Luus is content to defend and build a platform with short balls."
       ],
-      "updated_at": "2026-04-19T06:59:32+05:30"
+      "updated_at": "2026-04-19T07:00:48+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:59:32+05:30"
+  "updated_at": "2026-04-19T07:00:48+05:30"
 }
