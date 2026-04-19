@@ -1,22 +1,5 @@
 {
   "matches": {
-    "Kolkata Knight Riders_vs_Rajasthan Royals_2026-04-19": {
-      "match": {
-        "name": "28th Match",
-        "teams": [
-          "Rajasthan Royals",
-          "Kolkata Knight Riders"
-        ],
-        "venue": "Eden Gardens, Kolkata",
-        "status": "live"
-      },
-      "live_score": "RR 155/9 (20 ov) & KKR 161/6 (19.4 ov) \u2014 Match Over",
-      "live_batting": "Rinku Singh 53*(34), Anukul Roy 29*(16)",
-      "live_bowling": "Jofra Archer 1/35 (4), Nandre Burger 1/20 (2), Ravi Bishnoi 1/41 (4)",
-      "live_moment": "Match Over",
-      "gemma_observations": [],
-      "updated_at": "2026-04-19T06:48:16+05:30"
-    },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
         "name": "2nd T20I",
@@ -27,15 +10,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shree Charani 7*(3)",
-      "live_bowling": "Tumi Sekhukhune 3/31 (4), Ayabonga Khaka 0/45 (4), Chloe Tryon 3/22 (4)",
-      "live_moment": "SA Women chose to field.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 0/0 (0.1 ov) \u2014 SA Women need 148 runs in 119 balls.",
+      "live_batting": "Laura Wolvaardt 0*(1)",
+      "live_bowling": "Kranti Gaud 0/0 (0.1)",
+      "live_moment": "SA Women need 148 runs in 119 balls.",
       "gemma_observations": [
-        "Charani is defending aggressively, attempting to eke out a few more runs."
+        "Charani is defending aggressively, attempting to eke out a few more runs.",
+        "Wolvaardt is prioritizing dot balls to avoid immediate pressure."
       ],
-      "updated_at": "2026-04-19T06:48:29+05:30"
+      "updated_at": "2026-04-19T06:49:41+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:48:29+05:30"
+  "updated_at": "2026-04-19T06:49:41+05:30"
 }
