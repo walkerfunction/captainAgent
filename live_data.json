@@ -10,16 +10,17 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 129/1 (10.6 ov) \u2014 LSG chose to field.",
+      "live_score": "PBKS 129/1 (11 ov) \u2014 LSG chose to field.",
       "live_batting": "Priyansh Arya 67*(29), Cooper Connolly 58*(36)",
-      "live_bowling": "Mohammed Shami 1/36 (2.6), Mohsin Khan 0/40 (3), Prince Yadav 0/13 (2)",
+      "live_bowling": "Mohammed Shami 1/36 (3), Mohsin Khan 0/40 (3), Prince Yadav 0/13 (2)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Priyansh Arya is aggressively targeting length, scoring quickly.",
         "Cooper Connolly is rotating strike and maintaining a scoring rate.",
-        "Cooper Connolly is rotating strike and maintaining a high scoring rate."
+        "Cooper Connolly is rotating strike and maintaining a high scoring rate.",
+        "Connolly is aggressively targeting length, scoring quickly."
       ],
-      "updated_at": "2026-04-19T07:53:14+05:30"
+      "updated_at": "2026-04-19T07:54:41+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -31,20 +32,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 131/2 (15.5 ov) \u2014 SA Women need 17 runs in 25 balls.",
-      "live_batting": "Tazmin Brits 14*(14), Annerie Dercksen 1*(2)",
-      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 2/34 (3.5), Shree Charani 0/39 (4)",
-      "live_moment": "SA Women need 17 runs in 25 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 133/2 (16.1 ov) \u2014 SA Women need 15 runs in 23 balls.",
+      "live_batting": "Tazmin Brits 14*(14), Annerie Dercksen 3*(4)",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 2/35 (4), Shree Charani 0/39 (4)",
+      "live_moment": "SA Women need 15 runs in 23 balls.",
       "gemma_observations": [
-        "Luus is aggressively targeting Patil for boundaries.",
-        "The SA innings is now purely about maintaining a scoring rate.",
         "Tazmin Brits is prioritizing quick singles to accelerate the scoring.",
         "Tazmin Brits is attempting to hit boundaries to accelerate the scoring.",
         "Brits is attempting to hit boundaries against Patil, a risky strategy.",
-        "Dercksen is playing defensively, prioritizing rotation of the strike."
+        "Dercksen is playing defensively, prioritizing rotation of the strike.",
+        "Brits is attempting to hit boundaries against Patil to accelerate the scoring.",
+        "Dercksen is playing defensively, prioritizing rotation of the strike over aggressive shots."
       ],
-      "updated_at": "2026-04-19T07:53:28+05:30"
+      "updated_at": "2026-04-19T07:54:56+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:53:28+05:30"
+  "updated_at": "2026-04-19T07:54:56+05:30"
 }
