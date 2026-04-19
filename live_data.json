@@ -10,8 +10,8 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 85/1 (7.4 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 43*(16), Cooper Connolly 38*(29)",
+      "live_score": "PBKS 91/1 (8 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 49*(18), Cooper Connolly 38*(29)",
       "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/40 (3), Prince Yadav 0/4 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
@@ -21,7 +21,7 @@
         "Cooper Connolly is rotating strike and maintaining a scoring rate.",
         "Cooper Connolly is rotating strike and maintaining a high scoring rate."
       ],
-      "updated_at": "2026-04-19T07:38:58+05:30"
+      "updated_at": "2026-04-19T07:40:25+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -33,10 +33,10 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 106/1 (12 ov) \u2014 SA Women need 42 runs in 48 balls.",
-      "live_batting": "Sune Luus 49*(39)",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 107/1 (12.2 ov) \u2014 SA Women need 41 runs in 46 balls.",
+      "live_batting": "Sune Luus 50*(41)",
       "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 1/26 (3), Shree Charani 0/31 (3)",
-      "live_moment": "SA Women need 42 runs in 48 balls.",
+      "live_moment": "SA Women need 41 runs in 46 balls.",
       "gemma_observations": [
         "Luus is aggressively targeting mid-wicket for boundaries.",
         "Wolvaardt is consistently rotating the strike against Patil.",
@@ -45,8 +45,8 @@
         "Luus is rotating the strike effectively, maintaining a measured tempo.",
         "The SA innings is now primarily focused on scoring boundaries."
       ],
-      "updated_at": "2026-04-19T07:39:13+05:30"
+      "updated_at": "2026-04-19T07:40:40+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:39:13+05:30"
+  "updated_at": "2026-04-19T07:40:40+05:30"
 }
