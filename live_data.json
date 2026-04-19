@@ -10,19 +10,14 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 6/2 (1.3 ov) \u2014 KKR need 150 runs in 111 balls.",
-      "live_batting": "Angkrish Raghuvanshi 4*(5), Cameron Green 1*(1)",
-      "live_bowling": "Jofra Archer 1/5 (1), Nandre Burger 1/1 (0.3)",
-      "live_moment": "KKR need 150 runs in 111 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 15/2 (2 ov) \u2014 KKR need 141 runs in 108 balls.",
+      "live_batting": "Angkrish Raghuvanshi 5*(6), Cameron Green 9*(3)",
+      "live_bowling": "Jofra Archer 1/5 (1), Nandre Burger 1/10 (1)",
+      "live_moment": "KKR need 141 runs in 108 balls.",
       "gemma_observations": [
-        "Brijesh Sharma is defending cautiously, prioritizing rotation of strike.",
-        "Archer is maintaining a tight line to prevent immediate acceleration from RR.",
-        "Angkrish Raghuvanshi is attempting to rotate the strike against Jofra Archer.",
-        "Rahane is attempting to rotate the strike against Archer.",
-        "Raghuvanshi is prioritizing singles to maintain momentum.",
-        "Angkrish Raghuvanshi is defending cautiously against Jofra Archer."
+        "Angkrish Raghuvanshi is attempting to rotate the strike against Jofra Archer."
       ],
-      "updated_at": "2026-04-19T05:17:05+05:30"
+      "updated_at": "2026-04-19T05:18:30+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,20 +29,15 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 43/1 (3.6 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 29*(16), Jemimah Rodrigues 1*(1)",
-      "live_bowling": "Tumi Sekhukhune 0/23 (1.6), Ayabonga Khaka 0/13 (1), Chloe Tryon 1/7 (1)",
+      "live_score": "IND-W 44/1 (4.1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 30*(17), Jemimah Rodrigues 1*(1)",
+      "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/13 (1), Chloe Tryon 1/8 (1.1)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Shafali Verma is prioritizing length and attempting to drive through the covers.",
-        "Shafali Verma is aggressively targeting length early on.",
-        "Shafali Verma is aggressively targeting length early in her innings.",
-        "Shafali Verma is attempting to rotate the strike early in her innings.",
-        "Shafali Verma is attempting to accelerate her scoring rate early on.",
-        "Jemimah Rodrigues appears content to rotate the strike with Khaka."
+        "Shafali Verma is aggressively targeting length early in her innings."
       ],
-      "updated_at": "2026-04-19T05:17:16+05:30"
+      "updated_at": "2026-04-19T05:18:42+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:17:16+05:30"
+  "updated_at": "2026-04-19T05:18:42+05:30"
 }
