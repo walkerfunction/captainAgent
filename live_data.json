@@ -10,10 +10,10 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 135/6 (17.6 ov) \u2014 KKR need 21 runs in 12 balls.",
-      "live_batting": "Rinku Singh 37*(28), Anukul Roy 19*(12)",
-      "live_bowling": "Jofra Archer 1/23 (3), Nandre Burger 1/20 (2), Ravi Bishnoi 1/41 (4)",
-      "live_moment": "KKR need 21 runs in 12 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 136/6 (18.1 ov) \u2014 KKR need 20 runs in 11 balls.",
+      "live_batting": "Rinku Singh 37*(28), Anukul Roy 20*(13)",
+      "live_bowling": "Jofra Archer 1/24 (3.1), Nandre Burger 1/20 (2), Ravi Bishnoi 1/41 (4)",
+      "live_moment": "KKR need 20 runs in 11 balls.",
       "gemma_observations": [
         "Rinku Singh is aggressively targeting Jofra Archer for boundaries.",
         "Anukul Roy is attempting to rotate the strike against Ravi Bishnoi.",
@@ -21,7 +21,7 @@
         "Rinku Singh is attempting to find boundaries against Jofra Archer.",
         "Anukul Roy is rotating the strike to keep the pressure on Bishnoi."
       ],
-      "updated_at": "2026-04-19T06:38:19+05:30"
+      "updated_at": "2026-04-19T06:39:44+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -39,10 +39,11 @@
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Charani is defending aggressively, attempting to grind out a few more runs.",
-        "Charani is attempting to defend and accumulate singles."
+        "Charani is attempting to defend and accumulate singles.",
+        "Charani is attempting to defend and rotate the strike against Sekhukhune."
       ],
-      "updated_at": "2026-04-19T06:38:26+05:30"
+      "updated_at": "2026-04-19T06:39:54+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:38:26+05:30"
+  "updated_at": "2026-04-19T06:39:54+05:30"
 }
