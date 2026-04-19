@@ -10,18 +10,19 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 179/1 (13.1 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 92*(35), Cooper Connolly 82*(43)",
-      "live_bowling": "Mohammed Shami 1/36 (3), Mohsin Khan 0/40 (3), Prince Yadav 0/13 (2.1)",
+      "live_score": "PBKS 184/1 (13.3 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 92*(35), Cooper Connolly 87*(45)",
+      "live_bowling": "Mohammed Shami 1/36 (3), Mohsin Khan 0/40 (3), Prince Yadav 0/18 (2.3)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Priyansh Arya is aggressively targeting length and finding boundaries consistently.",
         "Cooper Connolly is rotating strike and maintaining a high scoring rate.",
         "Cooper Connolly is rotating the strike effectively and maintaining a high scoring rate.",
-        "Priyansh Arya is aggressively targeting length, scoring quickly."
+        "Priyansh Arya is aggressively targeting length, scoring quickly.",
+        "Cooper Connolly is rotating strike effectively, maintaining the scoring rate."
       ],
-      "updated_at": "2026-04-19T08:05:16+05:30"
+      "updated_at": "2026-04-19T08:06:27+05:30"
     }
   },
-  "updated_at": "2026-04-19T08:05:16+05:30"
+  "updated_at": "2026-04-19T08:06:27+05:30"
 }
