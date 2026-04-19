@@ -10,10 +10,10 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 126/6 (16.3 ov) \u2014 KKR need 30 runs in 21 balls.",
-      "live_batting": "Rinku Singh 35*(23), Anukul Roy 13*(8)",
-      "live_bowling": "Jofra Archer 1/21 (2.3), Nandre Burger 1/20 (2), Ravi Bishnoi 1/41 (4)",
-      "live_moment": "KKR need 30 runs in 21 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 128/6 (16.6 ov) \u2014 KKR need 28 runs in 18 balls.",
+      "live_batting": "Rinku Singh 36*(24), Anukul Roy 14*(10)",
+      "live_bowling": "Jofra Archer 1/23 (2.6), Nandre Burger 1/20 (2), Ravi Bishnoi 1/41 (4)",
+      "live_moment": "KKR need 28 runs in 18 balls.",
       "gemma_observations": [
         "Anukul Roy is primarily attempting to rotate the strike against Ravi Bishnoi.",
         "Rinku Singh is attempting to find boundaries against Jofra Archer.",
@@ -22,7 +22,7 @@
         "Anukul Roy is attempting to rotate the strike against Ravi Bishnoi.",
         "Anukul Roy is attempting to rotate the strike and maintain pressure on Bishnoi."
       ],
-      "updated_at": "2026-04-19T06:29:48+05:30"
+      "updated_at": "2026-04-19T06:31:18+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -39,15 +39,15 @@
       "live_bowling": "Tumi Sekhukhune 3/31 (4), Ayabonga Khaka 0/45 (4), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Arundhati Reddy is attempting to accelerate scoring against Khaka.",
         "Reddy is attempting to accelerate with aggressive singles and quick double runs.",
         "Reddy is attempting to rotate the strike against Tryon.",
         "Reddy is attempting to accelerate scoring through aggressive drives.",
         "Charani is prioritizing defense while Reddy looks for boundaries.",
-        "Charani is attempting to defend and rotate the strike against Sekhukhune."
+        "Charani is attempting to defend and rotate the strike against Sekhukhune.",
+        "Charani is attempting to defend and accumulate singles."
       ],
-      "updated_at": "2026-04-19T06:30:01+05:30"
+      "updated_at": "2026-04-19T06:31:26+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:30:01+05:30"
+  "updated_at": "2026-04-19T06:31:26+05:30"
 }
