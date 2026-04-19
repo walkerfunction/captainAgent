@@ -10,19 +10,15 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 108/1 (9.4 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 64*(26), Cooper Connolly 40*(31)",
-      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/40 (3), Prince Yadav 0/11 (1.4)",
+      "live_score": "PBKS 109/1 (9.5 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 64*(26), Cooper Connolly 41*(32)",
+      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/40 (3), Prince Yadav 0/12 (1.5)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Priyansh Arya is aggressively targeting length, scoring quickly.",
-        "Cooper Connolly is rotating strike, prioritizing maintaining momentum.",
-        "Cooper Connolly continues to rotate strike effectively against Mohsin Khan.",
-        "Cooper Connolly is rotating strike and maintaining a scoring rate.",
-        "Cooper Connolly is rotating strike and maintaining a high scoring rate.",
-        "Cooper Connolly is rotating strike effectively, maintaining scoring momentum."
+        "Cooper Connolly is rotating strike and maintaining a scoring rate."
       ],
-      "updated_at": "2026-04-19T07:47:30+05:30"
+      "updated_at": "2026-04-19T07:48:57+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,17 +30,19 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 121/1 (14.3 ov) \u2014 SA Women need 27 runs in 33 balls.",
-      "live_batting": "Sune Luus 56*(44), Tazmin Brits 8*(10)",
-      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 1/26 (3), Shree Charani 0/37 (3.3)",
-      "live_moment": "SA Women need 27 runs in 33 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 123/1 (15 ov) \u2014 SA Women need 25 runs in 30 balls.",
+      "live_batting": "Sune Luus 57*(45), Tazmin Brits 9*(12)",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 1/26 (3), Shree Charani 0/39 (4)",
+      "live_moment": "SA Women need 25 runs in 30 balls.",
       "gemma_observations": [
         "Luus is consistently targeting Patil for boundaries.",
         "Brits is attempting to rotate the strike against Gaud.",
-        "The SA innings is now primarily focused on single-figure scoring."
+        "The SA innings is now primarily focused on single-figure scoring.",
+        "Luus is aggressively targeting Patil for boundaries.",
+        "The SA innings is now purely about maintaining a scoring rate."
       ],
-      "updated_at": "2026-04-19T07:47:44+05:30"
+      "updated_at": "2026-04-19T07:49:10+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:47:44+05:30"
+  "updated_at": "2026-04-19T07:49:10+05:30"
 }
