@@ -1,28 +1,24 @@
 {
   "matches": {
-    "Chennai Super Kings_vs_Sunrisers Hyderabad_2026-04-18": {
+    "Kolkata Knight Riders_vs_Rajasthan Royals_2026-04-19": {
       "match": {
-        "name": "27th Match",
+        "name": "28th Match",
         "teams": [
-          "Sunrisers Hyderabad",
-          "Chennai Super Kings"
+          "Rajasthan Royals",
+          "Kolkata Knight Riders"
         ],
-        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+        "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "SRH 194/9 (20 ov) & CSK 184/8 (20 ov) \u2014 Match Over",
-      "live_batting": "Anshul Kamboj 13*(8), Noor Ahmad 1*(1)",
-      "live_bowling": "Praful Hinge 1/60 (4), Nitish Kumar Reddy 2/31 (4), Sakib Hussain 1/32 (4)",
-      "live_moment": "Match Over",
+      "live_score": "RR 6/0 (0.4 ov) \u2014 RR chose to bat.",
+      "live_batting": "Yashasvi Jaiswal 5*(3), Vaibhav Sooryavanshi 1*(1)",
+      "live_bowling": "Vaibhav Arora 0/6 (0.4)",
+      "live_moment": "RR chose to bat.",
       "gemma_observations": [
-        "Overton is consistently targeting Hinge for boundaries.",
-        "Overton is attempting to hit boundaries to accelerate the scoring rate.",
-        "Overton is increasingly attempting to hit over the top of the bounce.",
-        "Jamie Overton is attempting to hit boundaries to accelerate the scoring.",
-        "Jamie Overton is aggressively targeting Sakib Hussain for boundaries."
+        "Jaiswal is prioritizing quick singles to build an early foundation."
       ],
-      "updated_at": "2026-04-18T11:01:50+05:30"
+      "updated_at": "2026-04-19T03:03:00+05:30"
     }
   },
-  "updated_at": "2026-04-18T11:01:50+05:30"
+  "updated_at": "2026-04-19T03:03:00+05:30"
 }
