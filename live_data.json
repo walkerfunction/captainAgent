@@ -10,16 +10,16 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 7/1 (0.6 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 1*(2), Cooper Connolly 4*(3)",
-      "live_bowling": "Mohammed Shami 1/7 (0.6)",
+      "live_score": "PBKS 13/1 (1.1 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 7*(3), Cooper Connolly 4*(3)",
+      "live_bowling": "Mohammed Shami 1/7 (1), Mohsin Khan 0/6 (0.1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Priyansh Arya is attempting to rotate the strike early in his innings.",
         "Priyansh Arya is attempting to rotate the strike early on.",
         "Mohammed Shami is bowling a disciplined opening spell with good control."
       ],
-      "updated_at": "2026-04-19T07:06:13+05:30"
+      "updated_at": "2026-04-19T07:07:40+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -31,18 +31,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 49/0 (4.2 ov) \u2014 SA Women need 99 runs in 94 balls.",
-      "live_batting": "Laura Wolvaardt 25*(13), Sune Luus 22*(14)",
-      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/20 (2), Shree Charani 0/9 (0.2)",
-      "live_moment": "SA Women need 99 runs in 94 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 50/0 (4.5 ov) \u2014 SA Women need 98 runs in 91 balls.",
+      "live_batting": "Laura Wolvaardt 25*(13), Sune Luus 23*(17)",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/20 (2), Shree Charani 0/10 (0.5)",
+      "live_moment": "SA Women need 98 runs in 91 balls.",
       "gemma_observations": [
         "Wolvaardt is prioritizing length and attempting to rotate the strike.",
         "Luus is cautiously looking for gaps and attempting to build a platform.",
         "Luus is cautiously looking for gaps and attempting to build her innings.",
-        "Luus is rotating the strike effectively, building a platform for acceleration."
+        "Luus is rotating the strike effectively, building a platform for acceleration.",
+        "Wolvaardt is consistently targeting short balls from Patil.",
+        "Luus is rotating the strike effectively to maintain pressure."
       ],
-      "updated_at": "2026-04-19T07:06:28+05:30"
+      "updated_at": "2026-04-19T07:07:54+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:06:28+05:30"
+  "updated_at": "2026-04-19T07:07:54+05:30"
 }
