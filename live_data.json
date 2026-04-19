@@ -10,8 +10,8 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 94/1 (8.2 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 51*(19), Cooper Connolly 39*(30)",
+      "live_score": "PBKS 100/1 (8.5 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 56*(21), Cooper Connolly 40*(31)",
       "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/40 (3), Prince Yadav 0/4 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
@@ -21,7 +21,7 @@
         "Cooper Connolly is rotating strike and maintaining a scoring rate.",
         "Cooper Connolly is rotating strike and maintaining a high scoring rate."
       ],
-      "updated_at": "2026-04-19T07:41:51+05:30"
+      "updated_at": "2026-04-19T07:43:15+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -33,20 +33,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 107/1 (12.5 ov) \u2014 SA Women need 41 runs in 43 balls.",
-      "live_batting": "Sune Luus 50*(41), Tazmin Brits 0*(3)",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 109/1 (13.1 ov) \u2014 SA Women need 39 runs in 41 balls.",
+      "live_batting": "Sune Luus 50*(41), Tazmin Brits 2*(5)",
       "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 1/26 (3), Shree Charani 0/31 (3)",
-      "live_moment": "SA Women need 41 runs in 43 balls.",
+      "live_moment": "SA Women need 39 runs in 41 balls.",
       "gemma_observations": [
-        "Wolvaardt is consistently targeting mid-wicket for boundaries.",
         "Luus is rotating the strike effectively, maintaining a measured tempo.",
         "The SA innings is now primarily focused on scoring boundaries.",
         "Luus is aggressively targeting Patil for boundaries.",
         "Brits is attempting to rotate the strike against Gaud.",
-        "The SA innings is now primarily focused on scoring quickly."
+        "The SA innings is now primarily focused on scoring quickly.",
+        "Brits is primarily rotating the strike, attempting to shorten the innings."
       ],
-      "updated_at": "2026-04-19T07:42:04+05:30"
+      "updated_at": "2026-04-19T07:43:29+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:42:04+05:30"
+  "updated_at": "2026-04-19T07:43:29+05:30"
 }
