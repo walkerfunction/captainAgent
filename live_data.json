@@ -21,8 +21,27 @@
         "Brijesh Sharma is defending cautiously, prioritizing rotation of strike.",
         "Brijesh Sharma is prioritizing singles to see out the remaining overs."
       ],
-      "updated_at": "2026-04-19T05:00:45+05:30"
+      "updated_at": "2026-04-19T05:01:51+05:30"
+    },
+    "India Women_vs_South Africa Women_2026-04-19": {
+      "match": {
+        "name": "2nd T20I",
+        "teams": [
+          "India Women",
+          "South Africa Women"
+        ],
+        "venue": "Kingsmead, Durban",
+        "status": "live"
+      },
+      "live_score": "IND-W 1/0 (0.2 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 0*(2)",
+      "live_bowling": "Tumi Sekhukhune 0/1 (0.2)",
+      "live_moment": "SA Women chose to field.",
+      "gemma_observations": [
+        "Shafali Verma is attempting to quickly rotate the strike against Sekhukhune."
+      ],
+      "updated_at": "2026-04-19T05:01:59+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:00:45+05:30"
+  "updated_at": "2026-04-19T05:01:59+05:30"
 }
