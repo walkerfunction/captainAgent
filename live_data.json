@@ -17,7 +17,7 @@
       "gemma_observations": [
         "Brijesh Sharma is defending cautiously, prioritizing rotation of strike."
       ],
-      "updated_at": "2026-04-19T05:04:36+05:30"
+      "updated_at": "2026-04-19T05:05:56+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -29,15 +29,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 8/0 (1 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 7*(5), Smriti Mandhana 0*(1)",
-      "live_bowling": "Tumi Sekhukhune 0/8 (1)",
+      "live_score": "IND-W 9/0 (1.1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 8*(6), Smriti Mandhana 0*(1)",
+      "live_bowling": "Tumi Sekhukhune 0/8 (1), Ayabonga Khaka 0/1 (0.1)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Shafali Verma is prioritizing length and attempting to drive through the covers."
+        "Shafali Verma is prioritizing length and attempting to drive through the covers.",
+        "Shafali Verma is aggressively targeting length early on."
       ],
-      "updated_at": "2026-04-19T05:04:43+05:30"
+      "updated_at": "2026-04-19T05:06:06+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:04:43+05:30"
+  "updated_at": "2026-04-19T05:06:06+05:30"
 }
