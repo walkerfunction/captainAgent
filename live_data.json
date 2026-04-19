@@ -10,9 +10,9 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 251/5 (19.2 ov) \u2014 LSG chose to field.",
-      "live_batting": "Marcus Stoinis 27*(14), Shashank Singh 17*(5)",
-      "live_bowling": "Mohammed Shami 1/56 (4), Mohsin Khan 1/43 (4), Prince Yadav 1/22 (3.2)",
+      "live_score": "PBKS 252/6 (19.4 ov) \u2014 LSG chose to field.",
+      "live_batting": "Marcus Stoinis 28*(15)",
+      "live_bowling": "Mohammed Shami 1/56 (4), Mohsin Khan 1/43 (4), Prince Yadav 2/23 (3.4)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Shashank Singh is prioritizing dot balls to avoid losing his wicket.",
@@ -22,8 +22,8 @@
         "Marcus Stoinis is prioritizing dot balls to conserve his wicket.",
         "Shashank Singh is prioritizing dot balls to maintain his strike rate."
       ],
-      "updated_at": "2026-04-19T08:45:37+05:30"
+      "updated_at": "2026-04-19T08:46:49+05:30"
     }
   },
-  "updated_at": "2026-04-19T08:45:37+05:30"
+  "updated_at": "2026-04-19T08:46:49+05:30"
 }
