@@ -10,15 +10,17 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 33/1 (3.5 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 15*(7), Cooper Connolly 15*(15)",
-      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/15 (1.5)",
+      "live_score": "PBKS 39/1 (4 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 21*(8), Cooper Connolly 15*(15)",
+      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/21 (2)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Connolly is aggressively attempting to rotate strike against Mohsin Khan.",
-        "Shami is maintaining a good length and mixing his variations effectively."
+        "Shami is maintaining a good length and mixing his variations effectively.",
+        "Priyansh Arya is aggressively targeting length, scoring quickly.",
+        "Cooper Connolly is rotating strike and maintaining a moderate scoring rate."
       ],
-      "updated_at": "2026-04-19T07:19:04+05:30"
+      "updated_at": "2026-04-19T07:20:28+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -30,18 +32,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 72/0 (7.3 ov) \u2014 SA Women need 76 runs in 75 balls.",
-      "live_batting": "Laura Wolvaardt 33*(20), Sune Luus 36*(26)",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 73/0 (7.5 ov) \u2014 SA Women need 75 runs in 73 balls.",
+      "live_batting": "Laura Wolvaardt 34*(21), Sune Luus 36*(27)",
       "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/20 (2), Shree Charani 0/17 (2)",
-      "live_moment": "SA Women need 76 runs in 75 balls.",
+      "live_moment": "SA Women need 75 runs in 73 balls.",
       "gemma_observations": [
         "Luus is rotating the strike effectively, maintaining pressure on the bowlers.",
         "The SA innings has begun with a cautious, defensive approach.",
         "Wolvaardt is consistently rotating the strike against Gaud.",
-        "Luus is aggressively driving through the on-side, attempting boundaries."
+        "Luus is aggressively driving through the on-side, attempting boundaries.",
+        "Luus is aggressively driving through the on-side, seeking boundaries.",
+        "The SA innings has begun with a clear intent to accelerate."
       ],
-      "updated_at": "2026-04-19T07:19:17+05:30"
+      "updated_at": "2026-04-19T07:20:42+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:19:17+05:30"
+  "updated_at": "2026-04-19T07:20:42+05:30"
 }
