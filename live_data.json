@@ -10,20 +10,20 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 254/7 (20 ov) & LSG 77/1 (7.1 ov) \u2014 LSG need 178 runs in 77 balls.",
-      "live_batting": "Mitchell Marsh 27*(18), Rishabh Pant 13*(4)",
+      "live_score": "PBKS 254/7 (20 ov) & LSG 81/1 (7.3 ov) \u2014 LSG need 174 runs in 75 balls.",
+      "live_batting": "Mitchell Marsh 27*(18), Rishabh Pant 17*(6)",
       "live_bowling": "Arshdeep Singh 0/19 (2), Xavier Bartlett 0/25 (2), Marco Jansen 0/25 (2)",
-      "live_moment": "LSG need 178 runs in 77 balls.",
+      "live_moment": "LSG need 174 runs in 75 balls.",
       "gemma_observations": [
-        "Marsh is attempting to accelerate his scoring rate against Bartlett.",
         "Marsh is prioritizing pace and attempting to clear the boundary.",
         "Pant is playing cautiously, likely conserving his energy for later.",
         "Pant is playing cautiously, prioritizing rotation of the strike.",
         "Pant is playing cautiously, primarily focusing on defending and accumulating singles.",
-        "Pant is playing cautiously, primarily focusing on rotating the strike."
+        "Pant is playing cautiously, primarily focusing on rotating the strike.",
+        "Pant is prioritizing dot balls to avoid immediate wickets."
       ],
-      "updated_at": "2026-04-19T09:43:30+05:30"
+      "updated_at": "2026-04-19T09:44:44+05:30"
     }
   },
-  "updated_at": "2026-04-19T09:43:30+05:30"
+  "updated_at": "2026-04-19T09:44:44+05:30"
 }
