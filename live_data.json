@@ -10,16 +10,17 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 76/1 (6.5 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 41*(14), Cooper Connolly 31*(26)",
+      "live_score": "PBKS 78/1 (7.1 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 43*(16), Cooper Connolly 31*(26)",
       "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/40 (3), Prince Yadav 0/4 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Priyansh Arya is aggressively targeting length, scoring quickly.",
         "Cooper Connolly is rotating strike, prioritizing maintaining momentum.",
-        "Cooper Connolly continues to rotate strike effectively against Mohsin Khan."
+        "Cooper Connolly continues to rotate strike effectively against Mohsin Khan.",
+        "Cooper Connolly is rotating strike and maintaining a scoring rate."
       ],
-      "updated_at": "2026-04-19T07:34:42+05:30"
+      "updated_at": "2026-04-19T07:36:07+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -31,18 +32,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 101/0 (11.1 ov) \u2014 SA Women need 47 runs in 53 balls.",
-      "live_batting": "Laura Wolvaardt 54*(32), Sune Luus 44*(36)",
-      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/21 (2.1), Shree Charani 0/31 (3)",
-      "live_moment": "SA Women need 47 runs in 53 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 106/0 (11.4 ov) \u2014 SA Women need 42 runs in 50 balls.",
+      "live_batting": "Laura Wolvaardt 54*(32), Sune Luus 49*(39)",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/26 (2.4), Shree Charani 0/31 (3)",
+      "live_moment": "SA Women need 42 runs in 50 balls.",
       "gemma_observations": [
         "Wolvaardt is consistently rotating the strike against Gaud.",
         "Luus is aggressively targeting mid-wicket for boundaries.",
         "Wolvaardt is consistently rotating the strike against Patil.",
-        "The SA innings is now firmly in a scoring phase."
+        "The SA innings is now firmly in a scoring phase.",
+        "Wolvaardt is consistently targeting mid-wicket for boundaries.",
+        "Luus is rotating the strike effectively, maintaining a measured tempo."
       ],
-      "updated_at": "2026-04-19T07:34:56+05:30"
+      "updated_at": "2026-04-19T07:36:21+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:34:56+05:30"
+  "updated_at": "2026-04-19T07:36:21+05:30"
 }
