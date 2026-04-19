@@ -10,16 +10,17 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 21/2 (2.5 ov) \u2014 KKR need 135 runs in 103 balls.",
-      "live_batting": "Angkrish Raghuvanshi 6*(7), Cameron Green 14*(7)",
-      "live_bowling": "Jofra Archer 1/11 (1.5), Nandre Burger 1/10 (1)",
-      "live_moment": "KKR need 135 runs in 103 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 21/2 (3 ov) \u2014 KKR need 135 runs in 102 balls.",
+      "live_batting": "Angkrish Raghuvanshi 6*(8), Cameron Green 14*(7)",
+      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/10 (1)",
+      "live_moment": "KKR need 135 runs in 102 balls.",
       "gemma_observations": [
         "Angkrish Raghuvanshi is attempting to rotate the strike against Jofra Archer.",
         "Cameron Green is prioritizing pace and length to avoid early wickets.",
-        "Cameron Green is looking to accelerate his scoring rate towards the end of the over."
+        "Cameron Green is looking to accelerate his scoring rate towards the end of the over.",
+        "Cameron Green is prioritizing quick singles over attempting risky shots."
       ],
-      "updated_at": "2026-04-19T05:22:47+05:30"
+      "updated_at": "2026-04-19T05:24:12+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -31,16 +32,16 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 51/2 (5.2 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 32*(20), Anushka Sharma 4*(1)",
-      "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/18 (1.2), Chloe Tryon 2/10 (2)",
+      "live_score": "IND-W 57/2 (5.5 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 37*(22), Anushka Sharma 5*(2)",
+      "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/24 (1.5), Chloe Tryon 2/10 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Shafali Verma is aggressively targeting length early in her innings.",
         "Shafali Verma is aggressively looking to score boundaries early on."
       ],
-      "updated_at": "2026-04-19T05:22:58+05:30"
+      "updated_at": "2026-04-19T05:24:22+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:22:58+05:30"
+  "updated_at": "2026-04-19T05:24:22+05:30"
 }
