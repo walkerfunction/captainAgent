@@ -10,10 +10,10 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 254/7 (20 ov) & LSG 12/0 (1.4 ov) \u2014 LSG need 243 runs in 110 balls.",
-      "live_batting": "Mitchell Marsh 9*(5), Ayush Badoni 2*(5)",
-      "live_bowling": "Arshdeep Singh 0/2 (1), Xavier Bartlett 0/10 (0.4)",
-      "live_moment": "LSG need 243 runs in 110 balls.",
+      "live_score": "PBKS 254/7 (20 ov) & LSG 12/0 (2 ov) \u2014 LSG need 243 runs in 108 balls.",
+      "live_batting": "Mitchell Marsh 9*(7), Ayush Badoni 2*(5)",
+      "live_bowling": "Arshdeep Singh 0/2 (1), Xavier Bartlett 0/10 (1)",
+      "live_moment": "LSG need 243 runs in 108 balls.",
       "gemma_observations": [
         "Marco Jansen is likely attempting to rotate the strike against Shami.",
         "Jansen is likely attempting to rotate the strike against Shami.",
@@ -22,8 +22,8 @@
         "Marsh is attempting to rotate the strike early in his innings.",
         "Marsh is attempting to rotate the strike against Bartlett."
       ],
-      "updated_at": "2026-04-19T09:14:02+05:30"
+      "updated_at": "2026-04-19T09:15:15+05:30"
     }
   },
-  "updated_at": "2026-04-19T09:14:02+05:30"
+  "updated_at": "2026-04-19T09:15:15+05:30"
 }
