@@ -10,16 +10,16 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 196/4 (15.6 ov) \u2014 LSG chose to field.",
+      "live_score": "PBKS 196/4 (16 ov) \u2014 LSG chose to field.",
       "live_batting": "Marcus Stoinis 4*(3), Nehal Wadhera 2*(3)",
-      "live_bowling": "Mohammed Shami 1/36 (3), Mohsin Khan 1/43 (3.6), Prince Yadav 1/20 (3)",
+      "live_bowling": "Mohammed Shami 1/36 (3), Mohsin Khan 1/43 (4), Prince Yadav 1/20 (3)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Wadhera is content to play defensively, prioritizing dot balls.",
         "Stoinis is attempting to rotate the strike against Shami."
       ],
-      "updated_at": "2026-04-19T08:24:05+05:30"
+      "updated_at": "2026-04-19T08:25:16+05:30"
     }
   },
-  "updated_at": "2026-04-19T08:24:05+05:30"
+  "updated_at": "2026-04-19T08:25:16+05:30"
 }
