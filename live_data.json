@@ -16,9 +16,11 @@
       "live_moment": "KKR need 117 runs in 90 balls.",
       "gemma_observations": [
         "Raghuvanshi is defending cautiously, prioritizing rotation of strike.",
-        "Angkrish Raghuvanshi is attempting to accelerate with boundaries."
+        "Angkrish Raghuvanshi is attempting to accelerate with boundaries.",
+        "Raghuvanshi is attempting to rotate the strike against Archer.",
+        "Powell is prioritizing defense while Raghuvanshi looks for boundaries."
       ],
-      "updated_at": "2026-04-19T05:34:23+05:30"
+      "updated_at": "2026-04-19T05:35:51+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -30,15 +32,15 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 75/2 (8.3 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 49*(28), Anushka Sharma 11*(12)",
+      "live_score": "IND-W 75/2 (9 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 49*(28), Anushka Sharma 11*(15)",
       "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/25 (2), Chloe Tryon 2/10 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Anushka Sharma is attempting to rotate the strike against Sekhukhune."
       ],
-      "updated_at": "2026-04-19T05:34:34+05:30"
+      "updated_at": "2026-04-19T05:36:02+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:34:34+05:30"
+  "updated_at": "2026-04-19T05:36:02+05:30"
 }
