@@ -15,14 +15,10 @@
       "live_bowling": "Jofra Archer 1/23 (2.6), Nandre Burger 1/20 (2), Ravi Bishnoi 1/41 (4)",
       "live_moment": "KKR need 28 runs in 18 balls.",
       "gemma_observations": [
-        "Anukul Roy is primarily attempting to rotate the strike against Ravi Bishnoi.",
-        "Rinku Singh is attempting to find boundaries against Jofra Archer.",
-        "Anukul Roy is primarily rotating the strike to avoid pressure.",
-        "Anukul Roy is rotating the strike and looking for singles.",
-        "Anukul Roy is attempting to rotate the strike against Ravi Bishnoi.",
-        "Anukul Roy is attempting to rotate the strike and maintain pressure on Bishnoi."
+        "Rinku Singh is aggressively targeting Jofra Archer for boundaries.",
+        "Anukul Roy is attempting to rotate the strike against Ravi Bishnoi."
       ],
-      "updated_at": "2026-04-19T06:31:18+05:30"
+      "updated_at": "2026-04-19T06:32:42+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -39,15 +35,10 @@
       "live_bowling": "Tumi Sekhukhune 3/31 (4), Ayabonga Khaka 0/45 (4), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Reddy is attempting to accelerate with aggressive singles and quick double runs.",
-        "Reddy is attempting to rotate the strike against Tryon.",
-        "Reddy is attempting to accelerate scoring through aggressive drives.",
-        "Charani is prioritizing defense while Reddy looks for boundaries.",
-        "Charani is attempting to defend and rotate the strike against Sekhukhune.",
-        "Charani is attempting to defend and accumulate singles."
+        "Charani is defending aggressively, attempting to grind out a few more runs."
       ],
-      "updated_at": "2026-04-19T06:31:26+05:30"
+      "updated_at": "2026-04-19T06:32:56+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:31:26+05:30"
+  "updated_at": "2026-04-19T06:32:56+05:30"
 }
