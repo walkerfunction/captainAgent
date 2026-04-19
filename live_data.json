@@ -10,15 +10,15 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 111/1 (10.1 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 66*(28), Cooper Connolly 41*(32)",
-      "live_bowling": "Mohammed Shami 1/18 (2.1), Mohsin Khan 0/40 (3), Prince Yadav 0/13 (2)",
+      "live_score": "PBKS 118/1 (10.3 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 66*(28), Cooper Connolly 48*(34)",
+      "live_bowling": "Mohammed Shami 1/25 (2.3), Mohsin Khan 0/40 (3), Prince Yadav 0/13 (2)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Priyansh Arya is aggressively targeting length, scoring quickly.",
         "Cooper Connolly is rotating strike and maintaining a scoring rate."
       ],
-      "updated_at": "2026-04-19T07:50:22+05:30"
+      "updated_at": "2026-04-19T07:51:48+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -30,20 +30,20 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 124/2 (15.1 ov) \u2014 SA Women need 24 runs in 29 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 125/2 (15.1 ov) \u2014 SA Women need 23 runs in 29 balls.",
       "live_batting": "Tazmin Brits 9*(12)",
-      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 2/27 (3.1), Shree Charani 0/39 (4)",
-      "live_moment": "SA Women need 24 runs in 29 balls.",
+      "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 2/28 (3.1), Shree Charani 0/39 (4)",
+      "live_moment": "SA Women need 23 runs in 29 balls.",
       "gemma_observations": [
-        "Luus is consistently targeting Patil for boundaries.",
         "Brits is attempting to rotate the strike against Gaud.",
         "The SA innings is now primarily focused on single-figure scoring.",
         "Luus is aggressively targeting Patil for boundaries.",
         "The SA innings is now purely about maintaining a scoring rate.",
-        "Tazmin Brits is prioritizing quick singles to accelerate the scoring."
+        "Tazmin Brits is prioritizing quick singles to accelerate the scoring.",
+        "Tazmin Brits is attempting to hit boundaries to accelerate the scoring."
       ],
-      "updated_at": "2026-04-19T07:50:36+05:30"
+      "updated_at": "2026-04-19T07:52:02+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:50:36+05:30"
+  "updated_at": "2026-04-19T07:52:02+05:30"
 }
