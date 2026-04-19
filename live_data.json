@@ -10,18 +10,19 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 29/2 (3.5 ov) \u2014 KKR need 127 runs in 97 balls.",
-      "live_batting": "Angkrish Raghuvanshi 7*(10), Cameron Green 21*(10)",
-      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/18 (1.5)",
-      "live_moment": "KKR need 127 runs in 97 balls.",
+      "live_score": "RR 155/9 (20 ov) & KKR 31/2 (4 ov) \u2014 KKR need 125 runs in 96 balls.",
+      "live_batting": "Angkrish Raghuvanshi 7*(10), Cameron Green 23*(11)",
+      "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2)",
+      "live_moment": "KKR need 125 runs in 96 balls.",
       "gemma_observations": [
         "Angkrish Raghuvanshi is attempting to rotate the strike against Jofra Archer.",
         "Cameron Green is prioritizing pace and length to avoid early wickets.",
         "Cameron Green is looking to accelerate his scoring rate towards the end of the over.",
         "Cameron Green is prioritizing quick singles over attempting risky shots.",
-        "Angkrish Raghuvanshi is aggressively targeting short balls from Jofra Archer."
+        "Angkrish Raghuvanshi is aggressively targeting short balls from Jofra Archer.",
+        "Cameron Green is prioritizing aggressive shots towards the boundary."
       ],
-      "updated_at": "2026-04-19T05:27:03+05:30"
+      "updated_at": "2026-04-19T05:28:31+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -33,18 +34,19 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 64/2 (6.4 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 42*(24), Anushka Sharma 7*(5)",
+      "live_score": "IND-W 66/2 (7 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 43*(25), Anushka Sharma 8*(6)",
       "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/25 (2), Chloe Tryon 2/10 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Shafali Verma is aggressively targeting length early in her innings.",
         "Shafali Verma is aggressively looking to score boundaries early on.",
         "Anushka Sharma is playing defensively, attempting to rotate the strike.",
-        "Anushka Sharma is primarily focusing on rotating the strike."
+        "Anushka Sharma is primarily focusing on rotating the strike.",
+        "Anushka Sharma is attempting to rotate the strike against Sekhukhune."
       ],
-      "updated_at": "2026-04-19T05:27:13+05:30"
+      "updated_at": "2026-04-19T05:28:42+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:27:13+05:30"
+  "updated_at": "2026-04-19T05:28:42+05:30"
 }
