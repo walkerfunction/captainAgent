@@ -10,16 +10,17 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 0/0 (0.1 ov) \u2014 SA Women need 148 runs in 119 balls.",
-      "live_batting": "Laura Wolvaardt 0*(1)",
-      "live_bowling": "Kranti Gaud 0/0 (0.1)",
-      "live_moment": "SA Women need 148 runs in 119 balls.",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 6/0 (0.3 ov) \u2014 SA Women need 142 runs in 117 balls.",
+      "live_batting": "Laura Wolvaardt 6*(3)",
+      "live_bowling": "Kranti Gaud 0/6 (0.3)",
+      "live_moment": "SA Women need 142 runs in 117 balls.",
       "gemma_observations": [
         "Charani is defending aggressively, attempting to eke out a few more runs.",
-        "Wolvaardt is prioritizing dot balls to avoid immediate pressure."
+        "Wolvaardt is prioritizing dot balls to avoid immediate pressure.",
+        "Wolvaardt is prioritizing dot balls to build a solid foundation."
       ],
-      "updated_at": "2026-04-19T06:49:41+05:30"
+      "updated_at": "2026-04-19T06:50:51+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:49:41+05:30"
+  "updated_at": "2026-04-19T06:50:51+05:30"
 }
