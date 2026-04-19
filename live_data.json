@@ -10,10 +10,10 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 155/9 (20 ov) & KKR 87/6 (14.1 ov) \u2014 KKR need 69 runs in 35 balls.",
-      "live_batting": "Rinku Singh 13*(15), Anukul Roy 1*(2)",
+      "live_score": "RR 155/9 (20 ov) & KKR 94/6 (14.4 ov) \u2014 KKR need 62 runs in 32 balls.",
+      "live_batting": "Rinku Singh 18*(16), Anukul Roy 2*(4)",
       "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/23 (3)",
-      "live_moment": "KKR need 69 runs in 35 balls.",
+      "live_moment": "KKR need 62 runs in 32 balls.",
       "gemma_observations": [
         "Ramandeep Singh is prioritizing dot balls to conserve wickets.",
         "Rinku Singh is attempting to hit boundaries against Jofra Archer.",
@@ -22,7 +22,7 @@
         "Rinku Singh is attempting to accelerate with boundaries against Archer.",
         "Rinku Singh is attempting to accelerate scoring through aggressive shots."
       ],
-      "updated_at": "2026-04-19T06:15:20+05:30"
+      "updated_at": "2026-04-19T06:16:49+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,8 +34,8 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 126/6 (17.3 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 11*(8), Arundhati Reddy 5*(7)",
+      "live_score": "IND-W 127/6 (17.5 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 12*(9), Arundhati Reddy 5*(8)",
       "live_bowling": "Tumi Sekhukhune 1/26 (3), Ayabonga Khaka 0/30 (3), Chloe Tryon 3/22 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
@@ -44,8 +44,8 @@
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
         "Harmanpreet Kaur is attempting to accelerate the scoring against Khaka."
       ],
-      "updated_at": "2026-04-19T06:15:33+05:30"
+      "updated_at": "2026-04-19T06:17:02+05:30"
     }
   },
-  "updated_at": "2026-04-19T06:15:33+05:30"
+  "updated_at": "2026-04-19T06:17:02+05:30"
 }
