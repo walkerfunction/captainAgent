@@ -10,16 +10,16 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 139/5 (17.4 ov) \u2014 RR chose to bat.",
-      "live_batting": "Shimron Hetmyer 14*(16), Ravindra Jadeja 7*(5)",
+      "live_score": "RR 141/5 (17.3 ov) \u2014 RR chose to bat.",
+      "live_batting": "Shimron Hetmyer 14*(16), Ravindra Jadeja 7*(4)",
       "live_bowling": "Vaibhav Arora 0/29 (3), Kartik Tyagi 0/20 (3), Cameron Green 0/27 (2)",
       "live_moment": "RR chose to bat.",
       "gemma_observations": [
         "Hetmyer is attempting to accelerate with boundaries against Arora.",
         "Hetmyer is aggressively targeting length, attempting boundaries."
       ],
-      "updated_at": "2026-04-19T04:34:28+05:30"
+      "updated_at": "2026-04-19T04:35:40+05:30"
     }
   },
-  "updated_at": "2026-04-19T04:34:28+05:30"
+  "updated_at": "2026-04-19T04:35:40+05:30"
 }
