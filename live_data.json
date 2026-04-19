@@ -15,14 +15,9 @@
       "live_bowling": "Jofra Archer 1/11 (2), Nandre Burger 1/20 (2), Ravi Bishnoi 1/6 (0.3)",
       "live_moment": "KKR need 119 runs in 93 balls.",
       "gemma_observations": [
-        "Cameron Green is looking to accelerate his scoring rate towards the end of the over.",
-        "Cameron Green is prioritizing quick singles over attempting risky shots.",
-        "Angkrish Raghuvanshi is aggressively targeting short balls from Jofra Archer.",
-        "Cameron Green is prioritizing aggressive shots towards the boundary.",
-        "Angkrish Raghuvanshi is attempting to accelerate scoring through aggressive drives.",
-        "Raghuvanshi is prioritizing singles and quick singles to keep the scoreboard ticking."
+        "Raghuvanshi is defending cautiously, prioritizing rotation of strike."
       ],
-      "updated_at": "2026-04-19T05:31:27+05:30"
+      "updated_at": "2026-04-19T05:32:55+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,19 +29,15 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 72/2 (7.6 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 48*(27), Anushka Sharma 9*(10)",
+      "live_score": "IND-W 73/2 (8.1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 48*(27), Anushka Sharma 10*(11)",
       "live_bowling": "Tumi Sekhukhune 0/23 (2), Ayabonga Khaka 0/25 (2), Chloe Tryon 2/10 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Shafali Verma is aggressively targeting length early in her innings.",
-        "Shafali Verma is aggressively looking to score boundaries early on.",
-        "Anushka Sharma is playing defensively, attempting to rotate the strike.",
-        "Anushka Sharma is primarily focusing on rotating the strike.",
         "Anushka Sharma is attempting to rotate the strike against Sekhukhune."
       ],
-      "updated_at": "2026-04-19T05:31:38+05:30"
+      "updated_at": "2026-04-19T05:33:06+05:30"
     }
   },
-  "updated_at": "2026-04-19T05:31:38+05:30"
+  "updated_at": "2026-04-19T05:33:06+05:30"
 }
