@@ -10,9 +10,9 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 57/1 (5.5 ov) \u2014 LSG chose to field.",
-      "live_batting": "Priyansh Arya 34*(12), Cooper Connolly 19*(22)",
-      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/34 (2.5), Prince Yadav 0/4 (1)",
+      "live_score": "PBKS 63/1 (6 ov) \u2014 LSG chose to field.",
+      "live_batting": "Priyansh Arya 40*(13), Cooper Connolly 19*(22)",
+      "live_bowling": "Mohammed Shami 1/17 (2), Mohsin Khan 0/40 (3), Prince Yadav 0/4 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Shami is maintaining a good length and mixing his variations effectively.",
@@ -22,7 +22,7 @@
         "Connolly is aggressively targeting length, seeking boundaries consistently.",
         "Cooper Connolly is rotating strike and looking for boundaries."
       ],
-      "updated_at": "2026-04-19T07:29:01+05:30"
+      "updated_at": "2026-04-19T07:30:26+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-19": {
       "match": {
@@ -34,10 +34,10 @@
         "venue": "Kingsmead, Durban",
         "status": "live"
       },
-      "live_score": "IND-W 147/10 (20 ov) & SA-W 92/0 (10 ov) \u2014 SA Women need 56 runs in 60 balls.",
-      "live_batting": "Laura Wolvaardt 47*(28), Sune Luus 42*(33)",
+      "live_score": "IND-W 147/10 (20 ov) & SA-W 93/0 (10.1 ov) \u2014 SA Women need 55 runs in 59 balls.",
+      "live_batting": "Laura Wolvaardt 47*(28), Sune Luus 43*(34)",
       "live_bowling": "Kranti Gaud 0/20 (2), Shreyanka Patil 0/20 (2), Shree Charani 0/31 (3)",
-      "live_moment": "SA Women need 56 runs in 60 balls.",
+      "live_moment": "SA Women need 55 runs in 59 balls.",
       "gemma_observations": [
         "Luus is rotating the strike effectively to maintain pressure.",
         "Luus is aggressively targeting mid-wicket for boundaries.",
@@ -46,8 +46,8 @@
         "The SA innings is firmly in the powerplay phase now.",
         "The SA innings is firmly in the powerplay phase."
       ],
-      "updated_at": "2026-04-19T07:29:15+05:30"
+      "updated_at": "2026-04-19T07:30:40+05:30"
     }
   },
-  "updated_at": "2026-04-19T07:29:15+05:30"
+  "updated_at": "2026-04-19T07:30:40+05:30"
 }
