@@ -10,9 +10,9 @@
         "venue": "Eden Gardens, Kolkata",
         "status": "live"
       },
-      "live_score": "RR 146/6 (18.2 ov) \u2014 RR chose to bat.",
-      "live_batting": "Shimron Hetmyer 15*(17), Jofra Archer 1*(1)",
-      "live_bowling": "Vaibhav Arora 0/29 (3), Kartik Tyagi 1/22 (3.2), Cameron Green 0/27 (2)",
+      "live_score": "RR 146/7 (18.3 ov) \u2014 RR chose to bat.",
+      "live_batting": "Jofra Archer 1*(1)",
+      "live_bowling": "Vaibhav Arora 0/29 (3), Kartik Tyagi 2/22 (3.3), Cameron Green 0/27 (2)",
       "live_moment": "RR chose to bat.",
       "gemma_observations": [
         "Hetmyer is attempting to accelerate with boundaries against Arora.",
@@ -21,8 +21,8 @@
         "Hetmyer is aggressively targeting length, seeking boundaries.",
         "Hetmyer is attempting to accelerate the scoring rate aggressively."
       ],
-      "updated_at": "2026-04-19T04:41:39+05:30"
+      "updated_at": "2026-04-19T04:42:51+05:30"
     }
   },
-  "updated_at": "2026-04-19T04:41:39+05:30"
+  "updated_at": "2026-04-19T04:42:51+05:30"
 }
