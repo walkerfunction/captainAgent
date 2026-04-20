@@ -10,17 +10,19 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 199/5 (20 ov) & GT 98/8 (14.5 ov) \u2014 GT need 102 runs in 31 balls.",
-      "live_batting": "Kagiso Rabada 11*(11), Ashok Sharma 1*(3)",
+      "live_score": "MI 199/5 (20 ov) & GT 99/8 (15 ov) \u2014 GT need 101 runs in 30 balls.",
+      "live_batting": "Kagiso Rabada 12*(12), Ashok Sharma 1*(3)",
       "live_bowling": "Jasprit Bumrah 1/15 (3), Hardik Pandya 1/18 (1), Krish Bhagat 0/10 (2)",
-      "live_moment": "GT need 102 runs in 31 balls.",
+      "live_moment": "GT need 101 runs in 30 balls.",
       "gemma_observations": [
         "Ashok Sharma is attempting to hit boundaries against Jasprit Bumrah.",
         "Ashok Sharma is attempting to hit boundaries against Bumrah.",
-        "Rabada is prioritizing dot balls to conserve wickets."
+        "Rabada is prioritizing dot balls to conserve wickets.",
+        "Ashok Sharma is attempting risky shots against Jasprit Bumrah.",
+        "Rabada is prioritizing quick singles over attempting boundaries."
       ],
-      "updated_at": "2026-04-20T10:27:03+05:30"
+      "updated_at": "2026-04-20T10:28:17+05:30"
     }
   },
-  "updated_at": "2026-04-20T10:27:03+05:30"
+  "updated_at": "2026-04-20T10:28:17+05:30"
 }
