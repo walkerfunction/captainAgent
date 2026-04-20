@@ -10,18 +10,19 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 2/0 (0.6 ov) \u2014 GT chose to field.",
-      "live_batting": "Quinton de Kock 1*(4), Danish Malewar 1*(2)",
-      "live_bowling": "Mohammed Siraj 0/2 (0.6)",
+      "live_score": "MI 3/0 (1.1 ov) \u2014 GT chose to field.",
+      "live_batting": "Quinton de Kock 1*(4), Danish Malewar 2*(3)",
+      "live_bowling": "Mohammed Siraj 0/2 (1), Kagiso Rabada 0/1 (0.1)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "De Kock is prioritizing rotation of strike against Siraj.",
         "De Kock is prioritizing quick singles to build momentum early.",
         "De Kock is prioritizing dot balls early in his innings.",
-        "Siraj is bowling a slightly short length, inviting edges."
+        "Siraj is bowling a slightly short length, inviting edges.",
+        "De Kock is prioritizing dot balls early against Siraj."
       ],
-      "updated_at": "2026-04-20T07:04:35+05:30"
+      "updated_at": "2026-04-20T07:05:46+05:30"
     }
   },
-  "updated_at": "2026-04-20T07:04:35+05:30"
+  "updated_at": "2026-04-20T07:05:46+05:30"
 }
