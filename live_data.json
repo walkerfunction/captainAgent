@@ -10,8 +10,8 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 92/3 (11.3 ov) \u2014 GT chose to field.",
-      "live_batting": "Naman Dhir 43*(30), Tilak Varma 14*(14)",
+      "live_score": "MI 93/3 (11.5 ov) \u2014 GT chose to field.",
+      "live_batting": "Naman Dhir 43*(30), Tilak Varma 15*(16)",
       "live_bowling": "Mohammed Siraj 0/15 (3), Kagiso Rabada 3/29 (3), Ashok Sharma 0/8 (1)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
@@ -19,10 +19,11 @@
         "Tilak Varma appears content to rotate the strike against Siraj.",
         "Naman Dhir is aggressively attempting to accelerate the scoring rate.",
         "Mohammed Siraj is maintaining a disciplined line and length.",
-        "Naman Dhir is aggressively targeting short balls from Rabada."
+        "Naman Dhir is aggressively targeting short balls from Rabada.",
+        "Naman Dhir is aggressively targeting length, scoring quickly."
       ],
-      "updated_at": "2026-04-20T07:54:38+05:30"
+      "updated_at": "2026-04-20T07:55:50+05:30"
     }
   },
-  "updated_at": "2026-04-20T07:54:38+05:30"
+  "updated_at": "2026-04-20T07:55:50+05:30"
 }
