@@ -10,10 +10,10 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 199/5 (20 ov) & GT 31/2 (3.4 ov) \u2014 GT need 169 runs in 98 balls.",
-      "live_batting": "Shubman Gill 10*(9), Washington Sundar 13*(6)",
-      "live_bowling": "Jasprit Bumrah 1/11 (2), Hardik Pandya 1/18 (1), Krish Bhagat 0/2 (0.4)",
-      "live_moment": "GT need 169 runs in 98 balls.",
+      "live_score": "MI 199/5 (20 ov) & GT 35/2 (4 ov) \u2014 GT need 165 runs in 96 balls.",
+      "live_batting": "Shubman Gill 14*(11), Washington Sundar 13*(6)",
+      "live_bowling": "Jasprit Bumrah 1/11 (2), Hardik Pandya 1/18 (1), Krish Bhagat 0/6 (1)",
+      "live_moment": "GT need 165 runs in 96 balls.",
       "gemma_observations": [
         "Washington Sundar is prioritizing dot balls to frustrate the MI bowlers.",
         "Shubman Gill is prioritizing dot balls to frustrate Jasprit Bumrah.",
@@ -22,8 +22,8 @@
         "Washington Sundar is prioritizing dot balls to conserve his wicket.",
         "Washington Sundar is prioritizing dot balls to conserve wickets for GT."
       ],
-      "updated_at": "2026-04-20T09:25:11+05:30"
+      "updated_at": "2026-04-20T09:26:26+05:30"
     }
   },
-  "updated_at": "2026-04-20T09:25:11+05:30"
+  "updated_at": "2026-04-20T09:26:26+05:30"
 }
