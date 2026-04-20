@@ -1,29 +1,24 @@
 {
   "matches": {
-    "Lucknow Super Giants_vs_Punjab Kings_2026-04-19": {
+    "Gujarat Titans_vs_Mumbai Indians_2026-04-20": {
       "match": {
-        "name": "29th Match",
+        "name": "30th Match",
         "teams": [
-          "Punjab Kings",
-          "Lucknow Super Giants"
+          "Mumbai Indians",
+          "Gujarat Titans"
         ],
-        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "PBKS 254/7 (20 ov) & LSG 200/5 (20 ov) \u2014 Match Over",
-      "live_batting": "Mukul Choudhary 21*(17), Himmat Singh 1*(1)",
-      "live_bowling": "Arshdeep Singh 1/41 (4), Xavier Bartlett 0/54 (4), Marco Jansen 2/37 (4)",
-      "live_moment": "Match Over",
+      "live_score": "MI 1/0 (0.2 ov) \u2014 GT chose to field.",
+      "live_batting": "Quinton de Kock 1*(2)",
+      "live_bowling": "Mohammed Siraj 0/1 (0.2)",
+      "live_moment": "GT chose to field.",
       "gemma_observations": [
-        "Markram is aggressively targeting Arshdeep Singh for boundaries.",
-        "Choudhary is attempting to clear the long-on area with frequency.",
-        "Choudhary is attempting to clear the long off for crucial singles.",
-        "Choudhary is attempting to clear the boundary with aggressive shots.",
-        "Arshdeep Singh is bowling defensively, conceding crucial runs.",
-        "Mukul Choudhary attempted to accelerate the scoring towards the end of the innings."
+        "De Kock is prioritizing rotation of strike against Siraj."
       ],
-      "updated_at": "2026-04-19T10:52:22+05:30"
+      "updated_at": "2026-04-20T07:02:17+05:30"
     }
   },
-  "updated_at": "2026-04-19T10:52:22+05:30"
+  "updated_at": "2026-04-20T07:02:17+05:30"
 }
