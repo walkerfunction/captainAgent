@@ -10,16 +10,17 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 25/2 (3.4 ov) \u2014 GT chose to field.",
-      "live_batting": "Naman Dhir 10*(6), Suryakumar Yadav 0*(1)",
-      "live_bowling": "Mohammed Siraj 0/12 (2), Kagiso Rabada 2/13 (1.4)",
+      "live_score": "MI 26/2 (3.5 ov) \u2014 GT chose to field.",
+      "live_batting": "Naman Dhir 10*(6), Suryakumar Yadav 0*(2)",
+      "live_bowling": "Mohammed Siraj 0/12 (2), Kagiso Rabada 2/14 (1.5)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "Naman Dhir is attempting to accelerate his scoring rate.",
-        "Suryakumar Yadav is attempting to rotate his bat early against Siraj."
+        "Suryakumar Yadav is attempting to rotate his bat early against Siraj.",
+        "Rabada is aggressively targeting the dangerous Dhir with short-pitched deliveries."
       ],
-      "updated_at": "2026-04-20T07:18:42+05:30"
+      "updated_at": "2026-04-20T07:19:54+05:30"
     }
   },
-  "updated_at": "2026-04-20T07:18:42+05:30"
+  "updated_at": "2026-04-20T07:19:54+05:30"
 }
