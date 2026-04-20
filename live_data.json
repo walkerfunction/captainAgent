@@ -10,16 +10,16 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 199/5 (20 ov) & GT 85/6 (12 ov) \u2014 GT need 115 runs in 48 balls.",
-      "live_batting": "M Shahrukh Khan 17*(12), Rashid Khan 4*(4)",
+      "live_score": "MI 199/5 (20 ov) & GT 85/6 (12.1 ov) \u2014 GT need 115 runs in 47 balls.",
+      "live_batting": "M Shahrukh Khan 17*(12), Rashid Khan 4*(5)",
       "live_bowling": "Jasprit Bumrah 1/11 (2), Hardik Pandya 1/18 (1), Krish Bhagat 0/10 (2)",
-      "live_moment": "GT need 115 runs in 48 balls.",
+      "live_moment": "GT need 115 runs in 47 balls.",
       "gemma_observations": [
         "Rahul Tewatia is prioritizing dot balls to conserve wickets for GT.",
         "Rahul Tewatia is prioritizing dot balls to minimize the required run rate."
       ],
-      "updated_at": "2026-04-20T10:09:53+05:30"
+      "updated_at": "2026-04-20T10:11:07+05:30"
     }
   },
-  "updated_at": "2026-04-20T10:09:53+05:30"
+  "updated_at": "2026-04-20T10:11:07+05:30"
 }
