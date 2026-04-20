@@ -10,18 +10,19 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 113/4 (14.2 ov) \u2014 GT chose to field.",
-      "live_batting": "Tilak Varma 29*(24), Hardik Pandya 3*(5)",
+      "live_score": "MI 117/4 (14.3 ov) \u2014 GT chose to field.",
+      "live_batting": "Tilak Varma 33*(25), Hardik Pandya 3*(5)",
       "live_bowling": "Mohammed Siraj 0/15 (3), Kagiso Rabada 3/29 (3), Ashok Sharma 0/12 (2)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "Hardik Pandya is playing defensively, prioritizing rotation of the strike.",
         "Varma is attempting to accelerate scoring through aggressive drives.",
         "Hardik Pandya is prioritizing rotation of strike over aggressive hitting.",
-        "Varma is attempting to accelerate scoring against Siraj."
+        "Varma is attempting to accelerate scoring against Siraj.",
+        "Hardik Pandya is content rotating the strike against Siraj."
       ],
-      "updated_at": "2026-04-20T08:11:11+05:30"
+      "updated_at": "2026-04-20T08:12:22+05:30"
     }
   },
-  "updated_at": "2026-04-20T08:11:11+05:30"
+  "updated_at": "2026-04-20T08:12:22+05:30"
 }
