@@ -10,20 +10,15 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "MI 199/5 (20 ov) & GT 76/5 (10.4 ov) \u2014 GT need 124 runs in 56 balls.",
+      "live_score": "MI 199/5 (20 ov) & GT 77/5 (10.4 ov) \u2014 GT need 123 runs in 56 balls.",
       "live_batting": "Rahul Tewatia 8*(10), M Shahrukh Khan 14*(9)",
       "live_bowling": "Jasprit Bumrah 1/11 (2), Hardik Pandya 1/18 (1), Krish Bhagat 0/10 (2)",
-      "live_moment": "GT need 124 runs in 56 balls.",
+      "live_moment": "GT need 123 runs in 56 balls.",
       "gemma_observations": [
-        "Rahul Tewatia is attempting to rotate the strike against Jasprit Bumrah.",
-        "Rahul Tewatia is attempting to rotate the strike against Pandya.",
-        "Rahul Tewatia is rotating the strike, prioritizing dot balls against Pandya.",
-        "Rahul Tewatia is prioritizing dot balls to conserve wickets for GT.",
-        "Rahul Tewatia is rotating the strike to keep the scoreboard ticking.",
-        "Rahul Tewatia is rotating the strike to keep the scoring pressure off."
+        "Rahul Tewatia is prioritizing dot balls to conserve wickets for GT."
       ],
-      "updated_at": "2026-04-20T10:01:08+05:30"
+      "updated_at": "2026-04-20T10:02:23+05:30"
     }
   },
-  "updated_at": "2026-04-20T10:01:08+05:30"
+  "updated_at": "2026-04-20T10:02:23+05:30"
 }
