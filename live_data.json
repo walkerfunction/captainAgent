@@ -10,20 +10,15 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 207/6 (20 ov) & MI 94/7 (14.6 ov) \u2014 MI need 114 runs in 30 balls.",
-      "live_batting": "Shardul Thakur 3*(6), Krish Bhagat 4*(8)",
+      "live_score": "CSK 207/6 (20 ov) & MI 94/7 (15.1 ov) \u2014 MI need 114 runs in 29 balls.",
+      "live_batting": "Shardul Thakur 3*(7), Krish Bhagat 4*(8)",
       "live_bowling": "Akeal Hosein 4/17 (4), Mukesh Choudhary 1/31 (4), Anshul Kamboj 0/8 (2)",
-      "live_moment": "MI need 114 runs in 30 balls.",
+      "live_moment": "MI need 114 runs in 29 balls.",
       "gemma_observations": [
-        "Thakur and Bhagat are attempting to rotate the strike against Hosein.",
-        "Krish Bhagat is attempting to accelerate scoring through aggressive shots.",
-        "Thakur and Bhagat are attempting to accelerate the scoring rate.",
-        "Shardul Thakur is attempting to rotate the strike against Mukesh Choudhary.",
-        "Thakur is attempting to accelerate with boundaries against Hosein.",
-        "Bhagat is prioritizing singles and twos to keep the scoreboard ticking."
+        "Krish Bhagat is attempting to accelerate scoring through aggressive shots."
       ],
-      "updated_at": "2026-04-23T10:31:53+05:30"
+      "updated_at": "2026-04-23T10:33:07+05:30"
     }
   },
-  "updated_at": "2026-04-23T10:31:53+05:30"
+  "updated_at": "2026-04-23T10:33:07+05:30"
 }
