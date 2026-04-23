@@ -10,15 +10,16 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 1/0 (0.3 ov) \u2014 MI chose to field.",
-      "live_batting": "Sanju Samson 1*(2), Ruturaj Gaikwad 0*(1)",
-      "live_bowling": "Jasprit Bumrah 0/1 (0.3)",
+      "live_score": "CSK 2/0 (0.4 ov) \u2014 MI chose to field.",
+      "live_batting": "Sanju Samson 1*(2), Ruturaj Gaikwad 0*(2)",
+      "live_bowling": "Jasprit Bumrah 0/1 (0.4)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [
-        "Bumrah is maintaining a tight line and length to pressure Gaikwad."
+        "Bumrah is maintaining a tight line and length to pressure Gaikwad.",
+        "Samson is attempting to rotate the strike early in his innings."
       ],
-      "updated_at": "2026-04-23T07:03:00+05:30"
+      "updated_at": "2026-04-23T07:04:07+05:30"
     }
   },
-  "updated_at": "2026-04-23T07:03:00+05:30"
+  "updated_at": "2026-04-23T07:04:07+05:30"
 }
