@@ -10,17 +10,18 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 207/6 (20 ov) & MI 104/9 (18.5 ov) \u2014 MI need 104 runs in 7 balls.",
-      "live_batting": "Ashwani Kumar 1*(6), Jasprit Bumrah 2*(4)",
+      "live_score": "CSK 207/6 (20 ov) & MI 104/10 (19 ov) \u2014 Match Over",
+      "live_batting": "Ashwani Kumar 1*(6)",
       "live_bowling": "Akeal Hosein 4/17 (4), Mukesh Choudhary 1/31 (4), Anshul Kamboj 1/10 (3)",
-      "live_moment": "MI need 104 runs in 7 balls.",
+      "live_moment": "Match Over",
       "gemma_observations": [
         "Ashwani Kumar is attempting to hit boundaries against Mukesh Choudhary.",
         "Jasprit Bumrah is struggling to find length and change his line.",
-        "Jasprit Bumrah is struggling to find length and control in this phase."
+        "Jasprit Bumrah is struggling to find length and control in this phase.",
+        "Ashwani Kumar defended well, rotating the strike effectively at the end."
       ],
-      "updated_at": "2026-04-23T10:51:27+05:30"
+      "updated_at": "2026-04-23T10:52:35+05:30"
     }
   },
-  "updated_at": "2026-04-23T10:51:27+05:30"
+  "updated_at": "2026-04-23T10:52:35+05:30"
 }
