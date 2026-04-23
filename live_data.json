@@ -10,18 +10,19 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 207/6 (20 ov) & MI 11/3 (3 ov) \u2014 MI need 197 runs in 102 balls.",
-      "live_batting": "Suryakumar Yadav 4*(1), Tilak Varma 0*(3)",
-      "live_bowling": "Akeal Hosein 2/7 (2), Mukesh Choudhary 1/4 (1)",
-      "live_moment": "MI need 197 runs in 102 balls.",
+      "live_score": "CSK 207/6 (20 ov) & MI 12/3 (3.1 ov) \u2014 MI need 196 runs in 101 balls.",
+      "live_batting": "Suryakumar Yadav 5*(2), Tilak Varma 0*(3)",
+      "live_bowling": "Akeal Hosein 2/7 (2), Mukesh Choudhary 1/5 (1.1)",
+      "live_moment": "MI need 196 runs in 101 balls.",
       "gemma_observations": [
         "Suryakumar Yadav is attempting to rotate the strike against Akeal Hosein.",
         "Suryakumar Yadav is prioritizing dot balls to avoid immediate wickets.",
         "Suryakumar Yadav is attempting to rotate the strike against Mukesh Choudhary.",
-        "Tilak Varma is prioritizing defense while Akeal Hosein maintains a tight line."
+        "Tilak Varma is prioritizing defense while Akeal Hosein maintains a tight line.",
+        "Tilak Varma is struggling to score boundaries and is defensively set."
       ],
-      "updated_at": "2026-04-23T09:21:21+05:30"
+      "updated_at": "2026-04-23T09:22:33+05:30"
     }
   },
-  "updated_at": "2026-04-23T09:21:21+05:30"
+  "updated_at": "2026-04-23T09:22:33+05:30"
 }
