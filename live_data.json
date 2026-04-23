@@ -10,13 +10,15 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 175/5 (17.2 ov) \u2014 MI chose to field.",
-      "live_batting": "Sanju Samson 78*(43), Jamie Overton 9*(3)",
+      "live_score": "CSK 175/5 (17.3 ov) \u2014 MI chose to field.",
+      "live_batting": "Sanju Samson 78*(43), Jamie Overton 9*(4)",
       "live_bowling": "Jasprit Bumrah 1/21 (3), Hardik Pandya 0/38 (2), AM Ghazanfar 2/25 (4)",
       "live_moment": "MI chose to field.",
-      "gemma_observations": [],
-      "updated_at": "2026-04-23T08:32:53+05:30"
+      "gemma_observations": [
+        "Overton is attempting to accelerate the scoring rate towards the end of the innings."
+      ],
+      "updated_at": "2026-04-23T08:34:04+05:30"
     }
   },
-  "updated_at": "2026-04-23T08:32:53+05:30"
+  "updated_at": "2026-04-23T08:34:04+05:30"
 }
