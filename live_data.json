@@ -10,20 +10,15 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 91/3 (8.1 ov) \u2014 MI chose to field.",
-      "live_batting": "Sanju Samson 45*(21)",
-      "live_bowling": "Jasprit Bumrah 0/19 (2), Hardik Pandya 0/38 (2), AM Ghazanfar 2/16 (2.1)",
+      "live_score": "CSK 93/3 (8.3 ov) \u2014 MI chose to field.",
+      "live_batting": "Sanju Samson 46*(22), Dewald Brevis 1*(1)",
+      "live_bowling": "Jasprit Bumrah 0/19 (2), Hardik Pandya 0/38 (2), AM Ghazanfar 2/18 (2.3)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [
-        "Samson is aggressively rotating the strike against Hardik Pandya.",
-        "Samson is aggressively attempting to accelerate scoring through drives.",
-        "Samson is aggressively looking to expand his strike rate against Bumrah.",
-        "Samson is aggressively looking to rotate the strike against Hardik Pandya.",
-        "Samson is aggressively rotating the strike against Bumrah.",
-        "Samson is aggressively looking to rotate strike against Hardik Pandya."
+        "Brevis is content rotating the strike, attempting to maintain a scoring tempo."
       ],
-      "updated_at": "2026-04-23T07:47:13+05:30"
+      "updated_at": "2026-04-23T07:48:24+05:30"
     }
   },
-  "updated_at": "2026-04-23T07:47:13+05:30"
+  "updated_at": "2026-04-23T07:48:24+05:30"
 }
