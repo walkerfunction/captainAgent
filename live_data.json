@@ -10,16 +10,17 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 182/6 (18.1 ov) \u2014 MI chose to field.",
-      "live_batting": "Sanju Samson 79*(44)",
-      "live_bowling": "Jasprit Bumrah 1/22 (3.1), Hardik Pandya 0/38 (2), AM Ghazanfar 2/25 (4)",
+      "live_score": "CSK 182/6 (18.2 ov) \u2014 MI chose to field.",
+      "live_batting": "Sanju Samson 79*(44), Akeal Hosein 0*(1)",
+      "live_bowling": "Jasprit Bumrah 1/22 (3.2), Hardik Pandya 0/38 (2), AM Ghazanfar 2/25 (4)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [
         "Overton is attempting to accelerate the scoring rate towards the end of the innings.",
-        "Samson is aggressively targeting Hardik Pandya for boundaries."
+        "Samson is aggressively targeting Hardik Pandya for boundaries.",
+        "Samson is aggressively targeting Bumrah for boundaries in the late over."
       ],
-      "updated_at": "2026-04-23T08:38:45+05:30"
+      "updated_at": "2026-04-23T08:39:56+05:30"
     }
   },
-  "updated_at": "2026-04-23T08:38:45+05:30"
+  "updated_at": "2026-04-23T08:39:56+05:30"
 }
