@@ -10,8 +10,8 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "CSK 96/3 (9 ov) \u2014 MI chose to field.",
-      "live_batting": "Sanju Samson 47*(23), Dewald Brevis 3*(3)",
+      "live_score": "CSK 103/3 (9.1 ov) \u2014 MI chose to field.",
+      "live_batting": "Sanju Samson 47*(23), Dewald Brevis 9*(4)",
       "live_bowling": "Jasprit Bumrah 0/19 (2), Hardik Pandya 0/38 (2), AM Ghazanfar 2/21 (3)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [
@@ -20,8 +20,8 @@
         "Brevis is content to play defensively, attempting to block a few balls.",
         "Bumrah is maintaining a tight line and length to restrict Brevis."
       ],
-      "updated_at": "2026-04-23T07:50:45+05:30"
+      "updated_at": "2026-04-23T07:51:56+05:30"
     }
   },
-  "updated_at": "2026-04-23T07:50:45+05:30"
+  "updated_at": "2026-04-23T07:51:56+05:30"
 }
