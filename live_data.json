@@ -10,17 +10,19 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 141/1 (14 ov) \u2014 RCB chose to field.",
-      "live_batting": "Sai Sudharsan 98*(55), Jos Buttler 5*(5)",
+      "live_score": "GT 142/1 (14.1 ov) \u2014 RCB chose to field.",
+      "live_batting": "Sai Sudharsan 99*(56), Jos Buttler 5*(5)",
       "live_bowling": "Bhuvneshwar Kumar 0/26 (3), Josh Hazlewood 0/17 (2), Rasikh Salam 0/28 (3)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [
         "Sudharsan is aggressively targeting length, seeking boundaries consistently.",
         "Sudharsan is aggressively rotating the strike against Hazlewood.",
-        "Buttler is prioritizing dot balls, limiting scoring opportunities."
+        "Buttler is prioritizing dot balls, limiting scoring opportunities.",
+        "Sudharsan is aggressively targeting length, attempting boundaries frequently.",
+        "Buttler is playing a cautious defensive game, prioritizing stability."
       ],
-      "updated_at": "2026-04-24T08:07:03+05:30"
+      "updated_at": "2026-04-24T08:08:13+05:30"
     }
   },
-  "updated_at": "2026-04-24T08:07:03+05:30"
+  "updated_at": "2026-04-24T08:08:13+05:30"
 }
