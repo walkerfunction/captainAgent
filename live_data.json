@@ -10,20 +10,20 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 205/3 (20 ov) & RCB 58/1 (5.6 ov) \u2014 RCB need 148 runs in 84 balls.",
+      "live_score": "GT 205/3 (20 ov) & RCB 58/1 (6 ov) \u2014 RCB need 148 runs in 84 balls.",
       "live_batting": "Virat Kohli 22*(15), Devdutt Padikkal 20*(11)",
-      "live_bowling": "Mohammed Siraj 1/25 (3), Kagiso Rabada 0/23 (2), Jason Holder 0/8 (0.6)",
+      "live_bowling": "Mohammed Siraj 1/25 (3), Kagiso Rabada 0/23 (2), Jason Holder 0/8 (1)",
       "live_moment": "RCB need 148 runs in 84 balls.",
       "gemma_observations": [
-        "Virat Kohli is attempting to rotate the strike against Siraj.",
         "Virat Kohli is prioritizing dot balls to frustrate the GT bowlers.",
         "Virat Kohli is attempting to rotate strike against Siraj.",
         "Virat Kohli is attempting to accelerate his scoring rate against Siraj.",
         "Virat Kohli is aggressively targeting short balls from Siraj.",
-        "Devdutt Padikkal is attempting to rotate strike against Rabada."
+        "Devdutt Padikkal is attempting to rotate strike against Rabada.",
+        "Virat Kohli is consistently targeting short balls from Siraj."
       ],
-      "updated_at": "2026-04-24T09:28:54+05:30"
+      "updated_at": "2026-04-24T09:30:07+05:30"
     }
   },
-  "updated_at": "2026-04-24T09:28:54+05:30"
+  "updated_at": "2026-04-24T09:30:07+05:30"
 }
