@@ -10,16 +10,18 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 35/0 (4.2 ov) \u2014 RCB chose to field.",
-      "live_batting": "Sai Sudharsan 31*(23), Shubman Gill 2*(3)",
-      "live_bowling": "Bhuvneshwar Kumar 0/16 (2), Josh Hazlewood 0/7 (1.2), Rasikh Salam 0/11 (1)",
+      "live_score": "GT 41/0 (4.4 ov) \u2014 RCB chose to field.",
+      "live_batting": "Sai Sudharsan 37*(25), Shubman Gill 2*(3)",
+      "live_bowling": "Bhuvneshwar Kumar 0/16 (2), Josh Hazlewood 0/13 (1.4), Rasikh Salam 0/11 (1)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [
         "Sudharsan is aggressively rotating the strike against Hazlewood.",
-        "Shubman Gill is prioritizing dot balls to build an early partnership."
+        "Shubman Gill is prioritizing dot balls to build an early partnership.",
+        "Shubman Gill is prioritizing rotation of strike against Bhuvneshwar Kumar.",
+        "Sai Sudharsan is aggressively looking to score boundaries with Hazlewood."
       ],
-      "updated_at": "2026-04-24T07:19:14+05:30"
+      "updated_at": "2026-04-24T07:20:25+05:30"
     }
   },
-  "updated_at": "2026-04-24T07:19:14+05:30"
+  "updated_at": "2026-04-24T07:20:25+05:30"
 }
