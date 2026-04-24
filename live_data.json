@@ -10,18 +10,13 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 205/3 (20 ov) \u2014 RCB chose to field.",
-      "live_batting": "Washington Sundar 19*(12), Jason Holder 23*(10)",
-      "live_bowling": "Bhuvneshwar Kumar 1/31 (4), Josh Hazlewood 1/40 (4), Rasikh Salam 0/28 (3)",
-      "live_moment": "RCB chose to field.",
-      "gemma_observations": [
-        "Washington Sundar is attempting to accelerate the scoring rate.",
-        "Jason Holder is rotating the strike and hitting boundaries effectively.",
-        "Jason Holder is rotating the strike effectively against Bhuvneshwar Kumar.",
-        "Jason Holder is rotating the strike aggressively against Bhuvneshwar Kumar."
-      ],
-      "updated_at": "2026-04-24T09:01:32+05:30"
+      "live_score": "GT 205/3 (20 ov) & RCB 1/0 (0.2 ov) \u2014 RCB need 205 runs in 118 balls.",
+      "live_batting": "Jacob Bethell 1*(2)",
+      "live_bowling": "Mohammed Siraj 0/1 (0.2)",
+      "live_moment": "RCB need 205 runs in 118 balls.",
+      "gemma_observations": [],
+      "updated_at": "2026-04-24T09:02:41+05:30"
     }
   },
-  "updated_at": "2026-04-24T09:01:32+05:30"
+  "updated_at": "2026-04-24T09:02:41+05:30"
 }
