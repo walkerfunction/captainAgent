@@ -10,20 +10,20 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 205/3 (20 ov) & RCB 132/1 (11.2 ov) \u2014 RCB need 74 runs in 52 balls.",
-      "live_batting": "Virat Kohli 62*(35), Devdutt Padikkal 53*(23)",
-      "live_bowling": "Mohammed Siraj 1/25 (3), Kagiso Rabada 0/36 (3), Jason Holder 0/9 (1.2)",
-      "live_moment": "RCB need 74 runs in 52 balls.",
+      "live_score": "GT 205/3 (20 ov) & RCB 134/1 (11.5 ov) \u2014 RCB need 72 runs in 49 balls.",
+      "live_batting": "Virat Kohli 63*(37), Devdutt Padikkal 54*(24)",
+      "live_bowling": "Mohammed Siraj 1/25 (3), Kagiso Rabada 0/36 (3), Jason Holder 0/11 (1.5)",
+      "live_moment": "RCB need 72 runs in 49 balls.",
       "gemma_observations": [
-        "Virat Kohli is aggressively targeting short balls from Siraj.",
         "Devdutt Padikkal is rotating strike and maintaining a high scoring rate.",
         "Devdutt Padikkal is rotating the strike and building his innings.",
         "Devdutt Padikkal is rotating the strike effectively against Rabada.",
         "Virat Kohli is consistently targeting short balls from Siraj.",
-        "Devdutt Padikkal is attempting to accelerate his scoring rate."
+        "Devdutt Padikkal is attempting to accelerate his scoring rate.",
+        "Devdutt Padikkal is aggressively looking to score boundaries."
       ],
-      "updated_at": "2026-04-24T09:54:20+05:30"
+      "updated_at": "2026-04-24T09:55:34+05:30"
     }
   },
-  "updated_at": "2026-04-24T09:54:20+05:30"
+  "updated_at": "2026-04-24T09:55:34+05:30"
 }
