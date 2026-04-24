@@ -10,10 +10,10 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 205/3 (20 ov) & RCB 165/3 (14.3 ov) \u2014 RCB need 41 runs in 33 balls.",
-      "live_batting": "Rajat Patidar 7*(3), Jitesh Sharma 4*(3)",
+      "live_score": "GT 205/3 (20 ov) & RCB 171/3 (14.5 ov) \u2014 RCB need 35 runs in 31 balls.",
+      "live_batting": "Rajat Patidar 7*(3), Jitesh Sharma 10*(5)",
       "live_bowling": "Mohammed Siraj 1/25 (3), Kagiso Rabada 0/36 (3), Jason Holder 1/28 (3)",
-      "live_moment": "RCB need 41 runs in 33 balls.",
+      "live_moment": "RCB need 35 runs in 31 balls.",
       "gemma_observations": [
         "Virat Kohli is consistently targeting short balls from Siraj.",
         "Rajat Patidar is attempting to rotate the strike against Holder.",
@@ -22,8 +22,8 @@
         "Mohammed Siraj is bowling a slightly fuller length, inviting edges.",
         "Rajat Patidar is attempting to accelerate his scoring rate."
       ],
-      "updated_at": "2026-04-24T10:08:56+05:30"
+      "updated_at": "2026-04-24T10:10:11+05:30"
     }
   },
-  "updated_at": "2026-04-24T10:08:56+05:30"
+  "updated_at": "2026-04-24T10:10:11+05:30"
 }
