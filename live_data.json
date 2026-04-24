@@ -10,20 +10,16 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 205/3 (20 ov) & RCB 173/5 (15.3 ov) \u2014 RCB need 33 runs in 27 balls.",
-      "live_batting": "Tim David 1*(1)",
+      "live_score": "GT 205/3 (20 ov) & RCB 174/5 (15.5 ov) \u2014 RCB need 32 runs in 25 balls.",
+      "live_batting": "Tim David 1*(2), Krunal Pandya 1*(1)",
       "live_bowling": "Mohammed Siraj 1/25 (3), Kagiso Rabada 0/36 (3), Jason Holder 1/28 (3)",
-      "live_moment": "RCB need 33 runs in 27 balls.",
+      "live_moment": "RCB need 32 runs in 25 balls.",
       "gemma_observations": [
-        "Mohammed Siraj is bowling a slightly fuller length, inviting edges.",
-        "Rajat Patidar is attempting to accelerate his scoring rate.",
-        "Mohammed Siraj is maintaining a tight line and length.",
-        "Tim David is attempting to accelerate the scoring rate aggressively.",
-        "Tim David is attempting to accelerate the scoring rate.",
-        "Mohammed Siraj is bowling a slightly shorter length to induce edges."
+        "Tim David is attempting to accelerate scoring through aggressive drives.",
+        "Krunal Pandya is rotating the strike effectively against Siraj."
       ],
-      "updated_at": "2026-04-24T10:16:08+05:30"
+      "updated_at": "2026-04-24T10:17:22+05:30"
     }
   },
-  "updated_at": "2026-04-24T10:16:08+05:30"
+  "updated_at": "2026-04-24T10:17:22+05:30"
 }
