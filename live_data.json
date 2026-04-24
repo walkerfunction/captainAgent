@@ -10,15 +10,16 @@
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "GT 170/2 (16 ov) \u2014 RCB chose to field.",
-      "live_batting": "Jos Buttler 22*(11), Washington Sundar 10*(3)",
+      "live_score": "GT 172/2 (16.2 ov) \u2014 RCB chose to field.",
+      "live_batting": "Jos Buttler 23*(12), Washington Sundar 11*(4)",
       "live_bowling": "Bhuvneshwar Kumar 0/26 (3), Josh Hazlewood 1/32 (3), Rasikh Salam 0/28 (3)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [
-        "Buttler is consistently looking to drive through the off-side channel."
+        "Buttler is consistently looking to drive through the off-side channel.",
+        "Sundar appears content to rotate the strike and avoid risky shots."
       ],
-      "updated_at": "2026-04-24T08:19:52+05:30"
+      "updated_at": "2026-04-24T08:21:03+05:30"
     }
   },
-  "updated_at": "2026-04-24T08:19:52+05:30"
+  "updated_at": "2026-04-24T08:21:03+05:30"
 }
