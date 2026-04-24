@@ -1,27 +1,24 @@
 {
   "matches": {
-    "Chennai Super Kings_vs_Mumbai Indians_2026-04-23": {
+    "Gujarat Titans_vs_Royal Challengers Bengaluru_2026-04-24": {
       "match": {
-        "name": "33rd Match",
+        "name": "34th Match",
         "teams": [
-          "Chennai Super Kings",
-          "Mumbai Indians"
+          "Gujarat Titans",
+          "Royal Challengers Bengaluru"
         ],
-        "venue": "Wankhede Stadium, Mumbai",
+        "venue": "M Chinnaswamy Stadium, Bengaluru",
         "status": "live"
       },
-      "live_score": "CSK 207/6 (20 ov) & MI 104/10 (19 ov) \u2014 Match Over",
-      "live_batting": "Ashwani Kumar 1*(6)",
-      "live_bowling": "Akeal Hosein 4/17 (4), Mukesh Choudhary 1/31 (4), Anshul Kamboj 1/10 (3)",
-      "live_moment": "Match Over",
+      "live_score": "GT 1/0 (0.2 ov) \u2014 RCB chose to field.",
+      "live_batting": "Sai Sudharsan 1*(1), Shubman Gill 0*(1)",
+      "live_bowling": "Bhuvneshwar Kumar 0/1 (0.2)",
+      "live_moment": "RCB chose to field.",
       "gemma_observations": [
-        "Ashwani Kumar is attempting to hit boundaries against Mukesh Choudhary.",
-        "Jasprit Bumrah is struggling to find length and change his line.",
-        "Jasprit Bumrah is struggling to find length and control in this phase.",
-        "Ashwani Kumar defended well, rotating the strike effectively at the end."
+        "Sudharsan is attempting a drive towards mid-off with the early ball."
       ],
-      "updated_at": "2026-04-23T10:52:35+05:30"
+      "updated_at": "2026-04-24T07:01:47+05:30"
     }
   },
-  "updated_at": "2026-04-23T10:52:35+05:30"
+  "updated_at": "2026-04-24T07:01:47+05:30"
 }
