@@ -10,12 +10,12 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 220/4 (17.4 ov) \u2014 SRH need 9 runs in 14 balls.",
+      "live_score": "RR 228/6 (20 ov) & SRH 221/4 (17.4 ov) \u2014 SRH need 8 runs in 14 balls.",
       "live_batting": "Heinrich Klaasen 29*(22), Salil Arora 1*(1)",
       "live_bowling": "Jofra Archer 2/34 (4), Nandre Burger 0/41 (3), Tushar Deshpande 0/43 (3)",
-      "live_moment": "SRH need 9 runs in 14 balls.",
+      "live_moment": "SRH need 8 runs in 14 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-25T10:49:49+05:30"
+      "updated_at": "2026-04-25T10:51:18+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -32,15 +32,15 @@
       "live_bowling": "Eliz-Mari Marx 2/28 (4), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/27 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Richa Ghosh is aggressively attempting to accelerate the scoring rate.",
-        "Deepti Sharma is rotating the strike effectively against Marx.",
         "Eliz-Mari Marx is bowling a slightly short and full delivery.",
         "Richa Ghosh is aggressively attempting boundaries against Marx.",
         "Deepti Sharma is rotating the strike and building her innings steadily.",
-        "Eliz-Mari Marx is bowling a disciplined line and length."
+        "Eliz-Mari Marx is bowling a disciplined line and length.",
+        "Richa Ghosh is attempting to accelerate the scoring rate aggressively.",
+        "Deepti Sharma is rotating the strike effectively against Eliz-Mari Marx."
       ],
-      "updated_at": "2026-04-25T10:50:02+05:30"
+      "updated_at": "2026-04-25T10:51:28+05:30"
     }
   },
-  "updated_at": "2026-04-25T10:50:02+05:30"
+  "updated_at": "2026-04-25T10:51:28+05:30"
 }
