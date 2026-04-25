@@ -10,17 +10,18 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 214/5 (18.4 ov) \u2014 SRH chose to field.",
-      "live_batting": "Shimron Hetmyer 5*(7)",
-      "live_bowling": "Praful Hinge 0/40 (3), Pat Cummins 1/27 (4), Eshan Malinga 2/34 (3.4)",
+      "live_score": "RR 214/5 (18.5 ov) \u2014 SRH chose to field.",
+      "live_batting": "Shimron Hetmyer 5*(7), Ravindra Jadeja 0*(1)",
+      "live_bowling": "Praful Hinge 0/40 (3), Pat Cummins 1/27 (4), Eshan Malinga 2/34 (3.5)",
       "live_moment": "SRH chose to field.",
       "gemma_observations": [
         "Hetmyer is content to rotate strike with quick singles.",
         "Hetmyer appears content to rotate the strike with Hinge.",
-        "Hetmyer is attempting to accelerate towards the end of the innings."
+        "Hetmyer is attempting to accelerate towards the end of the innings.",
+        "Hetmyer is attempting to accelerate his scoring rate against Hinge."
       ],
-      "updated_at": "2026-04-25T08:50:42+05:30"
+      "updated_at": "2026-04-25T08:51:54+05:30"
     }
   },
-  "updated_at": "2026-04-25T08:50:42+05:30"
+  "updated_at": "2026-04-25T08:51:54+05:30"
 }
