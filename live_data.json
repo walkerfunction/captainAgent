@@ -10,20 +10,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 21/0 (1.4 ov) \u2014 SA Women need 165 runs in 110 balls.",
-      "live_batting": "Laura Wolvaardt 9*(5), Sune Luus 10*(5)",
-      "live_bowling": "Renuka Singh 0/13 (1), Kranti Gaud 0/7 (0.4)",
-      "live_moment": "SA Women need 165 runs in 110 balls.",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 23/0 (2 ov) \u2014 SA Women need 163 runs in 108 balls.",
+      "live_batting": "Laura Wolvaardt 10*(6), Sune Luus 11*(6)",
+      "live_bowling": "Renuka Singh 0/13 (1), Kranti Gaud 0/9 (1)",
+      "live_moment": "SA Women need 163 runs in 108 balls.",
       "gemma_observations": [
-        "Wolvaardt is prioritizing dot balls to avoid immediate pressure.",
         "Renuka Singh is maintaining a tight line and length to restrict scoring.",
         "Wolvaardt is prioritizing length and attempting to rotate the strike.",
         "Renuka Singh is maintaining a tight line and length to restrict early scoring.",
         "Wolvaardt is prioritizing dot balls to build an early partnership.",
-        "Renuka Singh is bowling a disciplined opening spell, restricting scoring."
+        "Renuka Singh is bowling a disciplined opening spell, restricting scoring.",
+        "Luus is looking to accelerate the scoring rate through aggressive shots."
       ],
-      "updated_at": "2026-04-25T10:59:34+05:30"
+      "updated_at": "2026-04-25T11:00:50+05:30"
     }
   },
-  "updated_at": "2026-04-25T10:59:34+05:30"
+  "updated_at": "2026-04-25T11:00:50+05:30"
 }
