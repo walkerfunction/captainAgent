@@ -17,8 +17,27 @@
       "gemma_observations": [
         " Jadeja is prioritizing rotation of strike against Malinga."
       ],
-      "updated_at": "2026-04-25T09:02:26+05:30"
+      "updated_at": "2026-04-25T09:03:34+05:30"
+    },
+    "India Women_vs_South Africa Women_2026-04-25": {
+      "match": {
+        "name": "4th T20I",
+        "teams": [
+          "India Women",
+          "South Africa Women"
+        ],
+        "venue": "The Wanderers Stadium, Johannesburg",
+        "status": "live"
+      },
+      "live_score": "IND-W 1/0 (0.2 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 1*(2)",
+      "live_bowling": "Eliz-Mari Marx 0/1 (0.2)",
+      "live_moment": "SA Women chose to field.",
+      "gemma_observations": [
+        "Shafali Verma is prioritizing length and attempting to score quickly."
+      ],
+      "updated_at": "2026-04-25T09:03:41+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:02:26+05:30"
+  "updated_at": "2026-04-25T09:03:41+05:30"
 }
