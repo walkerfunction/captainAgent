@@ -10,15 +10,15 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 121/1 (8.3 ov) \u2014 SRH need 108 runs in 69 balls.",
-      "live_batting": "Abhishek Sharma 53*(24), Ishan Kishan 47*(22)",
+      "live_score": "RR 228/6 (20 ov) & SRH 122/1 (8.4 ov) \u2014 SRH need 107 runs in 68 balls.",
+      "live_batting": "Abhishek Sharma 53*(25), Ishan Kishan 47*(22)",
       "live_bowling": "Jofra Archer 1/25 (2), Nandre Burger 0/28 (2), Tushar Deshpande 0/23 (2)",
-      "live_moment": "SRH need 108 runs in 69 balls.",
+      "live_moment": "SRH need 107 runs in 68 balls.",
       "gemma_observations": [
         "Ishan Kishan is rotating the strike effectively against Nandre Burger.",
         "Ishan Kishan is rotating the strike and accumulating runs steadily."
       ],
-      "updated_at": "2026-04-25T10:04:34+05:30"
+      "updated_at": "2026-04-25T10:06:01+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -30,17 +30,19 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 117/4 (13.1 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Harmanpreet Kaur 21*(14), Deepti Sharma 6*(5)",
+      "live_score": "IND-W 120/4 (13.3 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Harmanpreet Kaur 22*(15), Deepti Sharma 7*(6)",
       "live_bowling": "Eliz-Mari Marx 2/28 (4), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/9 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Harmanpreet Kaur is attempting to accelerate her scoring rate.",
         "Deepti Sharma is prioritizing rotation of the strike over aggressive hitting.",
-        "Harmanpreet Kaur is attempting to accelerate her scoring rate against Marx."
+        "Harmanpreet Kaur is attempting to accelerate her scoring rate against Marx.",
+        "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
+        "Deepti Sharma is prioritizing rotation of strike against Marx."
       ],
-      "updated_at": "2026-04-25T10:04:45+05:30"
+      "updated_at": "2026-04-25T10:06:11+05:30"
     }
   },
-  "updated_at": "2026-04-25T10:04:45+05:30"
+  "updated_at": "2026-04-25T10:06:11+05:30"
 }
