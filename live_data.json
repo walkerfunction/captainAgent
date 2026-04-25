@@ -10,17 +10,18 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 161/9 (19.4 ov) \u2014 SA Women need 25 runs in 2 balls.",
-      "live_batting": "Eliz-Mari Marx 11*(11), Nonkululeko Mlaba 9*(4)",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 171/9 (20 ov) \u2014 Match Over",
+      "live_batting": "Eliz-Mari Marx 21*(13), Nonkululeko Mlaba 9*(4)",
       "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/33 (4), Shree Charani 1/28 (4)",
-      "live_moment": "SA Women need 25 runs in 2 balls.",
+      "live_moment": "Match Over",
       "gemma_observations": [
         "Eliz-Mari Marx is attempting to hit boundaries against Renuka Singh.",
         "Nonkululeko Mlaba is prioritizing singles to keep the pressure on.",
-        "Renuka Singh is bowling a disciplined line to restrict the scoring."
+        "Renuka Singh is bowling a disciplined line to restrict the scoring.",
+        "Eliz-Mari Marx is attempting to accelerate the scoring towards the end."
       ],
-      "updated_at": "2026-04-25T12:21:46+05:30"
+      "updated_at": "2026-04-25T12:22:57+05:30"
     }
   },
-  "updated_at": "2026-04-25T12:21:46+05:30"
+  "updated_at": "2026-04-25T12:22:57+05:30"
 }
