@@ -10,9 +10,9 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/7 (19.6 ov) \u2014 SRH chose to field.",
-      "live_batting": "Jofra Archer 2*(2)",
-      "live_bowling": "Praful Hinge 2/49 (3.6), Pat Cummins 1/27 (4), Eshan Malinga 2/38 (4)",
+      "live_score": "RR 228/6 (20 ov) \u2014 SRH chose to field.",
+      "live_batting": "Ravindra Jadeja 4*(3), Jofra Archer 2*(2)",
+      "live_bowling": "Praful Hinge 1/49 (4), Pat Cummins 1/27 (4), Eshan Malinga 2/38 (4)",
       "live_moment": "SRH chose to field.",
       "gemma_observations": [
         "Hetmyer is attempting to accelerate his scoring rate against Hinge.",
@@ -22,8 +22,8 @@
         " Jadeja is attempting to rotate strike against Pat Cummins.",
         "Archer is likely attempting to rotate strike against Malinga."
       ],
-      "updated_at": "2026-04-25T08:59:01+05:30"
+      "updated_at": "2026-04-25T09:00:12+05:30"
     }
   },
-  "updated_at": "2026-04-25T08:59:01+05:30"
+  "updated_at": "2026-04-25T09:00:12+05:30"
 }
