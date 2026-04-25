@@ -10,18 +10,19 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 57/1 (4.1 ov) \u2014 SRH need 172 runs in 95 balls.",
-      "live_batting": "Abhishek Sharma 22*(12), Ishan Kishan 18*(8)",
-      "live_bowling": "Jofra Archer 1/25 (2), Nandre Burger 0/28 (2), Tushar Deshpande 0/0 (0.1)",
-      "live_moment": "SRH need 172 runs in 95 balls.",
+      "live_score": "RR 228/6 (20 ov) & SRH 61/1 (4.2 ov) \u2014 SRH need 168 runs in 94 balls.",
+      "live_batting": "Abhishek Sharma 22*(12), Ishan Kishan 22*(9)",
+      "live_bowling": "Jofra Archer 1/25 (2), Nandre Burger 0/28 (2), Tushar Deshpande 0/4 (0.2)",
+      "live_moment": "SRH need 168 runs in 94 balls.",
       "gemma_observations": [
         "Abhishek Sharma is attempting to accelerate his scoring rate.",
         "Abhishek Sharma is attempting to rotate the strike against Archer.",
         "Ishan Kishan is prioritizing pace off-drive attempts early on.",
         "Ishan Kishan is prioritizing acceleration with aggressive shots.",
-        "Jofra Archer is bowling a slightly shorter length to induce edges."
+        "Jofra Archer is bowling a slightly shorter length to induce edges.",
+        "Ishan Kishan is attempting to accelerate the scoring rate against Nandre Burger."
       ],
-      "updated_at": "2026-04-25T09:41:39+05:30"
+      "updated_at": "2026-04-25T09:43:04+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -33,20 +34,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 68/2 (8.6 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Jemimah Rodrigues 16*(19), Harmanpreet Kaur 7*(8)",
+      "live_score": "IND-W 70/2 (9.2 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 17*(20), Harmanpreet Kaur 8*(9)",
       "live_bowling": "Eliz-Mari Marx 1/17 (3), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/9 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Kaur is attempting to rotate the strike against Dercksen.",
         "Rodrigues is attempting to rotate the strike against Marx.",
         "Kaur is prioritizing dot balls to avoid early wickets.",
         "Kaur is prioritizing dot balls to rebuild her innings.",
         "Rodrigues is attempting to accelerate her scoring rate against Marx.",
-        "Kaur is prioritizing rotation of the strike over aggressive hitting."
+        "Kaur is prioritizing rotation of the strike over aggressive hitting.",
+        "Kaur is prioritizing consolidation after a cautious start."
       ],
-      "updated_at": "2026-04-25T09:41:49+05:30"
+      "updated_at": "2026-04-25T09:43:14+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:41:49+05:30"
+  "updated_at": "2026-04-25T09:43:14+05:30"
 }
