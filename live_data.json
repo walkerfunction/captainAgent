@@ -21,7 +21,7 @@
         "Ishan Kishan is prioritizing acceleration with aggressive shots.",
         "Jofra Archer is bowling a slightly shorter length to induce edges."
       ],
-      "updated_at": "2026-04-25T09:37:25+05:30"
+      "updated_at": "2026-04-25T09:38:47+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -33,20 +33,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 54/2 (7.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Jemimah Rodrigues 6*(14), Harmanpreet Kaur 3*(6)",
-      "live_bowling": "Eliz-Mari Marx 1/17 (3), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/8 (1.5)",
+      "live_score": "IND-W 55/2 (8 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 7*(15), Harmanpreet Kaur 3*(6)",
+      "live_bowling": "Eliz-Mari Marx 1/17 (3), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/9 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Kaur is playing cautiously, prioritizing stability over aggressive scoring.",
-        "Rodrigues is prioritizing dot balls against Marx to build an early partnership.",
         "Kaur is attempting to rotate the strike against Dercksen.",
         "Rodrigues is attempting to rotate the strike against Marx.",
         "Kaur is prioritizing dot balls to avoid early wickets.",
-        "Kaur is prioritizing dot balls to rebuild her innings."
+        "Kaur is prioritizing dot balls to rebuild her innings.",
+        "Rodrigues is attempting to accelerate her scoring rate against Marx.",
+        "Kaur is prioritizing rotation of the strike over aggressive hitting."
       ],
-      "updated_at": "2026-04-25T09:37:35+05:30"
+      "updated_at": "2026-04-25T09:38:57+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:37:35+05:30"
+  "updated_at": "2026-04-25T09:38:57+05:30"
 }
