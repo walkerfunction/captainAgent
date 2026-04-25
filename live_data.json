@@ -10,20 +10,16 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 59/1 (5.6 ov) \u2014 SA Women need 127 runs in 84 balls.",
-      "live_batting": "Sune Luus 32*(15), Tazmin Brits 7*(7)",
-      "live_bowling": "Renuka Singh 0/23 (2), Kranti Gaud 1/27 (2.6), Shree Charani 0/8 (1)",
-      "live_moment": "SA Women need 127 runs in 84 balls.",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 60/1 (6.1 ov) \u2014 SA Women need 126 runs in 83 balls.",
+      "live_batting": "Sune Luus 32*(15), Tazmin Brits 8*(8)",
+      "live_bowling": "Renuka Singh 0/23 (2), Kranti Gaud 1/27 (3), Shree Charani 0/9 (1.1)",
+      "live_moment": "SA Women need 126 runs in 83 balls.",
       "gemma_observations": [
-        "Sune Luus is attempting to accelerate scoring through aggressive drives.",
-        "Tazmin Brits is prioritizing rotation of the strike over attempting big hitting.",
-        "Brits is prioritizing rotation of strike over attempting big shots.",
-        "Sune Luus is attempting to accelerate her scoring rate against Renuka Singh.",
-        "Tazmin Brits is prioritizing defense and rotation of the strike.",
-        "Brits is primarily focusing on rotating the strike against Singh."
+        "Sune Luus is attempting to accelerate the scoring through aggressive drives.",
+        "Tazmin Brits is prioritizing rotation of strike over attempting big shots."
       ],
-      "updated_at": "2026-04-25T11:16:45+05:30"
+      "updated_at": "2026-04-25T11:18:00+05:30"
     }
   },
-  "updated_at": "2026-04-25T11:16:45+05:30"
+  "updated_at": "2026-04-25T11:18:00+05:30"
 }
