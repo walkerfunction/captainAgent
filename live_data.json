@@ -10,9 +10,9 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 23/0 (2 ov) \u2014 DC chose to bat.",
-      "live_batting": "Pathum Nissanka 11*(6), KL Rahul 12*(6)",
-      "live_bowling": "Arshdeep Singh 0/8 (1), Xavier Bartlett 0/15 (1)",
+      "live_score": "DC 27/0 (2.2 ov) \u2014 DC chose to bat.",
+      "live_batting": "Pathum Nissanka 11*(6), KL Rahul 16*(8)",
+      "live_bowling": "Arshdeep Singh 0/12 (1.2), Xavier Bartlett 0/15 (1)",
       "live_moment": "DC chose to bat.",
       "gemma_observations": [
         "Rahul is prioritizing dot balls, attempting to build a solid foundation.",
@@ -21,8 +21,8 @@
         "Arshdeep Singh is bowling a tight opening spell with minimal width.",
         "Rahul is aggressively targeting length, attempting boundaries frequently."
       ],
-      "updated_at": "2026-04-25T03:10:18+05:30"
+      "updated_at": "2026-04-25T03:11:28+05:30"
     }
   },
-  "updated_at": "2026-04-25T03:10:18+05:30"
+  "updated_at": "2026-04-25T03:11:28+05:30"
 }
