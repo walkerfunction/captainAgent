@@ -17,9 +17,10 @@
       "gemma_observations": [
         " Jadeja is prioritizing rotation of strike against Malinga.",
         " Jadeja is prioritizing rotation of strike against Pat Cummins.",
-        " Jadeja is attempting to rotate strike against Pat Cummins."
+        " Jadeja is attempting to rotate strike against Pat Cummins.",
+        " Jadeja is attempting to rotate strike against Malinga."
       ],
-      "updated_at": "2026-04-25T09:10:06+05:30"
+      "updated_at": "2026-04-25T09:11:24+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -31,9 +32,9 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 14/0 (1.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Shafali Verma 3*(4), Anushka Sharma 11*(7)",
-      "live_bowling": "Eliz-Mari Marx 0/4 (1), Annerie Dercksen 0/10 (0.5)",
+      "live_score": "IND-W 18/0 (2.1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Shafali Verma 3*(5), Anushka Sharma 11*(8)",
+      "live_bowling": "Eliz-Mari Marx 0/4 (1.1), Annerie Dercksen 0/10 (1)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Shafali Verma is prioritizing length and attempting to score quickly.",
@@ -42,8 +43,8 @@
         "Shafali Verma is aggressively attempting to rotate the strike early on.",
         "Anushka Sharma is prioritizing boundaries against the initial bowling."
       ],
-      "updated_at": "2026-04-25T09:10:13+05:30"
+      "updated_at": "2026-04-25T09:11:32+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:10:13+05:30"
+  "updated_at": "2026-04-25T09:11:32+05:30"
 }
