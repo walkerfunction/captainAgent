@@ -10,20 +10,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 127/5 (14.6 ov) \u2014 SA Women need 59 runs in 30 balls.",
-      "live_batting": "Chloe Tryon 2*(2), Sinalo Jafta 4*(1)",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 133/5 (15.2 ov) \u2014 SA Women need 53 runs in 28 balls.",
+      "live_batting": "Chloe Tryon 8*(4), Sinalo Jafta 4*(1)",
       "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/27 (3), Shree Charani 1/28 (4)",
-      "live_moment": "SA Women need 59 runs in 30 balls.",
+      "live_moment": "SA Women need 53 runs in 28 balls.",
       "gemma_observations": [
-        "Tazmin Brits is attempting to accelerate her scoring rate through aggressive drives.",
-        "Kayla Reyneke is attempting to accelerate scoring through aggressive drives.",
         "Chloe Tryon is playing defensively, prioritizing rotation of the strike.",
         "Chloe Tryon is primarily focusing on rotating the strike against Kranti Gaud.",
         "Tryon is attempting to hit boundaries against Renuka Singh.",
-        "Jafta is prioritizing dot balls to shorten the required run chase."
+        "Jafta is prioritizing dot balls to shorten the required run chase.",
+        "Tryon is attempting to accelerate, but facing tight bowling from Singh.",
+        "Jafta is content to play defensively, prioritizing dot balls."
       ],
-      "updated_at": "2026-04-25T11:58:37+05:30"
+      "updated_at": "2026-04-25T11:59:52+05:30"
     }
   },
-  "updated_at": "2026-04-25T11:58:37+05:30"
+  "updated_at": "2026-04-25T11:59:52+05:30"
 }
