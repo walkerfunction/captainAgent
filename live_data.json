@@ -10,9 +10,9 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 238/1 (17.6 ov) \u2014 DC chose to bat.",
-      "live_batting": "KL Rahul 140*(61), Nitish Rana 81*(41)",
-      "live_bowling": "Arshdeep Singh 1/40 (3), Xavier Bartlett 0/52 (3), Marco Jansen 0/45 (3.6)",
+      "live_score": "DC 244/1 (18.1 ov) \u2014 DC chose to bat.",
+      "live_batting": "KL Rahul 140*(61), Nitish Rana 87*(42)",
+      "live_bowling": "Arshdeep Singh 1/40 (3), Xavier Bartlett 0/58 (3.1), Marco Jansen 0/45 (4)",
       "live_moment": "DC chose to bat.",
       "gemma_observations": [
         "Rahul is clearly prioritizing pace and length to maintain momentum.",
@@ -22,8 +22,8 @@
         "Rahul is aggressively targeting length, scoring quickly.",
         "Rana continues to rotate strike and maintain a high scoring rate."
       ],
-      "updated_at": "2026-04-25T04:42:09+05:30"
+      "updated_at": "2026-04-25T04:43:20+05:30"
     }
   },
-  "updated_at": "2026-04-25T04:42:09+05:30"
+  "updated_at": "2026-04-25T04:43:20+05:30"
 }
