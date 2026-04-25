@@ -10,16 +10,16 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 30/1 (2.2 ov) \u2014 SRH need 199 runs in 106 balls.",
-      "live_batting": "Abhishek Sharma 4*(6), Ishan Kishan 10*(3)",
-      "live_bowling": "Jofra Archer 1/17 (1.2), Nandre Burger 0/9 (1)",
-      "live_moment": "SRH need 199 runs in 106 balls.",
+      "live_score": "RR 228/6 (20 ov) & SRH 34/1 (2.4 ov) \u2014 SRH need 195 runs in 104 balls.",
+      "live_batting": "Abhishek Sharma 4*(6), Ishan Kishan 14*(5)",
+      "live_bowling": "Jofra Archer 1/21 (1.4), Nandre Burger 0/9 (1)",
+      "live_moment": "SRH need 195 runs in 104 balls.",
       "gemma_observations": [
         "Travis Head is attempting to rotate the strike against Jofra Archer.",
         "Travis Head is prioritizing rotation of field, attempting to keep the strike.",
         "Abhishek Sharma is prioritizing defense while maintaining a cautious approach."
       ],
-      "updated_at": "2026-04-25T09:29:05+05:30"
+      "updated_at": "2026-04-25T09:30:28+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -31,8 +31,8 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 47/1 (5.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Anushka Sharma 27*(17), Jemimah Rodrigues 2*(9)",
+      "live_score": "IND-W 47/2 (6 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 2*(9)",
       "live_bowling": "Eliz-Mari Marx 1/17 (3), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/6 (1)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
@@ -43,8 +43,8 @@
         "Anushka Sharma is prioritizing length and rotation against the initial attack.",
         "Jemimah Rodrigues appears content to play cautiously, consolidating her position."
       ],
-      "updated_at": "2026-04-25T09:29:15+05:30"
+      "updated_at": "2026-04-25T09:30:38+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:29:15+05:30"
+  "updated_at": "2026-04-25T09:30:38+05:30"
 }
