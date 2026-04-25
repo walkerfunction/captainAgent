@@ -10,20 +10,20 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 264/2 (20 ov) & PBKS 23/0 (1.2 ov) \u2014 PBKS need 242 runs in 112 balls.",
-      "live_batting": "Priyansh Arya 8*(5), Prabhsimran Singh 13*(3)",
-      "live_bowling": "Auqib Nabi 0/14 (1), Mukesh Kumar 0/8 (0.2)",
-      "live_moment": "PBKS need 242 runs in 112 balls.",
+      "live_score": "DC 264/2 (20 ov) & PBKS 29/0 (1.4 ov) \u2014 PBKS need 236 runs in 110 balls.",
+      "live_batting": "Priyansh Arya 8*(5), Prabhsimran Singh 19*(5)",
+      "live_bowling": "Auqib Nabi 0/14 (1), Mukesh Kumar 0/14 (0.4)",
+      "live_moment": "PBKS need 236 runs in 110 balls.",
       "gemma_observations": [
-        "Rahul is aggressively targeting short boundaries with strong timing.",
-        "Prabhsimran Singh is prioritizing dot balls to avoid early wickets.",
         "Prabhsimran Singh is prioritizing dot balls to frustrate the DC bowlers.",
         "Priyansh Arya is attempting to rotate the strike against Auqib Nabi.",
         "Auqib Nabi is bowling a disciplined opening spell with minimal width.",
-        "Auqib Nabi is bowling a tight opening spell, conceding only a few runs."
+        "Auqib Nabi is bowling a tight opening spell, conceding only a few runs.",
+        "Prabhsimran Singh is attempting to rotate the strike against Auqib Nabi.",
+        "Priyansh Arya is prioritizing dot balls to avoid early wickets."
       ],
-      "updated_at": "2026-04-25T05:15:51+05:30"
+      "updated_at": "2026-04-25T05:17:06+05:30"
     }
   },
-  "updated_at": "2026-04-25T05:15:51+05:30"
+  "updated_at": "2026-04-25T05:17:06+05:30"
 }
