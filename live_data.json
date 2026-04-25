@@ -10,15 +10,15 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 213/3 (16.6 ov) \u2014 SRH need 16 runs in 18 balls.",
-      "live_batting": "Heinrich Klaasen 29*(21), Nitish Kumar Reddy 30*(16)",
-      "live_bowling": "Jofra Archer 2/34 (4), Nandre Burger 0/41 (3), Tushar Deshpande 0/43 (2.6)",
-      "live_moment": "SRH need 16 runs in 18 balls.",
+      "live_score": "RR 228/6 (20 ov) & SRH 219/3 (17.1 ov) \u2014 SRH need 10 runs in 17 balls.",
+      "live_batting": "Heinrich Klaasen 29*(21), Nitish Kumar Reddy 36*(17)",
+      "live_bowling": "Jofra Archer 2/34 (4), Nandre Burger 0/41 (3), Tushar Deshpande 0/43 (3)",
+      "live_moment": "SRH need 10 runs in 17 balls.",
       "gemma_observations": [
         "Reddy is rotating the strike effectively to maintain pressure on the RR bowlers.",
         "Reddy is attempting to rotate the strike and maintain pressure on the bowlers."
       ],
-      "updated_at": "2026-04-25T10:44:04+05:30"
+      "updated_at": "2026-04-25T10:45:29+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -35,15 +35,15 @@
       "live_bowling": "Eliz-Mari Marx 2/28 (4), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/27 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Richa Ghosh is aggressively attempting boundaries against Marx.",
         "Eliz-Mari Marx is bowling a slightly shortish line to Ghosh.",
         "Deepti Sharma is rotating the strike effectively against Eliz-Mari Marx.",
         "Richa Ghosh is aggressively looking to hit boundaries off spin.",
         "Deepti Sharma is rotating the strike effectively against the SA bowlers.",
-        "Richa Ghosh is aggressively looking to score boundaries off spin."
+        "Richa Ghosh is aggressively looking to score boundaries off spin.",
+        "Eliz-Mari Marx is bowling a disciplined line to Ghosh."
       ],
-      "updated_at": "2026-04-25T10:44:14+05:30"
+      "updated_at": "2026-04-25T10:45:41+05:30"
     }
   },
-  "updated_at": "2026-04-25T10:44:14+05:30"
+  "updated_at": "2026-04-25T10:45:41+05:30"
 }
