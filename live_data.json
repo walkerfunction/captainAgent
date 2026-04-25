@@ -10,18 +10,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 119/4 (13.6 ov) \u2014 SA Women need 67 runs in 36 balls.",
-      "live_batting": "Kayla Reyneke 19*(16)",
-      "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/27 (3), Shree Charani 1/28 (3.6)",
-      "live_moment": "SA Women need 67 runs in 36 balls.",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 121/4 (14.2 ov) \u2014 SA Women need 65 runs in 34 balls.",
+      "live_batting": "Kayla Reyneke 20*(17), Chloe Tryon 1*(1)",
+      "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/27 (3), Shree Charani 1/28 (4)",
+      "live_moment": "SA Women need 65 runs in 34 balls.",
       "gemma_observations": [
         "Brits is attempting to accelerate scoring through aggressive drives.",
         "Kayla Reyneke is rotating the strike effectively to maintain pressure.",
         "Kayla Reyneke is attempting to rotate the strike against Gaud.",
-        "Tazmin Brits is attempting to accelerate her scoring rate through aggressive drives."
+        "Tazmin Brits is attempting to accelerate her scoring rate through aggressive drives.",
+        "Kayla Reyneke is attempting to accelerate scoring through aggressive drives.",
+        "Chloe Tryon is playing defensively, prioritizing rotation of the strike."
       ],
-      "updated_at": "2026-04-25T11:54:52+05:30"
+      "updated_at": "2026-04-25T11:56:07+05:30"
     }
   },
-  "updated_at": "2026-04-25T11:54:52+05:30"
+  "updated_at": "2026-04-25T11:56:07+05:30"
 }
