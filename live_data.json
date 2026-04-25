@@ -10,15 +10,15 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 181/3 (14.1 ov) \u2014 SRH need 48 runs in 35 balls.",
-      "live_batting": "Heinrich Klaasen 12*(11), Nitish Kumar Reddy 15*(9)",
-      "live_bowling": "Jofra Archer 2/27 (3.1), Nandre Burger 0/41 (3), Tushar Deshpande 0/23 (2)",
-      "live_moment": "SRH need 48 runs in 35 balls.",
+      "live_score": "RR 228/6 (20 ov) & SRH 183/3 (14.3 ov) \u2014 SRH need 46 runs in 33 balls.",
+      "live_batting": "Heinrich Klaasen 13*(12), Nitish Kumar Reddy 16*(10)",
+      "live_bowling": "Jofra Archer 2/29 (3.3), Nandre Burger 0/41 (3), Tushar Deshpande 0/23 (2)",
+      "live_moment": "SRH need 46 runs in 33 balls.",
       "gemma_observations": [
         "Kishan is consistently rotating the strike against Burger.",
         "Reddy is rotating the strike effectively to maintain pressure on the RR bowlers."
       ],
-      "updated_at": "2026-04-25T10:29:55+05:30"
+      "updated_at": "2026-04-25T10:31:20+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -30,9 +30,9 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 162/5 (18.4 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Deepti Sharma 30*(23), Richa Ghosh 18*(13)",
-      "live_bowling": "Eliz-Mari Marx 2/28 (4), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/22 (3.4)",
+      "live_score": "IND-W 167/5 (19 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Deepti Sharma 30*(23), Richa Ghosh 23*(15)",
+      "live_bowling": "Eliz-Mari Marx 2/28 (4), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/27 (4)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
         "Deepti Sharma is prioritizing rotation of the strike against Marx.",
@@ -42,8 +42,8 @@
         "Deepti Sharma is rotating the strike effectively against the SA bowlers.",
         "Deepti Sharma is rotating the strike and consolidating her innings."
       ],
-      "updated_at": "2026-04-25T10:30:05+05:30"
+      "updated_at": "2026-04-25T10:31:31+05:30"
     }
   },
-  "updated_at": "2026-04-25T10:30:05+05:30"
+  "updated_at": "2026-04-25T10:31:31+05:30"
 }
