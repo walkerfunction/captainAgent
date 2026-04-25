@@ -10,17 +10,18 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) \u2014 SRH chose to field.",
-      "live_batting": "Ravindra Jadeja 4*(3), Jofra Archer 2*(2)",
-      "live_bowling": "Praful Hinge 1/49 (4), Pat Cummins 1/27 (4), Eshan Malinga 2/38 (4)",
-      "live_moment": "SRH chose to field.",
+      "live_score": "RR 228/6 (20 ov) & SRH 0/0 (0.1 ov) \u2014 SRH need 229 runs in 119 balls.",
+      "live_batting": "",
+      "live_bowling": "Brijesh Sharma 0/0 (0.1)",
+      "live_moment": "SRH need 229 runs in 119 balls.",
       "gemma_observations": [
         " Jadeja is prioritizing rotation of strike against Malinga.",
         " Jadeja is prioritizing rotation of strike against Pat Cummins.",
         " Jadeja is attempting to rotate strike against Pat Cummins.",
-        " Jadeja is attempting to rotate strike against Malinga."
+        " Jadeja is attempting to rotate strike against Malinga.",
+        "Brijesh Sharma is bowling defensively, allowing RR to build an early advantage."
       ],
-      "updated_at": "2026-04-25T09:15:23+05:30"
+      "updated_at": "2026-04-25T09:16:41+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -32,20 +33,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 25/1 (2.5 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Anushka Sharma 11*(8)",
-      "live_bowling": "Eliz-Mari Marx 1/11 (1.5), Annerie Dercksen 0/10 (1)",
+      "live_score": "IND-W 27/1 (2.6 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Anushka Sharma 11*(8), Jemimah Rodrigues 0*(1)",
+      "live_bowling": "Eliz-Mari Marx 1/12 (1.6), Annerie Dercksen 0/10 (1)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Shafali Verma is prioritizing quick singles with Anushka Sharma.",
         "Shafali Verma is aggressively attempting to rotate the strike early on.",
         "Anushka Sharma is prioritizing boundaries against the initial bowling.",
         "Shafali Verma is aggressively targeting length early on.",
         "Eliz-Mari Marx is bowling a tight opening spell with minimal width.",
-        "Anushka Sharma is attempting to rotate the strike against Eliz-Mari Marx."
+        "Anushka Sharma is attempting to rotate the strike against Eliz-Mari Marx.",
+        "Jemimah Rodrigues appears cautious, prioritizing defense over aggressive shots."
       ],
-      "updated_at": "2026-04-25T09:15:31+05:30"
+      "updated_at": "2026-04-25T09:16:51+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:15:31+05:30"
+  "updated_at": "2026-04-25T09:16:51+05:30"
 }
