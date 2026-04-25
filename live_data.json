@@ -10,18 +10,19 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 89/1 (6 ov) \u2014 SRH need 140 runs in 84 balls.",
-      "live_batting": "Abhishek Sharma 34*(17), Ishan Kishan 35*(14)",
+      "live_score": "RR 228/6 (20 ov) & SRH 94/1 (6.2 ov) \u2014 SRH need 135 runs in 82 balls.",
+      "live_batting": "Abhishek Sharma 34*(17), Ishan Kishan 40*(16)",
       "live_bowling": "Jofra Archer 1/25 (2), Nandre Burger 0/28 (2), Tushar Deshpande 0/12 (1)",
-      "live_moment": "SRH need 140 runs in 84 balls.",
+      "live_moment": "SRH need 135 runs in 82 balls.",
       "gemma_observations": [
         "Abhishek Sharma is attempting to accelerate his scoring rate.",
         "Ishan Kishan is rotating the strike and building his innings cautiously.",
         "Ishan Kishan is rotating the strike effectively against Nandre Burger.",
         "Ishan Kishan is rotating the strike and building his innings steadily.",
-        "Ishan Kishan is rotating the strike and prioritizing dot balls."
+        "Ishan Kishan is rotating the strike and prioritizing dot balls.",
+        "Ishan Kishan is rotating strike and accumulating runs quickly."
       ],
-      "updated_at": "2026-04-25T09:54:36+05:30"
+      "updated_at": "2026-04-25T09:56:00+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -38,15 +39,15 @@
       "live_bowling": "Eliz-Mari Marx 1/17 (3), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/9 (2)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Kaur is playing cautiously, primarily focusing on defending her wicket.",
-        "Rodrigues is consistently looking to drive through the off-side channel.",
         "Kaur is attempting to rotate the strike against Marx.",
         "Kaur is rotating the strike, prioritizing dot balls against Marx.",
         "Harmanpreet Kaur is attempting to accelerate the scoring rate.",
-        "Eliz-Mari Marx is bowling a disciplined line and length early on."
+        "Eliz-Mari Marx is bowling a disciplined line and length early on.",
+        "Harmanpreet Kaur is attempting to rotate the strike against Marx.",
+        "Eliz-Mari Marx is bowling a slightly short-pitched line to Kaur."
       ],
-      "updated_at": "2026-04-25T09:54:46+05:30"
+      "updated_at": "2026-04-25T09:56:11+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:54:46+05:30"
+  "updated_at": "2026-04-25T09:56:11+05:30"
 }
