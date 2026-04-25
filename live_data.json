@@ -10,10 +10,10 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 94/2 (10.3 ov) \u2014 SA Women need 92 runs in 57 balls.",
-      "live_batting": "Tazmin Brits 25*(19), Annerie Dercksen 9*(6)",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 94/3 (10.4 ov) \u2014 SA Women need 92 runs in 56 balls.",
+      "live_batting": "Tazmin Brits 25*(19)",
       "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/27 (3), Shree Charani 0/14 (2)",
-      "live_moment": "SA Women need 92 runs in 57 balls.",
+      "live_moment": "SA Women need 92 runs in 56 balls.",
       "gemma_observations": [
         "Tazmin Brits is attempting to accelerate her scoring rate against Renuka Singh.",
         "Annerie Dercksen is prioritizing defense while Kranti Gaud bowls defensively.",
@@ -22,8 +22,8 @@
         "Brits is attempting to accelerate scoring through aggressive drives.",
         "Dercksen is prioritizing dot balls to avoid immediate pressure."
       ],
-      "updated_at": "2026-04-25T11:38:55+05:30"
+      "updated_at": "2026-04-25T11:40:11+05:30"
     }
   },
-  "updated_at": "2026-04-25T11:38:55+05:30"
+  "updated_at": "2026-04-25T11:40:11+05:30"
 }
