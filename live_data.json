@@ -10,10 +10,10 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 264/2 (20 ov) & PBKS 252/4 (18 ov) \u2014 PBKS need 13 runs in 12 balls.",
-      "live_batting": "Shreyas Iyer 64*(34), Shashank Singh 14*(7)",
+      "live_score": "DC 264/2 (20 ov) & PBKS 256/4 (18.1 ov) \u2014 PBKS need 9 runs in 11 balls.",
+      "live_batting": "Shreyas Iyer 64*(34), Shashank Singh 18*(8)",
       "live_bowling": "Auqib Nabi 0/41 (2), Mukesh Kumar 0/55 (3), Axar Patel 1/44 (4)",
-      "live_moment": "PBKS need 13 runs in 12 balls.",
+      "live_moment": "PBKS need 9 runs in 11 balls.",
       "gemma_observations": [
         "Shashank Singh is attempting to accelerate the scoring rate.",
         "Shreyas Iyer is consistently rotating the strike against Mukesh Kumar.",
@@ -22,7 +22,7 @@
         "Shashank Singh is attempting to rotate the strike effectively.",
         "Iyer is consistently rotating the strike against Nabi."
       ],
-      "updated_at": "2026-04-25T07:11:30+05:30"
+      "updated_at": "2026-04-25T07:12:53+05:30"
     },
     "Rajasthan Royals_vs_Sunrisers Hyderabad_2026-04-25": {
       "match": {
@@ -39,15 +39,15 @@
       "live_bowling": "Praful Hinge 0/25 (1), Pat Cummins 0/11 (1), Eshan Malinga 1/4 (0.2)",
       "live_moment": "SRH chose to field.",
       "gemma_observations": [
-        "Jaiswal is aggressively rotating strike early on against Hinge.",
         "Jaiswal is aggressively rotating the strike early on.",
         "Jaiswal is aggressively targeting Cummins early in his spell.",
         "Sooryavanshi is rotating the strike and building his innings.",
         "Sooryavanshi is rotating the strike and accumulating runs quickly.",
-        "Vaibhav Sooryavanshi is aggressively targeting length with six boundaries."
+        "Vaibhav Sooryavanshi is aggressively targeting length with six boundaries.",
+        "Vaibhav Sooryavanshi is aggressively targeting length early on."
       ],
-      "updated_at": "2026-04-25T07:11:38+05:30"
+      "updated_at": "2026-04-25T07:13:03+05:30"
     }
   },
-  "updated_at": "2026-04-25T07:11:38+05:30"
+  "updated_at": "2026-04-25T07:13:03+05:30"
 }
