@@ -10,19 +10,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 141/7 (16.5 ov) \u2014 SA Women need 45 runs in 19 balls.",
-      "live_batting": "Eliz-Mari Marx 5*(4)",
-      "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/27 (3), Shree Charani 1/28 (4)",
-      "live_moment": "SA Women need 45 runs in 19 balls.",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 145/7 (17.1 ov) \u2014 SA Women need 41 runs in 17 balls.",
+      "live_batting": "Eliz-Mari Marx 9*(5), Ayabonga Khaka 0*(1)",
+      "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/31 (3.1), Shree Charani 1/28 (4)",
+      "live_moment": "SA Women need 41 runs in 17 balls.",
       "gemma_observations": [
         "Sinalo Jafta is attempting to accelerate scoring through short boundaries.",
         "The SA innings is now firmly in a defensive phase, prioritizing dot balls.",
         "Jafta is attempting to hit boundaries against Renuka Singh.",
         "Marx is prioritizing dot balls to shorten the required run chase.",
-        "Eliz-Mari Marx is attempting to hit boundaries against Renuka Singh."
+        "Eliz-Mari Marx is attempting to hit boundaries against Renuka Singh.",
+        "Ayabonga Khaka is playing defensively, prioritizing rotation of the strike."
       ],
-      "updated_at": "2026-04-25T12:08:26+05:30"
+      "updated_at": "2026-04-25T12:09:41+05:30"
     }
   },
-  "updated_at": "2026-04-25T12:08:26+05:30"
+  "updated_at": "2026-04-25T12:09:41+05:30"
 }
