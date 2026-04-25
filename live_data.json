@@ -10,14 +10,15 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 220/5 (17.6 ov) \u2014 SRH need 9 runs in 12 balls.",
+      "live_score": "RR 228/6 (20 ov) & SRH 220/5 (18 ov) \u2014 SRH need 9 runs in 12 balls.",
       "live_batting": "Salil Arora 1*(1)",
       "live_bowling": "Jofra Archer 2/34 (4), Nandre Burger 0/41 (3), Tushar Deshpande 0/43 (3)",
       "live_moment": "SRH need 9 runs in 12 balls.",
       "gemma_observations": [
-        "Salil Arora is attempting to rotate the strike against Jofra Archer."
+        "Salil Arora is attempting to rotate the strike against Jofra Archer.",
+        "Salil Arora is attempting to rotate the strike against Archer."
       ],
-      "updated_at": "2026-04-25T10:52:42+05:30"
+      "updated_at": "2026-04-25T10:54:04+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -29,20 +30,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 1/0 (0.1 ov) \u2014 SA Women need 185 runs in 119 balls.",
-      "live_batting": "Laura Wolvaardt 0*(1)",
-      "live_bowling": "Renuka Singh 0/0 (0.1)",
-      "live_moment": "SA Women need 185 runs in 119 balls.",
+      "live_score": "IND-W 185/5 (20 ov) & SA-W 5/0 (0.3 ov) \u2014 SA Women need 181 runs in 117 balls.",
+      "live_batting": "Laura Wolvaardt 0*(1), Sune Luus 4*(2)",
+      "live_bowling": "Renuka Singh 0/4 (0.3)",
+      "live_moment": "SA Women need 181 runs in 117 balls.",
       "gemma_observations": [
-        "Eliz-Mari Marx is bowling a slightly short and full delivery.",
-        "Richa Ghosh is aggressively attempting boundaries against Marx.",
         "Deepti Sharma is rotating the strike and building her innings steadily.",
         "Eliz-Mari Marx is bowling a disciplined line and length.",
         "Richa Ghosh is attempting to accelerate the scoring rate aggressively.",
-        "Deepti Sharma is rotating the strike effectively against Eliz-Mari Marx."
+        "Deepti Sharma is rotating the strike effectively against Eliz-Mari Marx.",
+        "Wolvaardt is attempting to rotate the strike against Renuka Singh.",
+        "Luus is cautiously looking to score boundaries with the new ball."
       ],
-      "updated_at": "2026-04-25T10:52:52+05:30"
+      "updated_at": "2026-04-25T10:54:18+05:30"
     }
   },
-  "updated_at": "2026-04-25T10:52:52+05:30"
+  "updated_at": "2026-04-25T10:54:18+05:30"
 }
