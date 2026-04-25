@@ -10,16 +10,18 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 228/6 (20 ov) & SRH 34/1 (2.4 ov) \u2014 SRH need 195 runs in 104 balls.",
-      "live_batting": "Abhishek Sharma 4*(6), Ishan Kishan 14*(5)",
-      "live_bowling": "Jofra Archer 1/21 (1.4), Nandre Burger 0/9 (1)",
-      "live_moment": "SRH need 195 runs in 104 balls.",
+      "live_score": "RR 228/6 (20 ov) & SRH 38/1 (2.6 ov) \u2014 SRH need 191 runs in 102 balls.",
+      "live_batting": "Abhishek Sharma 4*(6), Ishan Kishan 18*(7)",
+      "live_bowling": "Jofra Archer 1/25 (1.6), Nandre Burger 0/9 (1)",
+      "live_moment": "SRH need 191 runs in 102 balls.",
       "gemma_observations": [
         "Travis Head is attempting to rotate the strike against Jofra Archer.",
         "Travis Head is prioritizing rotation of field, attempting to keep the strike.",
-        "Abhishek Sharma is prioritizing defense while maintaining a cautious approach."
+        "Abhishek Sharma is prioritizing defense while maintaining a cautious approach.",
+        "Abhishek Sharma is attempting to rotate the strike against Archer.",
+        "Ishan Kishan is prioritizing pace scoring over consolidation."
       ],
-      "updated_at": "2026-04-25T09:30:28+05:30"
+      "updated_at": "2026-04-25T09:31:53+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-25": {
       "match": {
@@ -31,20 +33,20 @@
         "venue": "The Wanderers Stadium, Johannesburg",
         "status": "live"
       },
-      "live_score": "IND-W 47/2 (6 ov) \u2014 SA Women chose to field.",
-      "live_batting": "Jemimah Rodrigues 2*(9)",
+      "live_score": "IND-W 48/2 (6.1 ov) \u2014 SA Women chose to field.",
+      "live_batting": "Jemimah Rodrigues 3*(10)",
       "live_bowling": "Eliz-Mari Marx 1/17 (3), Annerie Dercksen 0/10 (1), Ayabonga Khaka 0/6 (1)",
       "live_moment": "SA Women chose to field.",
       "gemma_observations": [
-        "Jemimah Rodrigues appears content to play defensively early on.",
-        "Jemimah Rodrigues is attempting to score off shorter balls bowled by Annerie Dercksen.",
         "Anushka Sharma is prioritizing quick singles off short balls.",
         "Eliz-Mari Marx is varying her length slightly to disrupt the flow.",
         "Anushka Sharma is prioritizing length and rotation against the initial attack.",
-        "Jemimah Rodrigues appears content to play cautiously, consolidating her position."
+        "Jemimah Rodrigues appears content to play cautiously, consolidating her position.",
+        "Rodrigues is prioritizing dot balls to rebuild her innings.",
+        "Marx is maintaining a good line and length to contain Rodrigues."
       ],
-      "updated_at": "2026-04-25T09:30:38+05:30"
+      "updated_at": "2026-04-25T09:32:03+05:30"
     }
   },
-  "updated_at": "2026-04-25T09:30:38+05:30"
+  "updated_at": "2026-04-25T09:32:03+05:30"
 }
