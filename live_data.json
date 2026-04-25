@@ -10,9 +10,9 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 116/1 (10.3 ov) \u2014 SRH chose to field.",
-      "live_batting": "Vaibhav Sooryavanshi 77*(30), Dhruv Jurel 27*(25)",
-      "live_bowling": "Praful Hinge 0/33 (2), Pat Cummins 0/23 (3), Eshan Malinga 1/22 (2.3)",
+      "live_score": "RR 122/1 (10.4 ov) \u2014 SRH chose to field.",
+      "live_batting": "Vaibhav Sooryavanshi 77*(30), Dhruv Jurel 33*(26)",
+      "live_bowling": "Praful Hinge 0/33 (2), Pat Cummins 0/23 (3), Eshan Malinga 1/28 (2.4)",
       "live_moment": "SRH chose to field.",
       "gemma_observations": [
         "Dhruv Jurel is attempting to rotate the strike against Praful Hinge.",
@@ -22,8 +22,8 @@
         "Vaibhav Sooryavanshi is aggressively targeting length and finding gaps.",
         "Vaibhav Sooryavanshi is aggressively targeting length with strong shots."
       ],
-      "updated_at": "2026-04-25T07:58:29+05:30"
+      "updated_at": "2026-04-25T07:59:41+05:30"
     }
   },
-  "updated_at": "2026-04-25T07:58:29+05:30"
+  "updated_at": "2026-04-25T07:59:41+05:30"
 }
