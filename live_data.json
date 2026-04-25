@@ -10,15 +10,16 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 160/2 (13.2 ov) \u2014 SRH chose to field.",
-      "live_batting": "Vaibhav Sooryavanshi 93*(34), Riyan Parag 2*(3)",
+      "live_score": "RR 164/2 (13.3 ov) \u2014 SRH chose to field.",
+      "live_batting": "Vaibhav Sooryavanshi 97*(35), Riyan Parag 2*(3)",
       "live_bowling": "Praful Hinge 0/33 (2), Pat Cummins 0/23 (3), Eshan Malinga 1/33 (3)",
       "live_moment": "SRH chose to field.",
       "gemma_observations": [
-        "Riyan Parag is primarily serving as a base-runner for Sooryavanshi."
+        "Riyan Parag is primarily serving as a base-runner for Sooryavanshi.",
+        "Riyan Parag is primarily serving as a defensive anchor against Praful Hinge."
       ],
-      "updated_at": "2026-04-25T08:18:46+05:30"
+      "updated_at": "2026-04-25T08:20:00+05:30"
     }
   },
-  "updated_at": "2026-04-25T08:18:46+05:30"
+  "updated_at": "2026-04-25T08:20:00+05:30"
 }
