@@ -10,10 +10,10 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 264/2 (20 ov) & PBKS 146/3 (9.3 ov) \u2014 PBKS need 119 runs in 63 balls.",
-      "live_batting": "Shreyas Iyer 2*(4), Nehal Wadhera 1*(1)",
+      "live_score": "DC 264/2 (20 ov) & PBKS 147/3 (9.5 ov) \u2014 PBKS need 118 runs in 61 balls.",
+      "live_batting": "Shreyas Iyer 3*(5), Nehal Wadhera 1*(2)",
       "live_bowling": "Auqib Nabi 0/41 (2), Mukesh Kumar 0/45 (2), Axar Patel 1/40 (3)",
-      "live_moment": "PBKS need 119 runs in 63 balls.",
+      "live_moment": "PBKS need 118 runs in 61 balls.",
       "gemma_observations": [
         "Cooper Connolly is attempting to accelerate the scoring rate.",
         "Shreyas Iyer is prioritizing consolidation and rotation of the strike.",
@@ -21,8 +21,8 @@
         "Iyer is rotating strike, prioritizing consolidation over aggressive hitting.",
         "Shreyas Iyer is consistently rotating the strike against Mukesh Kumar."
       ],
-      "updated_at": "2026-04-25T06:22:26+05:30"
+      "updated_at": "2026-04-25T06:23:41+05:30"
     }
   },
-  "updated_at": "2026-04-25T06:22:26+05:30"
+  "updated_at": "2026-04-25T06:23:41+05:30"
 }
