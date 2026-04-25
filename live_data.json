@@ -14,16 +14,9 @@
       "live_batting": "Shreyas Iyer 28*(20), Nehal Wadhera 17*(12)",
       "live_bowling": "Auqib Nabi 0/41 (2), Mukesh Kumar 0/45 (2), Axar Patel 1/44 (4)",
       "live_moment": "PBKS need 72 runs in 36 balls.",
-      "gemma_observations": [
-        "Nehal Wadhera is aggressively looking to score boundaries.",
-        "Nehal Wadhera is attempting to accelerate his scoring rate.",
-        "Iyer is rotating the strike effectively against Nabi.",
-        "Iyer is consistently rotating strike against Nabi.",
-        "Wadhera is looking to accelerate, aiming to put pressure on the DC bowlers.",
-        "Wadhera is looking to accelerate the scoring rate."
-      ],
-      "updated_at": "2026-04-25T06:46:59+05:30"
+      "gemma_observations": [],
+      "updated_at": "2026-04-25T06:48:07+05:30"
     }
   },
-  "updated_at": "2026-04-25T06:46:59+05:30"
+  "updated_at": "2026-04-25T06:48:07+05:30"
 }
