@@ -10,9 +10,9 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 192/4 (16.2 ov) \u2014 SRH chose to field.",
-      "live_batting": "Donovan Ferreira 15*(8), Shimron Hetmyer 1*(1)",
-      "live_bowling": "Praful Hinge 0/40 (3), Pat Cummins 1/24 (3.2), Eshan Malinga 1/33 (3)",
+      "live_score": "RR 192/4 (16.3 ov) \u2014 SRH chose to field.",
+      "live_batting": "Donovan Ferreira 15*(9), Shimron Hetmyer 1*(1)",
+      "live_bowling": "Praful Hinge 0/40 (3), Pat Cummins 1/24 (3.3), Eshan Malinga 1/33 (3)",
       "live_moment": "SRH chose to field.",
       "gemma_observations": [
         "Riyan Parag is attempting to rotate the strike against Praful Hinge.",
@@ -22,8 +22,8 @@
         "Ferreira is attempting to accelerate the scoring rate against Hinge.",
         "Hetmyer is prioritizing rotation of strike over aggressive hitting."
       ],
-      "updated_at": "2026-04-25T08:37:47+05:30"
+      "updated_at": "2026-04-25T08:38:58+05:30"
     }
   },
-  "updated_at": "2026-04-25T08:37:47+05:30"
+  "updated_at": "2026-04-25T08:38:58+05:30"
 }
