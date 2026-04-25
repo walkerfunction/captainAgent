@@ -10,16 +10,18 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 264/2 (20 ov) & PBKS 233/4 (16.3 ov) \u2014 PBKS need 32 runs in 21 balls.",
-      "live_batting": "Shreyas Iyer 57*(29), Shashank Singh 2*(3)",
+      "live_score": "DC 264/2 (20 ov) & PBKS 238/4 (16.5 ov) \u2014 PBKS need 27 runs in 19 balls.",
+      "live_batting": "Shreyas Iyer 62*(31), Shashank Singh 2*(3)",
       "live_bowling": "Auqib Nabi 0/41 (2), Mukesh Kumar 0/45 (2), Axar Patel 1/44 (4)",
-      "live_moment": "PBKS need 32 runs in 21 balls.",
+      "live_moment": "PBKS need 27 runs in 19 balls.",
       "gemma_observations": [
         "Shreyas Iyer is consistently rotating the strike against Auqib Nabi.",
         "Shreyas Iyer is consistently rotating the strike against Nabi.",
-        "Shashank Singh is attempting to accelerate the scoring rate."
+        "Shashank Singh is attempting to accelerate the scoring rate.",
+        "Shreyas Iyer is consistently rotating the strike against Mukesh Kumar.",
+        "Shashank Singh is looking to accelerate with boundaries."
       ],
-      "updated_at": "2026-04-25T07:04:31+05:30"
+      "updated_at": "2026-04-25T07:05:53+05:30"
     },
     "Rajasthan Royals_vs_Sunrisers Hyderabad_2026-04-25": {
       "match": {
@@ -31,16 +33,16 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 25/0 (0.6 ov) \u2014 SRH chose to field.",
-      "live_batting": "Yashasvi Jaiswal 1*(1), Vaibhav Sooryavanshi 24*(5)",
-      "live_bowling": "Praful Hinge 0/25 (0.6)",
+      "live_score": "RR 29/0 (1.1 ov) \u2014 SRH chose to field.",
+      "live_batting": "Yashasvi Jaiswal 5*(2), Vaibhav Sooryavanshi 24*(5)",
+      "live_bowling": "Praful Hinge 0/25 (1), Pat Cummins 0/4 (0.1)",
       "live_moment": "SRH chose to field.",
       "gemma_observations": [
         "Jaiswal is aggressively rotating strike early on against Hinge.",
         "Jaiswal is aggressively rotating the strike early on."
       ],
-      "updated_at": "2026-04-25T07:04:38+05:30"
+      "updated_at": "2026-04-25T07:06:01+05:30"
     }
   },
-  "updated_at": "2026-04-25T07:04:38+05:30"
+  "updated_at": "2026-04-25T07:06:01+05:30"
 }
