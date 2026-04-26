@@ -1,27 +1,41 @@
 {
   "matches": {
-    "India Women_vs_South Africa Women_2026-04-25": {
+    "Chennai Super Kings_vs_Gujarat Titans_2026-04-26": {
       "match": {
-        "name": "4th T20I",
+        "name": "37th Match",
         "teams": [
-          "India Women",
-          "South Africa Women"
+          "Chennai Super Kings",
+          "Gujarat Titans"
         ],
-        "venue": "The Wanderers Stadium, Johannesburg",
-        "status": "live"
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+        "status": "upcoming",
+        "date": "2026-04-26"
       },
-      "live_score": "IND-W 185/5 (20 ov) & SA-W 171/9 (20 ov) \u2014 Match Over",
-      "live_batting": "Eliz-Mari Marx 21*(13), Nonkululeko Mlaba 9*(4)",
-      "live_bowling": "Renuka Singh 0/38 (3), Kranti Gaud 1/33 (4), Shree Charani 1/28 (4)",
-      "live_moment": "Match Over",
-      "gemma_observations": [
-        "Eliz-Mari Marx is attempting to hit boundaries against Renuka Singh.",
-        "Nonkululeko Mlaba is prioritizing singles to keep the pressure on.",
-        "Renuka Singh is bowling a disciplined line to restrict the scoring.",
-        "Eliz-Mari Marx is attempting to accelerate the scoring towards the end."
-      ],
-      "updated_at": "2026-04-25T12:22:57+05:30"
+      "live_score": "Match not started",
+      "live_batting": "",
+      "live_bowling": "",
+      "live_moment": "Scheduled for 2026-04-26",
+      "gemma_observations": [],
+      "updated_at": "2026-04-25T21:52:16+05:30"
+    },
+    "Kolkata Knight Riders_vs_Lucknow Super Giants_2026-04-26": {
+      "match": {
+        "name": "38th Match",
+        "teams": [
+          "Lucknow Super Giants",
+          "Kolkata Knight Riders"
+        ],
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "status": "upcoming",
+        "date": "2026-04-26"
+      },
+      "live_score": "Match not started",
+      "live_batting": "",
+      "live_bowling": "",
+      "live_moment": "Scheduled for 2026-04-26",
+      "gemma_observations": [],
+      "updated_at": "2026-04-25T21:52:16+05:30"
     }
   },
-  "updated_at": "2026-04-25T12:22:57+05:30"
+  "updated_at": "2026-04-25T21:52:16+05:30"
 }
