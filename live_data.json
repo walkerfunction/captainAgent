@@ -10,9 +10,9 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 19/0 (2.4 ov) \u2014 GT chose to field.",
-      "live_batting": "Sanju Samson 11*(12), Ruturaj Gaikwad 8*(4)",
-      "live_bowling": "Mohammed Siraj 0/9 (1.4), Kagiso Rabada 0/10 (1)",
+      "live_score": "CSK 21/0 (2.6 ov) \u2014 GT chose to field.",
+      "live_batting": "Sanju Samson 11*(12), Ruturaj Gaikwad 10*(6)",
+      "live_bowling": "Mohammed Siraj 0/11 (1.6), Kagiso Rabada 0/10 (1)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "Samson is rotating strike, prioritizing dot balls early on.",
@@ -22,8 +22,8 @@
         "Samson is rotating the strike aggressively against Rabada.",
         "Gaikwad is prioritizing dot balls to build an early partnership."
       ],
-      "updated_at": "2026-04-26T03:13:56+05:30"
+      "updated_at": "2026-04-26T03:15:06+05:30"
     }
   },
-  "updated_at": "2026-04-26T03:13:56+05:30"
+  "updated_at": "2026-04-26T03:15:06+05:30"
 }
