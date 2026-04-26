@@ -10,20 +10,20 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 155/7 (20 ov) & LSG 135/7 (18.5 ov) \u2014 LSG need 21 runs in 7 balls.",
-      "live_batting": "Himmat Singh 9*(5), Mohammed Shami 5*(3)",
-      "live_bowling": "Anukul Roy 1/19 (2), Vaibhav Arora 2/20 (3.5), Cameron Green 1/12 (2)",
-      "live_moment": "LSG need 21 runs in 7 balls.",
+      "live_score": "KKR 155/7 (20 ov) & LSG 139/7 (19 ov) \u2014 LSG need 17 runs in 6 balls.",
+      "live_batting": "Himmat Singh 13*(6), Mohammed Shami 5*(3)",
+      "live_bowling": "Anukul Roy 1/19 (2), Vaibhav Arora 2/24 (4), Cameron Green 1/12 (2)",
+      "live_moment": "LSG need 17 runs in 6 balls.",
       "gemma_observations": [
-        "Himmat Singh is consistently looking to attack the short balls.",
         "George Linde is attempting to rotate the strike effectively against Arora.",
         "Himmat Singh is consistently targeting Cameron Green for boundaries.",
         "Himmat Singh is consistently targeting short balls from Vaibhav Arora.",
         "Himmat Singh is consistently targeting Green for boundaries.",
-        "Himmat Singh is attempting to hit boundaries off Vaibhav Arora."
+        "Himmat Singh is attempting to hit boundaries off Vaibhav Arora.",
+        "Himmat Singh is aggressively targeting Anukul Roy for boundaries."
       ],
-      "updated_at": "2026-04-26T10:45:14+05:30"
+      "updated_at": "2026-04-26T10:46:28+05:30"
     }
   },
-  "updated_at": "2026-04-26T10:45:14+05:30"
+  "updated_at": "2026-04-26T10:46:28+05:30"
 }
