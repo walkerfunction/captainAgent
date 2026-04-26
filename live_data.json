@@ -10,17 +10,18 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 1/0 (0.5 ov) \u2014 LSG chose to field.",
-      "live_batting": "Ajinkya Rahane 0*(5)",
-      "live_bowling": "Mohammed Shami 0/1 (0.5)",
+      "live_score": "KKR 2/0 (1 ov) \u2014 LSG chose to field.",
+      "live_batting": "Ajinkya Rahane 1*(6)",
+      "live_bowling": "Mohammed Shami 0/2 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Rahane is prioritizing dot balls early against Shami.",
         "Rahane is prioritizing rotation of strike against Shami.",
-        "Rahane is prioritizing dot balls early in his innings."
+        "Rahane is prioritizing dot balls early in his innings.",
+        "Rahane is prioritizing pace and length to start the innings."
       ],
-      "updated_at": "2026-04-26T07:05:01+05:30"
+      "updated_at": "2026-04-26T07:06:09+05:30"
     }
   },
-  "updated_at": "2026-04-26T07:05:01+05:30"
+  "updated_at": "2026-04-26T07:06:09+05:30"
 }
