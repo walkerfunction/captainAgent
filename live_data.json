@@ -10,20 +10,15 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 28/3 (5.1 ov) \u2014 LSG chose to field.",
-      "live_batting": "Cameron Green 6*(5)",
+      "live_score": "KKR 28/3 (5.2 ov) \u2014 LSG chose to field.",
+      "live_batting": "Cameron Green 6*(5), Rovman Powell 0*(1)",
       "live_bowling": "Mohammed Shami 0/12 (2), Mohsin Khan 2/8 (2), Prince Yadav 0/6 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
-        "Angkrish Raghuvanshi is attempting to rotate the strike against Shami.",
-        "Angkrish Raghuvanshi is attempting to rotate the strike against Mohsin Khan.",
-        "Mohammed Shami is bowling a disciplined line, conceding only a few runs.",
-        "Cameron Green is prioritizing dot balls, reflecting a defensive approach.",
-        "Cameron Green is prioritizing dot balls to avoid early dismissal.",
         "Green is attempting to rotate the strike against Mohsin Khan."
       ],
-      "updated_at": "2026-04-26T07:31:46+05:30"
+      "updated_at": "2026-04-26T07:32:57+05:30"
     }
   },
-  "updated_at": "2026-04-26T07:31:46+05:30"
+  "updated_at": "2026-04-26T07:32:57+05:30"
 }
