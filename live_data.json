@@ -8,34 +8,17 @@
           "Gujarat Titans"
         ],
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-        "status": "upcoming",
-        "date": "2026-04-26"
+        "status": "live"
       },
-      "live_score": "Match not started",
-      "live_batting": "",
-      "live_bowling": "",
-      "live_moment": "Scheduled for 2026-04-26",
-      "gemma_observations": [],
-      "updated_at": "2026-04-25T21:52:16+05:30"
-    },
-    "Kolkata Knight Riders_vs_Lucknow Super Giants_2026-04-26": {
-      "match": {
-        "name": "38th Match",
-        "teams": [
-          "Lucknow Super Giants",
-          "Kolkata Knight Riders"
-        ],
-        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-        "status": "upcoming",
-        "date": "2026-04-26"
-      },
-      "live_score": "Match not started",
-      "live_batting": "",
-      "live_bowling": "",
-      "live_moment": "Scheduled for 2026-04-26",
-      "gemma_observations": [],
-      "updated_at": "2026-04-25T21:52:16+05:30"
+      "live_score": "CSK 0/0 (0.1 ov) \u2014 GT chose to field.",
+      "live_batting": "Sanju Samson 0*(1)",
+      "live_bowling": "Mohammed Siraj 0/0 (0.1)",
+      "live_moment": "GT chose to field.",
+      "gemma_observations": [
+        "Samson is attempting to rotate strike early in the innings."
+      ],
+      "updated_at": "2026-04-26T03:02:23+05:30"
     }
   },
-  "updated_at": "2026-04-25T21:52:16+05:30"
+  "updated_at": "2026-04-26T03:02:23+05:30"
 }
