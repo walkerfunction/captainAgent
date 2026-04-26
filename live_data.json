@@ -10,17 +10,18 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 155/7 (20 ov) & LSG 61/1 (9.3 ov) \u2014 LSG need 95 runs in 63 balls.",
-      "live_batting": "Aiden Markram 28*(23), Rishabh Pant 30*(31)",
+      "live_score": "KKR 155/7 (20 ov) & LSG 62/1 (9.5 ov) \u2014 LSG need 94 runs in 61 balls.",
+      "live_batting": "Aiden Markram 28*(24), Rishabh Pant 31*(32)",
       "live_bowling": "Anukul Roy 0/8 (1), Vaibhav Arora 1/13 (3), Cameron Green 0/8 (1)",
-      "live_moment": "LSG need 95 runs in 63 balls.",
+      "live_moment": "LSG need 94 runs in 61 balls.",
       "gemma_observations": [
         "Markram is attempting to accelerate scoring against Vaibhav Arora.",
         "Pant is prioritizing rotation of strike over aggressive hitting.",
-        "Pant is rotating strike and building a platform for Markram."
+        "Pant is rotating strike and building a platform for Markram.",
+        "Pant is rotating strike effectively, prioritizing singles and doubles."
       ],
-      "updated_at": "2026-04-26T09:49:39+05:30"
+      "updated_at": "2026-04-26T09:50:54+05:30"
     }
   },
-  "updated_at": "2026-04-26T09:49:39+05:30"
+  "updated_at": "2026-04-26T09:50:54+05:30"
 }
