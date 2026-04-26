@@ -10,20 +10,20 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 158/7 (20 ov) & GT 32/0 (4.1 ov) \u2014 GT need 127 runs in 95 balls.",
-      "live_batting": "Sai Sudharsan 9*(9), Shubman Gill 23*(16)",
+      "live_score": "CSK 158/7 (20 ov) & GT 33/0 (4.2 ov) \u2014 GT need 126 runs in 94 balls.",
+      "live_batting": "Sai Sudharsan 10*(10), Shubman Gill 23*(16)",
       "live_bowling": "Akeal Hosein 0/11 (1), Anshul Kamboj 0/3 (2), Jamie Overton 0/17 (1)",
-      "live_moment": "GT need 127 runs in 95 balls.",
+      "live_moment": "GT need 126 runs in 94 balls.",
       "gemma_observations": [
-        "Gill is rotating the strike and building a solid foundation for GT.",
         "Sudharsan is prioritizing length and attempting to find gaps in the field.",
         "Gill is rotating strike and cautiously accumulating runs against the slower bowlers.",
         "Shubman Gill is attempting to rotate strike against Akeal Hosein.",
         "Sai Sudharsan is prioritizing length and looking for gaps.",
-        "GT are cautiously building an innings, avoiding early risks."
+        "GT are cautiously building an innings, avoiding early risks.",
+        "Shubman Gill is prioritizing length and attempting to rotate the strike."
       ],
-      "updated_at": "2026-04-26T05:28:06+05:30"
+      "updated_at": "2026-04-26T05:29:20+05:30"
     }
   },
-  "updated_at": "2026-04-26T05:28:06+05:30"
+  "updated_at": "2026-04-26T05:29:20+05:30"
 }
