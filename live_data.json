@@ -10,17 +10,17 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 0/0 (0.4 ov) \u2014 GT chose to field.",
-      "live_batting": "Sanju Samson 0*(4)",
-      "live_bowling": "Mohammed Siraj 0/0 (0.4)",
+      "live_score": "CSK 0/0 (0.5 ov) \u2014 GT chose to field.",
+      "live_batting": "Sanju Samson 0*(5)",
+      "live_bowling": "Mohammed Siraj 0/0 (0.5)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "Samson is attempting to rotate strike early in the innings.",
         "Samson is prioritizing dot balls to start the innings cautiously.",
         "Samson is rotating strike, prioritizing dot balls early on."
       ],
-      "updated_at": "2026-04-26T03:04:39+05:30"
+      "updated_at": "2026-04-26T03:05:47+05:30"
     }
   },
-  "updated_at": "2026-04-26T03:04:39+05:30"
+  "updated_at": "2026-04-26T03:05:47+05:30"
 }
