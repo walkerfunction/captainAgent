@@ -10,17 +10,17 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 155/7 (20 ov) & LSG 8/0 (0.6 ov) \u2014 LSG need 148 runs in 114 balls.",
-      "live_batting": "Aiden Markram 6*(4), Mitchell Marsh 2*(2)",
-      "live_bowling": "Anukul Roy 0/8 (0.6)",
-      "live_moment": "LSG need 148 runs in 114 balls.",
+      "live_score": "KKR 155/7 (20 ov) & LSG 8/1 (1.1 ov) \u2014 LSG need 148 runs in 113 balls.",
+      "live_batting": "Aiden Markram 6*(4)",
+      "live_bowling": "Anukul Roy 0/8 (1), Vaibhav Arora 1/0 (0.1)",
+      "live_moment": "LSG need 148 runs in 113 balls.",
       "gemma_observations": [
         "Rinku Singh is aggressively targeting length, scoring quickly.",
         "Markram is attempting to rotate the strike against Anukul Roy.",
         "Marsh is content with singles, maintaining a cautious approach."
       ],
-      "updated_at": "2026-04-26T09:08:25+05:30"
+      "updated_at": "2026-04-26T09:09:38+05:30"
     }
   },
-  "updated_at": "2026-04-26T09:08:25+05:30"
+  "updated_at": "2026-04-26T09:09:38+05:30"
 }
