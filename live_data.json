@@ -10,15 +10,15 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 28/3 (5.6 ov) \u2014 GT chose to field.",
-      "live_batting": "Ruturaj Gaikwad 12*(13), Dewald Brevis 1*(4)",
-      "live_bowling": "Mohammed Siraj 1/12 (3), Kagiso Rabada 2/16 (2.6)",
+      "live_score": "CSK 29/3 (6.1 ov) \u2014 GT chose to field.",
+      "live_batting": "Ruturaj Gaikwad 12*(13), Dewald Brevis 2*(5)",
+      "live_bowling": "Mohammed Siraj 1/12 (3), Kagiso Rabada 2/16 (3), Manav Suthar 0/1 (0.1)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [
         "Ruturaj Gaikwad is attempting to rotate the strike against Siraj."
       ],
-      "updated_at": "2026-04-26T03:32:59+05:30"
+      "updated_at": "2026-04-26T03:34:12+05:30"
     }
   },
-  "updated_at": "2026-04-26T03:32:59+05:30"
+  "updated_at": "2026-04-26T03:34:12+05:30"
 }
