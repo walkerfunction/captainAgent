@@ -10,20 +10,20 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "CSK 158/7 (20 ov) & GT 90/1 (10.4 ov) \u2014 GT need 69 runs in 56 balls.",
-      "live_batting": "Sai Sudharsan 46*(30), Jos Buttler 10*(11)",
-      "live_bowling": "Akeal Hosein 0/19 (1.4), Anshul Kamboj 0/16 (3), Jamie Overton 0/17 (1)",
-      "live_moment": "GT need 69 runs in 56 balls.",
+      "live_score": "CSK 158/7 (20 ov) & GT 92/1 (10.5 ov) \u2014 GT need 67 runs in 55 balls.",
+      "live_batting": "Sai Sudharsan 48*(31), Jos Buttler 10*(11)",
+      "live_bowling": "Akeal Hosein 0/21 (1.5), Anshul Kamboj 0/16 (3), Jamie Overton 0/17 (1)",
+      "live_moment": "GT need 67 runs in 55 balls.",
       "gemma_observations": [
-        "Buttler is playing a cautious game, prioritizing rotation of strike over aggressive hitting.",
         "Sudharsan is consistently looking to drive through the off-side channel.",
         "Buttler is attempting to rotate strike against Akeal Hosein.",
         "Sudharsan is increasingly looking to drive through the on-side.",
         "Buttler is attempting to accelerate scoring through aggressive drives.",
-        "Sudharsan is rotating the strike and prioritizing dot balls."
+        "Sudharsan is rotating the strike and prioritizing dot balls.",
+        "Sudharsan is rotating the strike and building his innings carefully."
       ],
-      "updated_at": "2026-04-26T06:07:20+05:30"
+      "updated_at": "2026-04-26T06:08:33+05:30"
     }
   },
-  "updated_at": "2026-04-26T06:07:20+05:30"
+  "updated_at": "2026-04-26T06:08:33+05:30"
 }
