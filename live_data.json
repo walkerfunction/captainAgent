@@ -14,13 +14,9 @@
       "live_batting": "Mohammed Shami 11*(6), Prince Yadav 0*(1)",
       "live_bowling": "Anukul Roy 1/19 (2), Vaibhav Arora 2/24 (4), Cameron Green 1/12 (2)",
       "live_moment": "Super over in progress",
-      "gemma_observations": [
-        "Yadav is playing cautiously, prioritizing rotation of the strike.",
-        "Yadav is content rotating the strike with defensive shots.",
-        "Yadav is rotating the strike, prioritizing a cautious approach."
-      ],
-      "updated_at": "2026-04-26T11:16:54+05:30"
+      "gemma_observations": [],
+      "updated_at": "2026-04-26T11:18:00+05:30"
     }
   },
-  "updated_at": "2026-04-26T11:16:54+05:30"
+  "updated_at": "2026-04-26T11:18:00+05:30"
 }
