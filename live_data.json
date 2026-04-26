@@ -10,15 +10,16 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 155/7 (20 ov) & LSG 119/5 (17.1 ov) \u2014 LSG need 37 runs in 17 balls.",
-      "live_batting": "Ayush Badoni 24*(18), Himmat Singh 7*(3)",
+      "live_score": "KKR 155/7 (20 ov) & LSG 120/6 (17.3 ov) \u2014 LSG need 36 runs in 15 balls.",
+      "live_batting": "Himmat Singh 8*(4)",
       "live_bowling": "Anukul Roy 1/19 (2), Vaibhav Arora 1/13 (3), Cameron Green 1/12 (2)",
-      "live_moment": "LSG need 37 runs in 17 balls.",
+      "live_moment": "LSG need 36 runs in 15 balls.",
       "gemma_observations": [
-        "Badoni is aggressively targeting Green for boundaries."
+        "Badoni is aggressively targeting Green for boundaries.",
+        "Himmat Singh is attempting to accelerate scoring through boundaries."
       ],
-      "updated_at": "2026-04-26T10:35:28+05:30"
+      "updated_at": "2026-04-26T10:36:40+05:30"
     }
   },
-  "updated_at": "2026-04-26T10:35:28+05:30"
+  "updated_at": "2026-04-26T10:36:40+05:30"
 }
