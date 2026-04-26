@@ -10,20 +10,13 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 149/7 (19.4 ov) \u2014 LSG chose to field.",
-      "live_batting": "Rinku Singh 77*(49), Sunil Narine 4*(6)",
+      "live_score": "KKR 155/7 (19.5 ov) \u2014 LSG chose to field.",
+      "live_batting": "Rinku Singh 83*(50), Sunil Narine 4*(6)",
       "live_bowling": "Mohammed Shami 0/34 (4), Mohsin Khan 5/23 (4), Prince Yadav 0/24 (4)",
       "live_moment": "LSG chose to field.",
-      "gemma_observations": [
-        "Rinku Singh is aggressively targeting length, attempting boundaries.",
-        "Rinku Singh is aggressively targeting length, attempting boundaries consistently.",
-        "Rinku Singh is aggressively targeting length, attempting boundaries frequently.",
-        "Rinku Singh is aggressively targeting length, seeking boundaries.",
-        "Rinku Singh is aggressively targeting length, attempting to clear the boundary.",
-        "Rinku Singh is aggressively targeting Mohammed Shami for boundaries."
-      ],
-      "updated_at": "2026-04-26T08:46:41+05:30"
+      "gemma_observations": [],
+      "updated_at": "2026-04-26T08:47:53+05:30"
     }
   },
-  "updated_at": "2026-04-26T08:46:41+05:30"
+  "updated_at": "2026-04-26T08:47:53+05:30"
 }
