@@ -15,15 +15,15 @@
       "live_bowling": "Anukul Roy 0/8 (1), Vaibhav Arora 1/6 (2), Cameron Green 0/8 (1)",
       "live_moment": "LSG need 134 runs in 96 balls.",
       "gemma_observations": [
-        "Markram is attempting to accelerate scoring through aggressive drives.",
         "Pant is prioritizing dot balls to minimize the scoring rate.",
         "Rishabh Pant is attempting to rotate the strike against Anukul Roy.",
         "Aiden Markram is prioritizing dot balls to conserve his wicket.",
         "Markram is attempting to accelerate the scoring rate against Arora.",
-        "Pant is rotating the strike and prioritizing dot balls to reset his innings."
+        "Pant is rotating the strike and prioritizing dot balls to reset his innings.",
+        "Pant is prioritizing dot balls to shorten the remaining innings."
       ],
-      "updated_at": "2026-04-26T09:24:06+05:30"
+      "updated_at": "2026-04-26T09:25:16+05:30"
     }
   },
-  "updated_at": "2026-04-26T09:24:06+05:30"
+  "updated_at": "2026-04-26T09:25:16+05:30"
 }
