@@ -10,17 +10,17 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 155/7 (20 ov) & LSG 92/4 (14.6 ov) \u2014 LSG need 64 runs in 30 balls.",
-      "live_batting": "Ayush Badoni 5*(9), Mukul Choudhary 1*(1)",
-      "live_bowling": "Anukul Roy 0/8 (1), Vaibhav Arora 1/13 (3), Cameron Green 1/12 (2)",
-      "live_moment": "LSG need 64 runs in 30 balls.",
+      "live_score": "KKR 155/7 (20 ov) & LSG 93/4 (15.1 ov) \u2014 LSG need 63 runs in 29 balls.",
+      "live_batting": "Ayush Badoni 6*(10), Mukul Choudhary 1*(1)",
+      "live_bowling": "Anukul Roy 0/9 (1.1), Vaibhav Arora 1/13 (3), Cameron Green 1/12 (2)",
+      "live_moment": "LSG need 63 runs in 29 balls.",
       "gemma_observations": [
         "Badoni is attempting to accelerate scoring against Green.",
         "Choudhary is rotating strike, prioritizing dot balls.",
         "Choudhary is prioritizing dot balls to reduce the required run rate."
       ],
-      "updated_at": "2026-04-26T10:21:06+05:30"
+      "updated_at": "2026-04-26T10:22:19+05:30"
     }
   },
-  "updated_at": "2026-04-26T10:21:06+05:30"
+  "updated_at": "2026-04-26T10:22:19+05:30"
 }
