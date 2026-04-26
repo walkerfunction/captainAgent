@@ -10,9 +10,9 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "KKR 64/4 (9.6 ov) \u2014 LSG chose to field.",
-      "live_batting": "Cameron Green 26*(17), Rinku Singh 14*(13)",
-      "live_bowling": "Mohammed Shami 0/12 (2), Mohsin Khan 3/14 (3), Prince Yadav 0/6 (1)",
+      "live_score": "KKR 65/4 (10.1 ov) \u2014 LSG chose to field.",
+      "live_batting": "Cameron Green 26*(17), Rinku Singh 15*(14)",
+      "live_bowling": "Mohammed Shami 0/12 (2), Mohsin Khan 3/15 (3.1), Prince Yadav 0/6 (1)",
       "live_moment": "LSG chose to field.",
       "gemma_observations": [
         "Rinku Singh is attempting to accelerate against Mohsin Khan.",
@@ -22,8 +22,8 @@
         "Cameron Green is prioritizing defense and rotating the strike.",
         "Cameron Green is prioritizing acceleration, particularly targeting Prince Yadav."
       ],
-      "updated_at": "2026-04-26T07:54:13+05:30"
+      "updated_at": "2026-04-26T07:55:26+05:30"
     }
   },
-  "updated_at": "2026-04-26T07:54:13+05:30"
+  "updated_at": "2026-04-26T07:55:26+05:30"
 }
