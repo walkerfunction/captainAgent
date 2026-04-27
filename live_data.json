@@ -10,12 +10,12 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 1/1 (0.4 ov) \u2014 RCB chose to field.",
-      "live_batting": "KL Rahul 0*(1), Nitish Rana 1*(1)",
-      "live_bowling": "Bhuvneshwar Kumar 1/1 (0.4)",
+      "live_score": "DC 2/1 (1 ov) \u2014 RCB chose to field.",
+      "live_batting": "KL Rahul 1*(2), Nitish Rana 1*(2)",
+      "live_bowling": "Bhuvneshwar Kumar 1/2 (1)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-04-27T07:05:25+05:30"
+      "updated_at": "2026-04-27T07:06:28+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-27": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Willowmoore Park, Benoni",
         "status": "live"
       },
-      "live_score": "SA-W 155/6 (20 ov) & IND-W 29/2 (6.1 ov) \u2014 IND Women need 127 runs in 83 balls.",
-      "live_batting": "Anushka Sharma 16*(18), Harmanpreet Kaur 2*(10)",
+      "live_score": "SA-W 155/6 (20 ov) & IND-W 30/2 (6.4 ov) \u2014 IND Women need 126 runs in 80 balls.",
+      "live_batting": "Anushka Sharma 17*(20), Harmanpreet Kaur 2*(11)",
       "live_bowling": "Eliz-Mari Marx 1/12 (3), Chloe Tryon 0/8 (1), Ayabonga Khaka 1/8 (2)",
-      "live_moment": "IND Women need 127 runs in 83 balls.",
+      "live_moment": "IND Women need 126 runs in 80 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-27T07:05:26+05:30"
+      "updated_at": "2026-04-27T07:06:28+05:30"
     }
   },
-  "updated_at": "2026-04-27T07:05:26+05:30"
+  "updated_at": "2026-04-27T07:06:28+05:30"
 }
