@@ -10,12 +10,12 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 8/6 (3.5 ov) \u2014 RCB chose to field.",
-      "live_batting": "Abishek Porel 0*(2)",
-      "live_bowling": "Bhuvneshwar Kumar 3/3 (2), Josh Hazlewood 3/5 (1.5)",
+      "live_score": "DC 9/6 (4 ov) \u2014 RCB chose to field.",
+      "live_batting": "Abishek Porel 0*(2), David Miller 1*(1)",
+      "live_bowling": "Bhuvneshwar Kumar 3/3 (2), Josh Hazlewood 3/6 (2)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-04-27T07:28:15+05:30"
+      "updated_at": "2026-04-27T07:29:18+05:30"
     },
     "India Women_vs_South Africa Women_2026-04-27": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Willowmoore Park, Benoni",
         "status": "live"
       },
-      "live_score": "SA-W 155/6 (20 ov) & IND-W 69/3 (11.2 ov) \u2014 IND Women need 87 runs in 52 balls.",
-      "live_batting": "Harmanpreet Kaur 18*(24), Bharti Fulmali 21*(15)",
-      "live_bowling": "Eliz-Mari Marx 1/12 (3), Chloe Tryon 0/15 (2.2), Ayabonga Khaka 1/8 (2)",
-      "live_moment": "IND Women need 87 runs in 52 balls.",
+      "live_score": "SA-W 155/6 (20 ov) & IND-W 71/3 (11.4 ov) \u2014 IND Women need 85 runs in 50 balls.",
+      "live_batting": "Harmanpreet Kaur 19*(25), Bharti Fulmali 22*(16)",
+      "live_bowling": "Eliz-Mari Marx 1/12 (3), Chloe Tryon 0/17 (2.4), Ayabonga Khaka 1/8 (2)",
+      "live_moment": "IND Women need 85 runs in 50 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-27T07:28:16+05:30"
+      "updated_at": "2026-04-27T07:29:18+05:30"
     }
   },
-  "updated_at": "2026-04-27T07:28:16+05:30"
+  "updated_at": "2026-04-27T07:29:18+05:30"
 }
