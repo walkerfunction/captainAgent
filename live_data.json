@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Delhi Capitals_vs_Royal Challengers Bengaluru_2026-04-27": {
+    "Punjab Kings_vs_Rajasthan Royals_2026-04-28": {
       "match": {
-        "name": "39th Match",
+        "name": "40th Match",
         "teams": [
-          "Delhi Capitals",
-          "Royal Challengers Bengaluru"
+          "Punjab Kings",
+          "Rajasthan Royals"
         ],
-        "venue": "Arun Jaitley Stadium, Delhi",
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "DC 75/10 (16.3 ov) & RCB 77/1 (6.3 ov) \u2014 Match Over",
-      "live_batting": "Virat Kohli 23*(15), Devdutt Padikkal 34*(13)",
-      "live_bowling": "Kyle Jamieson 1/42 (3), Dushmantha Chameera 0/18 (2), Axar Patel 0/5 (1)",
-      "live_moment": "Match Over",
+      "live_score": "PBKS 0/0 (0.1 ov) \u2014 RR chose to field.",
+      "live_batting": "Prabhsimran Singh 0*(1)",
+      "live_bowling": "Jofra Archer 0/0 (0.1)",
+      "live_moment": "RR chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-04-27T09:27:12+05:30"
+      "updated_at": "2026-04-28T07:01:27+05:30"
     }
   },
-  "updated_at": "2026-04-27T09:27:12+05:30"
+  "updated_at": "2026-04-28T07:01:27+05:30"
 }
