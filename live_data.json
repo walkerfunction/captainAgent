@@ -10,13 +10,13 @@
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "status": "live"
       },
-      "live_score": "PBKS 222/4 (20 ov) & RR 1/0 (0.3 ov) \u2014 RR need 222 runs in 117 balls.",
-      "live_batting": "Yashasvi Jaiswal 1*(1), Vaibhav Sooryavanshi 0*(2)",
-      "live_bowling": "Arshdeep Singh 0/1 (0.3)",
-      "live_moment": "RR need 222 runs in 117 balls.",
+      "live_score": "PBKS 222/4 (20 ov) & RR 11/0 (0.5 ov) \u2014 RR need 212 runs in 115 balls.",
+      "live_batting": "Yashasvi Jaiswal 1*(1), Vaibhav Sooryavanshi 10*(4)",
+      "live_bowling": "Arshdeep Singh 0/11 (0.5)",
+      "live_moment": "RR need 212 runs in 115 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-28T08:55:10+05:30"
+      "updated_at": "2026-04-28T08:56:11+05:30"
     }
   },
-  "updated_at": "2026-04-28T08:55:10+05:30"
+  "updated_at": "2026-04-28T08:56:11+05:30"
 }
