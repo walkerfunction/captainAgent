@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 208/3 (17 ov) \u2014 MI chose to bat.",
-      "live_batting": "Ryan Rickelton 108*(49), Hardik Pandya 21*(9)",
-      "live_bowling": "Pat Cummins 0/39 (4), Praful Hinge 1/40 (3), Eshan Malinga 1/16 (3)",
+      "live_score": "MI 214/3 (17.1 ov) \u2014 MI chose to bat.",
+      "live_batting": "Ryan Rickelton 108*(49), Hardik Pandya 27*(10)",
+      "live_bowling": "Pat Cummins 0/39 (4), Praful Hinge 1/40 (3), Eshan Malinga 1/22 (3.1)",
       "live_moment": "MI chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-04-29T08:38:58+05:30"
+      "updated_at": "2026-04-29T08:40:00+05:30"
     }
   },
-  "updated_at": "2026-04-29T08:38:58+05:30"
+  "updated_at": "2026-04-29T08:40:00+05:30"
 }
