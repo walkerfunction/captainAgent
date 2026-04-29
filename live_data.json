@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 243/5 (20 ov) \u2014 MI chose to bat.",
-      "live_batting": "Ryan Rickelton 123*(55), Robin Minz 1*(1)",
-      "live_bowling": "Pat Cummins 0/39 (4), Praful Hinge 2/54 (4), Eshan Malinga 1/29 (4)",
-      "live_moment": "MI chose to bat.",
+      "live_score": "MI 243/5 (20 ov) & SRH 0/0 (0.1 ov) \u2014 SRH need 244 runs in 119 balls.",
+      "live_batting": "Abhishek Sharma 0*(1)",
+      "live_bowling": "Trent Boult 0/0 (0.1)",
+      "live_moment": "SRH need 244 runs in 119 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-29T09:14:59+05:30"
+      "updated_at": "2026-04-29T09:16:00+05:30"
     }
   },
-  "updated_at": "2026-04-29T09:14:59+05:30"
+  "updated_at": "2026-04-29T09:16:00+05:30"
 }
