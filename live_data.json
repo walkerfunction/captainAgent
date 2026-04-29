@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 243/5 (20 ov) & SRH 221/4 (17.1 ov) \u2014 SRH need 23 runs in 17 balls.",
-      "live_batting": "Heinrich Klaasen 60*(27), Salil Arora 7*(4)",
-      "live_bowling": "Trent Boult 1/41 (4), Jasprit Bumrah 0/42 (3.1), Will Jacks 0/19 (1)",
-      "live_moment": "SRH need 23 runs in 17 balls.",
+      "live_score": "MI 243/5 (20 ov) & SRH 225/4 (17.2 ov) \u2014 SRH need 19 runs in 16 balls.",
+      "live_batting": "Heinrich Klaasen 64*(28), Salil Arora 7*(4)",
+      "live_bowling": "Trent Boult 1/41 (4), Jasprit Bumrah 0/46 (3.2), Will Jacks 0/19 (1)",
+      "live_moment": "SRH need 19 runs in 16 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-29T10:57:59+05:30"
+      "updated_at": "2026-04-29T10:59:01+05:30"
     }
   },
-  "updated_at": "2026-04-29T10:57:59+05:30"
+  "updated_at": "2026-04-29T10:59:01+05:30"
 }
