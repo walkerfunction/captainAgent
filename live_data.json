@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "MI 243/5 (20 ov) & SRH 25/0 (1.5 ov) \u2014 SRH need 219 runs in 109 balls.",
-      "live_batting": "Abhishek Sharma 15*(7), Travis Head 2*(4)",
-      "live_bowling": "Trent Boult 0/11 (1), Jasprit Bumrah 0/10 (0.5)",
-      "live_moment": "SRH need 219 runs in 109 balls.",
+      "live_score": "MI 243/5 (20 ov) & SRH 25/0 (2 ov) \u2014 SRH need 219 runs in 108 balls.",
+      "live_batting": "Abhishek Sharma 15*(8), Travis Head 2*(4)",
+      "live_bowling": "Trent Boult 0/11 (1), Jasprit Bumrah 0/10 (1)",
+      "live_moment": "SRH need 219 runs in 108 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-29T09:26:17+05:30"
+      "updated_at": "2026-04-29T09:27:19+05:30"
     }
   },
-  "updated_at": "2026-04-29T09:26:17+05:30"
+  "updated_at": "2026-04-29T09:27:19+05:30"
 }
