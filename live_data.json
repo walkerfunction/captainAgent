@@ -10,13 +10,13 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "RCB 79/3 (7.5 ov) \u2014 GT chose to field.",
-      "live_batting": "Devdutt Padikkal 25*(13), Jitesh Sharma 0*(1)",
-      "live_bowling": "Mohammed Siraj 1/26 (3), Kagiso Rabada 1/32 (3), Jason Holder 0/12 (1)",
+      "live_score": "RCB 80/4 (8.1 ov) \u2014 GT chose to field.",
+      "live_batting": "Devdutt Padikkal 25*(13)",
+      "live_bowling": "Mohammed Siraj 1/26 (3), Kagiso Rabada 1/32 (3), Jason Holder 1/12 (1.1)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-04-30T07:43:51+05:30"
+      "updated_at": "2026-04-30T07:44:52+05:30"
     }
   },
-  "updated_at": "2026-04-30T07:43:51+05:30"
+  "updated_at": "2026-04-30T07:44:52+05:30"
 }
