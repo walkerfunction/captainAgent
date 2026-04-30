@@ -10,13 +10,13 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "RCB 155/10 (19.2 ov) & GT 104/3 (9.4 ov) \u2014 GT need 52 runs in 62 balls.",
-      "live_batting": "Washington Sundar 12*(11), M Shahrukh Khan 3*(5)",
-      "live_bowling": "Bhuvneshwar Kumar 3/28 (4), Josh Hazlewood 0/51 (3.4), Suyash Sharma 0/17 (1)",
-      "live_moment": "GT need 52 runs in 62 balls.",
+      "live_score": "RCB 155/10 (19.2 ov) & GT 109/3 (10 ov) \u2014 GT need 47 runs in 60 balls.",
+      "live_batting": "Washington Sundar 12*(11), M Shahrukh Khan 8*(7)",
+      "live_bowling": "Bhuvneshwar Kumar 3/28 (4), Josh Hazlewood 0/56 (4), Suyash Sharma 0/17 (1)",
+      "live_moment": "GT need 47 runs in 60 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-30T09:54:30+05:30"
+      "updated_at": "2026-04-30T09:55:31+05:30"
     }
   },
-  "updated_at": "2026-04-30T09:54:30+05:30"
+  "updated_at": "2026-04-30T09:55:31+05:30"
 }
