@@ -10,13 +10,13 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "RCB 155/10 (19.2 ov) & GT 138/5 (13.1 ov) \u2014 GT need 18 runs in 41 balls.",
-      "live_batting": "Rahul Tewatia 17*(10), Jason Holder 11*(7)",
-      "live_bowling": "Bhuvneshwar Kumar 3/28 (4), Josh Hazlewood 0/56 (4), Suyash Sharma 0/28 (2.1)",
-      "live_moment": "GT need 18 runs in 41 balls.",
+      "live_score": "RCB 155/10 (19.2 ov) & GT 138/5 (13.2 ov) \u2014 GT need 18 runs in 40 balls.",
+      "live_batting": "Rahul Tewatia 17*(10), Jason Holder 11*(8)",
+      "live_bowling": "Bhuvneshwar Kumar 3/28 (4), Josh Hazlewood 0/56 (4), Suyash Sharma 0/28 (2.2)",
+      "live_moment": "GT need 18 runs in 40 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-30T10:18:08+05:30"
+      "updated_at": "2026-04-30T10:19:10+05:30"
     }
   },
-  "updated_at": "2026-04-30T10:18:08+05:30"
+  "updated_at": "2026-04-30T10:19:10+05:30"
 }
