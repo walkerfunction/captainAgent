@@ -10,13 +10,13 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "RCB 34/1 (2.4 ov) \u2014 GT chose to field.",
-      "live_batting": "Virat Kohli 28*(11)",
-      "live_bowling": "Mohammed Siraj 1/12 (1.4), Kagiso Rabada 0/21 (1)",
+      "live_score": "RCB 34/1 (2.5 ov) \u2014 GT chose to field.",
+      "live_batting": "Virat Kohli 28*(11), Devdutt Padikkal 0*(1)",
+      "live_bowling": "Mohammed Siraj 1/12 (1.5), Kagiso Rabada 0/21 (1)",
       "live_moment": "GT chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-04-30T07:14:00+05:30"
+      "updated_at": "2026-04-30T07:15:02+05:30"
     }
   },
-  "updated_at": "2026-04-30T07:14:00+05:30"
+  "updated_at": "2026-04-30T07:15:02+05:30"
 }
