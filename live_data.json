@@ -10,13 +10,13 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "RCB 155/10 (19.2 ov) & GT 30/0 (1.5 ov) \u2014 GT need 126 runs in 109 balls.",
-      "live_batting": "Sai Sudharsan 1*(2), Shubman Gill 29*(9)",
-      "live_bowling": "Bhuvneshwar Kumar 0/12 (1), Josh Hazlewood 0/18 (0.5)",
-      "live_moment": "GT need 126 runs in 109 balls.",
+      "live_score": "RCB 155/10 (19.2 ov) & GT 36/0 (2 ov) \u2014 GT need 120 runs in 108 balls.",
+      "live_batting": "Sai Sudharsan 1*(2), Shubman Gill 35*(10)",
+      "live_bowling": "Bhuvneshwar Kumar 0/12 (1), Josh Hazlewood 0/24 (1)",
+      "live_moment": "GT need 120 runs in 108 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-04-30T09:12:21+05:30"
+      "updated_at": "2026-04-30T09:13:22+05:30"
     }
   },
-  "updated_at": "2026-04-30T09:12:21+05:30"
+  "updated_at": "2026-04-30T09:13:22+05:30"
 }
