@@ -10,13 +10,13 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 225/6 (20 ov) & DC 59/0 (4.5 ov) \u2014 DC need 167 runs in 91 balls.",
-      "live_batting": "Pathum Nissanka 44*(20), KL Rahul 14*(9)",
-      "live_bowling": "Jofra Archer 0/26 (2), Nandre Burger 0/23 (2), Tushar Deshpande 0/10 (0.5)",
-      "live_moment": "DC need 167 runs in 91 balls.",
+      "live_score": "RR 225/6 (20 ov) & DC 59/0 (5 ov) \u2014 DC need 167 runs in 90 balls.",
+      "live_batting": "Pathum Nissanka 44*(21), KL Rahul 14*(9)",
+      "live_bowling": "Jofra Archer 0/26 (2), Nandre Burger 0/23 (2), Tushar Deshpande 0/10 (1)",
+      "live_moment": "DC need 167 runs in 90 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-01T09:27:47+05:30"
+      "updated_at": "2026-05-01T09:28:48+05:30"
     }
   },
-  "updated_at": "2026-05-01T09:27:47+05:30"
+  "updated_at": "2026-05-01T09:28:48+05:30"
 }
