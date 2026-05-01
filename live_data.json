@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Gujarat Titans_vs_Royal Challengers Bengaluru_2026-04-30": {
+    "Delhi Capitals_vs_Rajasthan Royals_2026-05-01": {
       "match": {
-        "name": "42nd Match",
+        "name": "43rd Match",
         "teams": [
-          "Royal Challengers Bengaluru",
-          "Gujarat Titans"
+          "Rajasthan Royals",
+          "Delhi Capitals"
         ],
-        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RCB 155/10 (19.2 ov) & GT 154/6 (15.4 ov) \u2014 GT need 2 runs in 26 balls.",
-      "live_batting": "Rahul Tewatia 27*(17), Rashid Khan 3*(5)",
-      "live_bowling": "Bhuvneshwar Kumar 3/28 (4), Josh Hazlewood 0/56 (4), Suyash Sharma 1/40 (3.4)",
-      "live_moment": "GT need 2 runs in 26 balls.",
+      "live_score": "RR 6/1 (0.3 ov) \u2014 RR chose to bat.",
+      "live_batting": "",
+      "live_bowling": "Mitchell Starc 1/6 (0.3)",
+      "live_moment": "RR chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-04-30T10:32:31+05:30"
+      "updated_at": "2026-05-01T07:02:50+05:30"
     }
   },
-  "updated_at": "2026-04-30T10:32:31+05:30"
+  "updated_at": "2026-05-01T07:02:50+05:30"
 }
