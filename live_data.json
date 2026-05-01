@@ -10,13 +10,13 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "RR 46/2 (5.2 ov) \u2014 RR chose to bat.",
-      "live_batting": "Dhruv Jurel 18*(13), Riyan Parag 18*(14)",
-      "live_bowling": "Mitchell Starc 1/16 (2), Kyle Jamieson 1/23 (2.2), Axar Patel 0/7 (1)",
+      "live_score": "RR 53/2 (5.4 ov) \u2014 RR chose to bat.",
+      "live_batting": "Dhruv Jurel 18*(13), Riyan Parag 25*(16)",
+      "live_bowling": "Mitchell Starc 1/16 (2), Kyle Jamieson 1/30 (2.4), Axar Patel 0/7 (1)",
       "live_moment": "RR chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-05-01T07:28:32+05:30"
+      "updated_at": "2026-05-01T07:29:34+05:30"
     }
   },
-  "updated_at": "2026-05-01T07:28:32+05:30"
+  "updated_at": "2026-05-01T07:29:34+05:30"
 }
