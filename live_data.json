@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "MI 139/6 (17.2 ov) \u2014 MI chose to bat.",
-      "live_batting": "Hardik Pandya 10*(15)",
-      "live_bowling": "Mukesh Choudhary 0/25 (3), Anshul Kamboj 2/17 (2.2), Prashant Veer 0/25 (2)",
+      "live_score": "MI 140/6 (17.4 ov) \u2014 MI chose to bat.",
+      "live_batting": "Hardik Pandya 10*(15), Krish Bhagat 1*(2)",
+      "live_bowling": "Mukesh Choudhary 0/25 (3), Anshul Kamboj 2/18 (2.4), Prashant Veer 0/25 (2)",
       "live_moment": "MI chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-05-02T08:40:25+05:30"
+      "updated_at": "2026-05-02T08:41:26+05:30"
     }
   },
-  "updated_at": "2026-05-02T08:40:25+05:30"
+  "updated_at": "2026-05-02T08:41:26+05:30"
 }
