@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "MI 159/7 (20 ov) \u2014 MI chose to bat.",
-      "live_batting": "Krish Bhagat 3*(6), Trent Boult 7*(2)",
-      "live_bowling": "Mukesh Choudhary 0/25 (3), Anshul Kamboj 3/32 (4), Prashant Veer 0/25 (2)",
-      "live_moment": "MI chose to bat.",
+      "live_score": "MI 159/7 (20 ov) & CSK 1/0 (0.2 ov) \u2014 CSK need 159 runs in 118 balls.",
+      "live_batting": "Sanju Samson 1*(1), Ruturaj Gaikwad 0*(1)",
+      "live_bowling": "Trent Boult 0/1 (0.2)",
+      "live_moment": "CSK need 159 runs in 118 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-02T09:09:11+05:30"
+      "updated_at": "2026-05-02T09:10:13+05:30"
     }
   },
-  "updated_at": "2026-05-02T09:09:11+05:30"
+  "updated_at": "2026-05-02T09:10:13+05:30"
 }
