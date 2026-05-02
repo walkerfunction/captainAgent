@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Delhi Capitals_vs_Rajasthan Royals_2026-05-01": {
+    "Chennai Super Kings_vs_Mumbai Indians_2026-05-02": {
       "match": {
-        "name": "43rd Match",
+        "name": "44th Match",
         "teams": [
-          "Rajasthan Royals",
-          "Delhi Capitals"
+          "Mumbai Indians",
+          "Chennai Super Kings"
         ],
-        "venue": "Sawai Mansingh Stadium, Jaipur",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "RR 225/6 (20 ov) & DC 225/3 (19.1 ov) \u2014 DC need 1 run in 5 balls.",
-      "live_batting": "Tristan Stubbs 18*(11), Ashutosh Sharma 25*(14)",
-      "live_bowling": "Jofra Archer 1/46 (4), Nandre Burger 0/41 (3), Tushar Deshpande 1/38 (4)",
-      "live_moment": "DC need 1 run in 5 balls.",
+      "live_score": "MI 0/0 (0.1 ov) \u2014 MI chose to bat.",
+      "live_batting": "Will Jacks 0*(1)",
+      "live_bowling": "Mukesh Choudhary 0/0 (0.1)",
+      "live_moment": "MI chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-05-01T10:55:03+05:30"
+      "updated_at": "2026-05-02T07:01:46+05:30"
     }
   },
-  "updated_at": "2026-05-01T10:55:03+05:30"
+  "updated_at": "2026-05-02T07:01:46+05:30"
 }
