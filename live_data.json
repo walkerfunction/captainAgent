@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "MI 159/7 (20 ov) & CSK 49/1 (4.4 ov) \u2014 CSK need 111 runs in 92 balls.",
-      "live_batting": "Ruturaj Gaikwad 19*(10), Urvil Patel 18*(9)",
-      "live_bowling": "Trent Boult 0/24 (2), Jasprit Bumrah 1/13 (2), Krish Bhagat 0/12 (0.4)",
-      "live_moment": "CSK need 111 runs in 92 balls.",
+      "live_score": "MI 159/7 (20 ov) & CSK 49/1 (4.5 ov) \u2014 CSK need 111 runs in 91 balls.",
+      "live_batting": "Ruturaj Gaikwad 19*(10), Urvil Patel 18*(10)",
+      "live_bowling": "Trent Boult 0/24 (2), Jasprit Bumrah 1/13 (2), Krish Bhagat 0/12 (0.5)",
+      "live_moment": "CSK need 111 runs in 91 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-02T09:31:48+05:30"
+      "updated_at": "2026-05-02T09:32:50+05:30"
     }
   },
-  "updated_at": "2026-05-02T09:31:48+05:30"
+  "updated_at": "2026-05-02T09:32:50+05:30"
 }
