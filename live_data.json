@@ -10,13 +10,13 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "PBKS 163/9 (20 ov) & GT 18/1 (2 ov) \u2014 GT need 146 runs in 108 balls.",
-      "live_batting": "Sai Sudharsan 11*(5), Jos Buttler 2*(3)",
-      "live_bowling": "Xavier Bartlett 0/12 (1), Arshdeep Singh 1/6 (1)",
-      "live_moment": "GT need 146 runs in 108 balls.",
+      "live_score": "PBKS 163/9 (20 ov) & GT 19/1 (2.3 ov) \u2014 GT need 145 runs in 105 balls.",
+      "live_batting": "Sai Sudharsan 12*(8), Jos Buttler 2*(3)",
+      "live_bowling": "Xavier Bartlett 0/12 (1), Arshdeep Singh 1/6 (1), Marco Jansen 0/1 (0.3)",
+      "live_moment": "GT need 145 runs in 105 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-03T09:14:36+05:30"
+      "updated_at": "2026-05-03T09:15:38+05:30"
     }
   },
-  "updated_at": "2026-05-03T09:14:36+05:30"
+  "updated_at": "2026-05-03T09:15:38+05:30"
 }
