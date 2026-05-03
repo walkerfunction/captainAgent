@@ -10,13 +10,13 @@
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "status": "live"
       },
-      "live_score": "PBKS 163/9 (20 ov) & GT 124/4 (14.6 ov) \u2014 GT need 40 runs in 30 balls.",
-      "live_batting": "Washington Sundar 14*(11), Rahul Tewatia 0*(1)",
-      "live_bowling": "Xavier Bartlett 0/28 (2), Arshdeep Singh 1/18 (3), Marco Jansen 0/21 (3)",
-      "live_moment": "GT need 40 runs in 30 balls.",
+      "live_score": "PBKS 163/9 (20 ov) & GT 124/4 (15.1 ov) \u2014 GT need 40 runs in 29 balls.",
+      "live_batting": "Washington Sundar 14*(12), Rahul Tewatia 0*(1)",
+      "live_bowling": "Xavier Bartlett 0/28 (2.1), Arshdeep Singh 1/18 (3), Marco Jansen 0/21 (3)",
+      "live_moment": "GT need 40 runs in 29 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-03T10:23:29+05:30"
+      "updated_at": "2026-05-03T10:24:31+05:30"
     }
   },
-  "updated_at": "2026-05-03T10:23:29+05:30"
+  "updated_at": "2026-05-03T10:24:31+05:30"
 }
