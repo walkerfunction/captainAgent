@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 165/10 (19 ov) & KKR 10/0 (1.5 ov) \u2014 KKR need 156 runs in 109 balls.",
-      "live_batting": "Ajinkya Rahane 7*(5), Finn Allen 3*(6)",
-      "live_bowling": "Abhishek Sharma 0/8 (1), Pat Cummins 0/2 (0.5)",
-      "live_moment": "KKR need 156 runs in 109 balls.",
+      "live_score": "SRH 165/10 (19 ov) & KKR 14/0 (2 ov) \u2014 KKR need 152 runs in 108 balls.",
+      "live_batting": "Ajinkya Rahane 7*(5), Finn Allen 7*(7)",
+      "live_bowling": "Abhishek Sharma 0/8 (1), Pat Cummins 0/6 (1)",
+      "live_moment": "KKR need 152 runs in 108 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-03T05:03:31+05:30"
+      "updated_at": "2026-05-03T05:04:34+05:30"
     }
   },
-  "updated_at": "2026-05-03T05:03:31+05:30"
+  "updated_at": "2026-05-03T05:04:34+05:30"
 }
