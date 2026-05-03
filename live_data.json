@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 139/6 (15.1 ov) \u2014 SRH chose to bat.",
-      "live_batting": "Ishan Kishan 36*(27)",
-      "live_bowling": "Sunil Narine 1/22 (3.1), Vaibhav Arora 0/22 (2), Kartik Tyagi 1/24 (3)",
+      "live_score": "SRH 141/6 (15.2 ov) \u2014 SRH chose to bat.",
+      "live_batting": "Ishan Kishan 36*(27), Pat Cummins 2*(1)",
+      "live_bowling": "Sunil Narine 1/24 (3.2), Vaibhav Arora 0/22 (2), Kartik Tyagi 1/24 (3)",
       "live_moment": "SRH chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-05-03T04:19:08+05:30"
+      "updated_at": "2026-05-03T04:20:09+05:30"
     }
   },
-  "updated_at": "2026-05-03T04:19:08+05:30"
+  "updated_at": "2026-05-03T04:20:09+05:30"
 }
