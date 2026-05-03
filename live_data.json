@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 165/10 (19 ov) & KKR 161/3 (18 ov) \u2014 KKR need 5 runs in 12 balls.",
-      "live_batting": "Rinku Singh 14*(9), Cameron Green 3*(3)",
-      "live_bowling": "Abhishek Sharma 0/14 (2), Pat Cummins 1/47 (4), Eshan Malinga 0/34 (3)",
-      "live_moment": "KKR need 5 runs in 12 balls.",
+      "live_score": "SRH 165/10 (19 ov) & KKR 169/3 (18.2 ov) \u2014 Match Over",
+      "live_batting": "Rinku Singh 22*(11), Cameron Green 3*(3)",
+      "live_bowling": "Abhishek Sharma 0/14 (2), Pat Cummins 1/47 (4), Eshan Malinga 0/42 (3.2)",
+      "live_moment": "Match Over",
       "gemma_observations": [],
-      "updated_at": "2026-05-03T06:31:46+05:30"
+      "updated_at": "2026-05-03T06:32:47+05:30"
     }
   },
-  "updated_at": "2026-05-03T06:31:46+05:30"
+  "updated_at": "2026-05-03T06:32:47+05:30"
 }
