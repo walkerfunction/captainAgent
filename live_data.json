@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 37/0 (2.5 ov) \u2014 SRH chose to bat.",
-      "live_batting": "Abhishek Sharma 10*(7), Travis Head 27*(10)",
-      "live_bowling": "Sunil Narine 0/20 (1.5), Vaibhav Arora 0/17 (1)",
+      "live_score": "SRH 37/0 (3 ov) \u2014 SRH chose to bat.",
+      "live_batting": "Abhishek Sharma 10*(7), Travis Head 27*(11)",
+      "live_bowling": "Sunil Narine 0/20 (2), Vaibhav Arora 0/17 (1)",
       "live_moment": "SRH chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-05-03T03:11:14+05:30"
+      "updated_at": "2026-05-03T03:12:15+05:30"
     }
   },
-  "updated_at": "2026-05-03T03:11:14+05:30"
+  "updated_at": "2026-05-03T03:12:15+05:30"
 }
