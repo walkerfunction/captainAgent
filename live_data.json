@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "LSG 228/5 (20 ov) & MI 64/0 (5.4 ov) \u2014 MI need 165 runs in 86 balls.",
-      "live_batting": "Ryan Rickelton 34*(16), Rohit Sharma 29*(18)",
+      "live_score": "LSG 228/5 (20 ov) & MI 70/0 (5.5 ov) \u2014 MI need 159 runs in 85 balls.",
+      "live_batting": "Ryan Rickelton 34*(16), Rohit Sharma 35*(19)",
       "live_bowling": "Mohammed Shami 0/23 (2), Mohsin Khan 0/20 (2), Prince Yadav 0/6 (1)",
-      "live_moment": "MI need 165 runs in 86 balls.",
+      "live_moment": "MI need 159 runs in 85 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-04T09:34:12+05:30"
+      "updated_at": "2026-05-04T09:35:14+05:30"
     }
   },
-  "updated_at": "2026-05-04T09:34:12+05:30"
+  "updated_at": "2026-05-04T09:35:14+05:30"
 }
