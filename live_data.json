@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "LSG 226/5 (19.5 ov) \u2014 MI chose to field.",
-      "live_batting": "Aiden Markram 31*(25), Himmat Singh 38*(30)",
-      "live_bowling": "Deepak Chahar 0/41 (3.5), Jasprit Bumrah 0/45 (4), AM Ghazanfar 1/50 (4)",
+      "live_score": "LSG 228/5 (20 ov) \u2014 MI chose to field.",
+      "live_batting": "Aiden Markram 31*(25), Himmat Singh 40*(31)",
+      "live_bowling": "Deepak Chahar 0/43 (4), Jasprit Bumrah 0/45 (4), AM Ghazanfar 1/50 (4)",
       "live_moment": "MI chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-04T08:49:15+05:30"
+      "updated_at": "2026-05-04T08:50:17+05:30"
     }
   },
-  "updated_at": "2026-05-04T08:49:15+05:30"
+  "updated_at": "2026-05-04T08:50:17+05:30"
 }
