@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Gujarat Titans_vs_Punjab Kings_2026-05-03": {
+    "Lucknow Super Giants_vs_Mumbai Indians_2026-05-04": {
       "match": {
-        "name": "46th Match",
+        "name": "47th Match",
         "teams": [
-          "Punjab Kings",
-          "Gujarat Titans"
+          "Lucknow Super Giants",
+          "Mumbai Indians"
         ],
-        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "PBKS 163/9 (20 ov) & GT 167/6 (19.5 ov) \u2014 Match Over",
-      "live_batting": "Washington Sundar 40*(23), Arshad Khan 8*(5)",
-      "live_bowling": "Xavier Bartlett 0/38 (4), Arshdeep Singh 2/24 (4), Marco Jansen 1/33 (4)",
-      "live_moment": "Match Over",
+      "live_score": "LSG 0/0 (0.1 ov) \u2014 MI chose to field.",
+      "live_batting": "Mitchell Marsh 0*(1)",
+      "live_bowling": "Deepak Chahar 0/0 (0.1)",
+      "live_moment": "MI chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-03T10:52:17+05:30"
+      "updated_at": "2026-05-04T07:01:20+05:30"
     }
   },
-  "updated_at": "2026-05-03T10:52:17+05:30"
+  "updated_at": "2026-05-04T07:01:20+05:30"
 }
