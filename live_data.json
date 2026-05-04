@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "LSG 228/5 (20 ov) & MI 178/2 (14.1 ov) \u2014 MI need 51 runs in 35 balls.",
-      "live_batting": "Tilak Varma 8*(9)",
-      "live_bowling": "Mohammed Shami 0/37 (3), Mohsin Khan 1/38 (3.1), Prince Yadav 0/12 (2)",
-      "live_moment": "MI need 51 runs in 35 balls.",
+      "live_score": "LSG 228/5 (20 ov) & MI 179/2 (14.2 ov) \u2014 MI need 50 runs in 34 balls.",
+      "live_batting": "Tilak Varma 8*(9), Suryakumar Yadav 1*(1)",
+      "live_bowling": "Mohammed Shami 0/37 (3), Mohsin Khan 1/39 (3.2), Prince Yadav 0/12 (2)",
+      "live_moment": "MI need 50 runs in 34 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-04T10:22:33+05:30"
+      "updated_at": "2026-05-04T10:23:35+05:30"
     }
   },
-  "updated_at": "2026-05-04T10:22:33+05:30"
+  "updated_at": "2026-05-04T10:23:35+05:30"
 }
