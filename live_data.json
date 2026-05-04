@@ -10,13 +10,13 @@
         "venue": "Wankhede Stadium, Mumbai",
         "status": "live"
       },
-      "live_score": "LSG 228/5 (20 ov) \u2014 MI chose to field.",
-      "live_batting": "Aiden Markram 31*(25), Himmat Singh 40*(31)",
-      "live_bowling": "Deepak Chahar 0/43 (4), Jasprit Bumrah 0/45 (4), AM Ghazanfar 1/50 (4)",
-      "live_moment": "MI chose to field.",
+      "live_score": "LSG 228/5 (20 ov) & MI 4/0 (0.1 ov) \u2014 MI need 225 runs in 119 balls.",
+      "live_batting": "Ryan Rickelton 4*(1)",
+      "live_bowling": "Mohammed Shami 0/4 (0.1)",
+      "live_moment": "MI need 225 runs in 119 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-04T09:04:06+05:30"
+      "updated_at": "2026-05-04T09:05:07+05:30"
     }
   },
-  "updated_at": "2026-05-04T09:04:06+05:30"
+  "updated_at": "2026-05-04T09:05:07+05:30"
 }
