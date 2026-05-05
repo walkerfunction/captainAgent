@@ -10,13 +10,13 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 155/7 (20 ov) & CSK 147/2 (16.5 ov) \u2014 CSK need 9 runs in 19 balls.",
-      "live_batting": "Sanju Samson 85*(51), Kartik Sharma 31*(28)",
-      "live_bowling": "Mitchell Starc 0/28 (3.5), Axar Patel 1/25 (4), Lungi Ngidi 1/30 (4)",
-      "live_moment": "CSK need 9 runs in 19 balls.",
+      "live_score": "DC 155/7 (20 ov) & CSK 149/2 (16.6 ov) \u2014 CSK need 7 runs in 18 balls.",
+      "live_batting": "Sanju Samson 87*(52), Kartik Sharma 31*(28)",
+      "live_bowling": "Mitchell Starc 0/30 (3.6), Axar Patel 1/25 (4), Lungi Ngidi 1/30 (4)",
+      "live_moment": "CSK need 7 runs in 18 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-05T10:25:51+05:30"
+      "updated_at": "2026-05-05T10:26:52+05:30"
     }
   },
-  "updated_at": "2026-05-05T10:25:51+05:30"
+  "updated_at": "2026-05-05T10:26:52+05:30"
 }
