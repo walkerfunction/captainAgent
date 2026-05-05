@@ -10,13 +10,13 @@
         "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "DC 13/0 (1.5 ov) \u2014 DC chose to bat.",
-      "live_batting": "Pathum Nissanka 8*(7), KL Rahul 5*(4)",
-      "live_bowling": "Akeal Hosein 0/8 (1), Mukesh Choudhary 0/5 (0.5)",
+      "live_score": "DC 13/0 (2 ov) \u2014 DC chose to bat.",
+      "live_batting": "Pathum Nissanka 8*(8), KL Rahul 5*(4)",
+      "live_bowling": "Akeal Hosein 0/8 (1), Mukesh Choudhary 0/5 (1)",
       "live_moment": "DC chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-05-05T07:08:30+05:30"
+      "updated_at": "2026-05-05T07:09:32+05:30"
     }
   },
-  "updated_at": "2026-05-05T07:08:30+05:30"
+  "updated_at": "2026-05-05T07:09:32+05:30"
 }
