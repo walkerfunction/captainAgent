@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Lucknow Super Giants_vs_Mumbai Indians_2026-05-04": {
+    "Chennai Super Kings_vs_Delhi Capitals_2026-05-05": {
       "match": {
-        "name": "47th Match",
+        "name": "48th Match",
         "teams": [
-          "Lucknow Super Giants",
-          "Mumbai Indians"
+          "Delhi Capitals",
+          "Chennai Super Kings"
         ],
-        "venue": "Wankhede Stadium, Mumbai",
+        "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "LSG 228/5 (20 ov) & MI 229/4 (18.4 ov) \u2014 Match Over",
-      "live_batting": "Naman Dhir 23*(12), Will Jacks 10*(4)",
-      "live_bowling": "Mohammed Shami 1/53 (4), Mohsin Khan 1/47 (4), Prince Yadav 0/24 (3)",
-      "live_moment": "Match Over",
+      "live_score": "DC 4/0 (0.1 ov) \u2014 DC chose to bat.",
+      "live_batting": "Pathum Nissanka 4*(1)",
+      "live_bowling": "Akeal Hosein 0/4 (0.1)",
+      "live_moment": "DC chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-05-04T10:49:14+05:30"
+      "updated_at": "2026-05-05T07:01:18+05:30"
     }
   },
-  "updated_at": "2026-05-04T10:49:14+05:30"
+  "updated_at": "2026-05-05T07:01:18+05:30"
 }
