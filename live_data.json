@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 235/4 (20 ov) & PBKS 3/0 (0.3 ov) \u2014 PBKS need 233 runs in 117 balls.",
-      "live_batting": "Priyansh Arya 1*(1), Prabhsimran Singh 2*(2)",
-      "live_bowling": "Pat Cummins 0/3 (0.3)",
-      "live_moment": "PBKS need 233 runs in 117 balls.",
+      "live_score": "SRH 235/4 (20 ov) & PBKS 4/0 (0.4 ov) \u2014 PBKS need 232 runs in 116 balls.",
+      "live_batting": "Priyansh Arya 1*(1), Prabhsimran Singh 3*(3)",
+      "live_bowling": "Pat Cummins 0/4 (0.4)",
+      "live_moment": "PBKS need 232 runs in 116 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-06T08:55:09+05:30"
+      "updated_at": "2026-05-06T08:56:10+05:30"
     }
   },
-  "updated_at": "2026-05-06T08:55:09+05:30"
+  "updated_at": "2026-05-06T08:56:10+05:30"
 }
