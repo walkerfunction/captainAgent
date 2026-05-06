@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 32/0 (2 ov) \u2014 PBKS chose to field.",
-      "live_batting": "Abhishek Sharma 29*(10), Travis Head 2*(2)",
-      "live_bowling": "Arshdeep Singh 0/11 (1), Marco Jansen 0/21 (1)",
+      "live_score": "SRH 32/0 (2.2 ov) \u2014 PBKS chose to field.",
+      "live_batting": "Abhishek Sharma 29*(10), Travis Head 2*(4)",
+      "live_bowling": "Arshdeep Singh 0/11 (1.2), Marco Jansen 0/21 (1)",
       "live_moment": "PBKS chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-06T07:10:50+05:30"
+      "updated_at": "2026-05-06T07:11:51+05:30"
     }
   },
-  "updated_at": "2026-05-06T07:10:50+05:30"
+  "updated_at": "2026-05-06T07:11:51+05:30"
 }
