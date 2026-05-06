@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 235/4 (20 ov) & PBKS 196/7 (19.4 ov) \u2014 PBKS need 40 runs in 2 balls.",
-      "live_batting": "Cooper Connolly 101*(57), Vijaykumar Vyshak 1*(1)",
+      "live_score": "SRH 235/4 (20 ov) & PBKS 202/7 (20 ov) \u2014 Match Over",
+      "live_batting": "Cooper Connolly 107*(59), Vijaykumar Vyshak 1*(1)",
       "live_bowling": "Pat Cummins 2/34 (4), Nitish Kumar Reddy 1/11 (2), Eshan Malinga 1/36 (4)",
-      "live_moment": "PBKS need 40 runs in 2 balls.",
+      "live_moment": "Match Over",
       "gemma_observations": [],
-      "updated_at": "2026-05-06T10:37:20+05:30"
+      "updated_at": "2026-05-06T10:38:21+05:30"
     }
   },
-  "updated_at": "2026-05-06T10:37:20+05:30"
+  "updated_at": "2026-05-06T10:38:21+05:30"
 }
