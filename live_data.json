@@ -10,13 +10,13 @@
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "status": "live"
       },
-      "live_score": "SRH 235/4 (20 ov) & PBKS 23/2 (3.1 ov) \u2014 PBKS need 213 runs in 101 balls.",
-      "live_batting": "Cooper Connolly 13*(9), Shreyas Iyer 5*(4)",
-      "live_bowling": "Pat Cummins 1/17 (2), Nitish Kumar Reddy 1/6 (1), Eshan Malinga 0/0 (0.1)",
-      "live_moment": "PBKS need 213 runs in 101 balls.",
+      "live_score": "SRH 235/4 (20 ov) & PBKS 23/3 (3.2 ov) \u2014 PBKS need 213 runs in 100 balls.",
+      "live_batting": "Cooper Connolly 13*(9)",
+      "live_bowling": "Pat Cummins 1/17 (2), Nitish Kumar Reddy 1/6 (1), Eshan Malinga 1/0 (0.2)",
+      "live_moment": "PBKS need 213 runs in 100 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-06T09:10:20+05:30"
+      "updated_at": "2026-05-06T09:11:21+05:30"
     }
   },
-  "updated_at": "2026-05-06T09:10:20+05:30"
+  "updated_at": "2026-05-06T09:11:21+05:30"
 }
