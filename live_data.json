@@ -10,13 +10,13 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 209/3 (19 ov) & RCB 168/6 (16.4 ov) \u2014 RCB need 45 runs in 14 balls.",
-      "live_batting": "Krunal Pandya 10*(11), Romario Shepherd 9*(6)",
-      "live_bowling": "Mohammed Shami 1/21 (3.4), Prince Yadav 3/21 (3), Mayank Yadav 0/50 (4)",
-      "live_moment": "RCB need 45 runs in 14 balls.",
+      "live_score": "LSG 209/3 (19 ov) & RCB 180/6 (16.6 ov) \u2014 RCB need 33 runs in 12 balls.",
+      "live_batting": "Krunal Pandya 22*(13), Romario Shepherd 9*(6)",
+      "live_bowling": "Mohammed Shami 1/33 (3.6), Prince Yadav 3/21 (3), Mayank Yadav 0/50 (4)",
+      "live_moment": "RCB need 33 runs in 12 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-07T11:44:28+05:30"
+      "updated_at": "2026-05-07T11:45:30+05:30"
     }
   },
-  "updated_at": "2026-05-07T11:44:28+05:30"
+  "updated_at": "2026-05-07T11:45:30+05:30"
 }
