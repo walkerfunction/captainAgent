@@ -10,13 +10,13 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 209/3 (19 ov) & RCB 1/0 (0 ov) \u2014 RCB need 209 runs.",
-      "live_batting": "",
-      "live_bowling": "Mohammed Shami 0/1 (0)",
-      "live_moment": "RCB need 209 runs.",
+      "live_score": "LSG 209/3 (19 ov) & RCB 2/0 (0.1 ov) \u2014 RCB need 211 runs in 113 balls.",
+      "live_batting": "Jacob Bethell 0*(1)",
+      "live_bowling": "Mohammed Shami 0/2 (0.1)",
+      "live_moment": "RCB need 211 runs in 113 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-07T10:12:49+05:30"
+      "updated_at": "2026-05-07T10:13:50+05:30"
     }
   },
-  "updated_at": "2026-05-07T10:12:49+05:30"
+  "updated_at": "2026-05-07T10:13:50+05:30"
 }
