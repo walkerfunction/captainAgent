@@ -10,13 +10,13 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "LSG 165/1 (16 ov) \u2014 RCB chose to field.",
-      "live_batting": "Mitchell Marsh 111*(55), Nicholas Pooran 29*(17)",
-      "live_bowling": "Bhuvneshwar Kumar 0/24 (3), Josh Hazlewood 0/31 (3), Krunal Pandya 1/31 (4)",
+      "live_score": "LSG 165/2 (16.1 ov) \u2014 RCB chose to field.",
+      "live_batting": "Nicholas Pooran 29*(17)",
+      "live_bowling": "Bhuvneshwar Kumar 0/24 (3), Josh Hazlewood 1/31 (3.1), Krunal Pandya 1/31 (4)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-07T09:43:59+05:30"
+      "updated_at": "2026-05-07T09:45:01+05:30"
     }
   },
-  "updated_at": "2026-05-07T09:43:59+05:30"
+  "updated_at": "2026-05-07T09:45:01+05:30"
 }
