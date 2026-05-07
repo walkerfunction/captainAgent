@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Punjab Kings_vs_Sunrisers Hyderabad_2026-05-06": {
+    "Lucknow Super Giants_vs_Royal Challengers Bengaluru_2026-05-07": {
       "match": {
-        "name": "49th Match",
+        "name": "50th Match",
         "teams": [
-          "Sunrisers Hyderabad",
-          "Punjab Kings"
+          "Lucknow Super Giants",
+          "Royal Challengers Bengaluru"
         ],
-        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "SRH 235/4 (20 ov) & PBKS 202/7 (20 ov) \u2014 Match Over",
-      "live_batting": "Cooper Connolly 107*(59), Vijaykumar Vyshak 1*(1)",
-      "live_bowling": "Pat Cummins 2/34 (4), Nitish Kumar Reddy 1/11 (2), Eshan Malinga 1/36 (4)",
-      "live_moment": "Match Over",
+      "live_score": "LSG 1/0 (0.3 ov) \u2014 RCB chose to field.",
+      "live_batting": "Mitchell Marsh 1*(2), Arshin Kulkarni 0*(1)",
+      "live_bowling": "Bhuvneshwar Kumar 0/1 (0.3)",
+      "live_moment": "RCB chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-06T10:38:21+05:30"
+      "updated_at": "2026-05-07T07:03:14+05:30"
     }
   },
-  "updated_at": "2026-05-06T10:38:21+05:30"
+  "updated_at": "2026-05-07T07:03:14+05:30"
 }
