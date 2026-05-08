@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Lucknow Super Giants_vs_Royal Challengers Bengaluru_2026-05-07": {
+    "Delhi Capitals_vs_Kolkata Knight Riders_2026-05-08": {
       "match": {
-        "name": "50th Match",
+        "name": "51st Match",
         "teams": [
-          "Lucknow Super Giants",
-          "Royal Challengers Bengaluru"
+          "Delhi Capitals",
+          "Kolkata Knight Riders"
         ],
-        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "venue": "Arun Jaitley Stadium, Delhi",
         "status": "live"
       },
-      "live_score": "LSG 209/3 (19 ov) & RCB 203/6 (19 ov) \u2014 Match Over",
-      "live_batting": "Krunal Pandya 28*(16), Romario Shepherd 23*(15)",
-      "live_bowling": "Mohammed Shami 1/33 (4), Prince Yadav 3/33 (4), Mayank Yadav 0/50 (4)",
-      "live_moment": "Match Over",
+      "live_score": "DC 4/0 (0.2 ov) \u2014 KKR chose to field.",
+      "live_batting": "Pathum Nissanka 4*(2)",
+      "live_bowling": "Anukul Roy 0/4 (0.2)",
+      "live_moment": "KKR chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-07T11:56:52+05:30"
+      "updated_at": "2026-05-08T07:01:01+05:30"
     }
   },
-  "updated_at": "2026-05-07T11:56:52+05:30"
+  "updated_at": "2026-05-08T07:01:01+05:30"
 }
