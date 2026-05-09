@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Delhi Capitals_vs_Kolkata Knight Riders_2026-05-08": {
+    "Gujarat Titans_vs_Rajasthan Royals_2026-05-09": {
       "match": {
-        "name": "51st Match",
+        "name": "52nd Match",
         "teams": [
-          "Delhi Capitals",
-          "Kolkata Knight Riders"
+          "Gujarat Titans",
+          "Rajasthan Royals"
         ],
-        "venue": "Arun Jaitley Stadium, Delhi",
+        "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "DC 142/8 (20 ov) & KKR 147/2 (14.2 ov) \u2014 Match Over",
-      "live_batting": "Finn Allen 100*(47), Cameron Green 33*(27)",
-      "live_bowling": "Mitchell Starc 0/31 (3), Axar Patel 1/27 (4), Lungi Ngidi 0/7 (2)",
-      "live_moment": "Match Over",
+      "live_score": "GT 4/0 (0.1 ov) \u2014 RR chose to field.",
+      "live_batting": "Sai Sudharsan 4*(1)",
+      "live_bowling": "Jofra Archer 0/4 (0.1)",
+      "live_moment": "RR chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-08T10:01:20+05:30"
+      "updated_at": "2026-05-09T07:01:07+05:30"
     }
   },
-  "updated_at": "2026-05-08T10:01:20+05:30"
+  "updated_at": "2026-05-09T07:01:07+05:30"
 }
