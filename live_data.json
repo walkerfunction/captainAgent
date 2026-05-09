@@ -10,13 +10,13 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "GT 229/4 (20 ov) & RR 38/0 (2.4 ov) \u2014 RR need 192 runs in 104 balls.",
-      "live_batting": "Yashasvi Jaiswal 1*(1), Vaibhav Sooryavanshi 36*(15)",
-      "live_bowling": "Mohammed Siraj 0/23 (1.4), Kagiso Rabada 0/15 (1)",
-      "live_moment": "RR need 192 runs in 104 balls.",
+      "live_score": "GT 229/4 (20 ov) & RR 38/1 (2.5 ov) \u2014 RR need 192 runs in 103 balls.",
+      "live_batting": "Yashasvi Jaiswal 1*(1)",
+      "live_bowling": "Mohammed Siraj 1/23 (1.5), Kagiso Rabada 0/15 (1)",
+      "live_moment": "RR need 192 runs in 103 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-09T09:19:14+05:30"
+      "updated_at": "2026-05-09T09:20:16+05:30"
     }
   },
-  "updated_at": "2026-05-09T09:19:14+05:30"
+  "updated_at": "2026-05-09T09:20:16+05:30"
 }
