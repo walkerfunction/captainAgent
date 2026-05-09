@@ -10,13 +10,13 @@
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "status": "live"
       },
-      "live_score": "GT 229/4 (20 ov) & RR 115/6 (11.4 ov) \u2014 RR need 115 runs in 50 balls.",
-      "live_batting": "Ravindra Jadeja 26*(17)",
+      "live_score": "GT 229/4 (20 ov) & RR 117/6 (11.5 ov) \u2014 RR need 113 runs in 49 balls.",
+      "live_batting": "Ravindra Jadeja 26*(17), Dasun Shanaka 2*(1)",
       "live_bowling": "Mohammed Siraj 1/45 (3), Kagiso Rabada 2/33 (3), Sai Kishore 0/8 (1)",
-      "live_moment": "RR need 115 runs in 50 balls.",
+      "live_moment": "RR need 113 runs in 49 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-09T10:05:30+05:30"
+      "updated_at": "2026-05-09T10:06:31+05:30"
     }
   },
-  "updated_at": "2026-05-09T10:05:30+05:30"
+  "updated_at": "2026-05-09T10:06:31+05:30"
 }
