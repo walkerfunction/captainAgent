@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Gujarat Titans_vs_Rajasthan Royals_2026-05-09": {
+    "Chennai Super Kings_vs_Lucknow Super Giants_2026-05-10": {
       "match": {
-        "name": "52nd Match",
+        "name": "53rd Match",
         "teams": [
-          "Gujarat Titans",
-          "Rajasthan Royals"
+          "Lucknow Super Giants",
+          "Chennai Super Kings"
         ],
-        "venue": "Sawai Mansingh Stadium, Jaipur",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "GT 229/4 (20 ov) & RR 152/10 (16.3 ov) \u2014 Match Over",
-      "live_batting": "Brijesh Sharma 1*(1)",
-      "live_bowling": "Mohammed Siraj 1/55 (4), Kagiso Rabada 2/33 (3), Sai Kishore 0/8 (1)",
-      "live_moment": "Match Over",
+      "live_score": "LSG 1/0 (0.1 ov) \u2014 CSK chose to field.",
+      "live_batting": "Josh Inglis 1*(1)",
+      "live_bowling": "Akeal Hosein 0/1 (0.1)",
+      "live_moment": "CSK chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-09T10:35:18+05:30"
+      "updated_at": "2026-05-10T03:02:01+05:30"
     }
   },
-  "updated_at": "2026-05-09T10:35:18+05:30"
+  "updated_at": "2026-05-10T03:02:01+05:30"
 }
