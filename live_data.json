@@ -10,13 +10,30 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "LSG 203/8 (20 ov) & CSK 185/5 (18.3 ov) \u2014 CSK need 19 runs in 9 balls.",
-      "live_batting": "Shivam Dube 2*(3), Prashant Veer 11*(11)",
+      "live_score": "LSG 203/8 (20 ov) & CSK 185/5 (18.2 ov) \u2014 CSK need 19 runs in 10 balls.",
+      "live_batting": "Shivam Dube 2*(3), Prashant Veer 10*(10)",
       "live_bowling": "Mohammed Shami 0/37 (4), Prince Yadav 0/36 (4), Digvesh Rathi 2/45 (4)",
-      "live_moment": "CSK need 19 runs in 9 balls.",
+      "live_moment": "CSK need 19 runs in 10 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-10T07:00:55+05:30"
+      "updated_at": "2026-05-10T07:01:57+05:30"
+    },
+    "Mumbai Indians_vs_Royal Challengers Bengaluru_2026-05-10": {
+      "match": {
+        "name": "54th Match",
+        "teams": [
+          "Mumbai Indians",
+          "Royal Challengers Bengaluru"
+        ],
+        "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+        "status": "live"
+      },
+      "live_score": "MI 1/0 (0.1 ov) \u2014 RCB chose to field.",
+      "live_batting": "Ryan Rickelton 1*(1)",
+      "live_bowling": "Bhuvneshwar Kumar 0/1 (0.1)",
+      "live_moment": "RCB chose to field.",
+      "gemma_observations": [],
+      "updated_at": "2026-05-10T07:01:57+05:30"
     }
   },
-  "updated_at": "2026-05-10T07:00:55+05:30"
+  "updated_at": "2026-05-10T07:01:57+05:30"
 }
