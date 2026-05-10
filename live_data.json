@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "LSG 203/8 (20 ov) & CSK 103/1 (6.2 ov) \u2014 CSK need 101 runs in 82 balls.",
-      "live_batting": "Ruturaj Gaikwad 26*(13), Urvil Patel 48*(11)",
-      "live_bowling": "Mohammed Shami 0/26 (2.2), Prince Yadav 0/15 (1), Digvesh Rathi 1/37 (2)",
-      "live_moment": "CSK need 101 runs in 82 balls.",
+      "live_score": "LSG 203/8 (20 ov) & CSK 104/1 (6.3 ov) \u2014 CSK need 100 runs in 81 balls.",
+      "live_batting": "Ruturaj Gaikwad 26*(13), Urvil Patel 49*(12)",
+      "live_bowling": "Mohammed Shami 0/27 (2.3), Prince Yadav 0/15 (1), Digvesh Rathi 1/37 (2)",
+      "live_moment": "CSK need 100 runs in 81 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-10T05:51:30+05:30"
+      "updated_at": "2026-05-10T05:52:32+05:30"
     }
   },
-  "updated_at": "2026-05-10T05:51:30+05:30"
+  "updated_at": "2026-05-10T05:52:32+05:30"
 }
