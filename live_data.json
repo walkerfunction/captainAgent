@@ -15,7 +15,7 @@
       "live_bowling": "Mohammed Shami 0/37 (4), Prince Yadav 0/36 (4), Digvesh Rathi 2/45 (4)",
       "live_moment": "CSK need 18 runs in 9 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-10T07:02:59+05:30"
+      "updated_at": "2026-05-10T07:04:01+05:30"
     },
     "Mumbai Indians_vs_Royal Challengers Bengaluru_2026-05-10": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
         "status": "live"
       },
-      "live_score": "MI 3/0 (0.3 ov) \u2014 RCB chose to field.",
-      "live_batting": "Ryan Rickelton 2*(2), Rohit Sharma 1*(1)",
-      "live_bowling": "Bhuvneshwar Kumar 0/3 (0.3)",
+      "live_score": "MI 4/0 (0.4 ov) \u2014 RCB chose to field.",
+      "live_batting": "Ryan Rickelton 2*(2), Rohit Sharma 2*(2)",
+      "live_bowling": "Bhuvneshwar Kumar 0/4 (0.4)",
       "live_moment": "RCB chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-10T07:02:59+05:30"
+      "updated_at": "2026-05-10T07:04:01+05:30"
     }
   },
-  "updated_at": "2026-05-10T07:02:59+05:30"
+  "updated_at": "2026-05-10T07:04:01+05:30"
 }
