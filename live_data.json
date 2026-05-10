@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "LSG 1/0 (0.1 ov) \u2014 CSK chose to field.",
-      "live_batting": "Josh Inglis 1*(1)",
-      "live_bowling": "Akeal Hosein 0/1 (0.1)",
+      "live_score": "LSG 2/0 (0.3 ov) \u2014 CSK chose to field.",
+      "live_batting": "Josh Inglis 1*(1), Mitchell Marsh 1*(2)",
+      "live_bowling": "Akeal Hosein 0/2 (0.3)",
       "live_moment": "CSK chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-05-10T03:02:01+05:30"
+      "updated_at": "2026-05-10T03:03:03+05:30"
     }
   },
-  "updated_at": "2026-05-10T03:02:01+05:30"
+  "updated_at": "2026-05-10T03:03:03+05:30"
 }
