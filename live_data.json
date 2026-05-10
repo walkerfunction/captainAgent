@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "LSG 203/8 (20 ov) & CSK 174/5 (17.1 ov) \u2014 CSK need 30 runs in 17 balls.",
-      "live_batting": "Shivam Dube 1*(2), Prashant Veer 1*(4)",
-      "live_bowling": "Mohammed Shami 0/37 (4), Prince Yadav 0/27 (3.1), Digvesh Rathi 2/45 (4)",
-      "live_moment": "CSK need 30 runs in 17 balls.",
+      "live_score": "LSG 203/8 (20 ov) & CSK 180/5 (17.2 ov) \u2014 CSK need 24 runs in 16 balls.",
+      "live_batting": "Shivam Dube 1*(2), Prashant Veer 7*(5)",
+      "live_bowling": "Mohammed Shami 0/37 (4), Prince Yadav 0/33 (3.2), Digvesh Rathi 2/45 (4)",
+      "live_moment": "CSK need 24 runs in 16 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-10T06:54:42+05:30"
+      "updated_at": "2026-05-10T06:55:44+05:30"
     }
   },
-  "updated_at": "2026-05-10T06:54:42+05:30"
+  "updated_at": "2026-05-10T06:55:44+05:30"
 }
