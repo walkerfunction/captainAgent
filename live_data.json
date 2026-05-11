@@ -10,13 +10,13 @@
         "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
         "status": "live"
       },
-      "live_score": "PBKS 210/5 (20 ov) \u2014 DC chose to field.",
-      "live_batting": "Shreyas Iyer 59*(36), Suryansh Shedge 21*(8)",
-      "live_bowling": "Mitchell Starc 2/57 (4), Auqib Nabi 0/32 (4), Lungi Ngidi 0/46 (4)",
-      "live_moment": "DC chose to field.",
+      "live_score": "PBKS 210/5 (20 ov) & DC 0/0 (0.1 ov) \u2014 DC need 211 runs in 119 balls.",
+      "live_batting": "KL Rahul 0*(1)",
+      "live_bowling": "Arshdeep Singh 0/0 (0.1)",
+      "live_moment": "DC need 211 runs in 119 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-11T09:10:53+05:30"
+      "updated_at": "2026-05-11T09:11:55+05:30"
     }
   },
-  "updated_at": "2026-05-11T09:10:53+05:30"
+  "updated_at": "2026-05-11T09:11:55+05:30"
 }
