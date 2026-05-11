@@ -10,13 +10,13 @@
         "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
         "status": "live"
       },
-      "live_score": "PBKS 210/5 (20 ov) & DC 10/1 (1.5 ov) \u2014 DC need 201 runs in 109 balls.",
-      "live_batting": "KL Rahul 5*(5)",
-      "live_bowling": "Arshdeep Singh 0/6 (1), Yash Thakur 1/4 (0.5)",
-      "live_moment": "DC need 201 runs in 109 balls.",
+      "live_score": "PBKS 210/5 (20 ov) & DC 10/1 (2 ov) \u2014 DC need 201 runs in 108 balls.",
+      "live_batting": "KL Rahul 5*(5), Sahil Parakh 0*(1)",
+      "live_bowling": "Arshdeep Singh 0/6 (1), Yash Thakur 1/4 (1)",
+      "live_moment": "DC need 201 runs in 108 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-05-11T09:21:25+05:30"
+      "updated_at": "2026-05-11T09:22:28+05:30"
     }
   },
-  "updated_at": "2026-05-11T09:21:25+05:30"
+  "updated_at": "2026-05-11T09:22:28+05:30"
 }
