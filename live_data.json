@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Afghanistan_vs_India_2026-06-06": {
+    "India Women_vs_West Indies Women_2026-06-08": {
       "match": {
-        "name": "Only Test",
+        "name": "Warm-up",
         "teams": [
-          "India",
-          "Afghanistan"
+          "India Women",
+          "West Indies Women"
         ],
-        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+        "venue": "Sophia Gardens, Cardiff",
         "status": "live"
       },
-      "live_score": "IND 564/8 (127 ov) & AFG 152/10 (58.4 ov) & AFG 112/10 (35.5 ov) \u2014 Match Over",
-      "live_batting": "Ziaur Rahman 0*(11)",
-      "live_bowling": "Manav Suthar 1/29 (10), Prasidh Krishna 0/6 (3), Kuldeep Yadav 3/30 (7.5)",
-      "live_moment": "Match Over",
+      "live_score": "IND-W 9/0 (0.4 ov) \u2014 WI Women chose to field.",
+      "live_batting": "Shafali Verma 8*(3), Smriti Mandhana 1*(1)",
+      "live_bowling": "Chinelle Henry 0/9 (0.4)",
+      "live_moment": "WI Women chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-08T02:34:50+05:30"
+      "updated_at": "2026-06-08T03:08:10+05:30"
     }
   },
-  "updated_at": "2026-06-08T02:34:50+05:30"
+  "updated_at": "2026-06-08T03:08:10+05:30"
 }
