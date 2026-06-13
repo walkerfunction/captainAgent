@@ -1,22 +1,22 @@
 {
   "matches": {
-    "India Women_vs_West Indies Women_2026-06-08": {
+    "Afghanistan_vs_India_2026-06-13": {
       "match": {
-        "name": "Warm-up",
+        "name": "1st ODI",
         "teams": [
-          "India Women",
-          "West Indies Women"
+          "Afghanistan",
+          "India"
         ],
-        "venue": "Sophia Gardens, Cardiff",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
         "status": "live"
       },
-      "live_score": "IND-W 179/8 (20 ov) & WI-W 154/8 (20 ov) \u2014 Match Over",
-      "live_batting": "Shawnisha Hector 19*(11), Afy Fletcher 8*(6)",
-      "live_bowling": "Shafali Verma 0/9 (2), Renuka Singh 0/30 (4), Kranti Gaud 0/43 (4)",
-      "live_moment": "Match Over",
+      "live_score": "AFG 0/0 (0.1 ov) \u2014 India chose to field.",
+      "live_batting": "Rahmanullah Gurbaz 0*(1)",
+      "live_bowling": "Arshdeep Singh 0/0 (0.1)",
+      "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-08T06:16:37+05:30"
+      "updated_at": "2026-06-13T05:18:05+05:30"
     }
   },
-  "updated_at": "2026-06-08T06:16:37+05:30"
+  "updated_at": "2026-06-13T05:18:05+05:30"
 }
