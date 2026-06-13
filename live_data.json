@@ -10,13 +10,13 @@
         "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
         "status": "live"
       },
-      "live_score": "AFG 194/10 (24.5 ov) & IND 134/2 (15.4 ov) \u2014 India need 61 runs in 56 balls.",
-      "live_batting": "Shubman Gill 68*(49), Shreyas Iyer 6*(8)",
-      "live_bowling": "Azmatullah Omarzai 0/18 (2), Ziaur Rahman 0/12 (1.4), AM Ghazanfar 0/20 (3)",
-      "live_moment": "India need 61 runs in 56 balls.",
+      "live_score": "AFG 194/10 (24.5 ov) & IND 134/2 (15.5 ov) \u2014 India need 61 runs in 55 balls.",
+      "live_batting": "Shubman Gill 68*(49), Shreyas Iyer 6*(9)",
+      "live_bowling": "Azmatullah Omarzai 0/18 (2), Ziaur Rahman 0/12 (1.5), AM Ghazanfar 0/20 (3)",
+      "live_moment": "India need 61 runs in 55 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-13T09:05:13+05:30"
+      "updated_at": "2026-06-13T09:06:14+05:30"
     }
   },
-  "updated_at": "2026-06-13T09:05:13+05:30"
+  "updated_at": "2026-06-13T09:06:14+05:30"
 }
