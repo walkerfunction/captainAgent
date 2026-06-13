@@ -10,13 +10,13 @@
         "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
         "status": "live"
       },
-      "live_score": "AFG 194/10 (24.5 ov) & IND 41/0 (5.1 ov) \u2014 India need 154 runs from 19.5 overs.",
-      "live_batting": "Rohit Sharma 16*(15), Shubman Gill 17*(17)",
-      "live_bowling": "Azmatullah Omarzai 0/18 (2), Ziaur Rahman 0/10 (1), AM Ghazanfar 0/6 (1.1)",
-      "live_moment": "India need 154 runs from 19.5 overs.",
+      "live_score": "AFG 194/10 (24.5 ov) & IND 46/0 (5.3 ov) \u2014 India need 149 runs from 19.3 overs.",
+      "live_batting": "Rohit Sharma 16*(15), Shubman Gill 22*(19)",
+      "live_bowling": "Azmatullah Omarzai 0/18 (2), Ziaur Rahman 0/10 (1), AM Ghazanfar 0/11 (1.3)",
+      "live_moment": "India need 149 runs from 19.3 overs.",
       "gemma_observations": [],
-      "updated_at": "2026-06-13T08:18:58+05:30"
+      "updated_at": "2026-06-13T08:19:59+05:30"
     }
   },
-  "updated_at": "2026-06-13T08:18:58+05:30"
+  "updated_at": "2026-06-13T08:19:59+05:30"
 }
