@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Afghanistan_vs_India_2026-06-13": {
+    "India Women_vs_Pakistan Women_2026-06-14": {
       "match": {
-        "name": "1st ODI",
+        "name": "6th Match, Group 1",
         "teams": [
-          "Afghanistan",
-          "India"
+          "India Women",
+          "Pakistan Women"
         ],
-        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+        "venue": "Edgbaston, Birmingham",
         "status": "live"
       },
-      "live_score": "AFG 194/10 (24.5 ov) & IND 191/3 (22.3 ov) \u2014 India need 4 runs in 15 balls.",
-      "live_batting": "Shubman Gill 84*(66), KL Rahul 35*(17)",
-      "live_bowling": "Azmatullah Omarzai 0/37 (3.3), Ziaur Rahman 1/39 (4), AM Ghazanfar 0/28 (5)",
-      "live_moment": "India need 4 runs in 15 balls.",
+      "live_score": "IND-W 6/0 (0.5 ov) \u2014 IND Women chose to bat.",
+      "live_batting": "Shafali Verma 6*(5)",
+      "live_bowling": "Sadia Iqbal 0/6 (0.5)",
+      "live_moment": "IND Women chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-06-13T09:38:05+05:30"
+      "updated_at": "2026-06-14T06:33:04+05:30"
     }
   },
-  "updated_at": "2026-06-13T09:38:05+05:30"
+  "updated_at": "2026-06-14T06:33:04+05:30"
 }
