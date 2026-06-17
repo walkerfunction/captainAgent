@@ -10,12 +10,12 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "IND 402/10 (49.5 ov) & AFG 220/7 (39.5 ov) \u2014 Afghanistan need 183 runs in 61 balls.",
-      "live_batting": "Rahmat Shah 73*(75), Darwish Rasooli 6*(6), Mohammad Saleem 9*(18)",
-      "live_bowling": "Arshdeep Singh 3/45 (9), Prince Yadav 1/53 (6), Gurnoor Brar 2/56 (7.5)",
-      "live_moment": "Afghanistan need 183 runs in 61 balls.",
+      "live_score": "IND 402/10 (49.5 ov) & AFG 220/7 (39.6 ov) \u2014 Afghanistan need 183 runs in 60 balls.",
+      "live_batting": "Rahmat Shah 73*(75), Darwish Rasooli 6*(6), Mohammad Saleem 9*(19)",
+      "live_bowling": "Arshdeep Singh 3/45 (9), Prince Yadav 1/53 (6), Gurnoor Brar 2/56 (7.6)",
+      "live_moment": "Afghanistan need 183 runs in 60 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:31:29+05:30"
+      "updated_at": "2026-06-17T08:32:34+05:30"
     },
     "India Women_vs_Netherlands Women_2026-06-17": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Headingley, Leeds",
         "status": "live"
       },
-      "live_score": "IND-W 209/5 (20 ov) & NL-W 17/0 (2 ov) \u2014 NL Women need 193 runs in 108 balls.",
-      "live_batting": "Heather Siegers 10*(7), Phebe Molkenboer 6*(5)",
-      "live_bowling": "Kranti Gaud 0/7 (1), Nandani Sharma 0/10 (1)",
-      "live_moment": "NL Women need 193 runs in 108 balls.",
+      "live_score": "IND-W 209/5 (20 ov) & NL-W 17/0 (2.2 ov) \u2014 NL Women need 193 runs in 106 balls.",
+      "live_batting": "Heather Siegers 10*(9), Phebe Molkenboer 6*(5)",
+      "live_bowling": "Kranti Gaud 0/7 (1.2), Nandani Sharma 0/10 (1)",
+      "live_moment": "NL Women need 193 runs in 106 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:31:29+05:30"
+      "updated_at": "2026-06-17T08:32:34+05:30"
     }
   },
-  "updated_at": "2026-06-17T08:31:29+05:30"
+  "updated_at": "2026-06-17T08:32:34+05:30"
 }
