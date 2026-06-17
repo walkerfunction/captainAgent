@@ -1,22 +1,22 @@
 {
   "matches": {
-    "India Women_vs_Pakistan Women_2026-06-14": {
+    "Afghanistan_vs_India_2026-06-17": {
       "match": {
-        "name": "6th Match, Group 1",
+        "name": "2nd ODI",
         "teams": [
-          "India Women",
-          "Pakistan Women"
+          "India",
+          "Afghanistan"
         ],
-        "venue": "Edgbaston, Birmingham",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "IND-W 170/6 (20 ov) & PAK-W 106/10 (16.6 ov) \u2014 Match Over",
-      "live_batting": "Sadia Iqbal 1*(1)",
-      "live_bowling": "Arundhati Reddy 0/21 (2), Shreyanka Patil 0/17 (3), Kranti Gaud 0/14 (1)",
-      "live_moment": "Match Over",
+      "live_score": "IND 0/0 (0.2 ov) \u2014 Afghanistan chose to field.",
+      "live_batting": "Yashasvi Jaiswal 0*(2)",
+      "live_bowling": "AM Ghazanfar 0/0 (0.2)",
+      "live_moment": "Afghanistan chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-14T09:58:01+05:30"
+      "updated_at": "2026-06-17T01:02:50+05:30"
     }
   },
-  "updated_at": "2026-06-14T09:58:01+05:30"
+  "updated_at": "2026-06-17T01:02:50+05:30"
 }
