@@ -10,12 +10,12 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "IND 402/10 (49.5 ov) & AFG 220/8 (40 ov) \u2014 Afghanistan need 183 runs in 60 balls.",
-      "live_batting": "Rahmat Shah 73*(75), Darwish Rasooli 6*(6)",
+      "live_score": "IND 402/10 (49.5 ov) & AFG 220/8 (40.2 ov) \u2014 Afghanistan need 183 runs in 58 balls.",
+      "live_batting": "Rahmat Shah 73*(77), Darwish Rasooli 6*(6)",
       "live_bowling": "Arshdeep Singh 3/45 (9), Prince Yadav 1/53 (6), Gurnoor Brar 3/56 (8)",
-      "live_moment": "Afghanistan need 183 runs in 60 balls.",
+      "live_moment": "Afghanistan need 183 runs in 58 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:33:37+05:30"
+      "updated_at": "2026-06-17T08:34:40+05:30"
     },
     "India Women_vs_Netherlands Women_2026-06-17": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Headingley, Leeds",
         "status": "live"
       },
-      "live_score": "IND-W 209/5 (20 ov) & NL-W 18/0 (2.3 ov) \u2014 NL Women need 192 runs in 105 balls.",
-      "live_batting": "Heather Siegers 11*(10), Phebe Molkenboer 6*(5)",
-      "live_bowling": "Kranti Gaud 0/8 (1.3), Nandani Sharma 0/10 (1)",
-      "live_moment": "NL Women need 192 runs in 105 balls.",
+      "live_score": "IND-W 209/5 (20 ov) & NL-W 19/0 (2.4 ov) \u2014 NL Women need 191 runs in 104 balls.",
+      "live_batting": "Heather Siegers 11*(10), Phebe Molkenboer 6*(6)",
+      "live_bowling": "Kranti Gaud 0/9 (1.4), Nandani Sharma 0/10 (1)",
+      "live_moment": "NL Women need 191 runs in 104 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:33:37+05:30"
+      "updated_at": "2026-06-17T08:34:40+05:30"
     }
   },
-  "updated_at": "2026-06-17T08:33:37+05:30"
+  "updated_at": "2026-06-17T08:34:40+05:30"
 }
