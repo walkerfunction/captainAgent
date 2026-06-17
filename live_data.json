@@ -10,12 +10,12 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "IND 402/10 (49.5 ov) & AFG 224/8 (41.3 ov) \u2014 Afghanistan need 179 runs in 51 balls.",
-      "live_batting": "Rahmat Shah 76*(80), Darwish Rasooli 6*(6), Bilal Sami 1*(4)",
-      "live_bowling": "Arshdeep Singh 3/45 (9), Prince Yadav 1/53 (6), Gurnoor Brar 3/57 (8.3)",
-      "live_moment": "Afghanistan need 179 runs in 51 balls.",
+      "live_score": "IND 402/10 (49.5 ov) & AFG 225/8 (41.4 ov) \u2014 Afghanistan need 178 runs in 50 balls.",
+      "live_batting": "Rahmat Shah 76*(80), Darwish Rasooli 6*(6), Bilal Sami 1*(6)",
+      "live_bowling": "Arshdeep Singh 3/45 (9), Prince Yadav 1/53 (6), Gurnoor Brar 3/58 (8.4)",
+      "live_moment": "Afghanistan need 178 runs in 50 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:38:57+05:30"
+      "updated_at": "2026-06-17T08:40:05+05:30"
     },
     "India Women_vs_Netherlands Women_2026-06-17": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Headingley, Leeds",
         "status": "live"
       },
-      "live_score": "IND-W 209/5 (20 ov) & NL-W 30/0 (3.6 ov) \u2014 NL Women need 180 runs in 96 balls.",
+      "live_score": "IND-W 209/5 (20 ov) & NL-W 30/0 (4 ov) \u2014 NL Women need 180 runs in 96 balls.",
       "live_batting": "Heather Siegers 17*(14), Phebe Molkenboer 11*(10)",
-      "live_bowling": "Kranti Gaud 0/9 (2), Nandani Sharma 0/10 (1), Shafali Verma 0/11 (0.6)",
+      "live_bowling": "Kranti Gaud 0/9 (2), Nandani Sharma 0/10 (1), Shafali Verma 0/11 (1)",
       "live_moment": "NL Women need 180 runs in 96 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:38:57+05:30"
+      "updated_at": "2026-06-17T08:40:05+05:30"
     }
   },
-  "updated_at": "2026-06-17T08:38:57+05:30"
+  "updated_at": "2026-06-17T08:40:05+05:30"
 }
