@@ -10,12 +10,12 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "IND 402/10 (49.5 ov) & AFG 232/8 (44.2 ov) \u2014 Afghanistan need 171 runs in 34 balls.",
-      "live_batting": "Rahmat Shah 79*(88), Darwish Rasooli 6*(6), Bilal Sami 2*(14)",
-      "live_bowling": "Arshdeep Singh 3/45 (9), Prince Yadav 1/56 (7.2), Gurnoor Brar 3/60 (10)",
-      "live_moment": "Afghanistan need 171 runs in 34 balls.",
+      "live_score": "IND 402/10 (49.5 ov) & AFG 232/9 (44.3 ov) \u2014 Afghanistan need 171 runs in 33 balls.",
+      "live_batting": "Darwish Rasooli 6*(6), Bilal Sami 2*(14)",
+      "live_bowling": "Arshdeep Singh 3/45 (9), Prince Yadav 2/56 (7.3), Gurnoor Brar 3/60 (10)",
+      "live_moment": "Afghanistan need 171 runs in 33 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:52:47+05:30"
+      "updated_at": "2026-06-17T08:53:51+05:30"
     },
     "India Women_vs_Netherlands Women_2026-06-17": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Headingley, Leeds",
         "status": "live"
       },
-      "live_score": "IND-W 209/5 (20 ov) & NL-W 36/1 (5.1 ov) \u2014 NL Women need 174 runs in 89 balls.",
-      "live_batting": "Phebe Molkenboer 12*(14), Babette de Leede 1*(1)",
-      "live_bowling": "Kranti Gaud 0/9 (2), Nandani Sharma 1/16 (2), Shafali Verma 0/11 (1)",
-      "live_moment": "NL Women need 174 runs in 89 balls.",
+      "live_score": "IND-W 209/5 (20 ov) & NL-W 37/1 (5.2 ov) \u2014 NL Women need 173 runs in 88 balls.",
+      "live_batting": "Phebe Molkenboer 13*(15), Babette de Leede 1*(1)",
+      "live_bowling": "Kranti Gaud 0/9 (2), Nandani Sharma 1/16 (2), Shafali Verma 0/12 (1.1)",
+      "live_moment": "NL Women need 173 runs in 88 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T08:52:47+05:30"
+      "updated_at": "2026-06-17T08:53:51+05:30"
     }
   },
-  "updated_at": "2026-06-17T08:52:47+05:30"
+  "updated_at": "2026-06-17T08:53:51+05:30"
 }
