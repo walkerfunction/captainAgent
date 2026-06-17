@@ -10,12 +10,12 @@
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "status": "live"
       },
-      "live_score": "IND 402/10 (49.5 ov) & AFG 107/2 (20.2 ov) \u2014 Afghanistan need 296 runs from 29.4 overs.",
-      "live_batting": "Sediqullah Atal 29*(41), Rahmat Shah 15*(18)",
+      "live_score": "IND 402/10 (49.5 ov) & AFG 113/2 (20.4 ov) \u2014 Afghanistan need 290 runs from 29.2 overs.",
+      "live_batting": "Sediqullah Atal 35*(43), Rahmat Shah 15*(18)",
       "live_bowling": "Arshdeep Singh 1/24 (5), Prince Yadav 0/31 (4), Gurnoor Brar 1/17 (3)",
-      "live_moment": "Afghanistan need 296 runs from 29.4 overs.",
+      "live_moment": "Afghanistan need 290 runs from 29.2 overs.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T06:48:53+05:30"
+      "updated_at": "2026-06-17T06:49:59+05:30"
     },
     "India Women_vs_Netherlands Women_2026-06-17": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Headingley, Leeds",
         "status": "live"
       },
-      "live_score": "IND-W 46/0 (4.3 ov) \u2014 NL Women chose to field.",
-      "live_batting": "Smriti Mandhana 21*(15), Shafali Verma 23*(12)",
-      "live_bowling": "Iris Zwilling 0/20 (2.3), Heather Siegers 0/14 (1), Isabel van der Woning 0/12 (1)",
+      "live_score": "IND-W 48/0 (4.4 ov) \u2014 NL Women chose to field.",
+      "live_batting": "Smriti Mandhana 23*(16), Shafali Verma 23*(12)",
+      "live_bowling": "Iris Zwilling 0/22 (2.4), Heather Siegers 0/14 (1), Isabel van der Woning 0/12 (1)",
       "live_moment": "NL Women chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-17T06:48:53+05:30"
+      "updated_at": "2026-06-17T06:49:59+05:30"
     }
   },
-  "updated_at": "2026-06-17T06:48:53+05:30"
+  "updated_at": "2026-06-17T06:49:59+05:30"
 }
