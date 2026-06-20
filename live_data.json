@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "AFG 143/5 (28.5 ov) \u2014 Afghanistan chose to bat.",
-      "live_batting": "Hashmatullah Shahidi 56*(75), Mohammad Nabi 1*(1)",
-      "live_bowling": "Gurnoor Brar 0/38 (6), Prasidh Krishna 4/6 (5), Prince Yadav 1/27 (5.5)",
+      "live_score": "AFG 143/5 (29 ov) \u2014 Afghanistan chose to bat.",
+      "live_batting": "Hashmatullah Shahidi 56*(75), Mohammad Nabi 1*(2)",
+      "live_bowling": "Gurnoor Brar 0/38 (6), Prasidh Krishna 4/6 (5), Prince Yadav 1/27 (6)",
       "live_moment": "Afghanistan chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-06-20T03:23:23+05:30"
+      "updated_at": "2026-06-20T03:24:25+05:30"
     }
   },
-  "updated_at": "2026-06-20T03:23:23+05:30"
+  "updated_at": "2026-06-20T03:24:25+05:30"
 }
