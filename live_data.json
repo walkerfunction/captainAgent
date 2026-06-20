@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "AFG 5/0 (1 ov) \u2014 Afghanistan chose to bat.",
-      "live_batting": "Rahmanullah Gurbaz 5*(6)",
-      "live_bowling": "Gurnoor Brar 0/5 (1)",
+      "live_score": "AFG 5/1 (1.1 ov) \u2014 Afghanistan chose to bat.",
+      "live_batting": "",
+      "live_bowling": "Gurnoor Brar 0/5 (1), Prasidh Krishna 1/0 (0.1)",
       "live_moment": "Afghanistan chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-06-20T01:05:36+05:30"
+      "updated_at": "2026-06-20T01:06:38+05:30"
     }
   },
-  "updated_at": "2026-06-20T01:05:36+05:30"
+  "updated_at": "2026-06-20T01:06:38+05:30"
 }
