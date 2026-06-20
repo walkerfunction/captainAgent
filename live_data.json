@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "AFG 218/10 (44.2 ov) & IND 200/1 (27.3 ov) \u2014 India need 19 runs from 22.3 overs.",
-      "live_batting": "Yashasvi Jaiswal 94*(82), Shreyas Iyer 12*(16)",
-      "live_bowling": "Azmatullah Omarzai 0/26 (2), Ziaur Rahman 0/21 (4), Fareed Ahmad 0/47 (4.3)",
-      "live_moment": "India need 19 runs from 22.3 overs.",
+      "live_score": "AFG 218/10 (44.2 ov) & IND 202/1 (27.4 ov) \u2014 India need 17 runs from 22.2 overs.",
+      "live_batting": "Yashasvi Jaiswal 94*(82), Shreyas Iyer 14*(17)",
+      "live_bowling": "Azmatullah Omarzai 0/26 (2), Ziaur Rahman 0/21 (4), Fareed Ahmad 0/49 (4.4)",
+      "live_moment": "India need 17 runs from 22.2 overs.",
       "gemma_observations": [],
-      "updated_at": "2026-06-20T07:16:50+05:30"
+      "updated_at": "2026-06-20T07:17:52+05:30"
     }
   },
-  "updated_at": "2026-06-20T07:16:50+05:30"
+  "updated_at": "2026-06-20T07:17:52+05:30"
 }
