@@ -10,13 +10,13 @@
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "status": "live"
       },
-      "live_score": "AFG 218/10 (44.2 ov) & IND 50/0 (6.2 ov) \u2014 India need 169 runs from 43.4 overs.",
-      "live_batting": "Yashasvi Jaiswal 24*(17), Rohit Sharma 14*(23)",
-      "live_bowling": "Azmatullah Omarzai 0/18 (1), Ziaur Rahman 0/8 (3), Fareed Ahmad 0/17 (2.2)",
-      "live_moment": "India need 169 runs from 43.4 overs.",
+      "live_score": "AFG 218/10 (44.2 ov) & IND 58/0 (6.4 ov) \u2014 India need 161 runs from 43.2 overs.",
+      "live_batting": "Yashasvi Jaiswal 32*(19), Rohit Sharma 14*(23)",
+      "live_bowling": "Azmatullah Omarzai 0/18 (1), Ziaur Rahman 0/8 (3), Fareed Ahmad 0/25 (2.4)",
+      "live_moment": "India need 161 runs from 43.2 overs.",
       "gemma_observations": [],
-      "updated_at": "2026-06-20T05:50:24+05:30"
+      "updated_at": "2026-06-20T05:51:26+05:30"
     }
   },
-  "updated_at": "2026-06-20T05:50:24+05:30"
+  "updated_at": "2026-06-20T05:51:26+05:30"
 }
