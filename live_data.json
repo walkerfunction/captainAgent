@@ -10,13 +10,13 @@
         "venue": "Old Trafford, Manchester",
         "status": "live"
       },
-      "live_score": "IND-W 9/0 (1 ov) \u2014 IND Women chose to bat.",
-      "live_batting": "Smriti Mandhana 3*(4), Shafali Verma 6*(2)",
-      "live_bowling": "Marizanne Kapp 0/9 (1)",
+      "live_score": "IND-W 9/0 (1.1 ov) \u2014 IND Women chose to bat.",
+      "live_batting": "Smriti Mandhana 3*(5), Shafali Verma 6*(2)",
+      "live_bowling": "Marizanne Kapp 0/9 (1), Shabnim Ismail 0/0 (0.1)",
       "live_moment": "IND Women chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-06-21T06:35:29+05:30"
+      "updated_at": "2026-06-21T06:36:31+05:30"
     }
   },
-  "updated_at": "2026-06-21T06:35:29+05:30"
+  "updated_at": "2026-06-21T06:36:31+05:30"
 }
