@@ -10,13 +10,13 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 182/9 (20 ov) & IND 16/1 (1.1 ov) \u2014 India need 167 runs in 113 balls.",
-      "live_batting": "Abhishek Sharma 11*(3)",
-      "live_bowling": "Matthew Humphreys 0/16 (1), Jai Moondra 1/0 (0.1)",
-      "live_moment": "India need 167 runs in 113 balls.",
+      "live_score": "IRE 182/9 (20 ov) & IND 16/1 (1.2 ov) \u2014 India need 167 runs in 112 balls.",
+      "live_batting": "Abhishek Sharma 11*(3), Ishan Kishan 0*(1)",
+      "live_bowling": "Matthew Humphreys 0/16 (1), Jai Moondra 1/0 (0.2)",
+      "live_moment": "India need 167 runs in 112 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-26T07:28:53+05:30"
+      "updated_at": "2026-06-26T07:29:54+05:30"
     }
   },
-  "updated_at": "2026-06-26T07:28:53+05:30"
+  "updated_at": "2026-06-26T07:29:54+05:30"
 }
