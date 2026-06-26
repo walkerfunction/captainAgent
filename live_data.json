@@ -10,13 +10,13 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 182/9 (20 ov) & IND 148/9 (18.4 ov) \u2014 India need 35 runs in 8 balls.",
-      "live_batting": "Arshdeep Singh 2*(3), Prasidh Krishna 1*(2)",
-      "live_bowling": "Matthew Humphreys 2/38 (3.4), Jai Moondra 2/25 (4), Liam McCarthy 1/29 (3)",
-      "live_moment": "India need 35 runs in 8 balls.",
+      "live_score": "IRE 182/9 (20 ov) & IND 148/10 (18.5 ov) \u2014 Match Over",
+      "live_batting": "Prasidh Krishna 1*(2)",
+      "live_bowling": "Matthew Humphreys 3/38 (3.5), Jai Moondra 2/25 (4), Liam McCarthy 1/29 (3)",
+      "live_moment": "Match Over",
       "gemma_observations": [],
-      "updated_at": "2026-06-26T09:01:37+05:30"
+      "updated_at": "2026-06-26T09:02:39+05:30"
     }
   },
-  "updated_at": "2026-06-26T09:01:37+05:30"
+  "updated_at": "2026-06-26T09:02:39+05:30"
 }
