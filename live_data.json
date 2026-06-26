@@ -10,13 +10,13 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 44/3 (6.4 ov) \u2014 India chose to field.",
-      "live_batting": "Lorcan Tucker 5*(10), Ben Calitz 8*(8)",
-      "live_bowling": "Arshdeep Singh 1/18 (3), Harshit Rana 2/18 (3), Prasidh Krishna 0/8 (0.4)",
+      "live_score": "IRE 51/3 (7 ov) \u2014 India chose to field.",
+      "live_batting": "Lorcan Tucker 5*(10), Ben Calitz 15*(10)",
+      "live_bowling": "Arshdeep Singh 1/18 (3), Harshit Rana 2/18 (3), Prasidh Krishna 0/15 (1)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-26T06:07:13+05:30"
+      "updated_at": "2026-06-26T06:08:14+05:30"
     }
   },
-  "updated_at": "2026-06-26T06:07:13+05:30"
+  "updated_at": "2026-06-26T06:08:14+05:30"
 }
