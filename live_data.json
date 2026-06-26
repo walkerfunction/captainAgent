@@ -1,22 +1,22 @@
 {
   "matches": {
-    "Bangladesh Women_vs_India Women_2026-06-25": {
+    "India_vs_Ireland_2026-06-26": {
       "match": {
-        "name": "23rd Match, Group 1",
+        "name": "1st T20I",
         "teams": [
-          "Bangladesh Women",
-          "India Women"
+          "Ireland",
+          "India"
         ],
-        "venue": "Old Trafford, Manchester",
+        "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "BAN-W 136/8 (20 ov) & IND-W 135/5 (16.4 ov) \u2014 IND Women need 2 runs in 20 balls.",
-      "live_batting": "Harmanpreet Kaur 13*(14), Deepti Sharma 1*(1)",
-      "live_bowling": "Marufa Akter 1/28 (3), Sanjida Akter Meghla 0/39 (3), Ritu Moni 2/29 (4)",
-      "live_moment": "IND Women need 2 runs in 20 balls.",
+      "live_score": "IRE 0/0 (0.1 ov) \u2014 India chose to field.",
+      "live_batting": "Tim Tector 0*(1)",
+      "live_bowling": "Arshdeep Singh 0/0 (0.1)",
+      "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-25T09:41:29+05:30"
+      "updated_at": "2026-06-26T05:32:09+05:30"
     }
   },
-  "updated_at": "2026-06-25T09:41:29+05:30"
+  "updated_at": "2026-06-26T05:32:09+05:30"
 }
