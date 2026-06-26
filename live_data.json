@@ -10,13 +10,13 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 182/9 (20 ov) & IND 59/2 (4.5 ov) \u2014 India need 124 runs in 91 balls.",
-      "live_batting": "Abhishek Sharma 47*(16), Shreyas Iyer 2*(5)",
-      "live_bowling": "Matthew Humphreys 0/16 (1), Jai Moondra 1/10 (1.5), Liam McCarthy 0/21 (1)",
-      "live_moment": "India need 124 runs in 91 balls.",
+      "live_score": "IRE 182/9 (20 ov) & IND 60/2 (5.1 ov) \u2014 India need 123 runs in 89 balls.",
+      "live_batting": "Abhishek Sharma 47*(16), Shreyas Iyer 3*(7)",
+      "live_bowling": "Matthew Humphreys 0/16 (1), Jai Moondra 1/11 (2), Liam McCarthy 0/21 (1)",
+      "live_moment": "India need 123 runs in 89 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-26T07:49:28+05:30"
+      "updated_at": "2026-06-26T07:50:30+05:30"
     }
   },
-  "updated_at": "2026-06-26T07:49:28+05:30"
+  "updated_at": "2026-06-26T07:50:30+05:30"
 }
