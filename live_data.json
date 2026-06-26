@@ -10,13 +10,13 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 182/9 (20 ov) & IND 92/5 (10.5 ov) \u2014 India need 91 runs in 55 balls.",
-      "live_batting": "Washington Sundar 6*(7), Shivam Dube 1*(2)",
-      "live_bowling": "Matthew Humphreys 1/19 (1.5), Jai Moondra 1/11 (2), Liam McCarthy 1/29 (3)",
-      "live_moment": "India need 91 runs in 55 balls.",
+      "live_score": "IRE 182/9 (20 ov) & IND 96/5 (11 ov) \u2014 India need 87 runs in 54 balls.",
+      "live_batting": "Washington Sundar 6*(7), Shivam Dube 5*(3)",
+      "live_bowling": "Matthew Humphreys 1/23 (2), Jai Moondra 1/11 (2), Liam McCarthy 1/29 (3)",
+      "live_moment": "India need 87 runs in 54 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-26T08:19:23+05:30"
+      "updated_at": "2026-06-26T08:20:25+05:30"
     }
   },
-  "updated_at": "2026-06-26T08:19:23+05:30"
+  "updated_at": "2026-06-26T08:20:25+05:30"
 }
