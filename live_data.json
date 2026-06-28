@@ -10,12 +10,12 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 154/8 (20 ov) & IND 105/5 (15.1 ov) \u2014 India need 50 runs in 29 balls.",
-      "live_batting": "Tilak Varma 46*(41), Shivam Dube 18*(12)",
+      "live_score": "IRE 154/8 (20 ov) & IND 106/5 (15.2 ov) \u2014 India need 49 runs in 28 balls.",
+      "live_batting": "Tilak Varma 47*(42), Shivam Dube 18*(12)",
       "live_bowling": "Jai Moondra 3/19 (3), Matthew Humphreys 0/26 (3), Matt Hollard 1/16 (3)",
-      "live_moment": "India need 50 runs in 29 balls.",
+      "live_moment": "India need 49 runs in 28 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:19:45+05:30"
+      "updated_at": "2026-06-28T09:20:47+05:30"
     },
     "Australia Women_vs_India Women_2026-06-28": {
       "match": {
@@ -32,8 +32,8 @@
       "live_bowling": "Renuka Singh 1/24 (3), Kranti Gaud 0/12 (1), Shafali Verma 0/17 (3)",
       "live_moment": "AUS Women need 62 runs in 36 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:19:45+05:30"
+      "updated_at": "2026-06-28T09:20:47+05:30"
     }
   },
-  "updated_at": "2026-06-28T09:19:45+05:30"
+  "updated_at": "2026-06-28T09:20:47+05:30"
 }
