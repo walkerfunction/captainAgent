@@ -10,12 +10,12 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 154/8 (20 ov) & IND 0/0 (0.1 ov) \u2014 India need 155 runs in 119 balls.",
-      "live_batting": "Abhishek Sharma 0*(1)",
-      "live_bowling": "Jai Moondra 0/0 (0.1)",
+      "live_score": "IRE 154/8 (20 ov) & IND 0/1 (0.1 ov) \u2014 India need 155 runs in 119 balls.",
+      "live_batting": "",
+      "live_bowling": "Jai Moondra 1/0 (0.1)",
       "live_moment": "India need 155 runs in 119 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T07:28:10+05:30"
+      "updated_at": "2026-06-28T07:29:12+05:30"
     },
     "Australia Women_vs_India Women_2026-06-28": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 85/2 (12 ov) \u2014 IND Women chose to bat.",
-      "live_batting": "Jemimah Rodrigues 9*(7), Harmanpreet Kaur 1*(2)",
-      "live_bowling": "Lucy Hamilton 0/8 (2), Kim Garth 0/15 (2), Ashleigh Gardner 0/25 (2)",
+      "live_score": "IND-W 86/2 (12.1 ov) \u2014 IND Women chose to bat.",
+      "live_batting": "Jemimah Rodrigues 9*(7), Harmanpreet Kaur 2*(3)",
+      "live_bowling": "Lucy Hamilton 0/9 (2.1), Kim Garth 0/15 (2), Ashleigh Gardner 0/25 (2)",
       "live_moment": "IND Women chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T07:28:10+05:30"
+      "updated_at": "2026-06-28T07:29:12+05:30"
     }
   },
-  "updated_at": "2026-06-28T07:28:10+05:30"
+  "updated_at": "2026-06-28T07:29:12+05:30"
 }
