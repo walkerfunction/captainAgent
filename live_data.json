@@ -15,7 +15,7 @@
       "live_bowling": "Jai Moondra 3/19 (3), Matthew Humphreys 1/26 (3.1), Matt Hollard 1/16 (3)",
       "live_moment": "India need 46 runs in 23 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:24:55+05:30"
+      "updated_at": "2026-06-28T09:25:57+05:30"
     },
     "Australia Women_vs_India Women_2026-06-28": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 170/4 (20 ov) & AUS-W 123/3 (14.4 ov) \u2014 AUS Women need 48 runs in 32 balls.",
-      "live_batting": "Ellyse Perry 37*(25), Ashleigh Gardner 28*(17)",
+      "live_score": "IND-W 170/4 (20 ov) & AUS-W 125/3 (14.6 ov) \u2014 AUS Women need 46 runs in 30 balls.",
+      "live_batting": "Ellyse Perry 38*(26), Ashleigh Gardner 29*(18)",
       "live_bowling": "Renuka Singh 1/24 (3), Kranti Gaud 0/12 (1), Shafali Verma 0/17 (3)",
-      "live_moment": "AUS Women need 48 runs in 32 balls.",
+      "live_moment": "AUS Women need 46 runs in 30 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:24:55+05:30"
+      "updated_at": "2026-06-28T09:25:57+05:30"
     }
   },
-  "updated_at": "2026-06-28T09:24:55+05:30"
+  "updated_at": "2026-06-28T09:25:57+05:30"
 }
