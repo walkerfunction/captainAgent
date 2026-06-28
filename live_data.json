@@ -10,13 +10,30 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 95/3 (12.3 ov) \u2014 India chose to field.",
-      "live_batting": "Harry Tector 33*(30), Ben Calitz 23*(15)",
-      "live_bowling": "Arshdeep Singh 1/28 (3), Harshit Rana 1/9 (2), Prince Yadav 1/15 (2.3)",
+      "live_score": "IRE 96/3 (12.4 ov) \u2014 India chose to field.",
+      "live_batting": "Harry Tector 33*(30), Ben Calitz 24*(16)",
+      "live_bowling": "Arshdeep Singh 1/28 (3), Harshit Rana 1/9 (2), Prince Yadav 1/16 (2.4)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T06:31:19+05:30"
+      "updated_at": "2026-06-28T06:32:20+05:30"
+    },
+    "Australia Women_vs_India Women_2026-06-28": {
+      "match": {
+        "name": "30th Match, Group 1",
+        "teams": [
+          "India Women",
+          "Australia Women"
+        ],
+        "venue": "Lord's, London",
+        "status": "live"
+      },
+      "live_score": "IND-W 0/0 (0.1 ov) \u2014 IND Women chose to bat.",
+      "live_batting": "Smriti Mandhana 0*(1)",
+      "live_bowling": "Lucy Hamilton 0/0 (0.1)",
+      "live_moment": "IND Women chose to bat.",
+      "gemma_observations": [],
+      "updated_at": "2026-06-28T06:32:20+05:30"
     }
   },
-  "updated_at": "2026-06-28T06:31:19+05:30"
+  "updated_at": "2026-06-28T06:32:20+05:30"
 }
