@@ -10,13 +10,13 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 154/8 (20 ov) & IND 147/9 (19.5 ov) \u2014 India need 8 runs in 1 ball.",
-      "live_batting": "Arshdeep Singh 4*(5)",
+      "live_score": "IRE 154/8 (20 ov) & IND 153/9 (20 ov) \u2014 Match Over",
+      "live_batting": "Arshdeep Singh 4*(5), Prince Yadav 6*(1)",
       "live_bowling": "Jai Moondra 3/32 (4), Matthew Humphreys 1/28 (4), Matt Hollard 3/26 (4)",
-      "live_moment": "India need 8 runs in 1 ball.",
+      "live_moment": "Match Over",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:50:42+05:30"
+      "updated_at": "2026-06-28T09:51:44+05:30"
     }
   },
-  "updated_at": "2026-06-28T09:50:42+05:30"
+  "updated_at": "2026-06-28T09:51:44+05:30"
 }
