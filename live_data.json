@@ -10,12 +10,12 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 144/5 (18.2 ov) \u2014 India chose to field.",
-      "live_batting": "Harry Tector 47*(43), George Dockrell 19*(13)",
-      "live_bowling": "Arshdeep Singh 1/30 (3.2), Harshit Rana 1/17 (3), Prince Yadav 1/17 (3)",
+      "live_score": "IRE 144/6 (18.3 ov) \u2014 India chose to field.",
+      "live_batting": "Harry Tector 47*(43)",
+      "live_bowling": "Arshdeep Singh 2/30 (3.3), Harshit Rana 1/17 (3), Prince Yadav 1/17 (3)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T07:04:22+05:30"
+      "updated_at": "2026-06-28T07:05:24+05:30"
     },
     "Australia Women_vs_India Women_2026-06-28": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 51/0 (7.2 ov) \u2014 IND Women chose to bat.",
-      "live_batting": "Smriti Mandhana 27*(25), Shafali Verma 22*(19)",
+      "live_score": "IND-W 51/0 (7.3 ov) \u2014 IND Women chose to bat.",
+      "live_batting": "Smriti Mandhana 27*(26), Shafali Verma 22*(19)",
       "live_bowling": "Lucy Hamilton 0/8 (2), Kim Garth 0/15 (2), Ashleigh Gardner 0/13 (1)",
       "live_moment": "IND Women chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T07:04:22+05:30"
+      "updated_at": "2026-06-28T07:05:24+05:30"
     }
   },
-  "updated_at": "2026-06-28T07:04:22+05:30"
+  "updated_at": "2026-06-28T07:05:24+05:30"
 }
