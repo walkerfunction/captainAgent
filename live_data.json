@@ -10,12 +10,12 @@
         "venue": "Civil Service Cricket Club, Stormont, Belfast",
         "status": "live"
       },
-      "live_score": "IRE 154/8 (20 ov) & IND 111/6 (17 ov) \u2014 India need 44 runs in 18 balls.",
-      "live_batting": "Tilak Varma 49*(44), Suryansh Shedge 1*(4)",
-      "live_bowling": "Jai Moondra 3/19 (3), Matthew Humphreys 1/28 (4), Matt Hollard 1/16 (3)",
-      "live_moment": "India need 44 runs in 18 balls.",
+      "live_score": "IRE 154/8 (20 ov) & IND 117/6 (17.1 ov) \u2014 India need 38 runs in 17 balls.",
+      "live_batting": "Tilak Varma 55*(45), Suryansh Shedge 1*(4)",
+      "live_bowling": "Jai Moondra 3/19 (3), Matthew Humphreys 1/28 (4), Matt Hollard 1/22 (3.1)",
+      "live_moment": "India need 38 runs in 17 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:30:05+05:30"
+      "updated_at": "2026-06-28T09:31:07+05:30"
     },
     "Australia Women_vs_India Women_2026-06-28": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 170/4 (20 ov) & AUS-W 137/3 (16 ov) \u2014 AUS Women need 34 runs in 24 balls.",
-      "live_batting": "Ellyse Perry 44*(29), Ashleigh Gardner 35*(21)",
-      "live_bowling": "Renuka Singh 1/24 (3), Kranti Gaud 0/12 (1), Shafali Verma 0/29 (4)",
-      "live_moment": "AUS Women need 34 runs in 24 balls.",
+      "live_score": "IND-W 170/4 (20 ov) & AUS-W 138/3 (16.1 ov) \u2014 AUS Women need 33 runs in 23 balls.",
+      "live_batting": "Ellyse Perry 45*(30), Ashleigh Gardner 35*(21)",
+      "live_bowling": "Renuka Singh 1/25 (3.1), Kranti Gaud 0/12 (1), Shafali Verma 0/29 (4)",
+      "live_moment": "AUS Women need 33 runs in 23 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:30:05+05:30"
+      "updated_at": "2026-06-28T09:31:07+05:30"
     }
   },
-  "updated_at": "2026-06-28T09:30:05+05:30"
+  "updated_at": "2026-06-28T09:31:07+05:30"
 }
