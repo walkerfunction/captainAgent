@@ -10,13 +10,13 @@
         "venue": "Riverside Ground, Chester-le-Street",
         "status": "live"
       },
-      "live_score": "IND 165/4 (17.4 ov) \u2014 India chose to bat.",
-      "live_batting": "Shreyas Iyer 68*(46), Shivam Dube 21*(14)",
-      "live_bowling": "Luke Wood 0/35 (3), Saqib Mahmood 2/33 (3.4), Liam Dawson 0/26 (3)",
+      "live_score": "IND 165/5 (17.5 ov) \u2014 India chose to bat.",
+      "live_batting": "Shivam Dube 21*(14)",
+      "live_bowling": "Luke Wood 0/35 (3), Saqib Mahmood 3/33 (3.5), Liam Dawson 0/26 (3)",
       "live_moment": "India chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-01T10:59:38+05:30"
+      "updated_at": "2026-07-01T11:00:40+05:30"
     }
   },
-  "updated_at": "2026-07-01T10:59:38+05:30"
+  "updated_at": "2026-07-01T11:00:40+05:30"
 }
