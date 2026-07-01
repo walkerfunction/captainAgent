@@ -1,22 +1,22 @@
 {
   "matches": {
-    "India_vs_Ireland_2026-06-28": {
+    "England_vs_India_2026-07-01": {
       "match": {
-        "name": "2nd T20I",
+        "name": "1st T20I",
         "teams": [
-          "Ireland",
-          "India"
+          "India",
+          "England"
         ],
-        "venue": "Civil Service Cricket Club, Stormont, Belfast",
+        "venue": "Riverside Ground, Chester-le-Street",
         "status": "live"
       },
-      "live_score": "IRE 154/8 (20 ov) & IND 153/9 (20 ov) \u2014 Match Over",
-      "live_batting": "Arshdeep Singh 4*(5), Prince Yadav 6*(1)",
-      "live_bowling": "Jai Moondra 3/32 (4), Matthew Humphreys 1/28 (4), Matt Hollard 3/26 (4)",
-      "live_moment": "Match Over",
+      "live_score": "IND 1/0 (0.3 ov) \u2014 India chose to bat.",
+      "live_batting": "Sanju Samson 1*(3)",
+      "live_bowling": "Luke Wood 0/1 (0.3)",
+      "live_moment": "India chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-06-28T09:51:44+05:30"
+      "updated_at": "2026-07-01T09:35:16+05:30"
     }
   },
-  "updated_at": "2026-06-28T09:51:44+05:30"
+  "updated_at": "2026-07-01T09:35:16+05:30"
 }
