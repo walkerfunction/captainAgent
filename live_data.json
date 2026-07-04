@@ -10,13 +10,13 @@
         "venue": "Old Trafford, Manchester",
         "status": "live"
       },
-      "live_score": "IND 50/1 (4.5 ov) \u2014 India chose to bat.",
-      "live_batting": "Abhishek Sharma 30*(19)",
-      "live_bowling": "Jofra Archer 0/15 (2), Josh Tongue 0/25 (2), Will Jacks 1/9 (0.5)",
+      "live_score": "IND 50/1 (5 ov) \u2014 India chose to bat.",
+      "live_batting": "Abhishek Sharma 30*(19), Ishan Kishan 0*(1)",
+      "live_bowling": "Jofra Archer 0/15 (2), Josh Tongue 0/25 (2), Will Jacks 1/9 (1)",
       "live_moment": "India chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-04T06:55:25+05:30"
+      "updated_at": "2026-07-04T06:56:27+05:30"
     }
   },
-  "updated_at": "2026-07-04T06:55:25+05:30"
+  "updated_at": "2026-07-04T06:56:27+05:30"
 }
