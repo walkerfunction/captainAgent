@@ -10,13 +10,13 @@
         "venue": "Old Trafford, Manchester",
         "status": "live"
       },
-      "live_score": "IND 190/7 (20 ov) & ENG 26/2 (2.4 ov) \u2014 England need 165 runs in 104 balls.",
-      "live_batting": "Harry Brook 25*(10), Jacob Bethell 1*(2)",
-      "live_bowling": "Arshdeep Singh 2/16 (1.4), Harshit Rana 0/10 (1)",
-      "live_moment": "England need 165 runs in 104 balls.",
+      "live_score": "IND 190/7 (20 ov) & ENG 32/2 (2.5 ov) \u2014 England need 159 runs in 103 balls.",
+      "live_batting": "Harry Brook 31*(11), Jacob Bethell 1*(2)",
+      "live_bowling": "Arshdeep Singh 2/22 (1.5), Harshit Rana 0/10 (1)",
+      "live_moment": "England need 159 runs in 103 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-04T08:44:22+05:30"
+      "updated_at": "2026-07-04T08:45:24+05:30"
     }
   },
-  "updated_at": "2026-07-04T08:44:22+05:30"
+  "updated_at": "2026-07-04T08:45:24+05:30"
 }
