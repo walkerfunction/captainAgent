@@ -10,13 +10,13 @@
         "venue": "Old Trafford, Manchester",
         "status": "live"
       },
-      "live_score": "IND 190/7 (19.6 ov) \u2014 India chose to bat.",
+      "live_score": "IND 190/7 (20 ov) \u2014 India chose to bat.",
       "live_batting": "Tilak Varma 24*(11)",
-      "live_bowling": "Jofra Archer 1/40 (3.6), Josh Tongue 0/46 (4), Will Jacks 1/22 (3)",
+      "live_bowling": "Jofra Archer 1/40 (4), Josh Tongue 0/46 (4), Will Jacks 1/22 (3)",
       "live_moment": "India chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-04T08:16:36+05:30"
+      "updated_at": "2026-07-04T08:17:38+05:30"
     }
   },
-  "updated_at": "2026-07-04T08:16:36+05:30"
+  "updated_at": "2026-07-04T08:17:38+05:30"
 }
