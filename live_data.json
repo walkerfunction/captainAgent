@@ -10,13 +10,13 @@
         "venue": "Old Trafford, Manchester",
         "status": "live"
       },
-      "live_score": "IND 190/7 (20 ov) & ENG 188/6 (18.4 ov) \u2014 England need 3 runs in 8 balls.",
-      "live_batting": "Jacob Bethell 75*(45), Jofra Archer 8*(6)",
-      "live_bowling": "Arshdeep Singh 3/37 (3.4), Harshit Rana 1/30 (3), Ravi Bishnoi 0/60 (4)",
-      "live_moment": "England need 3 runs in 8 balls.",
+      "live_score": "IND 190/7 (20 ov) & ENG 189/6 (18.5 ov) \u2014 England need 2 runs in 7 balls.",
+      "live_batting": "Jacob Bethell 76*(46), Jofra Archer 8*(6)",
+      "live_bowling": "Arshdeep Singh 3/38 (3.5), Harshit Rana 1/30 (3), Ravi Bishnoi 0/60 (4)",
+      "live_moment": "England need 2 runs in 7 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-04T10:06:47+05:30"
+      "updated_at": "2026-07-04T10:07:48+05:30"
     }
   },
-  "updated_at": "2026-07-04T10:06:47+05:30"
+  "updated_at": "2026-07-04T10:07:48+05:30"
 }
