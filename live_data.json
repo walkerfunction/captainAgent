@@ -10,13 +10,13 @@
         "venue": "Old Trafford, Manchester",
         "status": "live"
       },
-      "live_score": "IND 190/7 (20 ov) & ENG 142/5 (15.5 ov) \u2014 England need 49 runs in 25 balls.",
-      "live_batting": "Jacob Bethell 42*(35), Sam Curran 5*(2)",
+      "live_score": "IND 190/7 (20 ov) & ENG 142/5 (16 ov) \u2014 England need 49 runs in 24 balls.",
+      "live_batting": "Jacob Bethell 42*(36), Sam Curran 5*(2)",
       "live_bowling": "Arshdeep Singh 3/30 (3), Harshit Rana 0/20 (2), Ravi Bishnoi 0/31 (3)",
-      "live_moment": "England need 49 runs in 25 balls.",
+      "live_moment": "England need 49 runs in 24 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-04T09:48:17+05:30"
+      "updated_at": "2026-07-04T09:49:19+05:30"
     }
   },
-  "updated_at": "2026-07-04T09:48:17+05:30"
+  "updated_at": "2026-07-04T09:49:19+05:30"
 }
