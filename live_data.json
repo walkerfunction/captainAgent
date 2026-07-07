@@ -10,13 +10,13 @@
         "venue": "Trent Bridge, Nottingham",
         "status": "live"
       },
-      "live_score": "ENG 201/7 (20 ov) & IND 24/1 (2 ov) \u2014 India need 178 runs in 108 balls.",
-      "live_batting": "Vaibhav Sooryavanshi 13*(4), Ishan Kishan 1*(1)",
-      "live_bowling": "Jofra Archer 0/9 (1), Josh Tongue 1/15 (1)",
-      "live_moment": "India need 178 runs in 108 balls.",
+      "live_score": "ENG 201/7 (20 ov) & IND 28/1 (2.2 ov) \u2014 India need 174 runs in 106 balls.",
+      "live_batting": "Vaibhav Sooryavanshi 13*(4), Ishan Kishan 5*(3)",
+      "live_bowling": "Jofra Archer 0/13 (1.2), Josh Tongue 1/15 (1)",
+      "live_moment": "India need 174 runs in 106 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-07T11:37:16+05:30"
+      "updated_at": "2026-07-07T11:38:18+05:30"
     }
   },
-  "updated_at": "2026-07-07T11:37:16+05:30"
+  "updated_at": "2026-07-07T11:38:18+05:30"
 }
