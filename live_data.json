@@ -10,13 +10,13 @@
         "venue": "Trent Bridge, Nottingham",
         "status": "live"
       },
-      "live_score": "ENG 201/7 (20 ov) & IND 3/0 (0.4 ov) \u2014 India need 199 runs in 116 balls.",
-      "live_batting": "Abhishek Sharma 3*(4)",
-      "live_bowling": "Jofra Archer 0/3 (0.4)",
-      "live_moment": "India need 199 runs in 116 balls.",
+      "live_score": "ENG 201/7 (20 ov) & IND 3/0 (0.5 ov) \u2014 India need 199 runs in 115 balls.",
+      "live_batting": "Abhishek Sharma 3*(4), Vaibhav Sooryavanshi 0*(1)",
+      "live_bowling": "Jofra Archer 0/3 (0.5)",
+      "live_moment": "India need 199 runs in 115 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-07T11:29:01+05:30"
+      "updated_at": "2026-07-07T11:30:03+05:30"
     }
   },
-  "updated_at": "2026-07-07T11:29:01+05:30"
+  "updated_at": "2026-07-07T11:30:03+05:30"
 }
