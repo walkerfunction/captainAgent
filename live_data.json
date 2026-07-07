@@ -10,13 +10,13 @@
         "venue": "Trent Bridge, Nottingham",
         "status": "live"
       },
-      "live_score": "ENG 71/1 (8.1 ov) \u2014 India chose to field.",
-      "live_batting": "Phil Salt 16*(17), Harry Brook 16*(11)",
+      "live_score": "ENG 71/2 (8.2 ov) \u2014 India chose to field.",
+      "live_batting": "Phil Salt 16*(17)",
       "live_bowling": "Arshdeep Singh 0/12 (2), Harshit Rana 0/18 (2), Axar Patel 0/13 (1)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-07T10:11:56+05:30"
+      "updated_at": "2026-07-07T10:12:58+05:30"
     }
   },
-  "updated_at": "2026-07-07T10:11:56+05:30"
+  "updated_at": "2026-07-07T10:12:58+05:30"
 }
