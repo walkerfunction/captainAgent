@@ -10,13 +10,13 @@
         "venue": "Trent Bridge, Nottingham",
         "status": "live"
       },
-      "live_score": "ENG 201/7 (20 ov) & IND 41/2 (3.4 ov) \u2014 India need 161 runs in 98 balls.",
-      "live_batting": "Ishan Kishan 13*(7), Shreyas Iyer 5*(3)",
-      "live_bowling": "Jofra Archer 1/18 (2), Josh Tongue 1/23 (1.4)",
-      "live_moment": "India need 161 runs in 98 balls.",
+      "live_score": "ENG 201/7 (20 ov) & IND 41/3 (3.6 ov) \u2014 India need 161 runs in 96 balls.",
+      "live_batting": "Shreyas Iyer 5*(3)",
+      "live_bowling": "Jofra Archer 1/18 (2), Josh Tongue 2/23 (1.6)",
+      "live_moment": "India need 161 runs in 96 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-07T11:45:30+05:30"
+      "updated_at": "2026-07-07T11:46:32+05:30"
     }
   },
-  "updated_at": "2026-07-07T11:45:30+05:30"
+  "updated_at": "2026-07-07T11:46:32+05:30"
 }
