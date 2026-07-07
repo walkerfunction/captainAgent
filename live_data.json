@@ -10,13 +10,13 @@
         "venue": "Trent Bridge, Nottingham",
         "status": "live"
       },
-      "live_score": "ENG 128/4 (14 ov) \u2014 India chose to field.",
-      "live_batting": "Phil Salt 50*(36), Sam Curran 9*(5)",
-      "live_bowling": "Arshdeep Singh 0/12 (2), Harshit Rana 2/25 (3), Axar Patel 0/31 (3)",
+      "live_score": "ENG 130/4 (14.2 ov) \u2014 India chose to field.",
+      "live_batting": "Phil Salt 51*(37), Sam Curran 10*(6)",
+      "live_bowling": "Arshdeep Singh 0/14 (2.2), Harshit Rana 2/25 (3), Axar Patel 0/31 (3)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-07T10:42:46+05:30"
+      "updated_at": "2026-07-07T10:43:48+05:30"
     }
   },
-  "updated_at": "2026-07-07T10:42:46+05:30"
+  "updated_at": "2026-07-07T10:43:48+05:30"
 }
