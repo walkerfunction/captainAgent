@@ -1,22 +1,22 @@
 {
   "matches": {
-    "England_vs_India_2026-07-07": {
+    "England_vs_India_2026-07-09": {
       "match": {
-        "name": "3rd T20I",
+        "name": "4th T20I",
         "teams": [
-          "England",
-          "India"
+          "India",
+          "England"
         ],
-        "venue": "Trent Bridge, Nottingham",
+        "venue": "County Ground, Bristol",
         "status": "live"
       },
-      "live_score": "ENG 201/7 (20 ov) & IND 76/9 (11.3 ov) \u2014 India need 126 runs in 51 balls.",
-      "live_batting": "Varun Chakravarthy 5*(6), Prince Yadav 2*(2)",
-      "live_bowling": "Jofra Archer 3/29 (3), Josh Tongue 4/28 (4), Will Jacks 1/5 (2)",
-      "live_moment": "India need 126 runs in 51 balls.",
+      "live_score": "IND 2/0 (0.1 ov) \u2014 India chose to bat.",
+      "live_batting": "Vaibhav Sooryavanshi 1*(1)",
+      "live_bowling": "Jofra Archer 0/2 (0.1)",
+      "live_moment": "India chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-07T12:28:40+05:30"
+      "updated_at": "2026-07-09T09:31:55+05:30"
     }
   },
-  "updated_at": "2026-07-07T12:28:40+05:30"
+  "updated_at": "2026-07-09T09:31:55+05:30"
 }
