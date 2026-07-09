@@ -10,13 +10,13 @@
         "venue": "County Ground, Bristol",
         "status": "live"
       },
-      "live_score": "IND 33/1 (4.1 ov) \u2014 India chose to bat.",
-      "live_batting": "Abhishek Sharma 13*(10), Ishan Kishan 4*(5)",
-      "live_bowling": "Jofra Archer 1/9 (2), Josh Tongue 0/16 (1.1), Will Jacks 0/8 (1)",
+      "live_score": "IND 33/2 (4.2 ov) \u2014 India chose to bat.",
+      "live_batting": "Abhishek Sharma 13*(10)",
+      "live_bowling": "Jofra Archer 1/9 (2), Josh Tongue 1/16 (1.2), Will Jacks 0/8 (1)",
       "live_moment": "India chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-09T09:50:22+05:30"
+      "updated_at": "2026-07-09T09:51:24+05:30"
     }
   },
-  "updated_at": "2026-07-09T09:50:22+05:30"
+  "updated_at": "2026-07-09T09:51:24+05:30"
 }
