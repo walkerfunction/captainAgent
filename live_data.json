@@ -10,13 +10,13 @@
         "venue": "County Ground, Bristol",
         "status": "live"
       },
-      "live_score": "IND 158/7 (20 ov) & ENG 146/1 (13.1 ov) \u2014 England need 13 runs in 41 balls.",
-      "live_batting": "Phil Salt 54*(40), Harry Brook 72*(33)",
-      "live_bowling": "Arshdeep Singh 1/28 (3.1), Prasidh Krishna 0/26 (3), Prince Yadav 0/28 (3)",
-      "live_moment": "England need 13 runs in 41 balls.",
+      "live_score": "IND 158/7 (20 ov) & ENG 152/1 (13.2 ov) \u2014 England need 7 runs in 40 balls.",
+      "live_batting": "Phil Salt 54*(40), Harry Brook 78*(34)",
+      "live_bowling": "Arshdeep Singh 1/34 (3.2), Prasidh Krishna 0/26 (3), Prince Yadav 0/28 (3)",
+      "live_moment": "England need 7 runs in 40 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-09T12:25:25+05:30"
+      "updated_at": "2026-07-09T12:26:26+05:30"
     }
   },
-  "updated_at": "2026-07-09T12:25:25+05:30"
+  "updated_at": "2026-07-09T12:26:26+05:30"
 }
