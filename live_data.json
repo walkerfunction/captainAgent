@@ -10,13 +10,13 @@
         "venue": "County Ground, Bristol",
         "status": "live"
       },
-      "live_score": "IND 50/3 (7 ov) \u2014 India chose to bat.",
-      "live_batting": "Shreyas Iyer 13*(11), Shivam Dube 1*(1)",
-      "live_bowling": "Jofra Archer 1/9 (2), Josh Tongue 1/20 (2), Will Jacks 0/8 (1)",
+      "live_score": "IND 51/3 (7.1 ov) \u2014 India chose to bat.",
+      "live_batting": "Shreyas Iyer 13*(12), Shivam Dube 1*(1)",
+      "live_bowling": "Jofra Archer 1/9 (2.1), Josh Tongue 1/20 (2), Will Jacks 0/8 (1)",
       "live_moment": "India chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-09T10:04:43+05:30"
+      "updated_at": "2026-07-09T10:05:45+05:30"
     }
   },
-  "updated_at": "2026-07-09T10:04:43+05:30"
+  "updated_at": "2026-07-09T10:05:45+05:30"
 }
