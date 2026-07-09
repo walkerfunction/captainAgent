@@ -10,13 +10,13 @@
         "venue": "County Ground, Bristol",
         "status": "live"
       },
-      "live_score": "IND 158/7 (20 ov) & ENG 6/0 (1.5 ov) \u2014 England need 153 runs in 109 balls.",
-      "live_batting": "Phil Salt 0*(7), Jos Buttler 1*(4)",
-      "live_bowling": "Arshdeep Singh 0/0 (1), Prasidh Krishna 0/1 (0.5)",
-      "live_moment": "England need 153 runs in 109 balls.",
+      "live_score": "IND 158/7 (20 ov) & ENG 7/0 (2 ov) \u2014 England need 152 runs in 108 balls.",
+      "live_batting": "Phil Salt 0*(7), Jos Buttler 2*(5)",
+      "live_bowling": "Arshdeep Singh 0/0 (1), Prasidh Krishna 0/2 (1)",
+      "live_moment": "England need 152 runs in 108 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-09T11:24:49+05:30"
+      "updated_at": "2026-07-09T11:25:51+05:30"
     }
   },
-  "updated_at": "2026-07-09T11:24:49+05:30"
+  "updated_at": "2026-07-09T11:25:51+05:30"
 }
