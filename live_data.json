@@ -10,13 +10,13 @@
         "venue": "County Ground, Bristol",
         "status": "live"
       },
-      "live_score": "IND 158/7 (20 ov) \u2014 India chose to bat.",
-      "live_batting": "Shreyas Iyer 80*(49)",
-      "live_bowling": "Jofra Archer 2/20 (4), Josh Tongue 2/36 (4), Will Jacks 1/28 (4)",
-      "live_moment": "India chose to bat.",
+      "live_score": "IND 158/7 (20 ov) & ENG 0/0 (0.1 ov) \u2014 England need 159 runs in 119 balls.",
+      "live_batting": "Phil Salt 0*(1)",
+      "live_bowling": "Arshdeep Singh 0/0 (0.1)",
+      "live_moment": "England need 159 runs in 119 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-09T11:15:35+05:30"
+      "updated_at": "2026-07-09T11:16:37+05:30"
     }
   },
-  "updated_at": "2026-07-09T11:15:35+05:30"
+  "updated_at": "2026-07-09T11:16:37+05:30"
 }
