@@ -1,22 +1,22 @@
 {
   "matches": {
-    "England_vs_India_2026-07-09": {
+    "England Women_vs_India Women_2026-07-10": {
       "match": {
-        "name": "4th T20I",
+        "name": "Only Test",
         "teams": [
-          "India",
-          "England"
+          "India Women",
+          "England Women"
         ],
-        "venue": "County Ground, Bristol",
+        "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND 158/7 (20 ov) & ENG 159/1 (13.5 ov) \u2014 Match Over",
-      "live_batting": "Phil Salt 59*(42), Harry Brook 79*(35)",
-      "live_bowling": "Arshdeep Singh 1/41 (3.5), Prasidh Krishna 0/26 (3), Prince Yadav 0/28 (3)",
-      "live_moment": "Match Over",
+      "live_score": "IND-W 0/0 (0.1 ov) \u2014 Day 1 - Session 1: ENG Women chose to field.",
+      "live_batting": "Smriti Mandhana 0*(1)",
+      "live_bowling": "Lauren Bell 0/0 (0.1)",
+      "live_moment": "Day 1 - Session 1: ENG Women chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-09T12:29:31+05:30"
+      "updated_at": "2026-07-10T03:04:20+05:30"
     }
   },
-  "updated_at": "2026-07-09T12:29:31+05:30"
+  "updated_at": "2026-07-10T03:04:20+05:30"
 }
