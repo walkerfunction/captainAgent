@@ -10,12 +10,12 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 30/0 (6 ov) \u2014 Day 2 - Session 2: IND Women lead by 145 runs.",
-      "live_batting": "Smriti Mandhana 10*(18), Shafali Verma 14*(18)",
-      "live_bowling": "Lauren Bell 0/6 (3), Lauren Filer 0/9 (2), Sophie Ecclestone 0/9 (1)",
-      "live_moment": "Day 2 - Session 2: IND Women lead by 145 runs.",
+      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 30/0 (6.1 ov) \u2014 Day 2 - Session 3: IND Women lead by 145 runs.",
+      "live_batting": "Smriti Mandhana 10*(19), Shafali Verma 14*(18)",
+      "live_bowling": "Lauren Bell 0/6 (3.1), Lauren Filer 0/9 (2), Sophie Ecclestone 0/9 (1)",
+      "live_moment": "Day 2 - Session 3: IND Women lead by 145 runs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T08:00:31+05:30"
+      "updated_at": "2026-07-11T08:01:33+05:30"
     },
     "England_vs_India_2026-07-11": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "The Rose Bowl, Southampton",
         "status": "live"
       },
-      "live_score": "ENG 132/1 (12 ov) \u2014 India chose to field.",
-      "live_batting": "Jos Buttler 64*(41), Harry Brook 53*(22)",
-      "live_bowling": "Arshdeep Singh 0/26 (3), Prasidh Krishna 1/18 (2), Prince Yadav 0/29 (2)",
+      "live_score": "ENG 134/1 (12.1 ov) \u2014 India chose to field.",
+      "live_batting": "Jos Buttler 64*(41), Harry Brook 55*(23)",
+      "live_bowling": "Arshdeep Singh 0/26 (3), Prasidh Krishna 1/20 (2.1), Prince Yadav 0/29 (2)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T08:00:31+05:30"
+      "updated_at": "2026-07-11T08:01:33+05:30"
     }
   },
-  "updated_at": "2026-07-11T08:00:31+05:30"
+  "updated_at": "2026-07-11T08:01:33+05:30"
 }
