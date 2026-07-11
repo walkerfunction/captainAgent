@@ -10,12 +10,12 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 100/1 (25.3 ov) \u2014 Day 2 - Session 3: IND Women lead by 215 runs.",
-      "live_batting": "Smriti Mandhana 48*(79), Yastika Bhatia 7*(19)",
-      "live_bowling": "Lauren Bell 0/14 (9), Lauren Filer 0/20 (4), Sophie Ecclestone 1/23 (5)",
-      "live_moment": "Day 2 - Session 3: IND Women lead by 215 runs.",
+      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 101/1 (25.5 ov) \u2014 Day 2 - Session 3: IND Women lead by 216 runs.",
+      "live_batting": "Smriti Mandhana 48*(81), Yastika Bhatia 7*(19)",
+      "live_bowling": "Lauren Bell 0/14 (9), Lauren Filer 0/19 (4), Sophie Ecclestone 1/23 (5)",
+      "live_moment": "Day 2 - Session 3: IND Women lead by 216 runs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T09:28:46+05:30"
+      "updated_at": "2026-07-11T09:29:49+05:30"
     },
     "England_vs_India_2026-07-11": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "The Rose Bowl, Southampton",
         "status": "live"
       },
-      "live_score": "ENG 257/3 (20 ov) & IND 59/2 (5.3 ov) \u2014 India need 199 runs in 87 balls.",
-      "live_batting": "Ishan Kishan 25*(12), Shreyas Iyer 4*(2)",
+      "live_score": "ENG 257/3 (20 ov) & IND 64/2 (5.5 ov) \u2014 India need 194 runs in 85 balls.",
+      "live_batting": "Ishan Kishan 25*(12), Shreyas Iyer 9*(4)",
       "live_bowling": "Jofra Archer 1/20 (2), Josh Tongue 0/25 (2), Will Jacks 0/10 (1)",
-      "live_moment": "India need 199 runs in 87 balls.",
+      "live_moment": "India need 194 runs in 85 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T09:28:46+05:30"
+      "updated_at": "2026-07-11T09:29:49+05:30"
     }
   },
-  "updated_at": "2026-07-11T09:28:46+05:30"
+  "updated_at": "2026-07-11T09:29:49+05:30"
 }
