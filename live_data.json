@@ -10,13 +10,30 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 168/9 (58.1 ov) \u2014 Day 2 - Session 2: ENG Women trail by 117 runs.",
-      "live_batting": "Issy Wong 5*(28), Lauren Filer 0*(10)",
-      "live_bowling": "Sayali Satghare 2/40 (13), Kranti Gaud 5/37 (17), Sneh Rana 2/39 (13.1)",
-      "live_moment": "Day 2 - Session 2: ENG Women trail by 117 runs.",
+      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/9 (58.5 ov) \u2014 Day 2 - Session 2: ENG Women trail by 115 runs.",
+      "live_batting": "Issy Wong 7*(32), Lauren Filer 0*(10)",
+      "live_bowling": "Sayali Satghare 2/40 (13), Kranti Gaud 5/37 (17), Sneh Rana 2/41 (13.5)",
+      "live_moment": "Day 2 - Session 2: ENG Women trail by 115 runs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T07:00:12+05:30"
+      "updated_at": "2026-07-11T07:01:16+05:30"
+    },
+    "England_vs_India_2026-07-11": {
+      "match": {
+        "name": "5th T20I",
+        "teams": [
+          "England",
+          "India"
+        ],
+        "venue": "The Rose Bowl, Southampton",
+        "status": "live"
+      },
+      "live_score": "ENG 0/0 (0.1 ov) \u2014 India chose to field.",
+      "live_batting": "Phil Salt 0*(1)",
+      "live_bowling": "Arshdeep Singh 0/0 (0.1)",
+      "live_moment": "India chose to field.",
+      "gemma_observations": [],
+      "updated_at": "2026-07-11T07:01:16+05:30"
     }
   },
-  "updated_at": "2026-07-11T07:00:12+05:30"
+  "updated_at": "2026-07-11T07:01:16+05:30"
 }
