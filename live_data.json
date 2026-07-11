@@ -10,12 +10,12 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 73/0 (17.5 ov) \u2014 Day 2 - Session 3: IND Women lead by 188 runs.",
-      "live_batting": "Smriti Mandhana 29*(57), Shafali Verma 32*(50)",
-      "live_bowling": "Lauren Bell 0/14 (9), Lauren Filer 0/15 (2.5), Sophie Ecclestone 0/9 (1)",
+      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 73/0 (18 ov) \u2014 Day 2 - Session 3: IND Women lead by 188 runs.",
+      "live_batting": "Smriti Mandhana 29*(57), Shafali Verma 32*(51)",
+      "live_bowling": "Lauren Bell 0/14 (9), Lauren Filer 0/15 (3), Sophie Ecclestone 0/9 (1)",
       "live_moment": "Day 2 - Session 3: IND Women lead by 188 runs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T08:56:32+05:30"
+      "updated_at": "2026-07-11T08:57:34+05:30"
     },
     "England_vs_India_2026-07-11": {
       "match": {
@@ -32,8 +32,8 @@
       "live_bowling": "Arshdeep Singh 0/33 (4), Prasidh Krishna 1/38 (4), Prince Yadav 0/60 (4)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T08:56:32+05:30"
+      "updated_at": "2026-07-11T08:57:34+05:30"
     }
   },
-  "updated_at": "2026-07-11T08:56:32+05:30"
+  "updated_at": "2026-07-11T08:57:34+05:30"
 }
