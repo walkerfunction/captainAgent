@@ -10,12 +10,12 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 148/1 (39.3 ov) \u2014 Day 2 - Session 3: IND Women lead by 263 runs.",
-      "live_batting": "Smriti Mandhana 67*(114), Yastika Bhatia 35*(68)",
-      "live_bowling": "Lauren Bell 0/15 (10), Lauren Filer 0/19 (4), Sophie Ecclestone 1/41 (10.3)",
-      "live_moment": "Day 2 - Session 3: IND Women lead by 263 runs.",
+      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 149/1 (39.5 ov) \u2014 Day 2 - Session 3: IND Women lead by 264 runs.",
+      "live_batting": "Smriti Mandhana 68*(115), Yastika Bhatia 35*(69)",
+      "live_bowling": "Lauren Bell 0/15 (10), Lauren Filer 0/19 (4), Sophie Ecclestone 1/42 (10.5)",
+      "live_moment": "Day 2 - Session 3: IND Women lead by 264 runs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T10:22:51+05:30"
+      "updated_at": "2026-07-11T10:23:54+05:30"
     },
     "England_vs_India_2026-07-11": {
       "match": {
@@ -27,13 +27,13 @@
         "venue": "The Rose Bowl, Southampton",
         "status": "live"
       },
-      "live_score": "ENG 257/3 (20 ov) & IND 170/5 (16.4 ov) \u2014 India need 88 runs in 20 balls.",
-      "live_batting": "Tilak Varma 37*(17), Suryansh Shedge 2*(3)",
-      "live_bowling": "Jofra Archer 1/38 (3.4), Josh Tongue 0/37 (3), Will Jacks 0/32 (3)",
-      "live_moment": "India need 88 runs in 20 balls.",
+      "live_score": "ENG 257/3 (20 ov) & IND 172/5 (16.5 ov) \u2014 India need 86 runs in 19 balls.",
+      "live_batting": "Tilak Varma 39*(18), Suryansh Shedge 2*(3)",
+      "live_bowling": "Jofra Archer 1/40 (3.5), Josh Tongue 0/37 (3), Will Jacks 0/32 (3)",
+      "live_moment": "India need 86 runs in 19 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-11T10:22:51+05:30"
+      "updated_at": "2026-07-11T10:23:54+05:30"
     }
   },
-  "updated_at": "2026-07-11T10:22:51+05:30"
+  "updated_at": "2026-07-11T10:23:54+05:30"
 }
