@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 315/7 (80.4 ov) \u2014 Day 3 - Session 2: IND Women lead by 430 runs.",
-      "live_batting": "Richa Ghosh 40*(39), Sayali Satghare 2*(9)",
-      "live_bowling": "Lauren Bell 2/27 (16), Lauren Filer 0/42 (9), Sophie Ecclestone 5/111 (30.4)",
+      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 315/7 (81 ov) \u2014 Day 3 - Session 2: IND Women lead by 430 runs.",
+      "live_batting": "Richa Ghosh 40*(39), Sayali Satghare 2*(11)",
+      "live_bowling": "Lauren Bell 2/27 (16), Lauren Filer 0/42 (9), Sophie Ecclestone 5/111 (31)",
       "live_moment": "Day 3 - Session 2: IND Women lead by 430 runs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-12T06:47:16+05:30"
+      "updated_at": "2026-07-12T06:48:17+05:30"
     }
   },
-  "updated_at": "2026-07-12T06:47:16+05:30"
+  "updated_at": "2026-07-12T06:48:17+05:30"
 }
