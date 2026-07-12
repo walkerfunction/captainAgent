@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 212/4 (55.5 ov) \u2014 Day 3 - Session 1: IND Women lead by 327 runs.",
-      "live_batting": "Yastika Bhatia 64*(104)",
-      "live_bowling": "Lauren Bell 2/27 (16), Lauren Filer 0/26 (6), Sophie Ecclestone 2/73 (18.5)",
+      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 212/4 (56 ov) \u2014 Day 3 - Session 1: IND Women lead by 327 runs.",
+      "live_batting": "Yastika Bhatia 64*(104), Deepti Sharma 0*(1)",
+      "live_bowling": "Lauren Bell 2/27 (16), Lauren Filer 0/26 (6), Sophie Ecclestone 2/73 (19)",
       "live_moment": "Day 3 - Session 1: IND Women lead by 327 runs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-12T04:12:29+05:30"
+      "updated_at": "2026-07-12T04:13:30+05:30"
     }
   },
-  "updated_at": "2026-07-12T04:12:29+05:30"
+  "updated_at": "2026-07-12T04:13:30+05:30"
 }
