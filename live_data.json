@@ -1,22 +1,22 @@
 {
   "matches": {
-    "England Women_vs_India Women_2026-07-10": {
+    "England_vs_India_2026-07-16": {
       "match": {
-        "name": "Only Test",
+        "name": "2nd ODI",
         "teams": [
-          "India Women",
-          "England Women"
+          "India",
+          "England"
         ],
-        "venue": "Lord's, London",
+        "venue": "Sophia Gardens, Cardiff",
         "status": "live"
       },
-      "live_score": "IND-W 285/10 (74.5 ov) & ENG-W 170/10 (59.1 ov) & IND-W 341/7 (86.3 ov) & ENG-W 186/9 (62.4 ov) \u2014 Day 4 - Session 1: ENG Women need 271 runs.",
-      "live_batting": "Sophie Ecclestone 50*(65), Lauren Filer 4*(22)",
-      "live_bowling": "Sayali Satghare 2/24 (10), Kranti Gaud 2/54 (11), Sneh Rana 3/42 (19.4)",
-      "live_moment": "Day 4 - Session 1: ENG Women need 271 runs.",
+      "live_score": "IND 2/0 (0.2 ov) \u2014 England chose to field.",
+      "live_batting": "Rohit Sharma 1*(1), Shubman Gill 0*(1)",
+      "live_bowling": "Jofra Archer 0/2 (0.2)",
+      "live_moment": "England chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-13T04:35:04+05:30"
+      "updated_at": "2026-07-16T05:02:54+05:30"
     }
   },
-  "updated_at": "2026-07-13T04:35:04+05:30"
+  "updated_at": "2026-07-16T05:02:54+05:30"
 }
