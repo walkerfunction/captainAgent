@@ -10,13 +10,13 @@
         "venue": "Sophia Gardens, Cardiff",
         "status": "live"
       },
-      "live_score": "IND 17/0 (2.6 ov) \u2014 England chose to field.",
-      "live_batting": "Rohit Sharma 9*(10), Shubman Gill 6*(8)",
-      "live_bowling": "Jofra Archer 0/8 (1.6), Saqib Mahmood 0/8 (1)",
+      "live_score": "IND 17/0 (3.1 ov) \u2014 England chose to field.",
+      "live_batting": "Rohit Sharma 9*(10), Shubman Gill 6*(9)",
+      "live_bowling": "Jofra Archer 0/8 (2), Saqib Mahmood 0/8 (1.1)",
       "live_moment": "England chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-16T05:15:16+05:30"
+      "updated_at": "2026-07-16T05:16:18+05:30"
     }
   },
-  "updated_at": "2026-07-16T05:15:16+05:30"
+  "updated_at": "2026-07-16T05:16:18+05:30"
 }
