@@ -10,13 +10,13 @@
         "venue": "Sophia Gardens, Cardiff",
         "status": "live"
       },
-      "live_score": "IND 193/5 (35.3 ov) \u2014 England chose to field.",
-      "live_batting": "Shreyas Iyer 54*(53), Axar Patel 1*(4)",
-      "live_bowling": "Jofra Archer 1/35 (7.3), Saqib Mahmood 1/29 (5), Gus Atkinson 1/45 (7)",
+      "live_score": "IND 193/6 (35.4 ov) \u2014 England chose to field.",
+      "live_batting": "Shreyas Iyer 54*(53)",
+      "live_bowling": "Jofra Archer 2/35 (7.4), Saqib Mahmood 1/29 (5), Gus Atkinson 1/45 (7)",
       "live_moment": "England chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-16T07:49:21+05:30"
+      "updated_at": "2026-07-16T07:50:23+05:30"
     }
   },
-  "updated_at": "2026-07-16T07:49:21+05:30"
+  "updated_at": "2026-07-16T07:50:23+05:30"
 }
