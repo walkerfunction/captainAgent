@@ -10,13 +10,13 @@
         "venue": "Sophia Gardens, Cardiff",
         "status": "live"
       },
-      "live_score": "IND 233/9 (43.4 ov) \u2014 England chose to field.",
-      "live_batting": "Jasprit Bumrah 20*(13), Prasidh Krishna 0*(1)",
-      "live_bowling": "Jofra Archer 3/47 (10), Saqib Mahmood 2/52 (9), Gus Atkinson 2/50 (8.4)",
+      "live_score": "IND 233/10 (43.6 ov) \u2014 England chose to field.",
+      "live_batting": "Jasprit Bumrah 20*(13)",
+      "live_bowling": "Jofra Archer 3/47 (10), Saqib Mahmood 2/52 (9), Gus Atkinson 3/50 (8.6)",
       "live_moment": "England chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-16T08:36:36+05:30"
+      "updated_at": "2026-07-16T08:37:38+05:30"
     }
   },
-  "updated_at": "2026-07-16T08:36:36+05:30"
+  "updated_at": "2026-07-16T08:37:38+05:30"
 }
