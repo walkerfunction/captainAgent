@@ -10,13 +10,13 @@
         "venue": "Sophia Gardens, Cardiff",
         "status": "live"
       },
-      "live_score": "IND 233/10 (44 ov) & ENG 201/6 (40.5 ov) \u2014 England need 33 runs in 55 balls.",
-      "live_batting": "Joe Root 90*(126), Gus Atkinson 2*(3)",
-      "live_bowling": "Jasprit Bumrah 1/37 (8.5), Prasidh Krishna 1/47 (9), Gurnoor Brar 2/47 (8)",
-      "live_moment": "England need 33 runs in 55 balls.",
+      "live_score": "IND 233/10 (44 ov) & ENG 202/6 (41 ov) \u2014 England need 32 runs in 54 balls.",
+      "live_batting": "Joe Root 91*(127), Gus Atkinson 2*(3)",
+      "live_bowling": "Jasprit Bumrah 1/38 (9), Prasidh Krishna 1/47 (9), Gurnoor Brar 2/47 (8)",
+      "live_moment": "England need 32 runs in 54 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-16T12:28:36+05:30"
+      "updated_at": "2026-07-16T12:29:37+05:30"
     }
   },
-  "updated_at": "2026-07-16T12:28:36+05:30"
+  "updated_at": "2026-07-16T12:29:37+05:30"
 }
