@@ -10,13 +10,13 @@
         "venue": "Sophia Gardens, Cardiff",
         "status": "live"
       },
-      "live_score": "IND 233/10 (44 ov) & ENG 66/3 (13.4 ov) \u2014 England need 168 runs from 36.2 overs.",
-      "live_batting": "Joe Root 30*(46), Sam Curran 9*(12)",
-      "live_bowling": "Jasprit Bumrah 1/25 (5.4), Prasidh Krishna 1/30 (5), Gurnoor Brar 1/10 (3)",
-      "live_moment": "England need 168 runs from 36.2 overs.",
+      "live_score": "IND 233/10 (44 ov) & ENG 66/3 (13.6 ov) \u2014 England need 168 runs from 36 overs.",
+      "live_batting": "Joe Root 30*(46), Sam Curran 9*(14)",
+      "live_bowling": "Jasprit Bumrah 1/25 (5.6), Prasidh Krishna 1/30 (5), Gurnoor Brar 1/10 (3)",
+      "live_moment": "England need 168 runs from 36 overs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-16T10:26:32+05:30"
+      "updated_at": "2026-07-16T10:27:34+05:30"
     }
   },
-  "updated_at": "2026-07-16T10:26:32+05:30"
+  "updated_at": "2026-07-16T10:27:34+05:30"
 }
