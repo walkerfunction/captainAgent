@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "ENG 387/3 (50 ov) & IND 347/7 (49 ov) \u2014 India need 41 runs in 6 balls.",
-      "live_batting": "Gurnoor Brar 9*(9), Arshdeep Singh 11*(5)",
+      "live_score": "ENG 387/3 (50 ov) & IND 353/7 (49.2 ov) \u2014 India need 35 runs in 4 balls.",
+      "live_batting": "Gurnoor Brar 9*(9), Arshdeep Singh 17*(7)",
       "live_bowling": "Jofra Archer 1/62 (10), Gus Atkinson 0/24 (6), Josh Tongue 0/43 (5)",
-      "live_moment": "India need 41 runs in 6 balls.",
+      "live_moment": "India need 35 runs in 4 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-19T11:16:22+05:30"
+      "updated_at": "2026-07-19T11:17:23+05:30"
     }
   },
-  "updated_at": "2026-07-19T11:16:22+05:30"
+  "updated_at": "2026-07-19T11:17:23+05:30"
 }
