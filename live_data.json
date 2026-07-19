@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "ENG 387/3 (50 ov) & IND 227/1 (34 ov) \u2014 India need 161 runs in 96 balls.",
-      "live_batting": "Rohit Sharma 117*(98), Virat Kohli 26*(22)",
+      "live_score": "ENG 387/3 (50 ov) & IND 227/1 (34.1 ov) \u2014 India need 161 runs in 95 balls.",
+      "live_batting": "Rohit Sharma 117*(98), Virat Kohli 26*(23)",
       "live_bowling": "Jofra Archer 0/45 (8), Gus Atkinson 0/24 (6), Josh Tongue 0/43 (5)",
-      "live_moment": "India need 161 runs in 96 balls.",
+      "live_moment": "India need 161 runs in 95 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-19T10:02:35+05:30"
+      "updated_at": "2026-07-19T10:03:37+05:30"
     }
   },
-  "updated_at": "2026-07-19T10:02:35+05:30"
+  "updated_at": "2026-07-19T10:03:37+05:30"
 }
