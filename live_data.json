@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "ENG 387/3 (50 ov) & IND 65/0 (12 ov) \u2014 India need 323 runs from 38 overs.",
-      "live_batting": "Rohit Sharma 34*(31), Shubman Gill 31*(41)",
+      "live_score": "ENG 387/3 (50 ov) & IND 66/0 (12.1 ov) \u2014 India need 322 runs from 37.5 overs.",
+      "live_batting": "Rohit Sharma 34*(31), Shubman Gill 32*(42)",
       "live_bowling": "Jofra Archer 0/24 (5), Gus Atkinson 0/11 (3), Josh Tongue 0/19 (3)",
-      "live_moment": "India need 323 runs from 38 overs.",
+      "live_moment": "India need 322 runs from 37.5 overs.",
       "gemma_observations": [],
-      "updated_at": "2026-07-19T08:21:12+05:30"
+      "updated_at": "2026-07-19T08:22:13+05:30"
     }
   },
-  "updated_at": "2026-07-19T08:21:12+05:30"
+  "updated_at": "2026-07-19T08:22:13+05:30"
 }
