@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "ENG 301/2 (44.1 ov) \u2014 England chose to bat.",
-      "live_batting": "Joe Root 44*(35), Harry Brook 3*(2)",
-      "live_bowling": "Arshdeep Singh 0/69 (9.1), Prasidh Krishna 1/36 (8), Prince Yadav 1/63 (9)",
+      "live_score": "ENG 302/2 (44.3 ov) \u2014 England chose to bat.",
+      "live_batting": "Joe Root 44*(36), Harry Brook 3*(3)",
+      "live_bowling": "Arshdeep Singh 0/69 (9.3), Prasidh Krishna 1/36 (8), Prince Yadav 1/63 (9)",
       "live_moment": "England chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-19T06:26:26+05:30"
+      "updated_at": "2026-07-19T06:27:28+05:30"
     }
   },
-  "updated_at": "2026-07-19T06:26:26+05:30"
+  "updated_at": "2026-07-19T06:27:28+05:30"
 }
