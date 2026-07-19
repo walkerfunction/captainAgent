@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "ENG 227/1 (36.1 ov) \u2014 England chose to bat.",
-      "live_batting": "Ben Duckett 102*(109), Joe Root 14*(15)",
+      "live_score": "ENG 229/1 (36.4 ov) \u2014 England chose to bat.",
+      "live_batting": "Ben Duckett 103*(111), Joe Root 15*(16)",
       "live_bowling": "Arshdeep Singh 0/45 (7), Prasidh Krishna 1/36 (8), Prince Yadav 0/50 (7)",
       "live_moment": "England chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-19T05:49:34+05:30"
+      "updated_at": "2026-07-19T05:50:36+05:30"
     }
   },
-  "updated_at": "2026-07-19T05:49:34+05:30"
+  "updated_at": "2026-07-19T05:50:36+05:30"
 }
