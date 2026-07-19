@@ -10,13 +10,13 @@
         "venue": "Lord's, London",
         "status": "live"
       },
-      "live_score": "ENG 192/0 (29.5 ov) \u2014 England chose to bat.",
-      "live_batting": "Ben Duckett 81*(87), Jacob Bethell 91*(92)",
-      "live_bowling": "Arshdeep Singh 0/36 (6), Prasidh Krishna 0/31 (6), Prince Yadav 0/50 (6.5)",
+      "live_score": "ENG 192/0 (30 ov) \u2014 England chose to bat.",
+      "live_batting": "Ben Duckett 81*(88), Jacob Bethell 91*(92)",
+      "live_bowling": "Arshdeep Singh 0/36 (6), Prasidh Krishna 0/31 (6), Prince Yadav 0/50 (7)",
       "live_moment": "England chose to bat.",
       "gemma_observations": [],
-      "updated_at": "2026-07-19T05:16:47+05:30"
+      "updated_at": "2026-07-19T05:17:49+05:30"
     }
   },
-  "updated_at": "2026-07-19T05:16:47+05:30"
+  "updated_at": "2026-07-19T05:17:49+05:30"
 }
