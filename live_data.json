@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "ZIM 125/7 (20 ov) & IND 72/2 (6.5 ov) \u2014 India need 54 runs in 79 balls.",
-      "live_batting": "Ishan Kishan 16*(11), Shreyas Iyer 4*(3)",
-      "live_bowling": "Blessing Muzarabani 1/20 (3), Richard Ngarava 1/26 (1.5), Brad Evans 0/12 (1)",
-      "live_moment": "India need 54 runs in 79 balls.",
+      "live_score": "ZIM 125/7 (20 ov) & IND 73/2 (7 ov) \u2014 India need 53 runs in 78 balls.",
+      "live_batting": "Ishan Kishan 16*(11), Shreyas Iyer 5*(4)",
+      "live_bowling": "Blessing Muzarabani 1/20 (3), Richard Ngarava 1/27 (2), Brad Evans 0/12 (1)",
+      "live_moment": "India need 53 runs in 78 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-23T06:43:03+05:30"
+      "updated_at": "2026-07-23T06:44:05+05:30"
     }
   },
-  "updated_at": "2026-07-23T06:43:03+05:30"
+  "updated_at": "2026-07-23T06:44:05+05:30"
 }
