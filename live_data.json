@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "ZIM 20/2 (3.2 ov) \u2014 India chose to field.",
-      "live_batting": "Dion Myers 6*(12)",
-      "live_bowling": "Mayank Yadav 1/9 (2), Ashok Sharma 0/10 (1), Prince Yadav 1/1 (0.2)",
+      "live_score": "ZIM 20/2 (3.4 ov) \u2014 India chose to field.",
+      "live_batting": "Dion Myers 6*(12), Sikandar Raza 0*(2)",
+      "live_bowling": "Mayank Yadav 1/9 (2), Ashok Sharma 0/10 (1), Prince Yadav 1/1 (0.4)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-23T04:23:07+05:30"
+      "updated_at": "2026-07-23T04:24:10+05:30"
     }
   },
-  "updated_at": "2026-07-23T04:23:07+05:30"
+  "updated_at": "2026-07-23T04:24:10+05:30"
 }
