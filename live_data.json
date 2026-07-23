@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "ZIM 125/7 (20 ov) & IND 40/1 (4.3 ov) \u2014 India need 86 runs in 93 balls.",
-      "live_batting": "Vaibhav Sooryavanshi 36*(14), Ishan Kishan 2*(5)",
-      "live_bowling": "Blessing Muzarabani 1/8 (2.3), Richard Ngarava 0/20 (1), Brad Evans 0/12 (1)",
-      "live_moment": "India need 86 runs in 93 balls.",
+      "live_score": "ZIM 125/7 (20 ov) & IND 42/1 (4.4 ov) \u2014 India need 84 runs in 92 balls.",
+      "live_batting": "Vaibhav Sooryavanshi 38*(15), Ishan Kishan 2*(5)",
+      "live_bowling": "Blessing Muzarabani 1/10 (2.4), Richard Ngarava 0/20 (1), Brad Evans 0/12 (1)",
+      "live_moment": "India need 84 runs in 92 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-23T06:29:40+05:30"
+      "updated_at": "2026-07-23T06:30:42+05:30"
     }
   },
-  "updated_at": "2026-07-23T06:29:40+05:30"
+  "updated_at": "2026-07-23T06:30:42+05:30"
 }
