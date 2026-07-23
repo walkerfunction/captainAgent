@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "ZIM 122/7 (19.3 ov) \u2014 India chose to field.",
-      "live_batting": "Tadiwanashe Marumani 25*(18)",
-      "live_bowling": "Mayank Yadav 2/18 (4), Ashok Sharma 0/29 (4), Prince Yadav 2/16 (3.3)",
+      "live_score": "ZIM 123/7 (19.5 ov) \u2014 India chose to field.",
+      "live_batting": "Tadiwanashe Marumani 25*(19), Newman Nyamhuri 1*(1)",
+      "live_bowling": "Mayank Yadav 2/18 (4), Ashok Sharma 0/29 (4), Prince Yadav 2/17 (3.5)",
       "live_moment": "India chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-23T05:45:26+05:30"
+      "updated_at": "2026-07-23T05:46:27+05:30"
     }
   },
-  "updated_at": "2026-07-23T05:45:26+05:30"
+  "updated_at": "2026-07-23T05:46:27+05:30"
 }
