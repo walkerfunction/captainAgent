@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "IND 5/0 (0.3 ov) \u2014 Zimbabwe chose to field.",
-      "live_batting": "Vaibhav Sooryavanshi 1*(1), Abhishek Sharma 4*(2)",
-      "live_bowling": "Sikandar Raza 0/5 (0.3)",
+      "live_score": "IND 9/0 (0.6 ov) \u2014 Zimbabwe chose to field.",
+      "live_batting": "Vaibhav Sooryavanshi 1*(1), Abhishek Sharma 8*(5)",
+      "live_bowling": "Sikandar Raza 0/9 (0.6)",
       "live_moment": "Zimbabwe chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-25T04:02:11+05:30"
+      "updated_at": "2026-07-25T04:03:13+05:30"
     }
   },
-  "updated_at": "2026-07-25T04:02:11+05:30"
+  "updated_at": "2026-07-25T04:03:13+05:30"
 }
