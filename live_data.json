@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "IND 29/2 (3 ov) \u2014 Zimbabwe chose to field.",
-      "live_batting": "Ishan Kishan 0*(1)",
-      "live_bowling": "Sikandar Raza 0/9 (1), Blessing Muzarabani 1/1 (1), Richard Ngarava 1/19 (1)",
+      "live_score": "IND 30/2 (3.2 ov) \u2014 Zimbabwe chose to field.",
+      "live_batting": "Ishan Kishan 1*(2), Shreyas Iyer 0*(1)",
+      "live_bowling": "Sikandar Raza 0/9 (1), Blessing Muzarabani 1/2 (1.2), Richard Ngarava 1/19 (1)",
       "live_moment": "Zimbabwe chose to field.",
       "gemma_observations": [],
-      "updated_at": "2026-07-25T04:15:32+05:30"
+      "updated_at": "2026-07-25T04:16:34+05:30"
     }
   },
-  "updated_at": "2026-07-25T04:15:32+05:30"
+  "updated_at": "2026-07-25T04:16:34+05:30"
 }
