@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "IND 219/5 (20 ov) & ZIM 119/8 (15.2 ov) \u2014 Zimbabwe need 101 runs in 28 balls.",
-      "live_batting": "Tadiwanashe Marumani 24*(18)",
+      "live_score": "IND 219/5 (20 ov) & ZIM 119/8 (15.3 ov) \u2014 Zimbabwe need 101 runs in 27 balls.",
+      "live_batting": "Tadiwanashe Marumani 24*(18), Richard Ngarava 0*(1)",
       "live_bowling": "Mayank Yadav 0/25 (3), Yash Thakur 1/29 (3), Prince Yadav 2/10 (1.2)",
-      "live_moment": "Zimbabwe need 101 runs in 28 balls.",
+      "live_moment": "Zimbabwe need 101 runs in 27 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-25T07:18:10+05:30"
+      "updated_at": "2026-07-25T07:19:12+05:30"
     }
   },
-  "updated_at": "2026-07-25T07:18:10+05:30"
+  "updated_at": "2026-07-25T07:19:12+05:30"
 }
