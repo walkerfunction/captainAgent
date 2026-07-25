@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "IND 219/5 (20 ov) & ZIM 121/9 (16.2 ov) \u2014 Zimbabwe need 99 runs in 22 balls.",
-      "live_batting": "Richard Ngarava 0*(4), Blessing Muzarabani 0*(1)",
-      "live_bowling": "Mayank Yadav 0/25 (3), Yash Thakur 2/29 (3.2), Prince Yadav 2/10 (1.2)",
-      "live_moment": "Zimbabwe need 99 runs in 22 balls.",
+      "live_score": "IND 219/5 (20 ov) & ZIM 121/9 (16.3 ov) \u2014 Zimbabwe need 99 runs in 21 balls.",
+      "live_batting": "Richard Ngarava 0*(4), Blessing Muzarabani 0*(2)",
+      "live_bowling": "Mayank Yadav 0/25 (3), Yash Thakur 2/29 (3.3), Prince Yadav 2/10 (1.2)",
+      "live_moment": "Zimbabwe need 99 runs in 21 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-25T07:22:17+05:30"
+      "updated_at": "2026-07-25T07:23:18+05:30"
     }
   },
-  "updated_at": "2026-07-25T07:22:17+05:30"
+  "updated_at": "2026-07-25T07:23:18+05:30"
 }
