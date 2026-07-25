@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "IND 219/5 (20 ov) & ZIM 49/4 (6.2 ov) \u2014 Zimbabwe need 171 runs in 82 balls.",
-      "live_batting": "Ryan Burl 2*(2)",
+      "live_score": "IND 219/5 (20 ov) & ZIM 54/4 (6.4 ov) \u2014 Zimbabwe need 166 runs in 80 balls.",
+      "live_batting": "Ryan Burl 6*(3), Wessly Madhevere 1*(1)",
       "live_bowling": "Mayank Yadav 0/17 (2), Yash Thakur 1/17 (2), Prince Yadav 2/10 (1.2)",
-      "live_moment": "Zimbabwe need 171 runs in 82 balls.",
+      "live_moment": "Zimbabwe need 166 runs in 80 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-25T06:34:01+05:30"
+      "updated_at": "2026-07-25T06:35:02+05:30"
     }
   },
-  "updated_at": "2026-07-25T06:34:01+05:30"
+  "updated_at": "2026-07-25T06:35:02+05:30"
 }
