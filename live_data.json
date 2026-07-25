@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "IND 219/5 (20 ov) \u2014 Zimbabwe chose to field.",
-      "live_batting": "Tilak Varma 60*(29), Shivam Dube 6*(3)",
-      "live_bowling": "Sikandar Raza 0/47 (4), Blessing Muzarabani 1/36 (4), Richard Ngarava 1/43 (3)",
-      "live_moment": "Zimbabwe chose to field.",
+      "live_score": "IND 219/5 (20 ov) & ZIM 0/0 (0.1 ov) \u2014 Zimbabwe need 220 runs in 119 balls.",
+      "live_batting": "Brian Bennett 0*(1)",
+      "live_bowling": "Mayank Yadav 0/0 (0.1)",
+      "live_moment": "Zimbabwe need 220 runs in 119 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-25T05:58:06+05:30"
+      "updated_at": "2026-07-25T05:59:08+05:30"
     }
   },
-  "updated_at": "2026-07-25T05:58:06+05:30"
+  "updated_at": "2026-07-25T05:59:08+05:30"
 }
