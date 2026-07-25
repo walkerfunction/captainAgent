@@ -10,13 +10,13 @@
         "venue": "Harare Sports Club",
         "status": "live"
       },
-      "live_score": "IND 219/5 (20 ov) & ZIM 23/0 (3 ov) \u2014 Zimbabwe need 197 runs in 102 balls.",
-      "live_batting": "Brian Bennett 22*(14), Ben Curran 1*(4)",
-      "live_bowling": "Mayank Yadav 0/17 (2), Yash Thakur 0/6 (1)",
-      "live_moment": "Zimbabwe need 197 runs in 102 balls.",
+      "live_score": "IND 219/5 (20 ov) & ZIM 29/0 (3.2 ov) \u2014 Zimbabwe need 191 runs in 100 balls.",
+      "live_batting": "Brian Bennett 28*(16), Ben Curran 1*(4)",
+      "live_bowling": "Mayank Yadav 0/17 (2), Yash Thakur 0/12 (1.2)",
+      "live_moment": "Zimbabwe need 191 runs in 100 balls.",
       "gemma_observations": [],
-      "updated_at": "2026-07-25T06:13:29+05:30"
+      "updated_at": "2026-07-25T06:14:31+05:30"
     }
   },
-  "updated_at": "2026-07-25T06:13:29+05:30"
+  "updated_at": "2026-07-25T06:14:31+05:30"
 }
